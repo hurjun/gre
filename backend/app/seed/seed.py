@@ -31,45 +31,13 @@ Usage (from ``backend/``)::
 import argparse
 import json
 import sys
-from pathlib import Path
 
 from sqlalchemy import func, select
 from sqlalchemy.orm import Session
 
 from ..database import Base, SessionLocal, engine
-from ..models import Group, Question, QuestionType, Subgroup, TaskType, WritingPrompt
-
-DATA_DIR = Path(__file__).parent / "data"
-
-
-def _has_korean(text: str) -> bool:
-    return any("가" <= char <= "힣" for char in text)
-
-
-def _validate_question(record: dict, source: str) -> None:
-    choices = record["choices"]
-    answer = record["answer"]
-    errors = []
-    if record["question_type"] not in {t.value for t in QuestionType}:
-        errors.append(f"unknown question_type {record['question_type']!r}")
-    if len(choices) < 2:
-        errors.append("needs at least 2 choices")
-    if not answer:
-        errors.append("empty answer")
-    if any(not isinstance(i, int) or i < 0 or i >= len(choices) for i in answer):
-        errors.append(f"answer indices {answer} out of range for {len(choices)} choices")
-    if len(set(answer)) != len(answer):
-        errors.append("duplicate answer indices")
-    if record["select_count"] != len(answer):
-        errors.append(f"select_count {record['select_count']} != len(answer) {len(answer)}")
-    if (record["question_type"] == QuestionType.MULTI.value) != (len(answer) > 1):
-        errors.append("question_type does not match answer count")
-    if not record["question_text"].strip():
-        errors.append("empty question_text")
-    if not _has_korean(record["explanation_ko"]):
-        errors.append("explanation_ko contains no Korean text")
-    if errors:
-        raise ValueError(f"{source}: {'; '.join(errors)}")
+from ..models import Question, WritingPrompt
+from .validate import DATA_DIR, validate
 
 
 def load_questions(db: Session) -> int:
@@ -77,14 +45,7 @@ def load_questions(db: Session) -> int:
     for path in sorted(DATA_DIR.glob("*_level_*.json")):
         bucket = json.loads(path.read_text(encoding="utf-8"))
         group, subgroup, level = bucket["group"], bucket["subgroup"], bucket["level"]
-        if group not in {g.value for g in Group}:
-            raise ValueError(f"{path.name}: unknown group {group!r}")
-        if subgroup not in {s.value for s in Subgroup}:
-            raise ValueError(f"{path.name}: unknown subgroup {subgroup!r}")
-        if not 1 <= level <= 5:
-            raise ValueError(f"{path.name}: level {level} out of range")
-        for index, record in enumerate(bucket["questions"]):
-            _validate_question(record, f"{path.name}#{index}")
+        for record in bucket["questions"]:
             db.add(
                 Question(
                     group=group,
@@ -108,11 +69,7 @@ def load_writing_prompts(db: Session) -> int:
     if not path.exists():
         return 0
     prompts = json.loads(path.read_text(encoding="utf-8"))["prompts"]
-    for index, record in enumerate(prompts):
-        if record["task_type"] not in {t.value for t in TaskType}:
-            raise ValueError(f"{path.name}#{index}: unknown task_type {record['task_type']!r}")
-        if not record["prompt_text"].strip() or not record["model_answer"].strip():
-            raise ValueError(f"{path.name}#{index}: empty prompt_text or model_answer")
+    for record in prompts:
         db.add(
             WritingPrompt(
                 task_type=record["task_type"],
@@ -132,6 +89,13 @@ def main() -> int:
         help="drop and recreate all tables (erases attempts and essays) before seeding",
     )
     args = parser.parse_args()
+
+    problems = validate()
+    if problems:
+        print(f"Refusing to seed: {len(problems)} validation problem(s):")
+        for problem in problems:
+            print(f"  - {problem}")
+        return 1
 
     if args.force:
         Base.metadata.drop_all(bind=engine)
