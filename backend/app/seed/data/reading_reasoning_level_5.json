@@ -1,0 +1,217 @@
+{
+  "group": "verbal",
+  "subgroup": "reading_reasoning",
+  "level": 5,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "The conventional account holds that the precipitous decline of the great Bronze Age palace economies around 1200 BCE was set in motion by external invaders. More recent scholarship, dissatisfied with this explanation, has emphasized internal fragilities—overcentralized bureaucracies, ecological strain—that supposedly rendered collapse inevitable. Yet to treat these internal accounts as straightforwardly superseding the older one is to mistake a refinement for a refutation. The newer models do not dispense with external shocks; they specify the conditions under which such shocks, ordinarily absorbed, instead cascade. What had been cast as the cause is thus recast as a trigger, efficacious only against a system already primed to fail. The disagreement, properly understood, concerns not whether outsiders mattered but what kind of mattering the evidence will bear.",
+      "question_text": "The author's primary purpose in the passage is to",
+      "choices": [
+        "argue that the theory of external invasion remains the most persuasive explanation of the Bronze Age collapse",
+        "contend that the newer internal explanations have decisively refuted the older account of the collapse",
+        "suggest that the apparent opposition between two explanations dissolves once each is assigned its proper causal role",
+        "demonstrate that ecological strain was the single most important cause of the collapse",
+        "reject the search for causes of the collapse in favor of a purely descriptive history"
+      ],
+      "answer": [2],
+      "explanation_ko": "저자는 외부 침입(external invaders)을 cause(원인)에서 trigger(방아쇠)로 재해석하면서, 두 설명이 사실은 충돌하는 것이 아니라 각자의 인과적 역할을 부여받으면 양립한다고 봅니다. 따라서 '겉보기의 대립이 해소된다'는 3번이 정답입니다. 가장 헷갈리는 2번('새 이론이 옛 설명을 결정적으로 반박했다')은 저자가 명시적으로 'mistake a refinement for a refutation(정교화를 반박으로 오인하는 것)'이라며 부정하므로 틀립니다. 1번처럼 옛 이론을 최선이라 옹호하지도 않습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Hartmann's reconstruction of medieval reading practices is, by any measure, prodigiously learned; few scholars command so vast an archive of marginalia. And yet erudition is not the same as proof. Again and again Hartmann infers, from the mere presence of an annotation, the existence of a settled interpretive community—as though a reader's underlining could only ever register assent, never puzzlement or dissent. The inference is seductive precisely because it is tidy. One closes the book persuaded less of Hartmann's thesis than of the ingenuity with which an insufficient evidentiary base has been made to seem ample.",
+      "question_text": "The author's attitude toward Hartmann's work is best described as",
+      "choices": [
+        "unqualified admiration for its scholarly rigor",
+        "dismissal of it as the product of negligible learning",
+        "appreciation of its erudition coupled with skepticism about its central inference",
+        "agreement with its thesis despite reservations about its prose style",
+        "indifference toward both its methods and its conclusions"
+      ],
+      "answer": [2],
+      "explanation_ko": "저자는 Hartmann의 박식함(erudition, prodigiously learned)을 인정하면서도, 주석 하나만으로 해석 공동체의 존재를 추론(infer)하는 핵심 논증이 부실하다고 비판합니다. 따라서 '학식은 인정하되 핵심 추론은 의심하는' 3번이 정답입니다. 4번이 함정인데, 저자는 'persuaded less of Hartmann's thesis(논지에 별로 설득되지 않았다)'고 했으므로 논지에 동의하지 않습니다. 1번(무조건적 찬사)과 2번(학식 무시)은 양쪽 극단이라 모두 틀립니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "In auctions where bidders share a common but uncertain valuation, the winner is, almost by construction, the bidder who has most overestimated the prize—a phenomenon economists call the winner's curse. Sophisticated bidders, anticipating this, shade their bids downward. But the correction is self-undermining when widely adopted: if all participants shade, the informational content of the winning bid degrades, and the very dispersion of estimates that made shading prudent narrows. Field studies of offshore drilling leases bear this out only partially. Firms that shaded most aggressively did avoid overpayment, yet they also forfeited tracts that proved, in retrospect, lucrative—suggesting that the curse and its remedy may exact comparable, if differently distributed, costs.",
+      "question_text": "Which of the following can be inferred from the passage?",
+      "choices": [
+        "Bidders who shade their bids aggressively never overpay for the tracts they win.",
+        "Aggressive bid-shading can lead a firm to lose tracts that would have been profitable.",
+        "The winner's curse disappears entirely once a few sophisticated bidders enter a market.",
+        "Offshore drilling leases are, as a rule, sold for far less than their true value.",
+        "Firms that overestimate a prize's value generally do so because of inferior geological data."
+      ],
+      "answer": [1],
+      "explanation_ko": "지문은 가장 공격적으로 입찰을 낮춘(shade) 기업들이 'forfeited tracts that proved lucrative(나중에 수익성 있던 광구를 놓쳤다)'고 명시하므로, 공격적 입찰 축소가 수익성 있는 광구를 잃게 할 수 있다는 2번이 정답입니다. 1번은 'never overpay(절대 비싸게 사지 않는다)'라는 절대적 표현이 함정으로, 지문은 'did avoid overpayment'라고 했을 뿐 결코 과지불하지 않는다고 단정하지 않습니다. 3번은 'disappears entirely(완전히 사라진다)'가 과장이고, 4·5번은 지문에 근거가 없습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "It is often said that photography liberated painting from the burden of mere resemblance, freeing artists to pursue abstraction. The chronology is not so accommodating. Abstraction's decisive moves came decades after the daguerreotype's diffusion, and several of its pioneers professed indifference to photography altogether. To be sure, the camera did alter what a painted likeness could be taken to mean. But a change in meaning is not the same as a release from obligation, and to compress the two is to substitute a tidy myth for a tangled history.",
+      "question_text": "In the context of the passage, the sentence \"To be sure, the camera did alter what a painted likeness could be taken to mean\" functions primarily to",
+      "choices": [
+        "introduce the central thesis that the rest of the passage develops",
+        "concede a limited point before the author reaffirms a contrary reservation",
+        "offer statistical evidence in support of the popular view",
+        "cite an authority who disputes the standard chronology of abstraction",
+        "summarize the conclusions established earlier in the passage"
+      ],
+      "answer": [1],
+      "explanation_ko": "'To be sure(물론 ~이긴 하다)'로 시작하는 이 문장은 양보(concession)를 표시한 뒤, 바로 다음 문장이 'But(그러나)'으로 받아 저자의 반론을 재확인합니다. 따라서 '제한된 점을 인정한 뒤 반대 입장을 재확인하기 위한' 2번이 정답입니다. 1번이 함정이지만 이 문장은 저자의 핵심 주장이 아니라 양보일 뿐이며, 저자의 실제 논지는 'a change in meaning is not the same as a release from obligation'입니다. 3·4번의 통계나 권위자 인용은 등장하지 않습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Memory was long imagined on the model of inscription: an experience, once encoded, lay fixed until retrieved. The discovery of reconsolidation unsettled this picture. A reactivated memory, it appears, becomes transiently labile, vulnerable to disruption before it is restabilized—so that each act of recollection may subtly rewrite what it recalls. The implication is unsettling but easily overstated. Reconsolidation does not render memory wholly plastic; the conditions under which a trace becomes labile are narrow, and most reactivations leave it untouched. The phenomenon qualifies the metaphor of inscription without replacing it with one of perpetual revision.",
+      "question_text": "Which of the following best states the main idea of the passage?",
+      "choices": [
+        "Memory is best understood as a permanent inscription that the act of retrieval cannot alter.",
+        "Each act of recollection completely rewrites the memory that is being recalled.",
+        "Reconsolidation shows that memory is neither perfectly fixed nor endlessly revisable.",
+        "The metaphor of inscription should be abandoned in favor of one of perpetual revision.",
+        "Most reactivated memories are disrupted before they can be restabilized."
+      ],
+      "answer": [2],
+      "explanation_ko": "지문은 기억이 고정(fixed)되어 있다는 옛 비유와, 매번 완전히 다시 쓰인다는 과장(overstated) 둘 다를 거부하고, reconsolidation(재공고화)이 '완전히 고정되지도 끝없이 수정되지도 않음'을 보여준다고 말하므로 3번이 정답입니다. 4번은 'without replacing it with one of perpetual revision(영구적 수정의 비유로 대체하지는 않는다)'이라는 마지막 문장과 정반대라 함정입니다. 5번도 'most reactivations leave it untouched(대부분의 재활성화는 기억을 건드리지 않는다)'와 반대이므로 틀립니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Census records from the early industrial city have a deceptive solidity. Their columns of occupations seem to fix each inhabitant in a stable trade, yet the annual enumerations were snapshots of populations in ceaseless motion. A man recorded as a weaver in one count might, a year earlier, have carted coal and, a year later, have kept a shop. Historians who read occupational labels as lifelong identities therefore mistake the camera's instant for the subject's biography. The records are not false; they are merely punctual—and a punctual truth, taken for a durable one, becomes a kind of error.",
+      "question_text": "It can be inferred that the author would most likely agree with which of the following?",
+      "choices": [
+        "Census records of the early industrial city were, for the most part, deliberately fabricated.",
+        "A single census entry may accurately describe a person's occupation at one moment yet misrepresent the course of a life.",
+        "Most industrial workers in fact remained in a single trade throughout their working lives.",
+        "Occupational labels recorded in census data are of essentially no value to historians.",
+        "Historians should set aside census data entirely in favor of personal diaries and letters."
+      ],
+      "answer": [1],
+      "explanation_ko": "저자는 인구조사 기록이 'not false(거짓이 아니라)' 단지 'punctual(특정 시점의 것)'이며, 그 순간의 진실을 평생의 진실로 오해하면 오류가 된다고 말합니다. 따라서 한 항목이 그 순간엔 정확해도 일생을 왜곡할 수 있다는 2번이 정답입니다. 1번('대부분 조작되었다')은 'not false'와 정면으로 충돌하고, 3번은 직업이 자주 바뀌었다는 예시(weaver→shopkeeper)와 반대입니다. 4번처럼 기록이 무가치하다고 보지도 않습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "The cult of the autograph score—the composer's own manuscript revered as the work's true text—rests on a premise that the history of performance steadily erodes. For much music written before the nineteenth century, the notation was less a blueprint than a prompt, presupposing conventions of ornamentation and tempo that performers were expected to supply. An editor who reproduces only what the composer wrote may thus transmit, with scrupulous fidelity, something the composer never intended to be heard: a skeleton mistaken for a body. Fidelity to the notation, in such cases, is a subtler form of infidelity to the music.",
+      "question_text": "According to the passage, reproducing only the notated score can amount to \"infidelity to the music\" because",
+      "choices": [
+        "composers of the period frequently made errors when writing down their own manuscripts",
+        "the notation deliberately left out performance conventions that players were expected to add",
+        "nineteenth-century editors generally lacked access to reliable autograph manuscripts",
+        "modern performers are largely incapable of reading early notation with accuracy",
+        "the true text of any musical work can never be reconstructed from a single source"
+      ],
+      "answer": [1],
+      "explanation_ko": "지문은 옛 악보의 notation(기보)이 청사진이 아니라 prompt(단서)였고, 장식(ornamentation)·빠르기(tempo)의 관습을 연주자가 채워 넣을 것을 전제했다고 말합니다. 따라서 적힌 것만 재현하면 빠진 관습 때문에 '뼈대만 전달'하게 되므로 2번이 정답입니다. 1번은 작곡가의 '실수'를 말하지만 지문의 요점은 의도적 생략이지 오기가 아닙니다. 4·5번은 지문에 근거가 없는 일반화입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Defenders of randomized trials in social policy often present them as the antidote to the wishful inference that bedevils observational studies. Randomization, by balancing unmeasured confounders across groups, licenses causal claims that mere correlation cannot. The argument is sound as far as it goes. But its reach is frequently exaggerated. A trial establishes that an intervention worked, in a particular population, under particular conditions; it does not establish that the same intervention will work elsewhere. The leap from \"it worked here\" to \"it will work there\" is an inference of exactly the kind randomization was meant to discipline—and one for which the trial itself supplies no warrant.",
+      "question_text": "The primary purpose of the passage is to",
+      "choices": [
+        "argue that randomized trials are, in the end, no more reliable than observational studies",
+        "reject causal inference in social policy as inherently wishful and unwarranted",
+        "identify a limitation of randomized trials that their own internal logic does not address",
+        "recommend that social scientists abandon randomized trials in favor of other methods",
+        "explain the mechanism by which randomization eliminates unmeasured confounders"
+      ],
+      "answer": [2],
+      "explanation_ko": "저자는 무작위 시험(randomized trial)의 내부 논리가 건전하다(sound)고 인정하면서도, '여기서 통했으니 저기서도 통할 것'이라는 외부 일반화(generalization)는 시험 자체가 보증하지 못한다는 한계를 지적합니다. 따라서 '내부 논리로 다룰 수 없는 한계를 지적한다'는 3번이 정답입니다. 1번은 저자가 시험이 관찰연구보다 우월한 인과 주장을 가능케 한다고 인정하므로 틀리고, 5번은 지문의 전제일 뿐 글의 목적이 아닙니다. 4번처럼 시험 폐기를 권하지도 않습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "A coastal town introduced a strict speed limit on its main road after a year of unusually high pedestrian injuries, and injuries on that road fell by half the following year. The town council concludes that the lowered speed limit caused the decline and now recommends imposing the same limit on every road in the town.",
+      "question_text": "Which of the following, if true, most seriously weakens the council's conclusion?",
+      "choices": [
+        "The main road carried far more pedestrian traffic than any other road in the town.",
+        "During the same year, the town widened the sidewalks along the main road, physically separating pedestrians from passing vehicles.",
+        "In neighboring towns that made no changes to their roads, pedestrian injuries held roughly steady over the same period.",
+        "Several drivers complained that the lower speed limit noticeably lengthened their daily commutes.",
+        "The town's overall population grew slightly during the year in which injuries declined."
+      ],
+      "answer": [1],
+      "explanation_ko": "결론은 '속도 제한이 부상 감소를 일으켰다'는 인과 주장인데, 같은 해 같은 도로에서 인도를 넓혀 보행자와 차량을 분리했다는 2번은 부상 감소의 대안 원인(alternative cause)을 제시하므로 결론을 가장 약화시킵니다. 3번은 변화를 주지 않은 인근 마을의 부상이 일정했다는 것이므로 오히려 속도 제한의 효과를 뒷받침해 함정입니다. 4번(통근 불편)·5번(인구 소폭 증가)은 부상 감소 원인과 무관하거나 오히려 효과를 강화합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "A magazine's profitability rose in the year after it doubled its cover price, having held roughly steady for several years before that. The publisher concludes that the higher cover price, by increasing the revenue earned on each copy sold, was responsible for the improvement in the magazine's profitability.",
+      "question_text": "The publisher's conclusion depends on which of the following assumptions?",
+      "choices": [
+        "The magazine's production cost per copy decreased over the course of the year.",
+        "Sales volume did not fall so steeply that total revenue declined despite the higher price per copy.",
+        "The magazine attracted a wealthier readership after the price increase took effect.",
+        "Competing magazines did not lower their own cover prices during the same year.",
+        "The doubling of the cover price was the largest single price increase in the magazine's history."
+      ],
+      "answer": [1],
+      "explanation_ko": "발행인의 논리는 '부수당 수익(revenue per copy)이 늘어 수익성이 개선됐다'는 것인데, 만약 판매 부수가 폭락해 총수익(total revenue)이 오히려 줄었다면 수익성 개선은 가격 인상이 아닌 다른 요인 때문일 것입니다. 따라서 '판매량이 그 정도로 떨어지지는 않았다'는 2번이 필요한 가정입니다(부정하면 논증이 무너지는지로 확인). 1번(단가 하락)은 도움은 되지만 결론에 반드시 필요한 가정은 아니며, 3·4·5번은 결론 성립에 필수적이지 않습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "A government raised taxes on cigarettes sharply, expecting consumption to fall. In the year that followed, cigarette sales at licensed retailers indeed dropped by a third. Yet surveys conducted over the same period found no decrease at all in the proportion of adults who reported smoking cigarettes every day.",
+      "question_text": "Which of the following, if true, best resolves the apparent discrepancy described above?",
+      "choices": [
+        "The tax increase was accompanied by a widely publicized campaign warning of the health risks of smoking.",
+        "After the tax increase, many smokers began buying their cigarettes from unlicensed sellers and from retailers in neighboring regions.",
+        "Adults who smoke every day tend to understate how many cigarettes they consume when responding to surveys.",
+        "The retail price of cigarettes rose by even more than the increase in the tax by itself would have required.",
+        "Younger adults were somewhat more likely than older adults to quit smoking after the tax increase."
+      ],
+      "answer": [1],
+      "explanation_ko": "공인 소매점(licensed retailers) 판매는 1/3 줄었는데 흡연자 비율은 그대로라는 모순은, 흡연자들이 비공인 판매상이나 인근 지역에서 담배를 사기 시작해 공인 판매 통계에만 안 잡혔다는 2번으로 해소됩니다. 1번은 금연을 촉진해 흡연율을 낮출 요인이라 오히려 모순을 키웁니다. 3번의 과소보고는 일정한 편향이라 '변화 없음'을 설명하지 못하고, 5번은 일부 집단 금연을 말할 뿐 전체 비율이 왜 안 변했는지 설명하지 못합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Editorial: Our rival newspaper claims that its investigative reporting is superior to ours because it has won more journalism awards over the past five years. But the panels that grant these awards are composed largely of former employees of our rival. Their judgments are therefore worthless, and our rival's reporting is in fact no better than our own.",
+      "question_text": "The reasoning in the editorial is most vulnerable to the criticism that it",
+      "choices": [
+        "concludes that a claim is false merely because the argument offered in support of it has been discredited",
+        "criticizes the rival's awards by pointing to the composition of the panels rather than to the quality of the reporting",
+        "assumes, without justification, that award panels everywhere are systematically biased",
+        "relies on the testimony of a source that it has itself characterized as unreliable",
+        "takes for granted that winning awards is the only meaningful measure of journalistic quality"
+      ],
+      "answer": [0],
+      "explanation_ko": "사설은 상(awards) 심사단이 편향됐다는 이유로 '경쟁지의 보도가 더 낫지 않다'고 결론짓는데, 어떤 주장을 뒷받침하는 근거가 무너졌다고 해서 그 주장 자체가 거짓이 되는 것은 아닙니다. 이 '근거 반박=결론 거짓' 오류가 핵심이므로 0번(첫 번째 선택지)이 정답입니다. 2번은 함정인데, 심사단 구성을 지적하는 것은 상 근거를 깎아내리는 정당한 수단일 뿐 논리적 결함 자체가 아닙니다. 5번은 경쟁지가 한 주장이지 사설이 전제한 것이 아닙니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Archaeologists have determined that a remote island was first settled around 1200 CE. They argue that the settlers arrived by deliberate ocean voyaging rather than by accidental drift, because the island's earliest sites already contain domesticated crops and animals that do not occur there naturally.",
+      "question_text": "Which of the following, if true, most strengthens the archaeologists' argument?",
+      "choices": [
+        "The domesticated crops and animals found at the sites could have survived a long sea crossing only if they were deliberately tended and provisioned along the way.",
+        "Crops closely resembling those found on the island were being cultivated on other islands hundreds of miles away during the same period.",
+        "The island lies within a zone of prevailing ocean currents capable of carrying floating debris from inhabited islands to its shores.",
+        "Stone tools recovered from the earliest sites closely resemble those used on the nearest inhabited archipelago.",
+        "The island's first inhabitants left behind no written record describing how their voyage was undertaken."
+      ],
+      "answer": [0],
+      "explanation_ko": "주장은 정착민이 '우연한 표류(accidental drift)'가 아니라 '의도적 항해(deliberate voyaging)'로 왔다는 것인데, 작물과 가축이 긴 항해를 견디려면 일부러 돌보고 식량을 실어야만 했다는 0번(첫 번째 선택지)은 그 운반 자체가 의도성을 함축하므로 주장을 가장 강화합니다. 3번은 표류를 가능케 하는 해류를 말해 오히려 주장을 약화하는 함정입니다. 2·4번은 작물·도구의 기원지를 시사할 뿐 '의도적이냐 우연이냐'를 가르지 못하고, 5번은 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Every member of the city's historic-preservation board owns property within the historic district, and no one who owns property in that district favors relaxing the district's strict building restrictions. The city council has just appointed two new members to the board, replacing two members who recently resigned.",
+      "question_text": "If the statements above are true, which of the following must also be true?",
+      "choices": [
+        "Neither of the two newly appointed board members favors relaxing the district's building restrictions.",
+        "Everyone who owns property within the historic district serves on the preservation board.",
+        "The two new members were appointed because they were known to oppose relaxing the restrictions.",
+        "No property owner living outside the historic district favors relaxing the restrictions.",
+        "Everyone who favors relaxing the restrictions lives outside the city entirely."
+      ],
+      "answer": [0],
+      "explanation_ko": "새 위원도 위원회 구성원이므로 '모든 위원은 지구 내 부동산을 소유한다 → 지구 내 소유자는 규제 완화에 찬성하지 않는다'는 두 전제를 연쇄 적용하면, 두 신임 위원 모두 규제 완화에 찬성하지 않는다는 0번(첫 번째 선택지)이 반드시 참입니다. 2번은 임명 '동기'를 말하지만 전제에 근거가 없습니다. 3번은 전제의 역(converse)을 가정하는 전형적 함정으로, '위원이면 소유자'일 뿐 '소유자면 위원'은 성립하지 않습니다. 4·5번은 지구 밖 소유자나 도시 밖 거주에 대한 정보가 없어 도출되지 않습니다."
+    }
+  ]
+}

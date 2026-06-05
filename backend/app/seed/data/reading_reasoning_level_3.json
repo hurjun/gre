@@ -1,0 +1,217 @@
+{
+  "group": "verbal",
+  "subgroup": "reading_reasoning",
+  "level": 3,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "For much of the twentieth century, paleontologists assumed that the large, plated dinosaur Stegosaurus used the bony plates along its spine primarily for defense against predators. The plates, however, were thin and riddled with channels that once carried blood vessels, making them poorly suited to absorbing the force of an attack. More recent analyses suggest that the plates functioned chiefly in regulating body temperature, much as the broad ears of an elephant do, by shedding or absorbing heat as blood flowed through them. Some researchers add that the plates may also have served as display structures, helping individuals recognize members of their own species or signal their fitness to potential mates. Whatever their precise role, the plates were almost certainly not the armor that earlier scientists imagined.",
+      "question_text": "The primary purpose of the passage is to",
+      "choices": [
+        "argue that Stegosaurus had no effective means of defending itself against predators",
+        "trace how the understanding of a dinosaur's anatomical feature has shifted away from an earlier assumption",
+        "demonstrate that the plates of Stegosaurus were used mainly for attracting mates",
+        "compare the body temperature of Stegosaurus with that of modern elephants",
+        "criticize twentieth-century paleontologists for ignoring available physical evidence"
+      ],
+      "answer": [1],
+      "explanation_ko": "지문은 Stegosaurus의 골판(plate)이 방어용이라는 과거의 가정(assumption)이 체온 조절이나 과시(display) 기능이라는 새로운 해석으로 바뀌어 온 과정을 설명하므로, '해부학적 특징에 대한 이해가 변화해 온 과정을 추적한다'가 주제입니다. '짝을 유혹하는 용도였다'는 보기는 지문이 may also(부차적 가능성)로만 언급한 것을 단정적으로 과장했으므로 오답입니다. 과거 학자를 criticize(비난)하는 것이 아니라 견해 변화를 서술하는 데 초점이 있습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "The medieval guilds of Europe are often remembered as associations that protected the economic interests of skilled craftsmen, controlling who could practice a trade and at what price. Yet their functions extended well beyond commerce. A guild typically maintained a fund to support members who fell ill or could no longer work, and it provided for the widows and children of those who died. Guilds sponsored religious festivals, commissioned works of art for their towns, and enforced standards of quality that protected customers from shoddy goods. Membership thus conferred not only a livelihood but also a social identity and a network of mutual obligation. To regard the guild merely as an early monopoly is to overlook the dense web of communal duties that bound its members together.",
+      "question_text": "The author mentions that guilds maintained a fund to support members who fell ill primarily in order to",
+      "choices": [
+        "prove that guilds were more concerned with charity than with profit",
+        "illustrate that the role of guilds went beyond purely economic functions",
+        "explain why membership in a guild was expensive to obtain",
+        "contrast medieval guilds with modern labor unions",
+        "suggest that guilds were unable to control the prices of goods"
+      ],
+      "answer": [1],
+      "explanation_ko": "병든 회원을 돕는 기금은 길드가 단순한 경제적 기능을 넘어 공동체적 의무(communal duties)를 수행했다는 저자의 주장을 뒷받침하는 예시이므로, '경제적 기능을 넘어선 역할을 보여주기 위해'가 정답입니다. '이윤보다 자선에 더 관심이 있었다'는 보기는 too strong(지나친 일반화)이며, 지문은 둘 중 하나가 더 중요하다고 말하지 않습니다. 노동조합과의 대조나 가격 통제 실패는 지문에 등장하지 않습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Deep beneath the ocean's surface, where sunlight never reaches, hydrothermal vents release mineral-rich water heated by volcanic activity. The communities of organisms clustered around these vents do not depend on photosynthesis, the process that sustains nearly all surface life. Instead, specialized bacteria convert chemicals such as hydrogen sulfide into energy through a process called chemosynthesis, forming the base of an entire food web. Giant tube worms, blind shrimp, and pale crabs thrive in this perpetual darkness, nourished ultimately by the chemistry of the vents rather than by the sun. The discovery of these ecosystems in 1977 forced biologists to reconsider their assumption that all life on Earth ultimately traces its energy back to sunlight.",
+      "question_text": "It can be inferred from the passage that, before 1977, most biologists believed that",
+      "choices": [
+        "no complex organisms could survive in the deep ocean",
+        "the energy supporting life on Earth ultimately derived from the sun",
+        "hydrothermal vents could not exist at great ocean depths",
+        "chemosynthesis was a more common process than photosynthesis",
+        "bacteria were incapable of converting minerals into usable energy"
+      ],
+      "answer": [1],
+      "explanation_ko": "지문 마지막 문장에서 1977년 발견이 '모든 생명의 에너지가 결국 햇빛으로 거슬러 올라간다'는 가정을 재고하게 만들었다고 했으므로, 그 이전에는 생물학자들이 그렇게 믿었음을 추론할 수 있습니다. '심해에 복잡한 생물이 살 수 없다'는 보기는 그럴듯하지만 지문이 직접 다루는 가정은 에너지의 근원이지 생존 가능성 자체가 아니므로 오답입니다. 화학합성이 광합성보다 흔하다는 내용은 지문과 반대됩니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "The novelist Edith Wharton is frequently praised for the precision of her social observation, but her achievement rests as much on structural craft as on keen eyesight. In her finest work, the apparently trivial scenes carry the heaviest weight: a dinner invitation declined, a glance exchanged across a drawing room, a debt quietly settled. Each such moment is positioned so that its full significance becomes clear only in retrospect, when a later event reveals what was at stake. Readers who attend only to Wharton's famous descriptions of fashion and furniture miss the deliberate architecture beneath them. It is this architecture, rather than mere documentary detail, that gives her novels their relentless sense of inevitability.",
+      "question_text": "The author's attitude toward readers who attend only to Wharton's descriptions of fashion and furniture is best described as",
+      "choices": [
+        "open contempt for their lack of literary education",
+        "mild regret that they overlook a more important dimension of her work",
+        "complete agreement that such details are her chief accomplishment",
+        "indifference toward how her novels are interpreted",
+        "uncertainty about whether her descriptions have any value"
+      ],
+      "answer": [1],
+      "explanation_ko": "저자는 그런 독자들이 작품의 핵심인 구조적 기교(architecture)를 'miss(놓친다)'고 말하지만, 비난보다는 더 중요한 차원을 간과하는 데 대한 가벼운 아쉬움의 어조를 띱니다. 'open contempt(노골적 경멸)'는 지나치게 강한 감정이라 어조를 벗어나므로 오답입니다. 묘사가 그녀의 주된 업적이라는 보기는 저자의 주장과 정반대입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Economists once treated household labor, such as cooking and childcare, as falling outside the productive economy because it generated no measured wages. This convention had practical consequences: when a person hired a cook, national output appeared to rise, but when that same person prepared meals at home, output statistics registered nothing, even though the work performed was identical. Some scholars argue that this blind spot distorted policy by making unpaid domestic work invisible to planners. Recent efforts to assign monetary values to such labor suggest that, were it counted, it would add a sum equivalent to a substantial fraction of conventional national income. The exercise does not change what households actually do, but it does reveal how much economic accounting can depend on arbitrary boundaries.",
+      "question_text": "The example of hiring a cook versus preparing meals at home is used primarily to",
+      "choices": [
+        "demonstrate that paid cooks produce higher-quality meals than household members",
+        "show how identical work could be counted or ignored depending on whether wages were paid",
+        "argue that households should hire workers in order to increase national output",
+        "prove that household labor is more valuable than most wage labor",
+        "explain why economists eventually abandoned the measurement of national income"
+      ],
+      "answer": [1],
+      "explanation_ko": "요리사를 고용할 때와 집에서 직접 요리할 때를 비교한 예시는, 동일한 노동(identical work)이 임금 지급 여부에 따라 통계에 잡히거나 무시되는 모순을 보여주기 위한 것입니다. '고용된 요리사가 더 나은 음식을 만든다'는 보기는 음식의 질을 비교하려는 의도가 아니므로 오답이며, 지문은 일이 동일하다고 명시합니다. 가계가 노동자를 고용해야 한다는 주장도 지문의 취지가 아닙니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "The introduction of the mechanical clock to European cities in the fourteenth century did more than improve timekeeping; it gradually reshaped the rhythm of daily life. Before public clocks, the working day was governed by the sun and by the irregular ringing of church bells, so that an hour in summer was longer than an hour in winter. The new clocks divided the day into equal, abstract units that took no account of season or weather. Merchants found such uniform hours useful for coordinating trade, and town councils began to regulate labor by the clock rather than by daylight. In time, punctuality came to be regarded as a virtue, and the older, more flexible sense of time faded from memory.",
+      "question_text": "Which of the following best describes the function of the sentence stating that an hour in summer was longer than an hour in winter?",
+      "choices": [
+        "It provides evidence that medieval people had no reliable way to measure time at all",
+        "It clarifies, by contrast, what was distinctive about the equal hours that mechanical clocks introduced",
+        "It explains why town councils initially resisted adopting mechanical clocks",
+        "It demonstrates that church bells were more accurate than early mechanical clocks",
+        "It suggests that merchants preferred the older system of measuring time"
+      ],
+      "answer": [1],
+      "explanation_ko": "여름과 겨울의 한 시간 길이가 달랐다는 문장은, 기계식 시계가 도입한 '균등하고 추상적인 시간 단위(equal, abstract units)'가 무엇이 새로웠는지를 대조(contrast)로 부각하는 기능을 합니다. '중세인이 시간을 전혀 잴 수 없었다'는 보기는 too extreme(극단적)이며 지문은 태양과 종소리로 시간을 쟀다고 말합니다. 상인들이 옛 방식을 선호했다는 보기는 지문과 반대로, 상인들은 균일한 시간을 유용하게 여겼습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "When a star much more massive than our sun exhausts its nuclear fuel, it can no longer support its own weight, and its core collapses in a fraction of a second. The outer layers rebound off the dense core and are blasted into space in a brilliant explosion called a supernova, which for a brief period can outshine an entire galaxy. These explosions are not merely spectacular; they are essential to the chemistry of the cosmos. The heat and pressure of the blast forge elements heavier than iron, such as gold and uranium, which could not be produced by ordinary stellar burning. Scattered across space, this enriched material eventually finds its way into new stars and planets, and into living things.",
+      "question_text": "According to the passage, supernovae are important to the chemistry of the cosmos because they",
+      "choices": [
+        "cause massive stars to exhaust their nuclear fuel more quickly",
+        "produce elements heavier than iron that ordinary stellar burning cannot create",
+        "compress the cores of stars until they collapse",
+        "outshine entire galaxies for brief periods of time",
+        "prevent heavy elements from being scattered across space"
+      ],
+      "answer": [1],
+      "explanation_ko": "지문은 초신성 폭발의 열과 압력이 철보다 무거운 원소(금, 우라늄 등)를 만들어내며 이것이 우주 화학에 필수적이라고 명시하므로 정답은 두 번째 보기입니다. '은하 전체보다 밝게 빛난다'는 보기는 폭발의 화려함을 설명할 뿐 화학적 중요성의 이유가 아니므로 오답입니다. 마지막 보기는 지문이 무거운 원소가 우주로 흩어진다(scattered)고 한 것과 정반대입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "The poet Emily Dickinson published fewer than a dozen poems during her lifetime, and those few appeared anonymously and were heavily altered by editors who smoothed her irregular punctuation and unconventional rhymes. After her death in 1886, her sister discovered nearly eighteen hundred poems bound into small handmade booklets. Early editors of these manuscripts continued to regularize her work, assuming that her famous dashes and capital letters were the careless habits of an untrained writer. Only in the twentieth century did scholars, examining the original sheets, conclude that these features were intentional and integral to her meaning. A faithful edition published in 1955 finally restored her idiosyncratic style, and readers could at last encounter the poems as Dickinson herself had shaped them.",
+      "question_text": "It can be inferred from the passage that the editions of Dickinson's poetry produced before 1955 differed from the 1955 edition primarily in that the earlier editions",
+      "choices": [
+        "included a far smaller number of her poems",
+        "altered features of her style that were in fact deliberate",
+        "were published anonymously rather than under her name",
+        "relied on printed sources rather than her original manuscripts",
+        "omitted the poems she had bound into handmade booklets"
+      ],
+      "answer": [1],
+      "explanation_ko": "지문에 따르면 1955년 이전 편집자들은 디킨슨의 대시(dash)와 대문자 사용을 부주의한 습관으로 여겨 규칙화(regularize)했지만, 후에 학자들은 그것이 의도적(intentional)이었다고 결론지었고 1955년 판이 원래 스타일을 복원했습니다. 따라서 이전 판들은 '실제로는 의도적이었던 문체 요소를 변형했다'는 점에서 다릅니다. 시의 수가 더 적었다는 보기는 생전 출판작에만 해당할 뿐, 1886년 이후 출판된 판본들과 1955년 판의 차이를 설명하지 못하므로 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "A city council proposed installing bright streetlights throughout its downtown district, arguing that better lighting would reduce nighttime crime. As evidence, the council noted that the few downtown blocks already equipped with bright lights report far fewer thefts than the poorly lit blocks nearby.",
+      "question_text": "Which of the following, if true, most seriously weakens the council's argument?",
+      "choices": [
+        "The brightly lit blocks are also the blocks where the city stations most of its night patrol officers",
+        "Installing streetlights throughout the district would require a significant increase in the city's budget",
+        "Some residents of the district have complained that bright lights interfere with their sleep",
+        "Crime rates in the district as a whole have remained roughly constant over the past decade",
+        "A neighboring city reduced crime through a program unrelated to street lighting"
+      ],
+      "answer": [0],
+      "explanation_ko": "의회는 밝은 조명이 범죄를 줄인다고 주장하지만, 그 밝은 블록에 야간 순찰 경관(night patrol officers)이 가장 많이 배치되어 있다면 절도 감소의 진짜 원인이 조명이 아니라 경찰일 수 있어 인과관계가 무너집니다. 따라서 첫 번째 보기가 논증을 가장 약화시킵니다. 예산 증가나 주민 수면 방해는 비용·부작용일 뿐 조명-범죄의 인과 주장을 직접 반박하지 못하므로 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "A pharmaceutical company claims that its new sleep aid is safe for long-term use. In its trial, volunteers took the drug nightly for three months and reported no harmful side effects. The company concludes that patients can safely take the drug for years.",
+      "question_text": "The company's reasoning is most vulnerable to the criticism that it",
+      "choices": [
+        "relies on the testimony of volunteers who were paid to participate",
+        "draws a conclusion about effects over years from evidence covering only a few months",
+        "fails to specify the exact dosage taken by the volunteers",
+        "assumes that all sleep disorders have the same underlying cause",
+        "ignores the possibility that some patients dislike taking medication"
+      ],
+      "answer": [1],
+      "explanation_ko": "이 논증의 결함(flaw)은 단 3개월의 자료만으로 '수년간(for years)' 안전하다는 결론을 내린 데 있습니다. 단기 데이터로 장기 안전성을 단정하는 것은 부당한 일반화이므로 두 번째 보기가 정답입니다. 자원자가 보수를 받았다는 점이나 정확한 복용량 미명시는 그럴듯해 보이지만, 핵심 논리적 비약인 '기간의 차이'를 짚지 못하므로 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "In the town of Marbury, the number of registered bicycles has risen sharply over the past five years, yet the number of bicycle-related injuries treated at the local hospital has fallen during the same period. A town official concluded that cycling in Marbury has become considerably safer.",
+      "question_text": "Which of the following, if true, would best explain the apparent discrepancy described above?",
+      "choices": [
+        "Many residents who registered bicycles did so but rarely or never actually ride them",
+        "The local hospital recently expanded its emergency department",
+        "Neighboring towns have also seen increases in bicycle registration",
+        "The price of bicycles in Marbury has decreased over the past five years",
+        "Most cyclists in Marbury wear helmets when they ride"
+      ],
+      "answer": [0],
+      "explanation_ko": "등록된 자전거는 늘었는데 부상은 줄어든 역설(paradox)은, 등록만 하고 실제로는 거의 타지 않는 주민이 많다면 자연스럽게 해소됩니다. 즉 실제 주행량이 늘지 않았다면 부상이 줄 수 있으므로 첫 번째 보기가 정답입니다. 헬멧 착용은 부상을 줄일 수 있으나 등록 증가와 부상 감소 사이의 모순 자체를 설명하기보다 '안전해졌다'는 결론을 오히려 뒷받침하므로 역설 해소용으로는 약합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "A nutritionist reviewed survey data and observed that people who regularly eat breakfast tend to weigh less than people who habitually skip it. Persuaded that the morning meal was responsible for the difference, she advised her overweight clients to start eating breakfast every day, expecting that simply adding the meal would help them gradually lose weight.",
+      "question_text": "Which of the following is an assumption on which the nutritionist's advice depends?",
+      "choices": [
+        "Breakfast foods are generally more nutritious than foods eaten at other times of day",
+        "Eating breakfast itself contributes to lower weight, rather than merely accompanying some other cause of it",
+        "Most overweight people are unaware that breakfast may affect their weight",
+        "People who skip breakfast tend to consume more calories at lunch than at dinner",
+        "The clients are physically able to prepare breakfast each morning"
+      ],
+      "answer": [1],
+      "explanation_ko": "영양사는 아침을 먹는 것과 낮은 체중의 상관관계를 보고 인과로 받아들여 조언했으므로, '아침 식사 자체가 체중 감소에 기여한다(단지 다른 원인에 동반되는 것이 아니라)'는 가정(assumption)이 전제되어야 합니다. 따라서 두 번째 보기가 정답입니다. 아침 음식이 더 영양가 있다는 보기는 체중 감소 메커니즘과 무관하므로 전제가 아니며, 이 가정이 거짓이어도 조언이 무너지지는 않습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Critics of a proposed highway toll argue that it will hurt local businesses by discouraging drivers from entering the city. Supporters respond that several cities which introduced similar tolls saw their downtown retail revenues rise in the following years. The critics, they say, have nothing to fear.",
+      "question_text": "Which of the following, if true, most strengthens the supporters' position?",
+      "choices": [
+        "The cities cited by the supporters used toll revenue to improve public transit, making downtown more accessible overall",
+        "The toll being proposed is somewhat higher than the tolls those other cities introduced",
+        "Some drivers in those cities switched to routes that avoided the toll entirely",
+        "Retail revenues nationwide rose during the same years for unrelated reasons",
+        "A few businesses in those cities closed shortly after the tolls took effect"
+      ],
+      "answer": [0],
+      "explanation_ko": "지지자들의 주장은 다른 도시의 통행료 도입 후 매출 상승을 근거로 삼는데, 그 도시들이 통행료 수입으로 대중교통을 개선해 도심 접근성을 높였다면 통행료와 매출 상승의 연결고리가 분명해져 주장이 강화됩니다. 따라서 첫 번째 보기가 정답입니다. '전국적으로 매출이 올랐다'는 보기는 매출 상승이 통행료와 무관했을 가능성을 제기해 오히려 논증을 약화시키므로 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "A manager noticed that the employees who attended the company's optional public-speaking workshop later received higher performance ratings than those who did not attend. She announced that requiring all employees to take the workshop would raise the performance ratings of the entire staff.",
+      "question_text": "Which of the following best identifies a flaw in the manager's reasoning?",
+      "choices": [
+        "It overlooks the possibility that the workshop was too short to teach useful skills",
+        "It assumes that employees who chose to attend may have differed in ambition or ability from those who did not",
+        "It fails to consider whether the workshop was expensive to run",
+        "It relies on performance ratings, which may be subjective",
+        "It does not explain why the workshop was originally made optional"
+      ],
+      "answer": [1],
+      "explanation_ko": "워크숍은 '선택(optional)'이었으므로 참석한 직원들은 처음부터 야망이나 능력 면에서 불참자와 달랐을 수 있습니다(자기선택 편향, self-selection bias). 따라서 그들의 높은 평가가 워크숍 때문이라고 단정해 전체 의무화로 일반화한 것이 결함이므로 두 번째 보기가 정답입니다. 평가가 주관적일 수 있다는 보기는 양쪽 집단에 동일하게 적용되어 핵심 인과 오류를 짚지 못하므로 오답입니다."
+    }
+  ]
+}

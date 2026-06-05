@@ -1,0 +1,241 @@
+{
+  "group": "math",
+  "subgroup": "quant",
+  "level": 5,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "p is a prime number greater than 3. Quantity A: the remainder when p^2 is divided by 24. Quantity B: 1.",
+      "choices": [
+        "Quantity A is greater",
+        "Quantity B is greater",
+        "The two quantities are equal",
+        "The relationship cannot be determined from the information given"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation_ko": "3보다 큰 prime(소수)은 2로도 3으로도 나눠지지 않으므로 p = 6k +/- 1 꼴입니다. 그러면 p^2 = 36k^2 +/- 12k + 1 = 12k(3k +/- 1) + 1인데, k와 3k +/- 1 중 하나는 반드시 짝수라 12k(3k +/- 1)은 24의 배수입니다. 따라서 어떤 소수를 넣어도 p^2를 24로 나눈 remainder(나머지)는 항상 1이라 두 양은 equal(같음)입니다. 5, 7 같은 한두 개만 대입해 보고 우연이라 여겨 'cannot be determined'를 고르기 쉽지만, 모든 경우에 성립하는 정수론적 항등식입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "A large set of measurements is normally distributed with a mean of 70 and a standard deviation of 8. Quantity A: the percent of the measurements that are between 62 and 86. Quantity B: the percent of the measurements that are greater than 54.",
+      "choices": [
+        "Quantity A is greater",
+        "Quantity B is greater",
+        "The two quantities are equal",
+        "The relationship cannot be determined from the information given"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "62는 mean(평균) -1 standard deviation(표준편차), 86은 평균 +2 표준편차이므로 그 사이 비율은 34% + 34% + 13.5% = 81.5%입니다. 한편 54는 평균 -2 표준편차이므로 그보다 큰 값의 비율은 100% - 2.5% = 97.5%입니다. 따라서 Quantity B(97.5%)가 Quantity A(81.5%)보다 큽니다. 양쪽 다 폭이 비슷해 보여 equal로 착각하기 쉽지만, 68-95-99.7 규칙으로 정확히 계산하면 분명히 차이가 납니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "In the xy-plane, A = (0, 0) and B = (6, 0). Point C lies somewhere on the line y = 4. Quantity A: the perimeter of triangle ABC. Quantity B: 16.",
+      "choices": [
+        "Quantity A is greater",
+        "Quantity B is greater",
+        "The two quantities are equal",
+        "The relationship cannot be determined from the information given"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation_ko": "AB = 6은 고정이고 AC + BC를 최소화하려면 A를 직선 y = 4에 대해 (0, 8)로 reflect(대칭이동)한 뒤 (0, 8)과 B(6, 0)의 거리 sqrt(36 + 64) = 10을 쓰면 됩니다. 즉 둘레의 최솟값은 6 + 10 = 16이고, 이는 C = (3, 4)일 때 달성됩니다. C가 직선 위 다른 곳에 있으면 둘레는 16보다 커지므로, 둘레는 16과 같을 수도 그보다 클 수도 있어 관계를 determine(확정)할 수 없습니다. C를 한 점으로 가정해 한 가지 답을 내면 함정에 빠집니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "a and b are distinct positive real numbers. Quantity A: a/b + b/a. Quantity B: 2.",
+      "choices": [
+        "Quantity A is greater",
+        "Quantity B is greater",
+        "The two quantities are equal",
+        "The relationship cannot be determined from the information given"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "양수 a, b에 대해 a/b + b/a = (a^2 + b^2)/(ab)이고, a^2 + b^2 - 2ab = (a - b)^2 > 0이므로 a^2 + b^2 > 2ab입니다. 따라서 a/b + b/a > 2가 항상 성립하여 Quantity A가 큽니다(AM-GM 부등식). a, b가 1보다 작은 fraction(분수)이면 값이 작아질 거라 오해해 'cannot be determined'를 고르기 쉽지만, distinct(서로 다른) 양수라면 크기에 상관없이 항상 2보다 큽니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "How many positive integers less than 1,000 are divisible by none of 2, 3, and 5?",
+      "choices": [
+        "233",
+        "266",
+        "267",
+        "366",
+        "733"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "1부터 999까지에서 inclusion-exclusion(포함-배제)으로 2, 3, 5 중 적어도 하나로 나눠지는 수를 세면 499 + 333 + 199 - 166 - 99 - 66 + 33 = 733개입니다. 따라서 어느 것으로도 나눠지지 않는 수는 999 - 733 = 266개입니다. 빼야 할 733을 그대로 답으로 고르는 것이 가장 흔한 함정이며, 겹치는 수(6, 10, 15, 30의 배수)를 다시 더해 주는 단계를 빠뜨리면 다른 오답이 나옵니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "In how many ways can 7 distinct books be arranged in a row on a shelf if 3 particular books must NOT all be next to one another (that is, the three are not allowed to occupy three consecutive positions)?",
+      "choices": [
+        "720",
+        "4200",
+        "4320",
+        "4920",
+        "5040"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation_ko": "전체 배열은 7! = 5040가지입니다. 문제의 3권이 모두 붙어 있는 경우는 그 3권을 하나의 block(덩어리)으로 묶어 5! 자리에 배치하고 덩어리 내부를 3!로 배열하므로 5! x 3! = 120 x 6 = 720가지입니다. 따라서 '모두 붙지는 않은' 경우는 5040 - 720 = 4320가지입니다(여사건 이용). 붙어 있는 경우의 수 720을 답으로 고르거나 전체 5040을 고르는 것이 대표적 실수입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "A committee of 3 people is chosen at random from a group of 5 men and 4 women. What is the probability that the committee includes at least 1 woman?",
+      "choices": [
+        "5/42",
+        "1/9",
+        "5/9",
+        "37/42",
+        "41/42"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation_ko": "전체 선택은 C(9, 3) = 84가지이고, complement(여사건)인 '여성 0명' 즉 남성만 3명 뽑는 경우는 C(5, 3) = 10가지입니다. 따라서 적어도 1명 여성일 probability(확률)는 1 - 10/84 = 74/84 = 37/42입니다. 남성만 뽑을 확률 10/84 = 5/42를 그대로 답으로 고르는 것이 가장 흔한 함정으로, 여사건을 1에서 빼는 마지막 단계를 잊으면 안 됩니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "A theater group of 20 people paid a total of $97 for admission. Adult tickets cost $8, student tickets cost $5, and child tickets cost $3. The number of children in the group was exactly twice the number of adults. How many students were in the group?",
+      "choices": [
+        "3",
+        "6",
+        "8",
+        "11",
+        "14"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation_ko": "성인 수를 a, 학생 수를 s라 하면 어린이는 2a이고 인원수 식은 a + s + 2a = 20, 즉 3a + s = 20입니다. 비용 식 8a + 5s + 3(2a) = 97을 정리하면 14a + 5s = 97이 되고, s = 20 - 3a를 대입하면 -a + 100 = 97에서 a = 3이 나옵니다. 따라서 학생은 s = 20 - 9 = 11명입니다(어린이는 6명). 성인 수 3이나 어린이 수 6을 학생 수로 착각하지 않도록 무엇을 묻는지 끝까지 확인해야 합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "A circle is inscribed in a square, and a second, smaller square is inscribed in that circle. If the area of the larger square is 64, what is the area of the smaller square?",
+      "choices": [
+        "16",
+        "24",
+        "32",
+        "32 sqrt(2)",
+        "48"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation_ko": "큰 정사각형의 넓이가 64이므로 한 변은 8이고, 내접한 원의 diameter(지름)는 큰 정사각형의 한 변과 같아 8입니다. 작은 정사각형은 이 원에 inscribed(내접)되어 그 diagonal(대각선)이 지름 8과 같으므로, 한 변은 8/sqrt(2)이고 넓이는 (8/sqrt(2))^2 = 64/2 = 32입니다. 핵심 통찰은 '작은 정사각형의 넓이는 큰 정사각형의 절반'이라는 점이며, 변이 절반이라 넓이가 1/4(16)일 것이라 보는 것이 가장 흔한 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "An equilateral triangle and a regular hexagon have equal perimeters. If the area of the equilateral triangle is 16 sqrt(3), what is the area of the regular hexagon?",
+      "choices": [
+        "16 sqrt(3)",
+        "24 sqrt(3)",
+        "32 sqrt(3)",
+        "48 sqrt(3)",
+        "96 sqrt(3)"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "정삼각형 넓이 (sqrt(3)/4) s^2 = 16 sqrt(3)에서 s^2 = 64, s = 8이므로 둘레는 24입니다. perimeter(둘레)가 같은 regular hexagon(정육각형)의 한 변은 24/6 = 4입니다. 정육각형 넓이는 (3 sqrt(3)/2) x 4^2 = 24 sqrt(3)입니다. 둘레가 같으면 정육각형 넓이가 정삼각형의 1.5배가 된다는 결과이며, 둘레가 같으니 넓이도 같다고 보아 16 sqrt(3)을 고르는 것이 함정입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "On a standardized exam, the scores are normally distributed with a mean of 500 and a standard deviation of 100. Approximately what percent of the test-takers scored between 400 and 700?",
+      "choices": [
+        "47.5%",
+        "68%",
+        "81.5%",
+        "83.85%",
+        "95%"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation_ko": "400은 mean(평균) -1 standard deviation(표준편차), 700은 평균 +2 표준편차입니다. 68-95-99.7 규칙에서 평균 -1과 +1 사이가 68%, +1과 +2 사이가 약 13.5%이므로 -1에서 +2까지는 68% + 13.5% = 81.5%입니다. 구간이 평균을 기준으로 비대칭(한쪽 1, 다른 쪽 2)이라는 점이 핵심으로, 양쪽을 모두 1 표준편차로 착각해 68%를 고르거나 2 표준편차로 보아 95%를 고르는 것이 흔한 실수입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "n is a positive integer, and n^2 has exactly 9 positive divisors. What is the greatest possible number of positive divisors that n can have?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "9"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation_ko": "divisor(약수)의 개수는 소인수분해 지수에 1을 더해 곱한 값입니다. n^2의 약수가 9개이고 9 = 9 또는 3 x 3으로 분해됩니다. n = p^4이면 n^2 = p^8의 약수가 9개이고 이때 n의 약수는 4 + 1 = 5개이며, n = p x q(서로 다른 소수)이면 n^2의 약수가 (2+1)(2+1) = 9개이고 n의 약수는 2 x 2 = 4개입니다. 두 경우 중 최댓값은 5개입니다. 또 다른 경우인 4를 정답으로 고르기 쉬우나, 단일 소수의 4제곱 형태가 약수를 더 많이 만든다는 점을 놓치면 안 됩니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Two different integers are chosen at random, without replacement, from the set {1, 2, 3, 4, 5, 6, 7, 8}. What is the probability that their product is even?",
+      "choices": [
+        "3/14",
+        "1/2",
+        "9/14",
+        "11/14",
+        "13/14"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation_ko": "두 수의 곱이 odd(홀수)가 되는 경우는 두 수가 모두 홀수일 때뿐입니다. 집합에 홀수는 {1, 3, 5, 7} 4개이므로 둘 다 홀수일 probability(확률)는 C(4, 2)/C(8, 2) = 6/28 = 3/14입니다. 따라서 곱이 even(짝수)일 확률은 complement(여사건)로 1 - 3/14 = 11/14입니다. 곱이 홀수가 되는 확률 3/14를 그대로 답으로 고르거나, 직관적으로 1/2이라 답하는 것이 흔한 실수입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Pipe A can fill an empty tank in 6 hours, and pipe B can fill the same tank in 4 hours. A drain valve C can empty a full tank in 12 hours. If all three are opened at the same time on an empty tank, how many hours will it take to fill the tank?",
+      "choices": [
+        "2",
+        "2.4",
+        "3",
+        "4",
+        "6"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation_ko": "rate(시간당 작업량)로 풀면 A는 1/6, B는 1/4, 배수구 C는 빼야 하므로 -1/12입니다. 합치면 1/6 + 1/4 - 1/12 = (2 + 3 - 1)/12 = 4/12 = 1/3이므로 한 시간에 탱크의 1/3을 채웁니다. 따라서 가득 채우는 데 3시간이 걸립니다. 배수구를 빼는 것을 잊고 1/6 + 1/4 = 5/12로 계산해 12/5 = 2.4시간을 고르는 것이 가장 흔한 함정입니다."
+    }
+  ]
+}

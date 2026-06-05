@@ -1,0 +1,133 @@
+{
+  "group": "verbal",
+  "subgroup": "se_tc",
+  "level": 2,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Although the documentary was praised for its stunning cinematography, critics found its narrative _______, jumping between decades without any clear transitions.",
+      "choices": ["disjointed", "cohesive", "riveting", "succinct", "prophetic"],
+      "answer": [0],
+      "explanation_ko": "빈칸 뒤 쉼표로 이어지는 분사구문 'jumping between decades without any clear transitions(명확한 전환 없이 수십 년을 오간다)'가 빈칸의 단서입니다. 따라서 이야기 구조가 disjointed(연결이 끊긴, 두서없는)하다는 것이 정답입니다. 가장 헷갈리는 오답인 cohesive(응집력 있는, 일관된)는 단서와 정반대 의미라서 틀렸고, riveting(매혹적인)은 비판의 맥락과 어울리지 않습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Far from being a _______ figure, the senator courted controversy at every turn, seemingly energized by public disputes.",
+      "choices": ["conciliatory", "belligerent", "eminent", "frugal", "contentious"],
+      "answer": [0],
+      "explanation_ko": "'Far from being ~(~와는 거리가 멀게)' 구문이므로 빈칸에는 '논란을 자초하는' 모습과 반대되는 단어가 와야 합니다. 정답은 conciliatory(화해적인, 회유적인)로, 논쟁을 즐기는 상원의원의 모습과 정확히 대비됩니다. 헷갈리기 쉬운 contentious(논쟁적인)나 belligerent(호전적인)를 넣으면 '논쟁적인 인물과 거리가 먼데 논란을 자초했다'는 모순된 문장이 되어 틀렸습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "The new manager's _______ approach—soliciting feedback from even the most junior employees—stood in marked contrast to her predecessor's autocratic style.",
+      "choices": ["inclusive", "imperious", "perfunctory", "clandestine", "mercurial"],
+      "answer": [0],
+      "explanation_ko": "대시 사이의 'soliciting feedback from even the most junior employees(가장 직급이 낮은 직원에게서도 의견을 구하는)'가 빈칸을 직접 설명하고, 전임자의 autocratic(독재적인) 스타일과 대비됩니다. 따라서 inclusive(포용적인)가 정답입니다. imperious(고압적인)는 오히려 전임자의 스타일에 해당하므로 틀렸고, perfunctory(형식적인, 건성의)는 적극적으로 의견을 구하는 태도와 맞지 않습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Because the experimental results were merely _______, the researchers cautioned against drawing firm conclusions until the study could be replicated.",
+      "choices": ["preliminary", "definitive", "fabricated", "redundant", "anomalous"],
+      "answer": [0],
+      "explanation_ko": "연구가 재현(replicated)될 때까지 확고한 결론을 내리지 말라고 경고했다는 내용이 단서입니다. 결과가 아직 preliminary(예비적인, 초기 단계의)했기 때문이라는 흐름이 자연스럽습니다. definitive(결정적인)는 정반대 의미이고, anomalous(변칙적인)는 결과가 이상하다는 뜻이라 'merely(단지)'와 어울리지 않으며 재현 필요성의 이유로도 부자연스러워 틀렸습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "The novelist's prose is so _______ that readers often must consult a dictionary several times per page.",
+      "choices": ["arcane", "lucid", "colloquial", "sparse", "derivative"],
+      "answer": [0],
+      "explanation_ko": "독자들이 페이지마다 사전을 여러 번 찾아봐야 한다는 결과가 단서이므로, 문체가 arcane(난해한, 잘 알려지지 않은)하다는 것이 정답입니다. lucid(명료한)와 colloquial(구어체의)은 오히려 사전이 필요 없는 쉬운 글을 의미하므로 틀렸습니다. sparse(간결한, 희박한)는 글이 짧다는 뜻일 뿐 어렵다는 의미가 아닙니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Despite the team's _______ preparation, a single overlooked detail derailed the entire product launch.",
+      "choices": ["meticulous", "hasty", "belated", "ostentatious", "halfhearted"],
+      "answer": [0],
+      "explanation_ko": "'Despite(~에도 불구하고)'가 핵심 단서로, 빈칸에는 '사소한 세부 사항 하나를 놓쳐 출시가 무산된 것'과 대비되는 긍정적인 단어가 필요합니다. 정답은 meticulous(꼼꼼한, 세심한)로, 철저히 준비했음에도 실패했다는 반전이 성립합니다. hasty(성급한)나 halfhearted(건성인)를 넣으면 실패가 당연한 결과가 되어 'Despite'의 양보 구조가 깨지므로 틀렸습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Once a _______ supporter of the policy, the economist now openly questions its central assumptions.",
+      "choices": ["staunch", "tepid", "skeptical", "nominal", "grudging"],
+      "answer": [0],
+      "explanation_ko": "'Once ~, now ~(한때는 ~였지만 지금은 ~다)' 구조로, 현재 공개적으로 의문을 제기하는 모습과 강하게 대비되는 과거의 모습이 필요합니다. 정답은 staunch(확고한, 충실한)로, 확고한 지지자였다가 비판자로 돌아섰다는 반전이 성립합니다. tepid(미온적인)나 nominal(명목상의)은 원래부터 지지가 약했다는 뜻이라 대비 효과가 사라지므로 틀렸습니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "The CEO's remarks were deliberately _______, allowing each division to interpret the new policy in whatever way suited its needs.",
+      "choices": ["ambiguous", "explicit", "vague", "terse", "inflammatory", "candid"],
+      "answer": [0, 2],
+      "explanation_ko": "각 부서가 정책을 자기 필요에 맞게 해석할 수 있었다는 단서로 보아, 발언이 의도적으로 모호했다는 의미가 되어야 합니다. ambiguous(애매한)와 vague(모호한)가 같은 의미의 문장을 만드는 정답 쌍입니다. terse(간결한)는 말이 짧다는 뜻일 뿐 여러 해석을 허용한다는 의미가 아니며, explicit(명시적인)과 candid(솔직한)는 단서와 정반대라서 틀렸습니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Even the most _______ critics conceded that the young pianist's debut performance was technically flawless.",
+      "choices": ["exacting", "lenient", "demanding", "ardent", "indifferent", "celebrated"],
+      "answer": [0, 2],
+      "explanation_ko": "'Even(심지어 ~조차)'과 conceded(마지못해 인정했다)가 단서로, 가장 인정하기 어려워할 부류의 비평가조차 인정했다는 흐름이 필요합니다. 따라서 exacting(까다로운)과 demanding(요구가 많은, 엄격한)이 동등한 의미를 만드는 정답 쌍입니다. lenient(관대한) 비평가가 인정하는 것은 당연해서 'even'의 강조가 무의미해지고, celebrated(유명한)는 엄격함과 무관하므로 틀렸습니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "After months of negotiation, the two sides reached an agreement that, while not perfect, _______ the most contentious disputes.",
+      "choices": ["resolved", "exacerbated", "settled", "ignored", "prolonged", "anticipated"],
+      "answer": [0, 2],
+      "explanation_ko": "수개월의 협상 끝에 합의에 도달했다는 맥락이므로, 가장 논쟁적인 분쟁들을 해결했다는 의미가 되어야 합니다. resolved(해결했다)와 settled(매듭지었다)가 동등한 문장을 만드는 정답 쌍입니다. ignored(무시했다)는 'while not perfect(완벽하지는 않지만)'라는 양보와 어울려 보일 수 있으나, 합의가 분쟁을 무시했다면 긍정적 평가 자체가 성립하지 않아 틀렸습니다. exacerbated(악화시켰다)와 prolonged(연장시켰다)는 합의의 결과로 부적절합니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "The committee dismissed the proposal as _______, arguing that the city lacked both the funds and the infrastructure to support it.",
+      "choices": ["impractical", "innovative", "unfeasible", "prudent", "derivative", "redundant"],
+      "answer": [0, 2],
+      "explanation_ko": "도시에 자금과 기반 시설이 모두 부족하다는 근거로 제안을 기각했으므로, 제안이 실현 불가능하다는 의미가 필요합니다. impractical(비현실적인)과 unfeasible(실행 불가능한)이 동등한 의미의 정답 쌍입니다. redundant(불필요한, 중복되는)는 기각 사유로 그럴듯해 보이지만 '이미 비슷한 것이 있다'는 뜻이라 자금 부족이라는 근거와 맞지 않아 틀렸고, derivative(독창성 없는)도 같은 이유로 부적절합니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Her _______ at the awards ceremony surprised colleagues who knew her as the most flamboyant personality in the newsroom.",
+      "choices": ["reticence", "exuberance", "reserve", "eloquence", "tardiness", "candor"],
+      "answer": [0, 2],
+      "explanation_ko": "그녀를 뉴스룸에서 가장 flamboyant(화려한, 요란한) 인물로 알던 동료들이 놀랐다고 했으므로, 빈칸에는 평소와 반대되는 조용한 태도가 와야 합니다. reticence(과묵함)와 reserve(자제, 내성적 태도)가 동등한 의미의 정답 쌍입니다. exuberance(활기 넘침)는 평소 성격 그대로라서 놀랄 이유가 없어 틀렸고, tardiness(지각)는 문장에 어색하지 않지만 화려한 성격과의 대비라는 핵심 단서와 무관합니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Rather than offering a _______ overview, the lecture delved into the minutiae of eighteenth-century maritime law.",
+      "choices": ["cursory", "thorough", "superficial", "tedious", "balanced", "technical"],
+      "answer": [0, 2],
+      "explanation_ko": "'Rather than(~하는 대신)' 구조로, 강의가 minutiae(세부 사항)까지 파고들었다는 내용과 반대되는 단어가 빈칸에 필요합니다. cursory(피상적인, 대충 훑는)와 superficial(표면적인)이 동등한 의미의 정답 쌍입니다. thorough(철저한)는 오히려 강의가 실제로 한 일을 묘사하므로 'Rather than' 뒤에 오면 모순이 되어 틀렸고, tedious(지루한)는 깊이가 아니라 재미에 관한 단어라 부적절합니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "The findings, though intriguing, are too _______ to justify changing clinical guidelines at this point.",
+      "choices": ["tentative", "conclusive", "provisional", "alarming", "replicable", "mundane"],
+      "answer": [0, 2],
+      "explanation_ko": "'though intriguing(흥미롭기는 하지만)'이라는 양보와 '지침 변경을 정당화하기에는 아직 이르다'는 맥락으로 보아, 연구 결과가 아직 확정적이지 않다는 의미가 필요합니다. tentative(잠정적인)와 provisional(임시적인)이 동등한 문장을 만드는 정답 쌍입니다. conclusive(결정적인)는 'too ~ to(너무 ~해서 ~할 수 없다)' 구문에 넣으면 의미가 모순되고, alarming(우려스러운)은 오히려 지침 변경의 근거가 될 수 있어 틀렸습니다."
+    }
+  ]
+}

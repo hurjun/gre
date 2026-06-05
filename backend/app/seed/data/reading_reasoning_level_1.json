@@ -1,0 +1,217 @@
+{
+  "group": "verbal",
+  "subgroup": "reading_reasoning",
+  "level": 1,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "When a honeybee discovers a rich source of nectar, it returns to the hive and performs a distinctive movement known as the waggle dance. During the dance, the bee moves in a figure-eight pattern while vibrating its body. The angle of the dance relative to the vertical wall of the hive indicates the direction of the food source relative to the sun, and the duration of the waggle phase communicates the distance. Other bees in the hive observe the dance and then fly directly to the food source, often arriving without any additional guidance. Scientists regard the waggle dance as one of the most sophisticated forms of symbolic communication in the animal kingdom.",
+      "question_text": "The primary purpose of the passage is to",
+      "choices": [
+        "argue that honeybees are more intelligent than all other insects",
+        "explain why honeybees prefer certain flowers over others",
+        "describe how honeybees communicate the location of food to other members of the hive",
+        "compare the waggle dance to forms of human language",
+        "criticize scientists who study insect behavior"
+      ],
+      "answer": [2],
+      "explanation_ko": "지문 전체가 꿀벌의 waggle dance(8자 춤)가 먹이의 방향(direction)과 거리(distance)를 동료 벌들에게 전달하는 방식을 설명하고 있으므로, '벌이 먹이 위치를 어떻게 전달하는지 설명한다'가 주제로 가장 적절합니다. 가장 헷갈리는 오답은 '인간 언어와 비교한다'인데, 지문은 symbolic communication(상징적 의사소통)이라고 언급할 뿐 인간 언어와의 본격적인 비교(compare)는 하지 않습니다. '다른 곤충보다 지능이 높다'는 주장도 지문에 등장하지 않습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "In seventeenth-century London, coffeehouses quickly became centers of public conversation. For the price of a single cup of coffee, a customer could read the latest newspapers, hear political debates, and exchange business information with merchants and scholars. Because admission was inexpensive, men of different social ranks mixed there more freely than in most other public places. Some government officials worried that these establishments encouraged criticism of the authorities, and in 1675 the king briefly attempted to close them. The order was withdrawn within days, however, after widespread public protest. By the early eighteenth century, coffeehouses had become so central to commercial life that several major institutions, including a famous insurance market, traced their origins to them.",
+      "question_text": "It can be inferred from the passage that the king's attempt to close the coffeehouses failed primarily because",
+      "choices": [
+        "the coffeehouses generated too much tax revenue for the government to give up",
+        "the public objected strongly to the order",
+        "merchants secretly continued to operate the coffeehouses",
+        "the coffeehouses were protected by an earlier law",
+        "newspaper publishers persuaded the king to change his mind"
+      ],
+      "answer": [1],
+      "explanation_ko": "지문에서 폐쇄 명령이 'widespread public protest(광범위한 대중의 항의)' 이후 며칠 만에 철회(withdrawn)되었다고 명시하므로, 대중의 강한 반대가 실패의 원인임을 추론할 수 있습니다. 세금 수입(tax revenue)에 관한 오답이 그럴듯해 보이지만 지문에는 세금 이야기가 전혀 없으므로 근거 없는 추론입니다. 법적 보호나 신문 발행인의 설득 역시 지문에 언급되지 않습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "When the painters later known as the Impressionists first exhibited their work in Paris in 1874, many critics dismissed their canvases as careless and unfinished. The critics objected to the visible brushstrokes and to subject matter drawn from ordinary life rather than from history or mythology. Yet these supposed flaws were in fact deliberate choices. The Impressionists wanted to capture fleeting effects of light and atmosphere, and rapid, visible brushwork was essential to that goal. Their preference for everyday scenes reflected a conviction that modern life deserved serious artistic attention. Within a few decades, the very qualities that critics had ridiculed came to be celebrated as the movement's greatest contributions to painting.",
+      "question_text": "The author's attitude toward the early critics of the Impressionists can best be described as",
+      "choices": [
+        "enthusiastic agreement with their judgments",
+        "complete indifference to their opinions",
+        "admiration for their technical expertise",
+        "disapproval, because the critics misunderstood the painters' intentions",
+        "uncertainty about whether their judgments were correct"
+      ],
+      "answer": [3],
+      "explanation_ko": "저자는 비평가들이 결점(flaws)이라 부른 것이 사실은 'deliberate choices(의도적 선택)'였다고 반박하고, 비평가들이 조롱(ridiculed)했던 바로 그 특징이 나중에 칭송받았다고 말합니다. 따라서 저자의 태도(attitude)는 비평가들이 화가의 의도를 오해했다는 데 대한 비판적 시각, 즉 disapproval(못마땅함)입니다. 'uncertainty(불확실함)'가 헷갈릴 수 있으나 저자는 비평가들이 틀렸다는 입장을 분명히 하므로 망설임이 없습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Researchers studying cities have found that parks and other green spaces provide benefits beyond recreation. Trees in urban parks absorb carbon dioxide and release oxygen, improving local air quality. Green spaces also reduce the so-called urban heat island effect: because plants release water vapor and provide shade, neighborhoods near large parks are often several degrees cooler in summer than densely paved areas. In addition, several studies have linked access to green space with lower levels of reported stress among city residents. For these reasons, many urban planners now treat parks not as luxuries but as essential infrastructure, comparable to roads and water systems.",
+      "question_text": "According to the passage, neighborhoods near large parks tend to be cooler in summer because",
+      "choices": [
+        "plants in the parks release water vapor and provide shade",
+        "parks are usually located near rivers and lakes",
+        "city governments restrict automobile traffic near parks",
+        "park visitors use less electricity than other residents",
+        "trees in the parks absorb carbon dioxide"
+      ],
+      "answer": [0],
+      "explanation_ko": "지문은 'because plants release water vapor and provide shade(식물이 수증기를 내뿜고 그늘을 제공하기 때문에)' 공원 근처가 더 시원하다고 직접 명시합니다. 가장 헷갈리는 오답은 '나무가 이산화탄소를 흡수한다'인데, 이는 지문에서 air quality(대기 질) 개선의 원인으로 제시된 것이지 기온을 낮추는 원인으로 제시된 것이 아닙니다. 강이나 교통 제한은 지문에 언급조차 되지 않습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "In the deep ocean, where sunlight cannot penetrate, many organisms produce their own light through a chemical process called bioluminescence. The uses of this light vary widely. Some fish dangle glowing lures to attract prey, while certain squid release luminous clouds to confuse predators and escape. Still others use patterns of light to signal potential mates in the darkness. One particularly striking example is the anglerfish, whose glowing lure is produced not by the fish itself but by bacteria living inside it. This partnership benefits both organisms: the bacteria receive nutrients and shelter, and the fish gains a tool for hunting. Such relationships show that even in the ocean's most extreme environments, cooperation between species can flourish.",
+      "question_text": "The author mentions the anglerfish primarily in order to",
+      "choices": [
+        "show that bioluminescence is rare in deep water",
+        "argue that bacteria are more important to ocean ecosystems than fish are",
+        "explain how some sunlight reaches the deep ocean",
+        "describe the typical diet of deep-sea predators",
+        "provide a notable example of a beneficial partnership between two species"
+      ],
+      "answer": [4],
+      "explanation_ko": "아귀(anglerfish)는 'One particularly striking example(특히 인상적인 예)'로 도입되며, 빛을 내는 박테리아와 물고기가 서로 이익을 얻는 partnership(공생 관계)을 보여주기 위해 사용되었습니다. 마지막 문장이 '협력(cooperation)이 번성할 수 있다'고 결론지으므로 예시의 기능이 분명합니다. 'bioluminescence(생물 발광)가 드물다'는 오답은 지문 첫 문장에서 많은(many) 생물이 빛을 낸다고 한 내용과 정반대입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "The network of trade routes known as the Silk Road connected China with the Mediterranean world for more than a thousand years. Although silk was its most famous commodity, the routes carried much more than cloth. Merchants transported spices, glassware, precious metals, and paper across thousands of miles. Ideas traveled as well: religious beliefs, artistic styles, and technologies such as papermaking spread along the same paths as the goods. Even diseases moved along the routes, sometimes with devastating consequences. Historians therefore describe the Silk Road not simply as a commercial highway but as a channel of cultural exchange that helped shape the civilizations at both ends.",
+      "question_text": "Which of the following best states the main idea of the passage?",
+      "choices": [
+        "Silk was the most valuable product traded anywhere in the ancient world",
+        "The Silk Road transmitted not only goods but also ideas, technologies, and even diseases",
+        "The Silk Road was primarily a route for the spread of disease",
+        "Merchants on the Silk Road cared more about spreading ideas than about earning profits",
+        "The Silk Road eventually declined because of cultural conflicts along its routes"
+      ],
+      "answer": [1],
+      "explanation_ko": "지문은 실크로드가 상품(goods)뿐 아니라 사상, 기술, 심지어 질병(diseases)까지 전달했다고 설명하고, 마지막 문장에서 'a channel of cultural exchange(문화 교류의 통로)'라고 요약합니다. 따라서 상품과 함께 사상·기술·질병이 전파되었다는 선택지가 주제입니다. '질병 전파가 주된 기능'이라는 오답은 지문에서 'even diseases(심지어 질병도)'라는 부수적 언급을 과장한 것이며, 상인의 동기나 실크로드의 쇠퇴(decline)는 지문에 없습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "To listeners unfamiliar with jazz, improvisation can seem like pure spontaneity, music invented from nothing in the moment. In reality, improvising musicians draw on years of disciplined preparation. They memorize hundreds of melodies and chord progressions, practice scales in every key, and study recordings of earlier performers. During a performance, this stored knowledge allows them to respond instantly to what other band members play. A soloist may quote a familiar tune, transform it, and hand the idea to another player, who develops it further. Far from being formless, a successful jazz improvisation follows shared conventions that all the musicians understand, much as a fluent conversation follows the unspoken rules of a language.",
+      "question_text": "It can be inferred from the passage that jazz improvisation",
+      "choices": [
+        "is impossible to perform without written sheet music",
+        "follows no rules or conventions of any kind",
+        "requires extensive preparation despite its spontaneous appearance",
+        "is easier to master than classical music",
+        "was invented by a single influential musician"
+      ],
+      "answer": [2],
+      "explanation_ko": "지문은 즉흥 연주(improvisation)가 겉보기에는 'pure spontaneity(순수한 즉흥)'처럼 보이지만 실제로는 'years of disciplined preparation(수년간의 훈련된 준비)'에 기반한다고 설명하므로, 즉흥적으로 보여도 광범위한 준비가 필요하다는 추론이 옳습니다. '규칙이 전혀 없다'는 오답은 지문의 'follows shared conventions(공유된 관습을 따른다)'와 정면으로 모순됩니다. 악보(sheet music)나 클래식 음악과의 난이도 비교는 지문에 등장하지 않습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "For much of the twentieth century, many educators in the United States believed that raising children with two languages would confuse them and slow their mental development. Beginning in the 1960s, however, carefully designed studies began to challenge this view. Researchers found that bilingual children performed as well as their monolingual peers on most measures of intelligence and, on certain tasks, even showed advantages. In particular, bilingual children were often better at switching between tasks and at ignoring irrelevant information, skills that psychologists call executive functions. While scholars continue to debate the size of these advantages, the older assumption that bilingualism harms children's thinking has been largely abandoned.",
+      "question_text": "According to the passage, studies conducted from the 1960s onward found that bilingual children",
+      "choices": [
+        "performed as well as monolingual children on most measures of intelligence",
+        "learned to read significantly later than monolingual children",
+        "were permanently confused by speaking two languages",
+        "outperformed monolingual children on every task tested",
+        "were slower than monolingual children at switching between tasks"
+      ],
+      "answer": [0],
+      "explanation_ko": "지문은 이중 언어(bilingual) 아동이 'performed as well as their monolingual peers(단일 언어 또래만큼 잘 수행했다)'고 명시하므로 첫 번째 선택지가 정답입니다. 가장 헷갈리는 오답은 '모든 과제에서 능가했다(every task)'인데, 지문은 'on certain tasks(특정 과제에서만)' 우위를 보였다고 했으므로 every는 지나친 과장입니다. 과제 전환(switching between tasks)은 오히려 이중 언어 아동이 더 잘했다고 나오므로 마지막 선택지는 정반대입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "A recent study found that employees at GreenLeaf Software who exercise in the company gym before work are more productive than employees who do not use the gym. The company's directors concluded that morning exercise causes higher productivity, and they now plan to require all employees to exercise before work.",
+      "question_text": "Which of the following, if true, most seriously weakens the directors' conclusion?",
+      "choices": [
+        "The company gym is open from 6 a.m. to 8 p.m. on weekdays",
+        "Some employees say they would prefer to exercise after work instead",
+        "The company gym contains modern, well-maintained exercise equipment",
+        "Employees who already have unusually high energy and motivation are the ones most likely to choose to exercise before work",
+        "Overall productivity at GreenLeaf has increased every year since the gym opened"
+      ],
+      "answer": [3],
+      "explanation_ko": "이 논증은 상관관계(correlation)를 인과관계(causation)로 단정한 것입니다. 원래 에너지와 의욕(motivation)이 높은 직원이 아침 운동을 '선택'하는 것이라면, 운동이 생산성(productivity)의 원인이 아니라 둘 다 제3의 요인에서 비롯된 것이므로 결론이 약화됩니다. '퇴근 후 운동을 선호한다'는 오답은 직원들의 선호를 말할 뿐 운동과 생산성의 인과관계 자체를 흔들지 못합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "City officials claim that the new streetlights installed last year throughout the Riverside district have reduced nighttime traffic accidents there. As evidence, they point out that the number of nighttime accidents in Riverside fell by 30 percent in the year after the lights were installed.",
+      "question_text": "Which of the following, if true, most strengthens the officials' claim?",
+      "choices": [
+        "In similar districts where no new streetlights were installed, nighttime accidents did not decline during the same year",
+        "Daytime traffic accidents in Riverside also fell by 30 percent during the same year",
+        "The new streetlights consume less electricity than the old ones did",
+        "The streetlights were installed by a well-known local construction company",
+        "Some Riverside residents have complained that the new lights are too bright"
+      ],
+      "answer": [0],
+      "explanation_ko": "새 가로등이 없는 비슷한 지역(similar districts)에서는 야간 사고가 줄지 않았다면, Riverside의 감소가 도시 전체의 일반적 추세가 아니라 가로등 때문일 가능성이 커지므로 주장이 강화(strengthen)됩니다. 가장 헷갈리는 오답은 '주간(daytime) 사고도 30% 감소했다'인데, 이는 조명과 무관한 다른 원인이 사고를 줄였음을 시사하므로 오히려 주장을 약화시킵니다. 전기 소비량이나 시공 업체는 사고 감소와 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "The Milton Public Library plans to extend its evening hours because a recent survey showed that 70 percent of local residents would visit the library more often if it stayed open later. Based on this survey, the library's director concludes that extending evening hours will increase the total number of visits to the library.",
+      "question_text": "The director's conclusion depends on which of the following assumptions?",
+      "choices": [
+        "Most residents currently visit the library at least once a week",
+        "The library owns more books than any other library in the region",
+        "At least some of the residents who said they would visit more often will actually do so",
+        "Extending the evening hours will not require the library to spend any additional money",
+        "Local residents prefer printed books to electronic books"
+      ],
+      "answer": [2],
+      "explanation_ko": "설문(survey)에서 '더 자주 오겠다'고 답한 것은 의향일 뿐이므로, 결론이 성립하려면 그 응답자 중 적어도 일부가 실제로 방문해야 한다는 가정(assumption)이 반드시 필요합니다. 이 가정을 부정하면, 즉 아무도 실제로 더 오지 않는다면 결론이 무너지므로 필수 가정임을 확인할 수 있습니다. '추가 비용이 들지 않는다'는 오답은 방문 횟수(number of visits) 증가라는 결론과 직접 관련이 없어 필수적이지 않습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Daniel: Every member of the Westfield Chess Club whom I have met is an excellent mathematician. Clearly, playing chess improves a person's mathematical ability. Therefore, parents who want their children to excel in mathematics should enroll them in chess lessons as early as possible.",
+      "question_text": "Daniel's argument is most vulnerable to criticism on the grounds that it",
+      "choices": [
+        "relies on the opinion of a single unqualified expert",
+        "attacks the personal character of chess players rather than their arguments",
+        "uses the word 'mathematician' in two different senses",
+        "presents a conclusion that merely restates one of its premises",
+        "assumes that because two traits occur together, one of them must cause the other"
+      ],
+      "answer": [4],
+      "explanation_ko": "Daniel은 체스 클럽 회원들이 수학을 잘한다는 동시 발생(두 특성이 함께 나타남)만 보고 체스가 수학 능력의 '원인(cause)'이라고 단정했습니다. 실제로는 수학을 잘하는 사람이 체스에 끌리는 것일 수도 있으므로, 이는 전형적인 상관관계-인과관계 혼동의 오류(flaw)입니다. '한 전문가의 의견에 의존한다'는 오답이 헷갈릴 수 있으나, Daniel은 전문가 의견이 아니라 자신의 관찰(observation)을 근거로 삼고 있습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "The Harborview building contains forty apartments, and every apartment in the building has a balcony. Building regulations prohibit barbecue grills on all balconies in the building. Some of the apartments in the Harborview building are currently rented by university students.",
+      "question_text": "If the statements above are true, which of the following must also be true?",
+      "choices": [
+        "No university student living in the Harborview building owns a barbecue grill",
+        "Some apartments rented by university students have balconies on which barbecue grills are prohibited",
+        "Most of the apartments in the Harborview building are rented by university students",
+        "University students generally dislike outdoor barbecuing",
+        "All apartment buildings in the city prohibit barbecue grills on balconies"
+      ],
+      "answer": [1],
+      "explanation_ko": "모든(every) 아파트에 발코니가 있고 모든 발코니에서 그릴이 금지(prohibit)되며, 일부(some) 아파트를 대학생이 임차하고 있으므로, 대학생이 임차한 아파트에도 그릴이 금지된 발코니가 있다는 결론은 반드시 참(must be true)입니다. '학생이 그릴을 소유하지 않는다'는 오답이 헷갈리지만, 규정은 발코니에서의 사용을 금지할 뿐 소유(own) 여부는 알 수 없습니다. 'most(대부분)'나 'all buildings in the city(도시의 모든 건물)'는 주어진 정보 범위를 벗어납니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Over the past decade, the number of safety inspections at Brightport's factories has doubled, and the factories have invested heavily in protective equipment for their workers. Nevertheless, the number of workplace injuries officially reported in Brightport's factories has risen steadily during the same period.",
+      "question_text": "Which of the following, if true, best explains the apparent paradox described above?",
+      "choices": [
+        "A new reporting policy now requires workers to report even minor injuries that previously went unrecorded",
+        "The protective equipment purchased by the factories is regularly tested by safety experts",
+        "Safety inspections at the factories are usually announced several days in advance",
+        "The number of factories in cities near Brightport has declined over the past decade",
+        "Most factory workers in Brightport approve of the increased safety inspections"
+      ],
+      "answer": [0],
+      "explanation_ko": "보고된(reported) 부상 건수가 늘어난 것이지 실제 부상이 늘었다는 보장은 없습니다. 예전에는 기록되지 않던 경미한(minor) 부상까지 의무적으로 보고하게 하는 새 정책이 생겼다면, 안전이 개선되었는데도 보고 건수는 증가할 수 있어 역설(paradox)이 자연스럽게 해소됩니다. '검사가 사전에 예고된다'는 오답은 검사의 효과가 적은 이유는 될 수 있어도 부상 건수가 '증가'한 이유를 설명하지 못합니다."
+    }
+  ]
+}

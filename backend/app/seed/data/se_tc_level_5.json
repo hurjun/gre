@@ -1,0 +1,224 @@
+{
+  "group": "verbal",
+  "subgroup": "se_tc",
+  "level": 5,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Although the philologist's monograph was praised for its _______ erudition, more than one reviewer intimated that so promiscuous a display of learning served less to illuminate the argument than to embalm it.",
+      "choices": [
+        "meretricious",
+        "prodigious",
+        "perfunctory",
+        "surreptitious",
+        "recondite"
+      ],
+      "answer": [1],
+      "explanation_ko": "문장 후반의 'so promiscuous a display of learning(이토록 무분별하게 과시된 학식)'이 단서로, 빈칸에는 학식의 '방대함'을 나타내는 prodigious(엄청난, 방대한)가 들어가야 합니다. 칭찬(praised)의 대상이면서 동시에 과잉으로 비판받을 수 있는 속성은 '양'입니다. 가장 헷갈리는 recondite(난해한, 심오한)는 학식의 '깊이'를 말할 뿐 과시적 '분량'이라는 후반부 단서와 호응하지 않으며, meretricious(겉만 번지르르한)는 부정적 어휘라 'praised for'와 모순됩니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Paradoxically, the very _______ that made her prose so quotable rendered her arguments difficult to assess: aphorism, however burnished, resists the qualification on which rigorous claims depend.",
+      "choices": [
+        "prolixity",
+        "mendacity",
+        "sententiousness",
+        "diffidence",
+        "opacity"
+      ],
+      "answer": [2],
+      "explanation_ko": "콜론 뒤의 'aphorism(경구, 격언)'이 결정적 단서로, 인용하기 좋은(quotable) 문체의 속성은 sententiousness(경구적 간결함, 격언조)입니다. 격언은 다듬어져 있을수록 엄밀한 주장에 필요한 단서 조항(qualification)을 거부하므로 논증 평가가 어려워진다는 역설이 성립합니다. opacity(불투명함)는 평가가 어렵다는 결과와는 어울리지만 '인용하기 좋다'는 원인과 모순되고, prolixity(장황함)는 quotable과 정반대입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "The biographer, alert to her subject's reputation for _______, treated even his most self-lacerating diary entries with suspicion, reasoning that a man so practiced at performing contrition might confect humility as readily as he had once confected triumph.",
+      "choices": [
+        "probity",
+        "candor",
+        "asceticism",
+        "histrionics",
+        "misanthropy"
+      ],
+      "answer": [3],
+      "explanation_ko": "'performing contrition(참회를 연기하다)'과 'confect(꾸며내다)'라는 단서가 인물이 감정을 연출하는 데 능했음을 보여 주므로, 정답은 histrionics(연극조의 과장된 행동)입니다. 그런 평판 때문에 전기 작가는 자학적인 일기조차 의심한 것입니다. 가장 헷갈리는 candor(솔직함)는 '자기를 헐뜯는 일기'라는 표면적 인상에 끌려 고르기 쉽지만, 솔직하다는 평판이라면 오히려 일기를 신뢰했을 것이므로 논리가 뒤집힙니다. probity(강직함) 역시 의심이 아니라 신뢰의 근거가 됩니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Because the fossil record is _______ at precisely the stratigraphic horizons where the transition should be documented, paleontologists must adjudicate between rival phylogenies on evidence that is, by everyone's admission, circumstantial.",
+      "choices": [
+        "exhaustive",
+        "equivocal",
+        "lacunose",
+        "redundant",
+        "pristine"
+      ],
+      "answer": [2],
+      "explanation_ko": "학자들이 '정황 증거(circumstantial evidence)'에만 의존해야 한다는 것은 해당 지층에서 직접 증거가 아예 '비어 있다'는 뜻이므로, 정답은 lacunose(공백이 많은, 결락된)입니다. 가장 헷갈리는 equivocal(모호한)은 증거가 존재하되 해석이 갈린다는 의미라서, 직접 증거 자체가 없어 정황 증거로만 판단해야 한다는 문장의 핵심과 어긋납니다. exhaustive(망라된)와 pristine(온전한)은 정반대 방향입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "That the regime tolerated, even quietly subsidized, its most caustic satirists struck foreign observers as _______ until they grasped the logic: licensed mockery, by simulating freedom, forestalled demand for the genuine article.",
+      "choices": [
+        "vindictive",
+        "sagacious",
+        "unaccountable",
+        "pusillanimous",
+        "ostentatious"
+      ],
+      "answer": [2],
+      "explanation_ko": "'until they grasped the logic(그 논리를 깨닫기 전까지는)'라는 구조상, 빈칸에는 깨닫기 전의 인상, 즉 '설명이 안 되는'이라는 뜻의 unaccountable(이해할 수 없는, 불가해한)이 들어가야 합니다. 독재 정권이 신랄한 풍자가를 후원한다는 것은 논리를 모르면 수수께끼처럼 보이기 때문입니다. 가장 헷갈리는 sagacious(현명한)는 콜론 뒤의 교묘한 전략을 보고 역으로 채워 넣기 쉽지만, 그것은 깨달은 '이후'의 평가이지 깨닫기 '전'의 인상이 아니므로 틀립니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Her detractors, who had long dismissed the novelist as a mere _______ of more daring writers, were discomfited when the newly published juvenilia revealed that the devices they deemed derivative had in fact preceded their supposed originals by a decade.",
+      "choices": [
+        "gadfly",
+        "doyenne",
+        "epigone",
+        "panegyrist",
+        "iconoclast"
+      ],
+      "answer": [2],
+      "explanation_ko": "비판자들이 그녀의 기법을 'derivative(모방적인, 파생적인)'라고 여겼다는 단서에서, 그들이 그녀를 '더 대담한 작가들의 아류'로 치부했음을 알 수 있으므로 정답은 epigone(아류, 모방자)입니다. 가장 헷갈리는 iconoclast(인습 타파자)와 doyenne(원로, 일인자)는 문장 후반의 반전, 즉 그녀가 사실은 원조였다는 폭로에 이끌려 고르기 쉽지만, 빈칸은 폭로 '이전'에 비판자들이 붙인 낙인을 묻고 있으므로 틀립니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "It would be _______ to conclude from the treaty's collapse that diplomacy failed; the negotiations succeeded precisely as their architects intended — as theater that postponed, without ever pretending to resolve, a confrontation neither side could yet afford.",
+      "choices": [
+        "axiomatic",
+        "prescient",
+        "obtuse",
+        "churlish",
+        "scrupulous"
+      ],
+      "answer": [2],
+      "explanation_ko": "세미콜론 뒤에서 협상은 애초 의도대로, 즉 대결을 미루는 '연극'으로서 성공했다고 밝히므로, 조약 결렬을 외교 실패로 결론짓는 것은 obtuse(둔감한, 우둔한) 판단입니다. 가장 헷갈리는 axiomatic(자명한)은 '조약이 깨졌으니 외교가 실패했다'는 표면적 독해에는 자연스러워 보이지만, 문장 전체가 바로 그 결론을 반박하고 있으므로 정반대의 함정입니다. churlish(무례한)는 판단의 예의를 말할 뿐 판단의 어리석음을 짚지 못합니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Reviewers who expected the memoir to settle old scores found instead a narrative so studiedly _______ that several quarrels famous in literary gossip went entirely unmentioned.",
+      "choices": [
+        "vituperative",
+        "reticent",
+        "candid",
+        "discreet",
+        "prolix",
+        "elegiac"
+      ],
+      "answer": [1, 3],
+      "explanation_ko": "유명한 다툼들이 아예 언급조차 되지 않았다는 결과로 보아, 회고록은 의도적으로 말을 아끼는 글이었으므로 reticent(말을 아끼는)와 discreet(신중하게 함구하는)가 정답 쌍입니다. 두 단어 모두 민감한 일을 드러내지 않는다는 동일한 의미의 문장을 만듭니다. 가장 헷갈리는 vituperative(독설적인)는 'settle old scores(묵은 원한을 갚다)'라는 기대에 이끌린 함정으로, 'instead(그 대신)'가 기대와 반대되는 내용을 요구하므로 틀립니다. candid(솔직한)는 언급 회피와 모순됩니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "The new director's reforms, though billed as a radical break, struck longtime staff as merely _______: the same hierarchies survived intact under freshly minted titles.",
+      "choices": [
+        "subversive",
+        "cosmetic",
+        "draconian",
+        "overdue",
+        "superficial",
+        "foundational"
+      ],
+      "answer": [1, 4],
+      "explanation_ko": "콜론 뒤에서 직함만 새로 바뀌었을 뿐 기존 위계가 고스란히 살아남았다고 하므로, 개혁은 겉모습만 바꾼 것입니다. 따라서 cosmetic(겉치레의)과 superficial(피상적인)이 동등한 의미의 문장을 만드는 정답 쌍입니다. 가장 헷갈리는 subversive(전복적인)와 foundational(근본적인)은 'radical break(급진적 단절)'라는 홍보 문구에 이끌린 함정이지만, 'though(비록 ~이지만)'와 'merely(고작)'가 홍보와 실상이 반대임을 알려 주므로 틀립니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Even admirers conceded that the senator's late conversion to the cause smacked of _______, coming as it did within weeks of polling that revealed the issue's sudden popularity in his district.",
+      "choices": [
+        "conviction",
+        "opportunism",
+        "altruism",
+        "expediency",
+        "recalcitrance",
+        "apostasy"
+      ],
+      "answer": [1, 3],
+      "explanation_ko": "지지율 조사 직후에 입장을 바꿨다는 시점이 단서로, 그의 전향은 사익을 좇은 계산된 행동으로 보입니다. 따라서 opportunism(기회주의)과 expediency(편의주의, 실리 추구)가 동일한 의미를 만드는 정답 쌍입니다. 가장 헷갈리는 apostasy(변절, 신념 포기)는 'conversion(전향)'이라는 단어에 이끌리기 쉽지만, 문장의 초점은 신념을 버렸다는 사실이 아니라 여론에 맞춘 '타이밍의 불순함'이며 짝을 이루는 동의어도 없습니다. conviction(신념)은 정반대입니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "The glacier's retreat has been so _______ that maps drawn barely a decade ago now overstate its extent by kilometers, obliging cartographers to revise charts once reissued unchanged for generations.",
+      "choices": [
+        "imperceptible",
+        "precipitous",
+        "cyclical",
+        "dramatic",
+        "halting",
+        "modest"
+      ],
+      "answer": [1, 3],
+      "explanation_ko": "겨우 10년 전 지도가 벌써 수 킬로미터나 틀릴 정도라는 결과는 빙하 후퇴가 극도로 빠르고 컸음을 뜻하므로, precipitous(급격한)와 dramatic(극적인)이 동등한 문장을 만드는 정답 쌍입니다. imperceptible(감지할 수 없는), halting(더딘), modest(미미한)는 모두 변화의 규모를 축소하여 'so ~ that' 구문의 결과와 모순됩니다. cyclical(주기적인)은 방향의 반복을 말할 뿐 지도가 단기간에 무용지물이 된 이유를 설명하지 못합니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "His prose, _______ to the point of self-parody, buried every assertion beneath such drifts of qualification that reviewers joked his true thesis remained classified.",
+      "choices": [
+        "lapidary",
+        "circumlocutory",
+        "trenchant",
+        "periphrastic",
+        "mellifluous",
+        "dogmatic"
+      ],
+      "answer": [1, 3],
+      "explanation_ko": "모든 주장이 단서 조항(qualification) 더미에 파묻혀 논지조차 알 수 없었다는 묘사는 빙빙 에두르는 문체를 가리키므로, circumlocutory(에두르는, 완곡한)와 periphrastic(우회적인)이 동등한 의미의 정답 쌍입니다. 가장 헷갈리는 lapidary(간결하고 정제된)와 trenchant(날카롭고 명쾌한)는 세련된 문체 칭찬처럼 보여 끌리지만, 주장이 파묻혀 보이지 않는다는 결과와 정반대입니다. dogmatic(독단적인)은 단정을 꺼리는 이 문체와 모순됩니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Far from being chastened by the tribunal's censure, the financier grew positively _______, flaunting in interviews the very stratagems for which he had been condemned.",
+      "choices": [
+        "contrite",
+        "brazen",
+        "abstemious",
+        "unabashed",
+        "penitent",
+        "litigious"
+      ],
+      "answer": [1, 3],
+      "explanation_ko": "'Far from being chastened(반성하기는커녕)'과 'flaunting(과시하며)'이라는 단서로 보아, 그는 단죄받은 수법을 오히려 자랑했으므로 brazen(뻔뻔한)과 unabashed(부끄러워하지 않는)가 동등한 문장을 만드는 정답 쌍입니다. 가장 헷갈리는 contrite(뉘우치는)와 penitent(참회하는)는 서로 동의어 쌍을 이루어 매력적이지만, 문두의 'Far from'이 만든 반전을 놓친 표면적 독해의 함정으로 의미가 정반대입니다. litigious(소송을 일삼는)는 맥락과 무관합니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "The anthology's editor, wary of canonizing any single school, assembled so _______ a collection that critics could discern in it no governing aesthetic at all.",
+      "choices": [
+        "monolithic",
+        "heterogeneous",
+        "slender",
+        "eclectic",
+        "derivative",
+        "tendentious"
+      ],
+      "answer": [1, 3],
+      "explanation_ko": "어느 한 유파도 정전화(canonize)하지 않으려 했고 비평가들이 일관된 미학을 전혀 찾지 못했다는 결과로 보아, 선집은 갖가지 경향을 뒤섞은 것입니다. 따라서 heterogeneous(이질적인 것이 뒤섞인)와 eclectic(절충적인, 다채로운)이 동등한 의미의 정답 쌍입니다. 가장 헷갈리는 tendentious(특정 의도가 깔린)는 편집자의 '의도'라는 표현에 끌릴 수 있으나, 일관된 미학이 없다는 결과와 정반대이며 monolithic(획일적인) 역시 같은 이유로 틀립니다."
+    }
+  ]
+}

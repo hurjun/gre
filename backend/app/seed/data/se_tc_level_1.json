@@ -1,0 +1,133 @@
+{
+  "group": "verbal",
+  "subgroup": "se_tc",
+  "level": 1,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Although the lecture was scheduled to last only an hour, the professor was so _______ that he spoke for nearly three.",
+      "choices": ["succinct", "verbose", "taciturn", "timid", "apathetic"],
+      "answer": [1],
+      "explanation_ko": "한 시간 예정이던 강의가 세 시간 가까이 이어졌다는 것은 교수가 말이 많았다는 뜻이므로 verbose(장황한, 말이 많은)가 정답입니다. succinct(간결한)와 taciturn(말수가 적은)은 오히려 반대 의미라서 문장의 결과와 모순됩니다. timid(소심한)와 apathetic(무관심한)은 강의 시간이 길어진 이유를 설명하지 못합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "The new evidence was so _______ that even the most skeptical jurors were convinced of the defendant's innocence.",
+      "choices": ["dubious", "trivial", "compelling", "irrelevant", "contradictory"],
+      "answer": [2],
+      "explanation_ko": "가장 회의적인 배심원들까지 설득되었다는 결과가 나오려면 증거가 매우 설득력 있어야 하므로 compelling(설득력 있는, 강력한)이 정답입니다. dubious(의심스러운)는 증거에 자주 붙는 단어라 헷갈리기 쉽지만, 의심스러운 증거로는 회의적인 사람을 설득할 수 없으므로 틀렸습니다. trivial(사소한)과 irrelevant(무관한)도 설득이라는 결과와 어울리지 않습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Far from being _______, the manager welcomed criticism and often revised her plans based on employee feedback.",
+      "choices": ["receptive", "diligent", "generous", "obstinate", "flexible"],
+      "answer": [3],
+      "explanation_ko": "'Far from being ~'(전혀 ~하지 않은) 구문이므로 빈칸에는 '비판을 환영하고 계획을 수정하는 태도'와 반대되는 단어가 들어가야 합니다. 따라서 obstinate(고집 센, 완고한)가 정답입니다. receptive(수용적인)와 flexible(유연한)는 매니저의 실제 모습을 묘사하는 단어라서, 부정 구문에 넣으면 문장의 의미가 뒤집혀 버리므로 틀렸습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Because the desert region receives almost no rainfall, its plant life is remarkably _______, consisting of only a few hardy species.",
+      "choices": ["abundant", "lush", "sparse", "varied", "delicate"],
+      "answer": [2],
+      "explanation_ko": "비가 거의 오지 않고 '소수의 강인한 종으로만 이루어져 있다'는 단서가 있으므로 sparse(드문드문한, 희박한)가 정답입니다. abundant(풍부한)와 lush(무성한)는 정반대 의미입니다. delicate(연약한)는 사막 식물을 수식할 수 있어 보이지만, hardy(강인한) 종이라는 표현과 모순되고 '소수'라는 단서와도 맞지 않아 틀렸습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "The scientist's claims were initially met with skepticism, but subsequent experiments _______ her findings, and the theory is now widely accepted.",
+      "choices": ["contradicted", "obscured", "anticipated", "ridiculed", "corroborated"],
+      "answer": [4],
+      "explanation_ko": "처음에는 회의적이었지만 이제는 이론이 널리 받아들여졌다고 했으므로, 후속 실험이 연구 결과를 입증해 준 것입니다. 따라서 corroborated(입증했다, 뒷받침했다)가 정답입니다. contradicted(반박했다)는 'but' 이후의 흐름을 반대로 만들기 때문에 틀렸습니다. obscured(모호하게 했다)와 ridiculed(조롱했다)도 이론이 수용되는 결과로 이어질 수 없습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Known for her _______ nature, the philanthropist donated millions to schools and hospitals without seeking any recognition.",
+      "choices": ["benevolent", "frugal", "cynical", "gregarious", "ambitious"],
+      "answer": [0],
+      "explanation_ko": "학교와 병원에 수백만 달러를 기부하고도 인정을 바라지 않았다는 내용이므로 benevolent(자애로운, 인정 많은)가 정답입니다. frugal(검소한)은 돈과 관련된 단어라 헷갈릴 수 있지만, 검소함은 돈을 아끼는 성향이지 기부하는 성향이 아니므로 틀렸습니다. ambitious(야심 찬)는 인정을 바라지 않았다는 단서와 어울리지 않습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "The treaty's language was deliberately _______ so that each nation could interpret its obligations in a way that suited its own interests.",
+      "choices": ["precise", "ambiguous", "explicit", "eloquent", "terse"],
+      "answer": [1],
+      "explanation_ko": "각 나라가 의무를 자국에 유리하게 해석할 수 있게 하려면 조약의 문구가 여러 의미로 읽혀야 하므로 ambiguous(모호한, 여러 뜻으로 해석되는)가 정답입니다. precise(정확한)와 explicit(명시적인)은 해석의 여지를 없애므로 정반대입니다. terse(간결한)는 문체가 짧다는 뜻일 뿐, 해석이 갈린다는 의미는 아니어서 틀렸습니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "The committee praised the intern's _______ report, which examined every aspect of the issue in detail.",
+      "choices": ["thorough", "brief", "comprehensive", "biased", "tedious", "belated"],
+      "answer": [0, 2],
+      "explanation_ko": "보고서가 '문제의 모든 측면을 상세히 다루었다'고 했으므로 thorough(철저한)와 comprehensive(포괄적인)가 정답이며, 두 단어 모두 빈틈없이 다루었다는 동일한 의미를 만듭니다. brief(간략한)는 상세히 다루었다는 단서와 모순됩니다. tedious(지루한)는 긴 보고서에 붙을 법한 단어지만 위원회가 칭찬했다는 맥락과 어울리지 않아 틀렸습니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Despite the storm warnings, the captain remained _______, refusing to alter the ship's course.",
+      "choices": ["anxious", "resolute", "indecisive", "steadfast", "negligent", "compliant"],
+      "answer": [1, 3],
+      "explanation_ko": "폭풍 경보에도 항로 변경을 거부했다는 것은 선장이 흔들리지 않았다는 뜻이므로 resolute(단호한)와 steadfast(확고한)가 정답이며, 두 단어는 같은 의미의 문장을 만듭니다. indecisive(우유부단한)는 거부라는 단호한 행동과 모순됩니다. negligent(태만한)는 경고를 무시했다는 점에서 그럴듯해 보이지만 짝을 이루는 동의어가 없고 '꿋꿋함'이라는 문맥상 의미와도 다릅니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "The comedian's _______ remarks kept the audience laughing throughout the entire performance.",
+      "choices": ["somber", "offensive", "witty", "profound", "humorous", "monotonous"],
+      "answer": [2, 4],
+      "explanation_ko": "관객을 공연 내내 웃게 만들었다고 했으므로 witty(재치 있는)와 humorous(유머러스한)가 정답이며, 두 단어 모두 '웃긴 발언'이라는 같은 의미를 만듭니다. somber(침울한)와 monotonous(단조로운)는 웃음이라는 결과와 정반대입니다. profound(심오한)는 긍정적인 단어라 헷갈릴 수 있지만 웃음을 유발한다는 의미가 아니므로 틀렸습니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Because the assembly instructions were so _______, even experienced engineers struggled to put the device together.",
+      "choices": ["vague", "straightforward", "detailed", "unclear", "concise", "helpful"],
+      "answer": [0, 3],
+      "explanation_ko": "숙련된 엔지니어조차 조립에 애를 먹었다면 설명서가 이해하기 어려웠다는 뜻이므로 vague(모호한)와 unclear(불분명한)가 정답이며, 두 단어는 동일한 의미의 문장을 만듭니다. straightforward(간단명료한)와 helpful(유용한)은 결과와 정반대입니다. detailed(상세한)는 설명서에 흔히 붙는 단어라 헷갈리지만, 상세한 설명서는 오히려 조립을 쉽게 만들므로 틀렸습니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "The once _______ village has grown into a bustling city of over a million residents.",
+      "choices": ["crowded", "tranquil", "modern", "peaceful", "prosperous", "noisy"],
+      "answer": [1, 3],
+      "explanation_ko": "현재의 bustling(북적이는) 도시와 대조되는 과거의 모습이 들어가야 하므로 tranquil(고요한)과 peaceful(평화로운)이 정답이며, 두 단어는 같은 의미를 만듭니다. crowded(붐비는)와 noisy(시끄러운)는 현재 모습과 같아 'once(한때)'라는 대조가 성립하지 않습니다. prosperous(번영하는)는 도시 발전 맥락에서 그럴듯해 보이지만 고요함과의 대조라는 문맥상 의미와 맞지 않습니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Critics dismissed the politician's promises as _______, noting that he had failed to keep similar pledges in the past.",
+      "choices": ["sincere", "hollow", "ambitious", "empty", "modest", "feasible"],
+      "answer": [1, 3],
+      "explanation_ko": "과거에도 비슷한 공약을 지키지 못했다는 단서가 있으므로 비평가들은 공약을 실속 없는 것으로 일축한 것입니다. 따라서 hollow(공허한)와 empty(빈, 공허한)가 정답이며, 둘 다 '지켜지지 않을 약속'이라는 같은 의미를 만듭니다. sincere(진실한)와 feasible(실현 가능한)은 비판의 맥락과 정반대입니다. ambitious(야심 찬)는 공약에 자주 붙는 수식어라 헷갈리지만 '지키지 못했다'는 단서가 가리키는 의미가 아닙니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Volunteers worked tirelessly to _______ the suffering of families displaced by the flood.",
+      "choices": ["aggravate", "alleviate", "document", "ease", "ignore", "prolong"],
+      "answer": [1, 3],
+      "explanation_ko": "자원봉사자들이 수재민 가족을 돕기 위해 쉬지 않고 일했다는 맥락이므로 고통을 덜어 준다는 뜻의 alleviate(완화하다)와 ease(덜다, 완화하다)가 정답이며, 두 단어는 같은 의미의 문장을 만듭니다. aggravate(악화시키다)와 prolong(연장하다)은 봉사 활동의 목적과 정반대입니다. document(기록하다)는 재난 상황에서 가능한 행동이라 헷갈릴 수 있지만 짝을 이루는 동의어가 없고 '돕는다'는 핵심 의미와도 다릅니다."
+    }
+  ]
+}

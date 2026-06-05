@@ -1,0 +1,217 @@
+{
+  "group": "verbal",
+  "subgroup": "reading_reasoning",
+  "level": 4,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Historians once attributed the rapid diffusion of printed pamphlets in sixteenth-century Europe chiefly to the ingenuity of individual printers. More recent scholarship, however, locates the phenomenon in an unglamorous infrastructure: the dense network of seasonal trade fairs through which paper, type, and finished sheets circulated. Printers clustered not where literacy was highest but where these fairs converged, suggesting that the technology's reach was bounded less by demand than by the logistics of supply. Tellingly, towns with comparable populations but poorer fair connections produced a fraction of the output, even when local readers were demonstrably eager for texts.",
+      "question_text": "The passage suggests that the author would most likely agree with which of the following statements?",
+      "choices": [
+        "The geographic spread of early printing was shaped more by the movement of materials than by the appetite of readers.",
+        "Individual printers contributed nothing of importance to the diffusion of printed pamphlets.",
+        "Literacy rates were the single most reliable predictor of where printing would flourish.",
+        "Trade fairs were valued in the sixteenth century primarily as venues for selling finished books.",
+        "Towns poorly connected to fairs invariably lacked readers interested in printed texts."
+      ],
+      "answer": [0],
+      "explanation_ko": "지문은 인쇄의 확산이 수요(readers' demand)보다 종이·활자 등 물자의 공급 물류(logistics of supply)에 의해 좌우되었다고 본다. 따라서 '독자의 욕구보다 물자의 이동이 확산을 더 좌우했다'는 (0)이 정답이다. (1)은 개별 인쇄공의 기여를 '전혀 없다'로 과장해서 틀렸고(지문은 비중을 낮췄을 뿐), (4)는 연결이 나쁜 도시에도 '열성적인 독자(eager readers)'가 있었다고 명시하므로 'invariably(예외 없이)'가 틀렸다. (2)(3)도 지문의 주장과 반대다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "The marsh's apparent monotony deceives the casual observer. Beneath a uniform sheet of cordgrass lies a finely partitioned world: ribbed mussels anchor the peat, fiddler crabs aerate the sediment with their burrows, and microbial mats fix nitrogen that the grass cannot obtain otherwise. Remove any one player and the others falter, yet no single species announces its indispensability. The marsh thus rewards a patience that resists the eye's craving for spectacle. What looks like emptiness is in fact a tightly choreographed economy, its transactions conducted in increments too small and too slow for a passing glance to register.",
+      "question_text": "The primary purpose of the passage is to",
+      "choices": [
+        "argue that salt marshes are more biologically productive than forests",
+        "correct a perception of the marsh as simple by revealing its hidden interdependence",
+        "warn that the removal of mussels would cause the marsh to collapse entirely",
+        "celebrate the visual spectacle that careful observers eventually discover",
+        "trace the historical decline of marsh ecosystems under human pressure"
+      ],
+      "answer": [1],
+      "explanation_ko": "지문은 단조로워(monotony) 보이는 습지가 실제로는 종들이 서로 의존하는 정교한 체계임을 드러내며 '단순하다는 인식을 바로잡는' 것이 목적이다. 따라서 (1)이 정답이다. (2)는 홍합(mussels) 하나만 콕 집어 붕괴를 단정하지만 지문은 '어느 하나라도(any one)' 빠지면 흔들린다고 했을 뿐 전면 붕괴를 말하지 않는다. (0)(3)(4)는 숲과의 비교, 시각적 볼거리, 역사적 쇠퇴 등 지문에 없는 내용이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Critics of the composer's late quartets long heard their abrupt silences as failures of craft, gaps a more disciplined hand would have filled. The composer's letters tell a different story. He describes the rests not as absences but as 'sounding pauses,' intervals in which the listener's memory continues the phrase the instruments have abandoned. The music, on this view, delegates part of its labor to the audience, treating attention as an instrument no less essential than the cello. What the critics dismissed as omission was, for him, the deliberate enlistment of the unheard.",
+      "question_text": "The author refers to the composer's letters primarily in order to",
+      "choices": [
+        "demonstrate that the late quartets were composed more quickly than critics assumed",
+        "provide evidence that reframes the silences as intentional rather than as defects",
+        "suggest that the composer regretted the abrupt rests in his late works",
+        "establish that the cello was the most important instrument in the quartets",
+        "prove that contemporary audiences disliked the quartets' use of silence"
+      ],
+      "answer": [1],
+      "explanation_ko": "비평가들은 침묵(silences)을 기교의 실패로 봤지만, 작곡가의 편지는 그것이 청중의 기억이 악구를 이어가게 하는 '의도된 sounding pauses(울리는 멈춤)'였음을 보여준다. 따라서 편지는 침묵을 '결함이 아닌 의도'로 재해석하는 증거로 쓰였다(1). (2)는 작곡가가 후회했다고 하지만 정반대로 자부심 어린 의도적 설명이다. (3)은 첼로가 가장 중요한 악기임을 입증하려 한다지만 지문은 청중의 주의를 첼로 '못지않게' 중요하다고 했을 뿐 첼로의 우월성을 말한 게 아니다. (0) 작곡 속도와 (4) 당대 청중의 반감은 편지를 인용한 목적과 무관하다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "A persistent puzzle in evolutionary biology concerns the bright coloration of many toxic animals. Conspicuousness ought to invite predators, not deter them; a poisoned predator, after all, is of no use to a prey that has already been eaten. The resolution lies in learning across generations of predators. A vivid pattern, once paired with a bad experience, is more readily remembered and avoided than a drab one. The individual that signals its toxicity may indeed perish, but its relatives, sharing the same conspicuous badge, reap the benefit of the lesson the predator has learned.",
+      "question_text": "According to the passage, the bright coloration of toxic animals is evolutionarily advantageous primarily because",
+      "choices": [
+        "it allows toxic individuals to escape predators more quickly than drab individuals can",
+        "predators are physically unable to perceive drab coloration in low light",
+        "memorable warning signals protect relatives that share the same conspicuous pattern",
+        "toxic animals produce more offspring when they display vivid colors",
+        "conspicuous coloration renders the animals' toxins more potent over time"
+      ],
+      "answer": [2],
+      "explanation_ko": "지문은 눈에 띄는(conspicuous) 색이 포식자에게 강하게 기억되어 회피되며, 신호를 낸 개체는 죽더라도 같은 표식을 공유한 친척들이 그 학습의 이득을 본다고 설명한다. 따라서 (2)가 정답이다. (0)은 '더 빨리 도망친다'는 속도 이야기인데 지문은 학습과 기억을 핵심으로 든다. (3)은 자손 수, (4)는 독성 강화라는 지문에 없는 인과를 끌어와 틀렸고, (1)도 저조도 지각 능력은 언급되지 않았다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "The reformers presented their new municipal accounting system as a triumph of transparency. By recording every expenditure in a single public ledger, they claimed, corruption would have nowhere to hide. Yet the reform produced an unforeseen effect. Confronted with a register open to inspection, officials did not abandon graft; they refined it, routing illicit payments through categories so mundane—stationery, postage, minor repairs—that scrutiny slid past them. Visibility, it turned out, was not the same as legibility. The ledger disclosed everything and revealed nothing, its very completeness furnishing the camouflage that secrecy once required.",
+      "question_text": "Which of the following best expresses the central irony described in the passage?",
+      "choices": [
+        "The accounting system was abandoned before it could expose any corruption.",
+        "Officials stopped engaging in corruption once the public ledger was introduced.",
+        "A reform meant to expose wrongdoing instead supplied a new means of concealing it.",
+        "The reformers deliberately designed the ledger to protect corrupt officials.",
+        "Public ledgers are inherently less accurate than private accounting records."
+      ],
+      "answer": [2],
+      "explanation_ko": "투명성(transparency)을 위한 공개 장부가 오히려 부패를 평범한 항목 속에 숨기는 위장(camouflage)을 제공했다는 것이 핵심 아이러니다. 따라서 '부정을 폭로하려던 개혁이 오히려 은폐 수단을 제공했다'는 (2)가 정답이다. (0)은 장부가 폐지되었다고 하나 그런 적이 없고, (1)은 관리들이 부패를 멈췄다고 하나 오히려 부패를 정교화했으며, (3)은 개혁가들이 '의도적으로' 보호했다는 근거가 없다(예상치 못한 효과 unforeseen effect라고 했음). (4)는 장부의 정확성 일반론으로 지문 논지가 아니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Conventional accounts treat the abandonment of the highland terraces as a straightforward consequence of drought. Sediment cores complicate the picture. They show that terrace construction continued, and even accelerated, through the driest decades, and that abandonment came only afterward, during a return to wetter conditions. One interpretation is that the wetter years, by swelling rivers in the valleys below, made lowland farming abruptly more attractive, drawing labor away from the painstaking upkeep the terraces demanded. On this reading, the highlands were not defeated by scarcity but deserted in a season of plenty.",
+      "question_text": "The sediment cores are presented as evidence that primarily undermines which assumption?",
+      "choices": [
+        "that the highland terraces required continuous maintenance to remain usable",
+        "that the terraces were abandoned because drought made highland farming impossible",
+        "that lowland farming depended on the volume of water in valley rivers",
+        "that terrace construction was a labor-intensive undertaking",
+        "that wetter conditions eventually returned to the region"
+      ],
+      "answer": [1],
+      "explanation_ko": "퇴적물 코어는 가장 건조한 시기에 오히려 계단식 밭(terraces) 건설이 늘었고, 포기는 습해진 '이후'에 일어났음을 보여준다. 이는 '가뭄 때문에 고지대 농경이 불가능해져 버려졌다'는 통념(1)을 무너뜨린다. (0) 지속적 유지보수 필요, (2) 저지대 농경의 강물 의존, (3) 건설의 노동집약성은 모두 지문이 사실로 받아들이거나 보조 설명으로 쓰는 내용이지 코어가 반박하는 가정이 아니다. 특히 (4) '습한 기후가 다시 돌아왔다'는 오히려 코어가 뒷받침한다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "In the decades after independence, the national museum acquired artifacts at a feverish pace, its curators convinced that a comprehensive collection would secure a coherent national past. The strategy carried a hidden cost. As objects accumulated faster than they could be studied, the museum's identity came to rest on possession rather than understanding; its authority derived from the sheer scale of what it held. Later directors, inheriting vast unexamined holdings, found that the very abundance meant to ground the nation's memory had instead deferred the harder work of interpreting it.",
+      "question_text": "It can be inferred from the passage that the early curators' acquisition strategy",
+      "choices": [
+        "succeeded in producing a thoroughly interpreted account of the national past",
+        "was driven by a desire to sell artifacts to foreign collectors",
+        "prioritized the accumulation of objects over their interpretation, with lasting consequences",
+        "was opposed by the national government from the outset",
+        "focused narrowly on a small number of carefully chosen masterpieces"
+      ],
+      "answer": [2],
+      "explanation_ko": "지문은 초기 큐레이터들이 유물을 연구 속도보다 빨리 모았고, 그 결과 박물관의 권위가 '이해'가 아니라 '소유(possession)'에 놓였으며 해석이라는 어려운 과제가 미뤄졌다(deferred)고 말한다. 따라서 (2)가 정답이다. (0)은 '철저히 해석된 서사를 성공적으로 만들었다'고 하지만 지문은 정반대다. (1)은 외국 수집가에게 팔려는 동기, (3)은 정부의 반대, (4)는 '소수 걸작 집중'으로 모두 '열광적 대량 수집'이라는 서술과 어긋난다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Linguists studying endangered languages have traditionally prized the speech of the oldest community members, reasoning that elders preserve the most archaic and therefore most authentic forms. A recent study challenges the equation of age with purity. Among one such community, the researchers found that elders, having lived through decades of contact with the dominant language, had absorbed numerous loanwords, while a cohort of younger revivalists, schooled deliberately in older texts, used grammatical structures the elders had quietly dropped. Authenticity, the study concludes, is not simply inherited; it can be reconstructed, and sometimes the reconstruction is the more conservative.",
+      "question_text": "The passage is primarily concerned with",
+      "choices": [
+        "documenting the specific loanwords that elders had absorbed from the dominant language",
+        "questioning the assumption that the oldest speakers necessarily preserve a language's most conservative forms",
+        "arguing that endangered languages cannot be revived once they begin to decline",
+        "demonstrating that younger speakers always learn languages more accurately than elders",
+        "explaining why linguists should stop studying the speech of elderly community members"
+      ],
+      "answer": [1],
+      "explanation_ko": "지문은 '나이=순수성'이라는 통념에 도전하며, 오히려 옛 문헌으로 배운 젊은 부흥론자(revivalists)들이 더 보수적인 문법을 쓰는 경우가 있음을 보인다. 따라서 '가장 나이 든 화자가 반드시 가장 보수적 형태를 보존한다는 가정에 의문을 제기한다'는 (1)이 정답이다. (2)는 부흥이 불가능하다고 말해 정반대고, (3)은 'always(항상)'로 과장되어 틀렸다. (0) 차용어 기록과 (4) 노인 화자 연구 중단은 부수적 사례나 지문에 없는 주장을 전체 목적으로 오인한 것이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "A city introduced a congestion fee for driving into its center during peak hours, expecting traffic to ease. In the first month, average travel speeds within the zone rose by nearly a fifth. City officials concluded that the fee had successfully discouraged unnecessary trips. Critics, however, noted that the new policy launched in the same week that a major regional employer shifted thousands of workers to a permanent four-day schedule, removing a large share of weekday commuters from the roads regardless of the fee.",
+      "question_text": "The critics' objection, if correct, most seriously weakens the officials' conclusion by",
+      "choices": [
+        "showing that travel speeds within the zone did not actually increase",
+        "identifying an alternative cause that could account for the improvement attributed to the fee",
+        "demonstrating that congestion fees have failed in every other city that has tried them",
+        "proving that the four-day schedule will be reversed within a year",
+        "pointing out that the fee was set too low to change most drivers' behavior"
+      ],
+      "answer": [1],
+      "explanation_ko": "비평가들은 같은 주에 대규모 고용주가 주 4일제로 전환해 통근자 수가 줄었다는 '다른 원인(alternative cause)'을 제시한다. 이는 속도 향상을 혼잡료가 아니라 다른 요인으로 설명할 수 있게 해 결론을 약화한다(1). (0)은 속도 상승 자체를 부정하지만 지문은 상승을 사실로 인정한다. (2)(3)은 다른 도시·미래 예측이라 무관하고, (4)는 오히려 비평가 논지를 벗어난 별개 주장이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "A pharmaceutical company argues that its new screening test should be adopted nationwide. In a trial, the test correctly identified the disease in 99 percent of people who actually had it. Because the disease is serious and the test is so accurate at detecting it, the company concludes that a positive result should prompt immediate treatment without further testing.",
+      "question_text": "Which of the following is an assumption on which the company's argument depends?",
+      "choices": [
+        "The test is inexpensive enough to be administered to the entire population.",
+        "A positive result is rarely produced in people who do not actually have the disease.",
+        "The treatment for the disease has no serious side effects of its own.",
+        "No competing screening test detects the disease more accurately.",
+        "Most people who have the disease will agree to be screened."
+      ],
+      "answer": [1],
+      "explanation_ko": "회사는 '병에 걸린 사람을 99% 잡아낸다'는 민감도(sensitivity)만 근거로 양성이면 곧장 치료하라고 결론짓는다. 이 결론이 성립하려면 양성이 곧 실제 환자라는 보장, 즉 '병이 없는 사람에게 양성(거짓 양성, false positive)이 거의 안 나온다'는 전제가 필요하다. 따라서 (1)이 가정이다. (0)(2)(3)(4)는 비용·부작용·경쟁 검사·수검 동의 문제로, 양성 결과만으로 치료하라는 추론의 논리적 전제가 아니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Two neighboring vineyards harvest grapes of nearly identical chemistry, yet wine from the eastern vineyard consistently commands higher prices and wins more awards. An analyst concludes that the eastern vineyard's winemaking techniques must be superior, since the raw material is essentially the same. She recommends that the western vineyard adopt the eastern producer's methods to close the gap.",
+      "question_text": "Which of the following, if true, most seriously weakens the analyst's conclusion?",
+      "choices": [
+        "The two vineyards use grape varieties with slightly different ripening times.",
+        "Blind tastings by experts rate the two wines as essentially equal in quality.",
+        "The eastern vineyard has won awards in each of the past ten years.",
+        "Wine prices in the region have generally risen over the past decade.",
+        "The western vineyard sells most of its wine within the local region."
+      ],
+      "answer": [1],
+      "explanation_ko": "분석가는 '원료가 같은데 동쪽 와인이 더 비싸고 상도 많이 받으니 양조 기술이 우월하다'고 추론한다. 그런데 전문가의 블라인드 시음(blind tasting, 상표를 가린 시음)에서 두 와인 품질이 사실상 동등하다면, 가격·수상 차이는 품질·기술이 아니라 평판이나 마케팅 같은 다른 요인 때문일 수 있어 결론이 크게 약화된다(1). (2)는 동쪽의 명성을 오히려 강화하고 (3)은 중립적이며, (0) 미세한 숙성 시기 차이와 (4) 서쪽의 지역 판매는 결론과 직접 관련이 없다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Editorial: Among our newspaper's online articles, those that include reader comment sections receive, on average, far more page views than articles published without them. We should therefore enable comment sections on every article we post, since doing so will substantially increase our total readership in the months ahead.",
+      "question_text": "The reasoning in the editorial is most vulnerable to criticism on the grounds that it",
+      "choices": [
+        "relies on a sample of articles that is too small to support any conclusion",
+        "assumes that a correlation between comment sections and page views reflects a causal relationship",
+        "fails to define what counts as a 'page view' with sufficient precision",
+        "overlooks the possibility that some readers dislike reading comment sections",
+        "presumes that all of the newspaper's articles are of equal journalistic quality"
+      ],
+      "answer": [1],
+      "explanation_ko": "사설은 '댓글난이 있는 기사가 조회수가 높다'는 상관관계(correlation)만 보고 '댓글난을 켜면 조회수가 는다'는 인과관계(causation)로 비약한다. 사실은 인기 있는 주제의 기사라서 조회수도 높고 댓글도 많이 달렸을 수 있다. 따라서 인과를 단정한 점을 지적한 (1)이 정답이다. (0)은 표본 크기를 트집 잡지만 그게 핵심 결함은 아니고, (2) 'page view' 정의 문제, (3) 일부 독자의 반감, (4) 기사 품질 균일 가정은 논증의 핵심 논리적 비약과 무관한 지엽적 문제다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Archaeologists were surprised to find, in a settlement long believed to have been peacefully abandoned, a granary still nearly full of grain. Stored grain was the community's most valuable and portable asset; people forced to relocate would ordinarily carry as much of it as they could. Yet here a substantial store was left untouched, and there are no signs of fire, looting, or violent struggle anywhere at the site.",
+      "question_text": "Which of the following, if true, best helps to resolve the apparent paradox?",
+      "choices": [
+        "The settlement was located several days' journey from the nearest neighboring community.",
+        "Grain of the type stored in the granary was also cultivated in many other settlements of the period.",
+        "A sudden outbreak of a lethal disease can empty a settlement without leaving signs of violence or fire.",
+        "The granary had been rebuilt several times over the settlement's long history.",
+        "Pottery found at the site indicates that the community traded extensively with distant regions."
+      ],
+      "answer": [2],
+      "explanation_ko": "역설은 '평화롭게 떠난 듯한데 가장 귀중하고 운반 가능한 곡식을 통째로 두고 갔다'는 점이다. (2)처럼 치명적 전염병이 갑자기 돌면 화재·약탈·폭력 흔적 없이도 주민이 곡식을 챙길 새 없이 사라질 수 있어 역설이 해소된다. (0)(1)(3)(4)는 거리·작물 분포·곡창 재건·교역 등으로, 왜 귀중한 곡식을 남겨두었는지를 설명하지 못한다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "A nutritionist claims that a compound found in green tea slows age-related memory decline. Her evidence is that elderly people who report drinking several cups of green tea daily score, on average, higher on memory tests than those who report drinking none. She therefore urges older adults to take a concentrated extract of the compound as a daily supplement.",
+      "question_text": "Which of the following, if true, most strengthens the nutritionist's argument?",
+      "choices": [
+        "Green tea has been consumed in some cultures for many centuries.",
+        "When the compound was administered to laboratory animals, those receiving it retained learned tasks markedly longer than those given a placebo.",
+        "Some elderly people find the taste of green tea unpleasant and prefer other beverages.",
+        "The memory tests used in the study are also employed in diagnosing other conditions.",
+        "Daily tea drinkers in the study tended to be wealthier than those who drank none."
+      ],
+      "answer": [1],
+      "explanation_ko": "영양학자의 논증은 '녹차를 마시는 노인이 기억 점수가 높다'는 상관관계에 기댄다. (1)처럼 그 화합물을 실험동물에 직접 투여한 대조 실험(placebo, 위약 대조)에서 학습 보존이 뚜렷이 좋았다면, 화합물 자체가 기억에 인과적으로 작용한다는 보충 근거가 되어 추론을 강화한다(정답 1). (4)는 부유함이라는 교란 변수(confounder)를 시사해 오히려 약화하고, (0)(2)(3)는 음용 역사·맛·검사 용도 등으로 인과 주장과 무관하다."
+    }
+  ]
+}

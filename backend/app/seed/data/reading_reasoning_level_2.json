@@ -1,0 +1,217 @@
+{
+  "group": "verbal",
+  "subgroup": "reading_reasoning",
+  "level": 2,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "For decades, marine biologists assumed that bioluminescence in deep-sea fish served primarily as a lure for prey. Recent surveys, however, suggest a more varied set of functions. Some species emit light from their undersides in a pattern that matches the faint glow filtering down from the surface, a strategy called counterillumination that conceals their silhouettes from predators below. Others produce sudden flashes that appear to startle attackers, buying a moment to escape. Still others display species-specific light patterns during courtship, which may help individuals locate mates in an environment where visual signals are otherwise scarce. While luring prey remains one well-documented use, researchers now argue that bioluminescence is best understood as a flexible tool shaped by multiple ecological pressures rather than as a single-purpose trait.",
+      "question_text": "The primary purpose of the passage is to",
+      "choices": [
+        "describe how a biological trait once attributed to a single function is now believed to serve several different ones",
+        "argue that luring prey is not a genuine function of bioluminescence in deep-sea fish",
+        "explain the chemical mechanisms by which deep-sea fish produce light",
+        "compare the effectiveness of counterillumination with that of startle flashes",
+        "challenge the reliability of the methods used in recent surveys of deep-sea fish"
+      ],
+      "answer": [0],
+      "explanation_ko": "지문은 심해어의 생물 발광(bioluminescence)이 과거에는 먹이 유인(lure for prey)이라는 단일 기능으로 여겨졌으나, 이제는 위장(counterillumination), 포식자 놀래기, 구애(courtship) 등 여러 기능을 가진 것으로 이해된다고 설명합니다. 따라서 '단일 기능으로 여겨지던 형질이 여러 기능을 가진 것으로 재해석되었다'는 첫 번째 선택지가 정답입니다. 두 번째 선택지는 지문이 먹이 유인이 여전히 잘 입증된(well-documented) 기능이라고 명시하므로 틀렸습니다. 화학적 메커니즘이나 기능 간 효과 비교는 지문에서 다루지 않습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Medieval craft guilds are often portrayed as monopolistic bodies that stifled innovation by enforcing rigid production standards. Yet this portrayal overlooks the guilds' role in transmitting technical knowledge. Apprenticeship contracts obliged masters to teach a trade in full, and journeymen who traveled between towns carried techniques across regions that lacked other channels of communication. Some historians further note that quality standards, far from freezing technique, gave workshops a reputation that allowed them to invest in long-term improvements without fear of being undercut by shoddy imitations. None of this means guilds welcomed every novelty; they sometimes suppressed devices that threatened their members' livelihoods. But the simple equation of guilds with stagnation fits the evidence poorly.",
+      "question_text": "It can be inferred from the passage that the author would most likely agree with which of the following statements about medieval craft guilds?",
+      "choices": [
+        "Their overall effect on innovation was more mixed than a common portrayal suggests",
+        "They were the primary cause of technological progress in medieval Europe",
+        "Their quality standards were designed chiefly to suppress new devices",
+        "Journeymen rarely traveled beyond the towns in which they were trained",
+        "Apprenticeship contracts were generally ignored by the masters who signed them"
+      ],
+      "answer": [0],
+      "explanation_ko": "저자는 길드(guild)가 혁신을 억압했다(stifled innovation)는 통념을 반박하면서도, 길드가 때때로 구성원의 생계를 위협하는 장치를 억제했다는 점도 인정합니다. 즉 길드의 영향은 통념보다 '더 복합적(mixed)'이었다는 것이 저자의 입장이므로 첫 번째 선택지가 정답입니다. 두 번째 선택지는 길드를 기술 진보의 '주된 원인'이라고 단정하는 과도한 진술로, 저자의 신중한 어조를 넘어섭니다. 품질 기준(quality standards)은 기술을 동결시키기는커녕 장기 개선 투자를 가능하게 했다고 했으므로 세 번째 선택지는 지문과 모순됩니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "When photography emerged in the mid-nineteenth century, many critics predicted the demise of painting, reasoning that no painter could match the camera's fidelity to appearances. The Impressionists responded not by competing with photography on its own terms but by redefining what painting should record. Rather than fixed contours and polished detail, they pursued fleeting effects of light and atmosphere—qualities that early cameras, with their long exposure times, could not capture. Indeed, some art historians contend that photography, far from threatening painting, liberated it: once the burden of literal documentation passed to the camera, painters were free to explore perception itself. The Impressionists' shimmering, unfinished-looking surfaces can thus be read less as technical carelessness than as a deliberate claim about what the eye actually sees.",
+      "question_text": "The author mentions the long exposure times of early cameras primarily in order to",
+      "choices": [
+        "explain why the effects pursued by the Impressionists lay beyond the reach of photography at the time",
+        "demonstrate that early photographs were technically inferior to those produced later",
+        "suggest that Impressionist painters secretly based their compositions on photographs",
+        "criticize the critics who predicted the demise of painting",
+        "show that producing a painting took less time than producing a photograph"
+      ],
+      "answer": [0],
+      "explanation_ko": "저자는 인상파(Impressionists) 화가들이 빛과 대기의 순간적인 효과(fleeting effects)를 추구했다고 말한 직후, 초기 카메라의 긴 노출 시간(long exposure times) 때문에 그런 효과를 사진이 포착할 수 없었다고 설명합니다. 즉 이 언급은 인상파가 추구한 영역이 당시 사진의 능력 밖에 있었음을 보여주기 위한 것이므로 첫 번째 선택지가 정답입니다. 두 번째 선택지는 초기 사진과 후기 사진의 기술적 우열 비교가 지문의 목적이 아니므로 틀렸습니다. 비평가 비판이나 화가들이 사진을 몰래 활용했다는 내용은 지문에 없습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Cities are typically warmer than the surrounding countryside, a phenomenon known as the urban heat island effect. Several factors contribute. Asphalt and concrete absorb solar radiation during the day and release it slowly at night, keeping urban air warm after sunset. Buildings obstruct wind, reducing the cooling that moving air would otherwise provide. Vehicles, air conditioners, and industry release waste heat directly into the streets. Vegetation, which cools the air through the evaporation of water from leaves, is scarce in densely built districts. Planners have begun to respond: reflective \"cool roofs\" reduce the heat absorbed by buildings, and expanded tree canopies restore evaporative cooling. Studies of several cities suggest that such measures can lower peak summer temperatures in treated neighborhoods by a measurable, if modest, amount.",
+      "question_text": "According to the passage, vegetation cools urban air primarily by",
+      "choices": [
+        "allowing water to evaporate from leaves",
+        "reflecting solar radiation away from buildings",
+        "absorbing the waste heat released by vehicles and industry",
+        "obstructing the winds that carry warm air into cities",
+        "shading asphalt so that it releases heat more quickly at night"
+      ],
+      "answer": [0],
+      "explanation_ko": "지문은 식생(vegetation)이 '잎에서 물이 증발(evaporation)하는 과정을 통해 공기를 식힌다'고 명시하므로 첫 번째 선택지가 정답입니다. 태양 복사를 반사하는 것은 식물이 아니라 반사형 지붕(cool roofs)의 기능이므로 두 번째 선택지는 틀렸습니다. 폐열(waste heat) 흡수나 바람 차단은 지문에서 식생의 냉각 방식으로 언급되지 않았고, 특히 바람을 막는 것은 건물이 도시를 더 덥게 만드는 요인으로 제시됩니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Sleep was long regarded as a passive state in which the brain simply rested. Research over recent decades has overturned that view, showing that the sleeping brain actively consolidates memories. During deep, slow-wave sleep, the hippocampus appears to replay patterns of neural activity recorded during the day, gradually transferring information to the cortex for long-term storage. One influential experiment found that participants who learned a list of word pairs and then slept recalled significantly more pairs than participants who remained awake for an equivalent period. Skeptics initially objected that the sleepers simply benefited from reduced interference—fewer new experiences arriving to overwrite the memories—but later studies that controlled for interference still found a distinct advantage for sleep, suggesting an active consolidating process.",
+      "question_text": "The author mentions the objection raised by skeptics primarily in order to",
+      "choices": [
+        "introduce an alternative explanation that subsequent research has weakened",
+        "show that the word-pair experiment was fundamentally flawed in its design",
+        "argue that interference plays no role whatsoever in forgetting",
+        "question whether the hippocampus is genuinely involved in memory",
+        "demonstrate that the traditional view of sleep as passive was correct"
+      ],
+      "answer": [0],
+      "explanation_ko": "회의론자(skeptics)들의 반론, 즉 수면자의 기억 우위가 단지 간섭(interference) 감소 때문이라는 설명은 하나의 대안적 설명으로 제시되며, 곧이어 간섭을 통제한 후속 연구들이 그 설명을 약화시켰다고 서술됩니다. 따라서 '후속 연구로 약화된 대안적 설명을 소개하기 위해'라는 첫 번째 선택지가 정답입니다. 두 번째 선택지는 매력적이지만, 지문은 실험 자체가 결함이 있었다고 말하는 것이 아니라 반론이 결국 극복되었음을 보여주므로 틀렸습니다. 간섭이 망각에 전혀 역할을 하지 않는다는 극단적 주장도 지문에 없습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "The spread of printing in fifteenth-century Europe is commonly credited with a rapid rise in literacy. The relationship, however, ran in both directions. Printing dramatically lowered the cost of books, putting texts within reach of merchants, artisans, and eventually laborers. Yet printers were businesspeople who set up shop only where they expected buyers, and the earliest presses clustered in commercial cities where literacy was already comparatively high. In regions where few people could read, presses often failed within a few years. Literacy thus shaped the geography of printing even as printing, over the longer term, expanded the reading public. The press accelerated a transformation that was already underway rather than igniting it from nothing.",
+      "question_text": "Which of the following can be inferred from the passage about the earliest printing presses?",
+      "choices": [
+        "Their commercial success depended in part on preexisting levels of literacy in the areas they served",
+        "They were distributed roughly evenly across the regions of Europe",
+        "They printed books primarily for laborers rather than for merchants",
+        "They failed mainly because the cost of books remained too high for most buyers",
+        "They were typically funded by city governments seeking to promote reading"
+      ],
+      "answer": [0],
+      "explanation_ko": "지문은 초기 인쇄소(presses)가 문해율(literacy)이 이미 높았던 상업 도시에 몰렸고, 글을 읽는 사람이 적은 지역에서는 몇 년 안에 망했다(failed)고 말합니다. 따라서 인쇄소의 상업적 성공이 기존 문해율에 부분적으로 의존했다는 첫 번째 선택지를 추론할 수 있습니다. 두 번째 선택지는 인쇄소가 상업 도시에 '몰려 있었다(clustered)'는 서술과 모순됩니다. 네 번째 선택지는 인쇄가 책값을 크게 낮췄다는 내용과 어긋나며, 실패의 원인은 가격이 아니라 독자층 부족이었습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "The epistolary novel—a narrative composed of letters exchanged among its characters—dominated eighteenth-century fiction before falling out of fashion. Its appeal lay in immediacy: because letters are written in the midst of events, readers encountered characters' hopes and misjudgments before outcomes were known, producing a sense of intimacy that conventional retrospective narration rarely matched. The form had limits, however. Authors had to contrive reasons for characters to write constantly, even at implausible moments, and the absence of a guiding narrator could leave readers without a settled interpretation of events. Some critics have argued that this very absence was the form's hidden strength, since it required readers to weigh competing accounts and judge the letter writers for themselves.",
+      "question_text": "The passage is primarily concerned with",
+      "choices": [
+        "describing the appeal of a literary form, noting its limitations, and presenting a reassessment of one of them",
+        "explaining why the epistolary novel was superior to all other forms of eighteenth-century fiction",
+        "arguing that retrospective narration inevitably misleads readers about events",
+        "tracing the career of a single author who perfected the epistolary novel",
+        "showing that eighteenth-century readers distrusted novels that contained narrators"
+      ],
+      "answer": [0],
+      "explanation_ko": "지문은 서간체 소설(epistolary novel)의 매력인 즉시성(immediacy)을 설명하고, 그 한계(부자연스러운 편지 쓰기 설정, 안내자 역할의 서술자 부재)를 지적한 뒤, 그중 서술자 부재가 오히려 숨은 강점(hidden strength)이었다는 비평가들의 재평가를 소개합니다. 이 구조를 정확히 요약한 첫 번째 선택지가 정답입니다. 두 번째 선택지는 '모든 형식보다 우월하다'는 주장이 지문에 없으므로 과도합니다. 회고적 서술(retrospective narration)이 독자를 오도한다는 주장이나 특정 작가의 경력 추적도 지문에 등장하지 않습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Classical economic models assume that people choose among options by weighing costs and benefits, so the way a choice is presented should not matter. Behavioral economists have documented a striking exception: the power of defaults. When employees must actively enroll in a retirement savings plan, participation is often low; when they are enrolled automatically and must actively opt out, participation typically exceeds ninety percent, even though the available options and their costs are identical. Researchers attribute the gap partly to inertia—filling out forms takes effort—and partly to an implicit endorsement effect, whereby people read the default as a recommendation from a knowledgeable institution. Whatever the mechanism, the finding suggests that seemingly neutral administrative choices can substantially shape behavior.",
+      "question_text": "According to the passage, the implicit endorsement effect refers to people's tendency to",
+      "choices": [
+        "interpret a default option as a recommendation from a knowledgeable institution",
+        "avoid choices that require filling out effortful paperwork",
+        "weigh the costs and benefits of options before selecting one",
+        "opt out of retirement plans in which they were automatically enrolled",
+        "select whichever available plan carries the lowest cost"
+      ],
+      "answer": [0],
+      "explanation_ko": "지문은 암묵적 보증 효과(implicit endorsement effect)를 '사람들이 기본 선택지(default)를 잘 아는 기관의 추천(recommendation)으로 받아들이는 것'이라고 직접 정의하므로 첫 번째 선택지가 정답입니다. 서류 작성의 수고를 피하려는 경향은 별도의 요인인 관성(inertia)에 해당하므로 두 번째 선택지는 두 개념을 혼동한 오답입니다. 비용과 편익을 따져 선택한다는 것은 행동경제학이 예외를 발견한 고전 경제 모형(classical economic models)의 가정입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Over the past year, the Riverside Cafe replaced its disposable cups with reusable ones available for a small deposit. Since the change, the cafe's beverage sales have risen fifteen percent. The owner concludes that the switch to reusable cups attracted environmentally conscious customers and thereby caused the increase in sales.",
+      "question_text": "Which of the following, if true, most seriously weakens the owner's conclusion?",
+      "choices": [
+        "Two months before the switch, a large office building opened directly across the street from the cafe",
+        "Several customers have praised the reusable cups in online reviews of the cafe",
+        "The deposit for a reusable cup is fully refunded when the cup is returned",
+        "Other cafes in the city have also begun offering reusable cups",
+        "The cafe's pastry sales rose by only five percent over the same period"
+      ],
+      "answer": [0],
+      "explanation_ko": "주인의 결론은 재사용 컵(reusable cups)으로의 전환이 매출 증가의 '원인'이라는 인과 주장입니다. 컵 교체 직전에 길 건너에 대형 사무실 건물이 들어섰다면, 새로운 손님 유입이라는 대안적 원인(alternative cause)이 매출 증가를 설명할 수 있어 결론이 약화됩니다(weaken). 두 번째 선택지는 손님들이 컵을 칭찬했다는 내용으로 오히려 결론을 강화합니다. 보증금(deposit) 환불 여부나 다른 카페의 동향은 이 카페의 매출 증가 원인과 직접적 관련이 없습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "City officials propose installing protected bicycle lanes along Main Street, arguing that the lanes will reduce the number of collisions between cars and bicycles. They cite the neighboring city of Elmwood, where such collisions fell by forty percent during the two years after protected lanes were installed.",
+      "question_text": "Which of the following, if true, most strengthens the officials' argument?",
+      "choices": [
+        "During those same two years, the number of cyclists riding in Elmwood increased substantially, yet collisions still declined",
+        "Elmwood's protected lanes were painted a highly visible shade of green",
+        "Main Street carries more car traffic than any street in Elmwood",
+        "Some Elmwood residents complained that the lanes eliminated parking spaces",
+        "Elmwood also launched a citywide helmet giveaway shortly before installing the lanes"
+      ],
+      "answer": [0],
+      "explanation_ko": "엘름우드에서 충돌(collisions)이 줄어든 것이 단순히 자전거 이용자가 줄었기 때문일 수 있다는 의심이 가능한데, 같은 기간 자전거 이용자가 크게 늘었음에도 충돌이 감소했다면 보호 차선(protected lanes) 자체가 효과의 원인일 가능성이 높아져 논증이 강화됩니다(strengthen). 다섯 번째 선택지는 헬멧 배포라는 다른 요인이 같은 시기에 있었음을 시사하여 오히려 논증을 약화시킬 수 있는 오답입니다. 차선의 색깔이나 주차 공간에 대한 불만은 충돌 감소의 인과와 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Henderson Manufacturing plans to reduce workplace accidents by requiring all machine operators to complete a new safety course. Company records show that operators who voluntarily took a similar course last year had thirty percent fewer accidents than operators who did not. Therefore, requiring the course will reduce accidents throughout the company.",
+      "question_text": "The argument depends on which of the following assumptions?",
+      "choices": [
+        "The lower accident rate among last year's voluntary participants was not primarily due to those operators already being more cautious than their coworkers",
+        "The new course will be taught by the same instructors who taught last year's course",
+        "Completing a safety course is the only effective way to reduce workplace accidents",
+        "Machine operators at Henderson Manufacturing enjoy taking safety courses",
+        "No machine operator at the company has ever been involved in more than one accident"
+      ],
+      "answer": [0],
+      "explanation_ko": "작년 수강자들은 자발적으로(voluntarily) 강좌를 들은 사람들이므로, 원래부터 안전 의식이 높은 사람들이었을 가능성이 있습니다. 만약 낮은 사고율이 강좌가 아니라 수강자들의 기존 성향 때문이라면, 강좌를 의무화해도 사고가 줄지 않을 것입니다. 따라서 이 자기 선택 편향(self-selection)이 주된 원인이 아니라는 것이 논증의 필수 가정(assumption)이며 첫 번째 선택지가 정답입니다. 세 번째 선택지는 강좌가 '유일한' 방법일 필요는 없으므로 지나치게 강한 진술이고, 강사가 같아야 한다는 조건도 논증에 반드시 필요하지 않습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "A nutrition columnist notes that people who eat breakfast every day tend to weigh less than people who regularly skip breakfast. She concludes that anyone who wants to lose weight should start eating breakfast daily.",
+      "question_text": "The columnist's reasoning is most vulnerable to criticism on the grounds that it",
+      "choices": [
+        "treats a correlation between two factors as sufficient evidence that one causes the other",
+        "relies on a sample of people that is demonstrably too small to support any conclusion",
+        "attacks the personal habits of those who skip breakfast rather than addressing their reasoning",
+        "presumes that breakfast is the only meal that affects a person's weight",
+        "assumes its conclusion as one of its premises"
+      ],
+      "answer": [0],
+      "explanation_ko": "칼럼니스트는 아침 식사와 낮은 체중 사이의 상관관계(correlation)만을 근거로 아침 식사가 체중 감량을 일으킨다는 인과관계(causation)를 결론짓고 있습니다. 예컨대 건강에 신경 쓰는 사람들이 아침도 챙겨 먹고 운동도 많이 하는 것일 수 있으므로, 이 추론은 상관을 인과로 착각한 오류(flaw)이며 첫 번째 선택지가 정답입니다. 표본 크기(sample size)가 너무 작다는 정보는 지문에 없으므로 두 번째 선택지는 근거가 없고, 인신공격이나 순환 논증(circular reasoning)도 나타나지 않습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Last year, the Brightline electronics store cut its advertising budget in half, expecting its sales to decline as a result. Instead, the store's total sales for the year rose by ten percent.",
+      "question_text": "Which of the following, if true, best explains the surprising outcome described above?",
+      "choices": [
+        "Brightline's largest competitor, located nearby, went out of business shortly after Brightline cut its advertising budget",
+        "Brightline's managers had carefully studied past sales data before deciding to cut the budget",
+        "Most of Brightline's former advertisements had aired during late-night hours, when few people were watching",
+        "Other electronics stores in the area increased their advertising budgets last year",
+        "Brightline also reduced its spending on in-store product displays during the same year"
+      ],
+      "answer": [0],
+      "explanation_ko": "역설(paradox)은 광고를 절반으로 줄였는데도 매출이 오히려 10% 늘었다는 점입니다. 인근의 최대 경쟁사(competitor)가 폐업했다면 그 고객들이 브라이트라인으로 옮겨 와 광고 감소에도 불구하고 매출이 증가한 이유가 설명됩니다. 세 번째 선택지는 기존 광고가 효과가 없었음을 시사해 매출이 '떨어지지 않은' 이유는 설명할 수 있지만, 매출이 '증가한' 이유까지는 설명하지 못하므로 부족합니다. 다른 가게들이 광고를 늘렸다는 네 번째 선택지는 오히려 역설을 더 심화시킵니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Every employee at Meridian Labs who works in the clean room must complete contamination training. Some employees who have completed contamination training are also certified in equipment repair. No interns at Meridian Labs are permitted to work in the clean room.",
+      "question_text": "If the statements above are true, which of the following must also be true?",
+      "choices": [
+        "Some employees who are certified in equipment repair have completed contamination training",
+        "All employees who have completed contamination training work in the clean room",
+        "Some interns at Meridian Labs have completed contamination training",
+        "No employee who is certified in equipment repair works in the clean room",
+        "Every employee who is certified in equipment repair is permitted to work in the clean room"
+      ],
+      "answer": [0],
+      "explanation_ko": "'오염 방지 교육(contamination training)을 마친 직원 중 일부는 장비 수리 자격증(certified in equipment repair)도 있다'는 진술은 두 집단이 겹친다는 뜻이므로, 거꾸로 '장비 수리 자격증이 있는 직원 중 일부는 오염 방지 교육을 마쳤다'도 반드시 참입니다(some A are B ↔ some B are A). 두 번째 선택지는 '클린룸 근무자는 모두 교육을 받았다'를 '교육을 받은 사람은 모두 클린룸에서 근무한다'로 뒤집은 역명제 오류입니다. 인턴이 교육을 받았는지, 자격증 보유자가 클린룸에서 일하는지는 주어진 진술만으로 알 수 없습니다."
+    }
+  ]
+}

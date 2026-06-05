@@ -1,0 +1,241 @@
+{
+  "group": "math",
+  "subgroup": "quant",
+  "level": 2,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "x is an integer such that 3 < x < 7 and x is odd. Quantity A: x. Quantity B: 4.",
+      "choices": [
+        "Quantity A is greater",
+        "Quantity B is greater",
+        "The two quantities are equal",
+        "The relationship cannot be determined from the information given"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "3보다 크고 7보다 작은 정수는 4, 5, 6이고, 그중 odd(홀수)는 5뿐입니다. 따라서 x = 5로 확정되어 Quantity A(5)가 Quantity B(4)보다 큽니다. odd 조건을 놓치면 4, 5, 6 모두 가능하다고 보아 'cannot be determined'를 고르기 쉬운데, 홀수 제한 때문에 값이 하나로 정해진다는 점이 핵심입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "x^2 = 36. Quantity A: x. Quantity B: 6.",
+      "choices": [
+        "Quantity A is greater",
+        "Quantity B is greater",
+        "The two quantities are equal",
+        "The relationship cannot be determined from the information given"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation_ko": "x^2 = 36을 만족하는 x는 6과 -6 두 가지입니다. x = 6이면 두 값이 같고, x = -6이면 Quantity B가 큽니다. 결과가 상황에 따라 달라지므로 관계를 determine(확정)할 수 없습니다. 양의 제곱근만 떠올려 'equal'을 고르는 것이 가장 흔한 실수인데, 음수 해를 빠뜨린 것입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Quantity A: 25 percent of 80. Quantity B: 80 percent of 25.",
+      "choices": [
+        "Quantity A is greater",
+        "Quantity B is greater",
+        "The two quantities are equal",
+        "The relationship cannot be determined from the information given"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation_ko": "25%의 80은 0.25 x 80 = 20이고, 80%의 25는 0.80 x 25 = 20으로 둘 다 20입니다. percent(퍼센트) 계산에서 a%의 b와 b%의 a는 항상 같으므로 두 양은 equal(같음)입니다. 큰 숫자(80)가 들어간 쪽이 더 클 거라고 직관적으로 판단하면 틀립니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Quantity A: (2/3)^2. Quantity B: 2/3.",
+      "choices": [
+        "Quantity A is greater",
+        "Quantity B is greater",
+        "The two quantities are equal",
+        "The relationship cannot be determined from the information given"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "(2/3)^2 = 4/9 약 0.44이고 2/3 약 0.67입니다. 0과 1 사이의 분수(fraction)를 제곱하면 값이 더 작아지므로 Quantity B가 큽니다. 정수처럼 '제곱하면 커진다'고 생각해 Quantity A를 고르는 것이 대표적 오답인데, 1보다 작은 수에서는 반대가 됩니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "A box contains red and blue marbles in the ratio 3 to 5. If there are 40 marbles in total, how many are blue?",
+      "choices": [
+        "15",
+        "20",
+        "24",
+        "25",
+        "30"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation_ko": "ratio(비율) 3 대 5의 합은 8이고, 40을 8로 나누면 한 몫이 5입니다. 파란 구슬은 5몫이므로 5 x 5 = 25개입니다. 빨간 구슬 몫(3 x 5 = 15)을 답으로 고르거나 40을 절반으로 나눠 20을 고르는 실수가 흔합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "The average (arithmetic mean) of 5 numbers is 12. Four of the numbers are 10, 11, 13, and 14. What is the fifth number?",
+      "choices": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation_ko": "average(평균)가 12이고 개수가 5개이므로 총합은 5 x 12 = 60입니다. 주어진 네 수의 합 10+11+13+14 = 48을 빼면 다섯 번째 수는 60 - 48 = 12입니다. 네 수의 평균(48/4 = 11.5)이나 그 근처 값으로 착각하면 틀립니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "A jar contains 4 red candies and 6 green candies. If one candy is drawn at random, what is the probability that it is green?",
+      "choices": [
+        "2/5",
+        "1/2",
+        "3/5",
+        "2/3",
+        "3/2"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation_ko": "전체 사탕은 4 + 6 = 10개이고 초록색은 6개이므로 probability(확률)는 6/10 = 3/5입니다. 빨간색 확률 4/10 = 2/5를 고르거나, 초록 대 빨강의 odds(비) 6/4 = 3/2를 확률로 착각하는 것이 흔한 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "If 2^x = 32, what is the value of x^2?",
+      "choices": [
+        "10",
+        "16",
+        "25",
+        "32",
+        "64"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation_ko": "2^5 = 32이므로 x = 5입니다. 따라서 x^2 = 5^2 = 25입니다. exponent(지수) x를 구한 뒤 제곱하는 두 단계를 거쳐야 하는데, x = 5에서 멈추거나 2x = 10으로 착각하면 틀립니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "The three angles of a triangle are in the ratio 1 to 2 to 3. What is the measure, in degrees, of the largest angle?",
+      "choices": [
+        "30",
+        "60",
+        "90",
+        "120",
+        "180"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation_ko": "삼각형 세 angle(각)의 합은 180도이고 비율의 합은 1+2+3 = 6이므로 한 몫은 180/6 = 30도입니다. 가장 큰 각은 3몫이므로 3 x 30 = 90도입니다. 가장 큰 비율 숫자 3을 보고 60이나 작은 각 30을 고르지 않도록 주의해야 합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "A jacket originally priced at $40 is discounted by 25 percent. A sales tax of 10 percent is then added to the discounted price. What is the final price?",
+      "choices": [
+        "$30.00",
+        "$33.00",
+        "$34.00",
+        "$36.00",
+        "$44.00"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "25% discount(할인) 후 가격은 40 x 0.75 = 30달러이고, 여기에 10% tax(세금)를 더하면 30 x 1.10 = 33달러입니다. 세금을 할인 전 원가 40에 적용해 34달러로 계산하는 것이 가장 흔한 함정입니다. 할인된 가격(30)에 세금을 매겨야 합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "How many positive integers less than 30 are multiples of both 2 and 3?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "9",
+        "14"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "2와 3의 multiple(배수)을 동시에 만족하려면 6의 배수여야 합니다. 30보다 작은 6의 배수는 6, 12, 18, 24로 총 4개입니다. 30 자체는 'less than 30(미만)'이므로 제외해야 하며, 이를 포함해 5개로 세면 틀립니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "A password consists of one letter chosen from {A, B, C} followed by one digit chosen from {1, 2, 3, 4, 5}. How many different passwords are possible?",
+      "choices": [
+        "8",
+        "15",
+        "25",
+        "30",
+        "125"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "글자 선택은 3가지, 숫자 선택은 5가지이고 서로 독립이므로 곱의 법칙(counting principle)에 따라 3 x 5 = 15가지입니다. 두 수를 더해 8로 계산하는 것이 흔한 실수이며, 경우의 수는 곱해야 합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Tom is twice as old as Jane. The sum of their ages is 36. How old is Tom?",
+      "choices": [
+        "12",
+        "18",
+        "24",
+        "27",
+        "30"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation_ko": "Jane의 나이를 J라 하면 Tom은 2J이고 합은 J + 2J = 3J = 36이므로 J = 12, Tom = 24입니다. 합을 단순히 절반으로 나눠 18을 고르거나 Jane의 나이 12를 답으로 고르는 실수에 주의해야 합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "A car travels 100 miles in 2 hours and then 80 miles in 1 hour. What is the car's average speed, in miles per hour, for the entire trip?",
+      "choices": [
+        "50",
+        "60",
+        "65",
+        "75",
+        "90"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "average speed(평균 속력)은 총 거리를 총 시간으로 나눈 값입니다. 총 거리는 100 + 80 = 180마일, 총 시간은 2 + 1 = 3시간이므로 180/3 = 60mph입니다. 두 구간 속력(50과 80)을 단순 평균한 65를 고르는 것이 대표적 오답인데, 시간이 다르므로 그렇게 하면 안 됩니다."
+    }
+  ]
+}

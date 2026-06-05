@@ -1,0 +1,133 @@
+{
+  "group": "math",
+  "subgroup": "quant",
+  "level": 3,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Quantity A: 2^10\nQuantity B: 10^3",
+      "choices": ["Quantity A is greater", "Quantity B is greater", "The two quantities are equal", "The relationship cannot be determined from the information given"],
+      "answer": [0],
+      "explanation_ko": "2^10 = 1024이고 10^3 = 1000이므로 Quantity A가 더 큽니다. 밑(base)이 작은 2라도 지수(exponent)가 충분히 크면 결과가 더 커질 수 있습니다. 두 값이 비슷해 보여 'equal(같다)'을 고르기 쉽지만, 2^10을 1024로 정확히 계산하면 1000보다 24만큼 크다는 것을 알 수 있습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "It is given that x < y < 0.\nQuantity A: x + y\nQuantity B: xy",
+      "choices": ["Quantity A is greater", "Quantity B is greater", "The two quantities are equal", "The relationship cannot be determined from the information given"],
+      "answer": [1],
+      "explanation_ko": "두 수가 모두 음수(negative)이므로 합 x + y는 반드시 음수이고, 두 음수의 곱(product) xy는 반드시 양수입니다. 따라서 항상 Quantity B가 더 큽니다. x, y의 구체적 값을 모른다고 해서 'cannot be determined(판단 불가)'를 고르면 안 됩니다. 부호(sign)만으로 대소 관계가 확정되기 때문입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "A square has a diagonal of length 6.\nQuantity A: the area of the square\nQuantity B: 18",
+      "choices": ["Quantity A is greater", "Quantity B is greater", "The two quantities are equal", "The relationship cannot be determined from the information given"],
+      "answer": [2],
+      "explanation_ko": "정사각형(square)의 대각선(diagonal) d와 넓이(area)는 area = d^2 / 2의 관계가 있습니다. d = 6이므로 area = 36 / 2 = 18이 되어 두 양은 같습니다. 한 변(side)을 6으로 착각해 36으로 계산하면 'A가 더 크다'로 잘못 고르게 됩니다. 대각선이 한 변의 sqrt(2)배임을 기억해야 합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "It is given that xy > 0.\nQuantity A: x + y\nQuantity B: 0",
+      "choices": ["Quantity A is greater", "Quantity B is greater", "The two quantities are equal", "The relationship cannot be determined from the information given"],
+      "answer": [3],
+      "explanation_ko": "xy > 0은 x와 y가 같은 부호(same sign)임을 뜻하지만, 둘 다 양수인지 둘 다 음수인지는 알 수 없습니다. 둘 다 양수이면 x + y > 0이고, 둘 다 음수이면 x + y < 0이므로 대소 관계가 하나로 정해지지 않습니다. 따라서 정답은 'cannot be determined(판단 불가)'입니다. xy > 0만 보고 합도 양수일 거라 단정하면 안 됩니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "If 3x - 7 > 5 and 2x + 1 < 13, what is the only integer value of x that satisfies both inequalities?",
+      "choices": ["4", "5", "6", "7", "There is no such integer"],
+      "answer": [1],
+      "explanation_ko": "첫 번째 부등식(inequality) 3x - 7 > 5는 x > 4를 주고, 두 번째 부등식 2x + 1 < 13은 x < 6을 줍니다. 두 조건을 합치면 4 < x < 6이므로 정수는 5 하나뿐입니다. 부등식이 strict(등호 없는 부등호)이므로 경계값 4와 6은 포함되지 않습니다. 경계를 포함시키면 4나 6을 잘못 고르게 됩니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "What is the value of (4^3 * 4^2) / 4 ?",
+      "choices": ["16", "64", "256", "1024", "4096"],
+      "answer": [2],
+      "explanation_ko": "같은 밑(base)의 거듭제곱은 곱하면 지수를 더하고 나누면 지수를 빼므로 4^(3+2-1) = 4^4 = 256입니다. 분모의 4는 4^1이라는 점을 잊고 4^(3+2) = 4^5 = 1024로 답하기 쉽습니다. 또한 지수를 곱해 4^6 = 4096으로 계산하는 것도 흔한 실수(error)입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "A circle has an area of 49pi. What is the circumference of the circle?",
+      "choices": ["7pi", "14pi", "21pi", "49pi", "98pi"],
+      "answer": [1],
+      "explanation_ko": "넓이(area) = pi * r^2 = 49pi이므로 r^2 = 49, 즉 반지름(radius) r = 7입니다. 둘레(circumference) = 2 * pi * r = 2 * pi * 7 = 14pi입니다. 2를 곱하는 것을 잊으면 7pi를, 넓이와 둘레를 혼동하면 49pi를 고르게 됩니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Each interior angle of a regular polygon measures 150 degrees. How many sides does the polygon have?",
+      "choices": ["6", "8", "10", "12", "15"],
+      "answer": [3],
+      "explanation_ko": "정다각형(regular polygon)의 한 내각(interior angle)은 180 - (360/n)으로 구할 수 있습니다. 180 - 360/n = 150을 풀면 360/n = 30, 따라서 n = 12입니다. 외각(exterior angle)이 180 - 150 = 30도이고 외각의 합은 360도이므로 360/30 = 12로도 같은 답을 얻습니다. 분자로 180을 잘못 쓰면 6이라는 오답이 나옵니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "A committee of 2 people is to be chosen from a group of 6 people. How many different committees are possible?",
+      "choices": ["12", "15", "30", "36", "720"],
+      "answer": [1],
+      "explanation_ko": "위원회(committee)는 순서가 중요하지 않으므로 조합(combination)으로 계산합니다. C(6,2) = (6*5)/(2*1) = 15입니다. 순서를 고려하는 순열(permutation) P(6,2) = 30으로 계산하면 안 됩니다. 두 사람을 뽑을 때 (A,B)와 (B,A)는 같은 위원회이므로 2로 나누어야 합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "A bag contains 3 red marbles and 5 blue marbles and no others. If one marble is drawn at random, what is the probability that it is red?",
+      "choices": ["3/8", "5/8", "3/5", "1/3", "1/8"],
+      "answer": [0],
+      "explanation_ko": "확률(probability)은 원하는 경우의 수를 전체 경우의 수로 나눈 값입니다. 전체 구슬은 3 + 5 = 8개이고 빨간색은 3개이므로 P(red) = 3/8입니다. 분모를 빨간색과 파란색의 비(ratio)로 착각해 3/5로 쓰면 안 됩니다. 분모는 항상 전체 개수 8이어야 합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "A student scored 80 on each of 3 tests and 90 on each of 2 tests. What is the student's average (arithmetic mean) score for the 5 tests?",
+      "choices": ["82", "83", "84", "85", "86"],
+      "answer": [2],
+      "explanation_ko": "가중평균(weighted average)이므로 단순히 (80 + 90)/2를 하면 안 됩니다. 총점은 3*80 + 2*90 = 240 + 180 = 420이고 시험은 5번이므로 평균은 420/5 = 84입니다. 80이 더 많이(3번) 나왔으므로 평균이 두 값의 중간인 85보다 80 쪽으로 치우칩니다. 그래서 85가 아니라 84가 정답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Class A has 20 students with an average (arithmetic mean) score of 75, and Class B has 30 students with an average score of 85. What is the average score of all 50 students combined?",
+      "choices": ["79", "80", "81", "82", "83"],
+      "answer": [2],
+      "explanation_ko": "두 반의 총점을 더해 전체 인원으로 나누는 가중평균(weighted average) 문제입니다. (20*75 + 30*85)/50 = (1500 + 2550)/50 = 4050/50 = 81입니다. 인원수를 무시하고 두 평균의 중간값 (75 + 85)/2 = 80으로 답하면 틀립니다. 인원이 더 많은 Class B(85점)쪽으로 평균이 치우치기 때문에 81이 됩니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "A household budget of $1,200 is divided as follows: rent 40%, food 25%, transportation 15%, and savings 20%. How much more money is allocated to rent than to transportation?",
+      "choices": ["$180", "$240", "$300", "$480", "$660"],
+      "answer": [2],
+      "explanation_ko": "집세(rent)는 1200의 40%인 480달러, 교통비(transportation)는 15%인 180달러입니다. 차이는 480 - 180 = 300달러입니다. 두 항목을 더한 660달러나 집세 단독 금액 480달러를 고르지 않도록 '얼마나 더 많은가(how much more)'라는 표현이 차이를 묻는다는 점에 주의해야 합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "In a data set, the value 2 occurs 3 times, the value 4 occurs 2 times, and the value 6 occurs 5 times. What is the average (arithmetic mean) of the data set?",
+      "choices": ["4.0", "4.2", "4.4", "4.6", "5.0"],
+      "answer": [2],
+      "explanation_ko": "각 값에 출현 빈도(frequency)를 곱해 합을 구합니다. 합 = 2*3 + 4*2 + 6*5 = 6 + 8 + 30 = 44이고, 자료의 개수는 3 + 2 + 5 = 10개이므로 평균은 44/10 = 4.4입니다. 빈도를 무시하고 세 값 2, 4, 6의 단순 평균 4.0을 고르면 안 됩니다. 6이 5번으로 가장 자주 나와 평균을 4보다 위로 끌어올립니다."
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "group": "verbal",
+  "subgroup": "se_tc",
+  "level": 4,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Although the senator's speech was billed as a candid assessment of the budget crisis, its careful hedging and strategic omissions rendered it more _______ than forthright.",
+      "choices": ["evasive", "trenchant", "perspicuous", "vociferous", "conciliatory"],
+      "answer": [0],
+      "explanation_ko": "문장은 '솔직한(candid) 평가로 홍보되었지만(Although)'이라는 역접 구조로, 빈칸은 forthright(솔직한)와 대비되는 단어여야 합니다. hedging(얼버무림)과 omissions(누락)이 단서이므로 evasive(회피적인)가 정답입니다. trenchant(날카로운, 신랄한)는 오히려 명확하고 직설적인 연설을 뜻하므로 문맥과 반대이고, conciliatory(회유적인)는 어조가 부드럽다는 뜻일 뿐 솔직함의 반대 개념이 아니어서 틀렸습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Far from being _______, the manuscript's marginalia proved central to the scholar's argument, revealing the author's evolving stance on questions she never addressed in print.",
+      "choices": ["incidental", "illegible", "apocryphal", "derivative", "polemical"],
+      "answer": [0],
+      "explanation_ko": "'Far from being ~'(결코 ~이 아닌) 구문은 빈칸이 central(핵심적인)의 반대말임을 요구합니다. 따라서 incidental(부수적인, 지엽적인)이 정답입니다. apocryphal(출처가 의심스러운, 위작의)은 진위 문제를 다루는 단어인데, 문장은 여백 주석(marginalia)의 진위가 아니라 중요도를 논하고 있으므로 어울리지 않습니다. illegible(판독 불가능한)도 '핵심적'의 반대 축이 아니어서 틀렸습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "The biographer's portrait, though admiring, never lapses into _______: she catalogs her subject's failures with the same scrupulous attention she devotes to his triumphs.",
+      "choices": ["hagiography", "pedantry", "iconoclasm", "candor", "obscurity"],
+      "answer": [0],
+      "explanation_ko": "전기 작가가 인물을 존경하면서도(admiring) 실패까지 꼼꼼히 기록한다는 내용이므로, 빠지지 않은 함정은 hagiography(성인전 같은 무조건적 미화)입니다. 'though admiring'이 미화로 흐를 위험을 암시하고 콜론 뒤가 그 반대 증거를 제시합니다. candor(솔직함)는 실패를 기록하는 태도 자체이므로 'never lapses into'(결코 빠지지 않는다)와 모순되어 틀렸고, iconoclasm(우상 파괴, 통념 타파)은 존경하는 어조와 어긋납니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Critics who dismissed the theory as _______ were confounded when subsequent experiments confirmed its most counterintuitive predictions.",
+      "choices": ["fanciful", "prescient", "axiomatic", "parsimonious", "empirical"],
+      "answer": [0],
+      "explanation_ko": "비판자들이 이론을 일축했는데(dismissed) 나중에 실험으로 확증되어 당황했다는 흐름이므로, 빈칸에는 부정적 평가어인 fanciful(공상적인, 터무니없는)이 들어가야 합니다. prescient(선견지명이 있는)는 칭찬이므로 dismissed와 충돌하고, axiomatic(자명한)도 일축의 근거가 될 수 없습니다. empirical(경험적인, 실증적인)은 오히려 과학 이론의 미덕이므로 비판의 이유로 부적절합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "The new director's reforms, though touted as sweeping, were in practice so _______ that veteran employees scarcely noticed any change in their daily routines.",
+      "choices": ["incremental", "draconian", "pervasive", "expedient", "contentious"],
+      "answer": [0],
+      "explanation_ko": "'sweeping(전면적인)이라고 선전되었지만(though touted)' 직원들이 변화를 거의 느끼지 못했다는 역접 구조이므로, 빈칸은 sweeping의 반대인 incremental(점진적인, 소폭의)이 정답입니다. pervasive(만연한, 구석구석 미치는)는 오히려 sweeping과 같은 방향이어서 모순되고, draconian(가혹한)은 변화의 강도가 세다는 뜻이므로 '거의 눈치채지 못했다'와 양립할 수 없습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Paradoxically, the novelist's reputation for _______ has obscured her technical daring: readers so expect comfortable, conventional storytelling from her that they overlook the formal experiments embedded in even her most popular works.",
+      "choices": ["conventionality", "audacity", "obscurantism", "prolixity", "erudition"],
+      "answer": [0],
+      "explanation_ko": "콜론 뒤의 'comfortable, conventional storytelling'(편안하고 관습적인 이야기)을 기대한다는 설명이 빈칸을 직접 정의하므로 conventionality(관습성, 평범함)가 정답입니다. 그 평판이 실제의 technical daring(기법적 대담함)을 가렸다는 역설(Paradoxically) 구조입니다. audacity(대담함)는 가려진 실체 쪽의 단어이지 평판 쪽이 아니므로 정반대이고, erudition(박식함)은 독자들의 기대 내용과 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Because the archaeological record of the region is so _______, any chronology of its early settlements must remain provisional, subject to revision with each new excavation.",
+      "choices": ["fragmentary", "voluminous", "ancient", "homogeneous", "immutable"],
+      "answer": [0],
+      "explanation_ko": "연대표가 잠정적(provisional)이고 새 발굴 때마다 수정될 수밖에 없는 이유는 기록이 fragmentary(단편적인, 불완전한)하기 때문입니다. voluminous(방대한)는 자료가 많다는 뜻이므로 오히려 확실한 연대표를 가능하게 하여 인과가 뒤집히고, ancient(아주 오래된)는 고고학 기록에 당연한 속성일 뿐 잠정성의 직접적 이유가 되지 못합니다. immutable(불변의)은 '수정될 수 있다'는 결론과 정면으로 모순됩니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "The committee's report was so _______ that even sympathetic readers struggled to extract its central recommendations from the thicket of qualifications and jargon.",
+      "choices": ["opaque", "succinct", "impenetrable", "candid", "derivative", "scathing"],
+      "answer": [0, 2],
+      "explanation_ko": "호의적인 독자조차 단서 조항(qualifications)과 전문용어(jargon)의 덤불에서 핵심 권고를 끌어내기 어려웠다고 했으므로, 보고서가 이해하기 어려웠다는 뜻의 opaque(불투명한, 난해한)와 impenetrable(이해할 수 없는)이 정답 쌍입니다. succinct(간결한)는 오히려 읽기 쉽다는 뜻이라 정반대이고, scathing(신랄한)은 어조의 문제이지 난해함과 무관하므로 짝을 이루지 못합니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Once celebrated as a visionary, the architect now finds his signature style dismissed by younger practitioners as _______, a relic of aesthetic assumptions the field has long since abandoned.",
+      "choices": ["outmoded", "avant-garde", "ostentatious", "antiquated", "utilitarian", "idiosyncratic"],
+      "answer": [0, 3],
+      "explanation_ko": "한때 선구자(visionary)로 칭송받던 건축가의 스타일이 이제는 '업계가 오래전에 버린 미학적 전제의 유물(relic)'로 치부된다고 했으므로, outmoded(구식이 된)와 antiquated(시대에 뒤떨어진)가 의미상 동치인 정답 쌍입니다. avant-garde(전위적인)는 '유물'이라는 동격 표현과 정반대이고, idiosyncratic(독특한, 별난)은 낡았다는 의미가 없어 단독으로는 그럴듯해도 짝이 되는 단어가 없습니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Her colleagues mistook her reticence for _______, never suspecting that behind the silence lay a fierce commitment to the project's success.",
+      "choices": ["apathy", "hostility", "indifference", "zeal", "erudition", "prudence"],
+      "answer": [0, 2],
+      "explanation_ko": "동료들이 그녀의 과묵함(reticence)을 오해했는데, 실제로는 침묵 뒤에 강렬한 헌신(fierce commitment)이 있었다는 구조입니다. 따라서 헌신의 반대로 오해된 것은 apathy(무관심)와 indifference(무심함)이며 이 둘이 동의어 쌍을 이룹니다. hostility(적대감)는 침묵을 오해한 결과로 그럴듯해 보이지만 commitment의 반대 축이 아니고 짝이 되는 선택지도 없습니다. zeal(열의)은 숨겨진 실체 쪽 의미라 오답입니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "The treaty's language was deliberately _______ so that each signatory could claim, before its own domestic audience, that its core demands had been met.",
+      "choices": ["equivocal", "precise", "belligerent", "ambiguous", "terse", "florid"],
+      "answer": [0, 3],
+      "explanation_ko": "각 서명국이 저마다 자국 청중에게 자기 요구가 관철되었다고 주장할 수 있으려면 조약 문구가 여러 해석을 허용해야 합니다. 따라서 equivocal(모호한, 두 가지로 해석되는)과 ambiguous(애매한)가 정답 쌍입니다. precise(정밀한)는 해석의 여지를 없애므로 정반대이고, terse(간결한)는 길이에 관한 단어일 뿐 다의성을 보장하지 않아 틀렸습니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "What the journalist's defenders praised as boldness, her detractors condemned as _______, a willingness to publish damaging claims before they could be verified.",
+      "choices": ["recklessness", "timidity", "temerity", "probity", "diligence", "candor"],
+      "answer": [0, 2],
+      "explanation_ko": "옹호자들은 boldness(대담함)로 칭찬했지만 비판자들은 같은 행동을 부정적으로 규정했으므로, '검증 전에 폭로 기사를 내는 태도'를 가리키는 recklessness(무모함)와 temerity(만용)가 정답 쌍입니다. candor(솔직함)는 언론인에 대한 말로 그럴듯하지만 '검증되지 않은 주장을 성급히 싣는다'는 동격 설명과 맞지 않고 긍정적 어감이라 condemned(비난했다)와 어울리지 않습니다. timidity(소심함)는 정반대 의미입니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Despite the field's reputation for cutthroat competition, the symposium was marked by a surprising _______, with rival laboratories openly sharing unpublished data.",
+      "choices": ["camaraderie", "rancor", "collegiality", "reticence", "pedantry", "austerity"],
+      "answer": [0, 2],
+      "explanation_ko": "'치열한 경쟁(cutthroat competition)으로 유명한 분야임에도(Despite)' 경쟁 연구실들이 미발표 데이터를 공개적으로 공유했다고 했으므로, 빈칸은 우호적 분위기를 뜻하는 camaraderie(동지애)와 collegiality(동료 의식)가 정답 쌍입니다. rancor(원한, 적의)는 Despite 구문이 뒤집어야 할 기존 평판 쪽 단어라 오답이고, reticence(과묵함, 말을 아낌)는 'openly sharing'(공개적으로 공유)과 모순됩니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "The economist's predictions, delivered with such _______ that journalists rarely thought to question them, proved in retrospect to have been little better than guesses.",
+      "choices": ["aplomb", "hesitancy", "assurance", "ambivalence", "humility", "vitriol"],
+      "answer": [0, 2],
+      "explanation_ko": "기자들이 의심할 생각조차 못 했다는 결과를 낳으려면 예측이 매우 자신만만하게 전달되었어야 하므로, aplomb(침착한 자신감)와 assurance(확신에 찬 태도)가 정답 쌍입니다. 실제로는 추측에 불과했다는 뒷부분이 그 자신감이 허세였음을 보여주는 반전 구조입니다. hesitancy(머뭇거림)와 humility(겸손)는 오히려 기자들의 의심을 불렀을 태도이고, vitriol(독설)은 공격성의 문제라 문맥과 무관합니다."
+    }
+  ]
+}
