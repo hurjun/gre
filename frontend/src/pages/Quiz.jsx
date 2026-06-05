@@ -92,7 +92,7 @@ export default function Quiz() {
   if (data.exhausted || !question) {
     return (
       <section className="quiz">
-        <QuizHeader meta={meta} level={data.current_level} elapsed={elapsed} running={false} />
+        <QuizHeader meta={meta} level={data.current_level} maxLevel={data.max_level} elapsed={elapsed} running={false} />
         <StateMessage kind="success" title="🎉 You've solved every question in this section!">
           Come back after adding more questions, or keep practicing another section.
           <div className="state__actions">
@@ -105,7 +105,7 @@ export default function Quiz() {
 
   return (
     <section className="quiz">
-      <QuizHeader meta={meta} level={data.current_level} elapsed={elapsed} running={answering} />
+      <QuizHeader meta={meta} level={data.current_level} maxLevel={data.max_level} elapsed={elapsed} running={answering} />
 
       <p className="quiz__hint">
         {data.remaining_at_level} unsolved at level {data.current_level} ·{' '}
@@ -153,7 +153,7 @@ export default function Quiz() {
   )
 }
 
-function QuizHeader({ meta, level, elapsed, running }) {
+function QuizHeader({ meta, level, maxLevel, elapsed, running }) {
   return (
     <header className="quiz__head">
       <div>
@@ -161,7 +161,7 @@ function QuizHeader({ meta, level, elapsed, running }) {
         <h1 className="quiz__title">{meta.label}</h1>
       </div>
       <div className="quiz__meters">
-        <LevelMeter level={level} />
+        <LevelMeter level={level} max={maxLevel} />
         <Timer seconds={elapsed} warnAfter={running ? 90 : null} />
       </div>
     </header>

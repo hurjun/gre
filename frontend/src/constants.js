@@ -19,8 +19,16 @@ export const SUBGROUPS = [
     label: 'Quantitative Reasoning',
     short: 'Quant',
   },
+  {
+    key: 'vocabulary',
+    group: 'Vocabulary',
+    label: 'GRE Word Test',
+    short: 'Words',
+  },
 ]
 
 export const SUBGROUP_BY_KEY = Object.fromEntries(SUBGROUPS.map((s) => [s.key, s]))
 
-export const MAX_LEVEL = 5
+// Default level ceiling; individual sections report their own max_level from the
+// API (verbal/math climb to 5, the vocabulary Word Test climbs to 10).
+export const DEFAULT_MAX_LEVEL = 5

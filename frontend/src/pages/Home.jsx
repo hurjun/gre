@@ -42,14 +42,15 @@ export default function Home() {
       <h2 className="group-title">Adaptive practice</h2>
       <div className="card-grid">
         {SUBGROUPS.map((subgroup) => {
-          const stat = byKey[subgroup.key] ?? { current_level: 1, solved: 0, total: 0 }
+          const stat =
+            byKey[subgroup.key] ?? { current_level: 1, max_level: 5, solved: 0, total: 0 }
           const done = stat.total > 0 && stat.solved >= stat.total
           const pct = stat.total ? Math.round((stat.solved / stat.total) * 100) : 0
           return (
             <article key={subgroup.key} className="card">
               <span className="card__tag">{subgroup.group}</span>
               <h3 className="card__title">{subgroup.label}</h3>
-              <LevelMeter level={stat.current_level} />
+              <LevelMeter level={stat.current_level} max={stat.max_level} />
               <div className="progress-bar" aria-hidden="true">
                 <span className="progress-bar__fill" style={{ width: `${pct}%` }} />
               </div>
