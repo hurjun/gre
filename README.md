@@ -43,8 +43,8 @@ mistakes in my native language, and never wasting my time on questions I've
 already mastered. Building it end to end (database, API, and UI) was also a way
 to practice the kind of full-stack engineering I want to do in graduate school.
 
-The bundled content is original and substantial: **420 verbal and quantitative
-questions** across five difficulty levels, a **232-word GRE vocabulary Word
+The bundled content is original and substantial: **490 verbal and quantitative
+questions** across five difficulty levels, a **342-word GRE vocabulary Word
 Test** spanning ten levels, and six Analytical Writing prompts with model
 answers — every item independently re-solved and adversarially verified, with
 Korean translations and explanations throughout.
