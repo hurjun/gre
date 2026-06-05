@@ -1,0 +1,133 @@
+{
+  "group": "verbal",
+  "subgroup": "se_tc",
+  "level": 3,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "The salesman's pitch sounded airtight at first, but a careful listener could see that it was _______: each premise, plausible enough on its own, quietly depended on a single unproven assumption.",
+      "choices": ["specious", "irrefutable", "candid", "convoluted", "tangential"],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 그 판매원의 설명은 처음에는 빈틈없게 들렸지만, 주의 깊은 청자라면 그것이 그럴듯하지만 허울뿐임(specious)을 알 수 있었다. 각 전제는 그 자체로는 제법 그럴싸했으나 하나같이 입증되지 않은 단 하나의 가정에 슬그머니 기대고 있었다.\n해설: '처음엔 빈틈없게 들렸지만(airtight at first)' 실제로는 '입증되지 않은 가정에 기대고 있었다(depended on a single unproven assumption)'는 대조가 핵심 단서입니다. 따라서 빈칸에는 '겉으로만 그럴듯하고 실제로는 틀린'이라는 뜻의 specious(허울만 그럴듯한)가 적합합니다. irrefutable(반박할 수 없는)은 정반대 의미이며, candid(솔직한)는 정직함에 관한 단어라 논리의 결함과 무관합니다. convoluted(복잡하게 뒤얽힌)와 tangential(지엽적인)은 논리의 구조나 초점을 가리킬 뿐 '겉만 그럴듯하다'는 핵심을 담지 못합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Even as her colleagues despaired over the mounting setbacks, the project leader remained improbably _______, insisting that each obstacle was merely a prelude to eventual triumph.",
+      "choices": ["morose", "sanguine", "indifferent", "taciturn", "querulous"],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 동료들이 쌓여 가는 차질에 절망하는 와중에도, 그 프로젝트 책임자는 좀처럼 믿기 어려울 만큼 낙관적(sanguine)이어서 모든 장애물이 결국 성공으로 가는 서막일 뿐이라고 주장했다.\n해설: 동료들의 절망(despaired)과 대조되며 '모든 장애물이 성공의 서막일 뿐'이라고 주장했다는 단서로 보아, 책임자가 낙관적이었다는 뜻이 되어야 합니다. 정답은 sanguine(낙관적인, 자신만만한)입니다. morose(침울한)와 querulous(불평이 많은)는 절망적인 분위기와 같은 방향이라 'improbably(뜻밖에도)'가 만드는 대조를 깨뜨립니다. indifferent(무관심한)는 성공을 확신하며 주장하는 적극적 태도와 어긋나고, taciturn(말이 없는)은 '주장했다(insisting)'와 모순됩니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "What had begun as a loose set of suggestions gradually _______ into a rigid code that tolerated no deviation, stifling the very inventiveness it had been meant to encourage.",
+      "choices": ["dissolved", "ossified", "expanded", "fluctuated", "evaporated"],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 느슨한 제안들의 묶음으로 시작했던 것이 점차 어떤 일탈도 용납하지 않는 경직된 규범으로 굳어 버려서(ossified), 본래 장려하려 했던 바로 그 독창성을 억눌렀다.\n해설: '느슨한 제안(loose suggestions)'이 '어떤 일탈도 용납하지 않는 경직된 규범(rigid code)'으로 바뀌었다는 단서가 결정적입니다. 따라서 빈칸에는 '딱딱하게 굳어지다'라는 뜻의 ossified(경직되다, 골화되다)가 들어가야 합니다. dissolved(녹아 사라지다)와 evaporated(증발하다)는 오히려 사라지는 방향이라 '규범으로 굳어졌다'와 반대입니다. expanded(확장되다)는 단순히 커지는 것이고, fluctuated(변동하다)는 들쭉날쭉함을 뜻해 '경직'이라는 결과와 연결되지 않습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "The director's _______ temperament made collaborating with her exhausting; a proposal she had embraced with enthusiasm in the morning she might denounce with contempt by the afternoon.",
+      "choices": ["phlegmatic", "mercurial", "stolid", "magnanimous", "diffident"],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 그 감독의 변덕스러운(mercurial) 기질 탓에 그녀와 협업하는 일은 진이 빠졌다. 아침에 열정적으로 받아들였던 제안을 오후가 되면 경멸하며 비난하기도 했기 때문이다.\n해설: '아침에 받아들인 제안을 오후에 비난한다(embraced in the morning ... denounce by the afternoon)'는 급격한 태도 변화가 핵심 단서입니다. 따라서 빈칸에는 '기분이 수시로 변하는'이라는 뜻의 mercurial(변덕스러운)이 들어가야 합니다. phlegmatic(차분한)과 stolid(무덤덤한)는 감정 기복이 없는 성향이라 정반대입니다. magnanimous(관대한)와 diffident(자신 없는, 소심한)는 변덕스러움이라는 단서와 직접 연결되지 않습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "The inspection was so _______ that the engineer missed structural cracks an attentive observer would have spotted in seconds, approving the bridge after little more than a glance.",
+      "choices": ["meticulous", "exhaustive", "perfunctory", "protracted", "judicious"],
+      "answer": [2],
+      "explanation_ko": "문장 해석: 그 점검이 너무나 형식적(perfunctory)이어서, 주의 깊은 관찰자라면 몇 초 만에 발견했을 구조적 균열을 그 기술자는 놓쳤고, 흘끗 본 정도에 지나지 않게 다리를 승인해 버렸다.\n해설: '주의 깊은 관찰자라면 발견했을 균열을 놓쳤다'와 '흘끗 본 정도(little more than a glance)'라는 단서로 보아, 점검이 대충 형식적으로 이루어졌다는 뜻이 되어야 합니다. 정답은 perfunctory(형식적인, 건성의)입니다. meticulous(꼼꼼한)와 exhaustive(철저한)는 정반대 의미입니다. protracted(오래 끄는)는 시간의 길이에 관한 것이라 '흘끗 봤다'와 모순되고, judicious(분별 있는)는 신중함을 뜻해 균열을 놓친 상황과 어울리지 않습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Critics dismissed his scheme to reforest the entire desert as hopelessly _______: a noble vision, perhaps, but one with scarcely any chance of surviving contact with the region's punishing climate.",
+      "choices": ["pragmatic", "quixotic", "mercenary", "prosaic", "cynical"],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 비평가들은 사막 전체를 다시 숲으로 만들겠다는 그의 계획을 가망 없이 비현실적(quixotic)이라며 일축했다. 어쩌면 고결한 이상이지만, 그 지역의 혹독한 기후를 견뎌 낼 가능성은 거의 없는 이상이라는 것이었다.\n해설: '고결한 이상이지만(noble vision) 견뎌 낼 가능성은 거의 없다(scarcely any chance)'는 단서가 핵심으로, 이상적이지만 비현실적이라는 뜻이 되어야 합니다. 정답은 quixotic(이상은 높으나 비현실적인)입니다. pragmatic(실용적인)은 정반대로 '현실적'이라는 뜻입니다. mercenary(돈만 밝히는)는 고결한 이상과 어긋나고, prosaic(평범한, 산문적인)과 cynical(냉소적인)은 '비현실적인 이상주의'라는 단서와 연결되지 않습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "An _______ gambler, he could not walk past a card table without sitting down, however often his ruinous losses had demonstrated the folly of doing so.",
+      "choices": ["occasional", "reformed", "inveterate", "reluctant", "novice"],
+      "answer": [2],
+      "explanation_ko": "문장 해석: 그는 상습적인(inveterate) 도박꾼이어서, 파멸적인 손실이 그 어리석음을 아무리 자주 일깨워 주었어도 카드 테이블을 그냥 지나치지 못하고 늘 자리에 앉고 말았다.\n해설: '카드 테이블을 그냥 지나치지 못한다'와 '손실이 아무리 자주 일깨워 줘도(however often)'라는 단서로 보아, 도박이 뿌리 깊은 습관이 된 사람이라는 뜻이 되어야 합니다. 정답은 inveterate(상습적인, 뿌리 깊은)입니다. occasional(가끔의)과 reluctant(마지못한), novice(초보의)는 모두 '지나치지 못하고 늘 앉는' 강박적 습관과 모순됩니다. reformed(개과천선한)는 더 이상 도박하지 않는다는 뜻이라 정반대입니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "The coach was notorious for the way he would _______ his players after a loss, his furious tirades echoing through the locker room long after the final whistle.",
+      "choices": ["berate", "console", "upbraid", "commend", "ignore", "exhort"],
+      "answer": [0, 2],
+      "explanation_ko": "문장 해석: 그 코치는 패배 후에 선수들을 호되게 질책하는(berate / upbraid) 것으로 악명이 높았으며, 그의 격노한 일장 연설은 경기 종료 휘슬이 울린 뒤로도 한참 동안 라커룸에 울려 퍼졌다.\n해설: '격노한 일장 연설(furious tirades)'과 '악명이 높았다(notorious)'는 단서로 보아, 선수들을 호되게 꾸짖었다는 의미가 되어야 합니다. berate(질책하다)와 upbraid(나무라다)가 같은 의미의 문장을 만드는 정답 쌍입니다. console(위로하다)과 commend(칭찬하다)는 정반대 방향이고, ignore(무시하다)는 격노한 연설과 모순됩니다. exhort(권고하다, 격려하다)는 다그쳐 독려한다는 뜻이지만 '분노에 찬 질책'의 부정적 어조를 담지 못합니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "The scholar's annotations were so _______ that the appendix of notes nearly rivaled the main text in sheer length.",
+      "choices": ["copious", "sparse", "profuse", "haphazard", "illegible", "scanty"],
+      "answer": [0, 2],
+      "explanation_ko": "문장 해석: 그 학자의 주석이 너무나 방대해서(copious / profuse) 주석을 모은 부록이 분량 면에서 본문에 거의 맞먹을 정도였다.\n해설: '부록이 본문에 거의 맞먹는 분량(nearly rivaled the main text in length)'이라는 단서로 보아, 주석의 양이 매우 많았다는 의미가 되어야 합니다. copious(방대한)와 profuse(아주 많은)가 같은 의미의 문장을 만드는 정답 쌍입니다. sparse(드문드문한)와 scanty(빈약한)는 양이 적다는 뜻이라 정반대이며, 서로 비슷해 보여도 단서와 어긋나는 오답입니다. haphazard(되는대로의)는 무질서함을, illegible(읽기 어려운)은 가독성을 가리킬 뿐 '양이 많다'는 핵심과 무관합니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Her _______ instructions left the new interns guessing at what she had actually wanted them to do.",
+      "choices": ["cryptic", "explicit", "enigmatic", "unambiguous", "verbose", "tedious"],
+      "answer": [0, 2],
+      "explanation_ko": "문장 해석: 그녀의 알쏭달쏭한(cryptic / enigmatic) 지시 때문에 신입 인턴들은 그녀가 실제로 무엇을 원했는지 짐작만 할 수밖에 없었다.\n해설: '신입 인턴들이 무엇을 원했는지 짐작만 했다(left ... guessing)'는 결과로 보아, 지시가 모호하고 이해하기 어려웠다는 의미가 되어야 합니다. cryptic(수수께끼 같은)과 enigmatic(불가해한)이 같은 의미의 문장을 만드는 정답 쌍입니다. explicit(명시적인)과 unambiguous(명확한)는 정반대로, 서로 비슷한 뜻이지만 모두 오답입니다. verbose(장황한)와 tedious(지루한)는 말이 많거나 따분함을 뜻할 뿐 '의미가 모호하다'는 핵심을 담지 못합니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "The newly surfaced security footage did much to _______ the defendant, establishing beyond doubt that he had been miles away when the burglary took place.",
+      "choices": ["exonerate", "incriminate", "absolve", "implicate", "detain", "summon"],
+      "answer": [0, 2],
+      "explanation_ko": "문장 해석: 새로 드러난 보안 영상은 절도가 일어났을 때 피고가 수 마일 떨어진 곳에 있었음을 의심의 여지 없이 입증하여 그의 혐의를 벗기는(exonerate / absolve) 데 크게 기여했다.\n해설: '절도 당시 피고가 수 마일 떨어져 있었음을 입증했다(had been miles away)'는 단서로 보아, 영상이 피고의 혐의를 벗겨 주었다는 뜻이 되어야 합니다. exonerate(무죄를 입증하다)와 absolve(면죄하다)가 같은 의미의 문장을 만드는 정답 쌍입니다. incriminate(죄를 씌우다)와 implicate(연루시키다)는 정반대 방향으로, 서로 비슷한 뜻이지만 모두 오답입니다. detain(구금하다)과 summon(소환하다)은 사법 절차상의 행위일 뿐 '혐의를 벗긴다'는 의미와 무관합니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "The monastery's _______ quarters—a narrow cot, a single wooden chair, and bare stone walls—offered nothing whatever in the way of comfort.",
+      "choices": ["austere", "opulent", "spartan", "sumptuous", "cramped", "dilapidated"],
+      "answer": [0, 2],
+      "explanation_ko": "문장 해석: 그 수도원의 검소한(austere / spartan) 숙소는 좁은 간이침대, 나무 의자 하나, 그리고 휑한 돌벽뿐이어서 안락함이라고는 전혀 제공하지 않았다.\n해설: '좁은 간이침대, 의자 하나, 휑한 돌벽'과 '안락함을 전혀 제공하지 않았다(nothing in the way of comfort)'는 단서로 보아, 숙소가 꾸밈없고 금욕적으로 소박했다는 의미가 되어야 합니다. austere(검소한, 금욕적인)와 spartan(아주 간소한)이 같은 의미의 문장을 만드는 정답 쌍입니다. opulent(호화로운)과 sumptuous(사치스러운)는 정반대 의미입니다. cramped(비좁은)와 dilapidated(허물어져 가는)는 공간의 크기나 노후 상태를 가리킬 뿐 '꾸밈없이 간소하다'는 핵심을 담지 못합니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Hoping to _______ the irate passengers, the gate agent offered full refunds along with a sincere apology for the lengthy delay.",
+      "choices": ["placate", "provoke", "mollify", "antagonize", "reimburse", "interrogate"],
+      "answer": [0, 2],
+      "explanation_ko": "문장 해석: 격분한 승객들을 달래려는(placate / mollify) 마음에서, 그 탑승구 직원은 긴 지연에 대한 진심 어린 사과와 함께 전액 환불을 제안했다.\n해설: '진심 어린 사과(sincere apology)'와 '전액 환불 제안'은 화난 승객을 진정시키려는 행동이므로, 빈칸에는 '달래다'라는 의미가 들어가야 합니다. placate(달래다)와 mollify(누그러뜨리다)가 같은 의미의 문장을 만드는 정답 쌍입니다. provoke(자극하다)와 antagonize(적대감을 불러일으키다)는 정반대 방향입니다. reimburse(변상하다)는 환불이라는 수단과 관련돼 솔깃하지만 '감정을 달랜다'는 뜻이 아니며, interrogate(심문하다)는 문맥과 무관합니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "The technique remains _______, promising in principle but still many years away from any practical use in the clinic.",
+      "choices": ["nascent", "mature", "embryonic", "obsolete", "defunct", "ubiquitous"],
+      "answer": [0, 2],
+      "explanation_ko": "문장 해석: 그 기법은 여전히 초기 단계(nascent / embryonic)에 머물러 있어서, 원리상으로는 유망하지만 임상에서 실제로 쓰이기까지는 아직 여러 해가 더 걸린다.\n해설: '원리상으로는 유망하지만(promising in principle) 실제 사용까지는 여러 해가 남았다(many years away from any practical use)'는 단서로 보아, 기법이 아직 막 생겨난 초기 단계라는 뜻이 되어야 합니다. nascent(초기의, 발생기의)와 embryonic(맹아 단계의)이 같은 의미의 문장을 만드는 정답 쌍입니다. mature(성숙한)는 정반대이고, obsolete(한물간)와 defunct(더 이상 존재하지 않는)는 오히려 끝나 버린 상태를 가리켜 '유망하다'와 모순됩니다. ubiquitous(어디에나 있는)는 보급의 정도를 뜻할 뿐 발전의 초기 단계라는 의미와 무관합니다."
+    }
+  ]
+}

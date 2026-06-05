@@ -1,0 +1,262 @@
+{
+  "group": "vocabulary",
+  "subgroup": "vocabulary",
+  "level": 1,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: HAPPY",
+      "choices": [
+        "angry",
+        "joyful",
+        "hungry",
+        "tired",
+        "busy"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "HAPPY: 행복한, 기쁜. 정답 'joyful(즐거운, 기쁜)'와 동의어입니다. 'angry(화난)'는 감정을 나타내지만 정반대 방향이라 헷갈리는 오답이고, 'hungry(배고픈)'와 'tired(피곤한)'는 의미가 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: SAD",
+      "choices": [
+        "sorrowful",
+        "cheerful",
+        "wealthy",
+        "tall",
+        "quick"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "SAD: 슬픈. 정답 'sorrowful(슬픔에 잠긴)'와 동의어입니다. 'cheerful(쾌활한)'은 정반대 의미라 가장 헷갈리는 오답이고, 'wealthy(부유한)'와 'tall(키 큰)'은 의미가 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: BIG",
+      "choices": [
+        "tiny",
+        "large",
+        "quiet",
+        "ancient",
+        "clever"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "BIG: 큰, 거대한. 정답 'large(큰)'와 동의어입니다. 'tiny(아주 작은)'는 정반대 의미라 가장 헷갈리는 오답이고, 'quiet(조용한)'와 'ancient(고대의)'는 크기와 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: SMALL",
+      "choices": [
+        "little",
+        "huge",
+        "loud",
+        "bright",
+        "heavy"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "SMALL: 작은. 정답 'little(작은)'와 동의어입니다. 'huge(거대한)'는 정반대 의미라 가장 헷갈리는 오답이고, 'loud(시끄러운)'와 'heavy(무거운)'는 크기와 무관한 속성입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: FAST",
+      "choices": [
+        "slow",
+        "late",
+        "quick",
+        "weak",
+        "dark"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation_ko": "FAST: 빠른. 정답 'quick(빠른)'와 동의어입니다. 'slow(느린)'는 정반대 의미라 가장 헷갈리는 오답이고, 'late(늦은)'는 시간 개념이지 속도가 아니므로 무관한 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: ANGRY",
+      "choices": [
+        "calm",
+        "sleepy",
+        "furious",
+        "polite",
+        "curious"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation_ko": "ANGRY: 화난, 분노한. 정답 'furious(격노한)'와 동의어입니다. 'calm(차분한)'은 정반대 의미라 가장 헷갈리는 오답이고, 'sleepy(졸린)'와 'polite(공손한)'는 의미가 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: AFRAID",
+      "choices": [
+        "frightened",
+        "brave",
+        "eager",
+        "proud",
+        "curious"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "AFRAID: 두려워하는, 무서워하는. 정답 'frightened(겁먹은)'와 동의어입니다. 'brave(용감한)'는 정반대 의미라 가장 헷갈리는 오답이고, 'eager(열망하는)'와 'proud(자랑스러운)'는 의미가 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: EASY",
+      "choices": [
+        "difficult",
+        "simple",
+        "heavy",
+        "strange",
+        "costly"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "EASY: 쉬운. 정답 'simple(간단한, 쉬운)'와 동의어입니다. 'difficult(어려운)'는 정반대 의미라 가장 헷갈리는 오답이고, 'heavy(무거운)'와 'costly(비싼)'는 난이도와 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: CLEAN",
+      "choices": [
+        "dirty",
+        "messy",
+        "spotless",
+        "dark",
+        "broken"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation_ko": "CLEAN: 깨끗한. 정답 'spotless(티끌 하나 없는, 깨끗한)'와 동의어입니다. 'dirty(더러운)'와 'messy(지저분한)'는 정반대 방향이라 헷갈리는 오답이고, 'broken(부서진)'은 의미가 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: COLD",
+      "choices": [
+        "warm",
+        "chilly",
+        "soft",
+        "loud",
+        "sweet"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "COLD: 차가운, 추운. 정답 'chilly(쌀쌀한, 차가운)'와 동의어입니다. 'warm(따뜻한)'은 정반대 의미라 가장 헷갈리는 오답이고, 'soft(부드러운)'와 'sweet(달콤한)'는 온도와 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: DARK",
+      "choices": [
+        "bright",
+        "dim",
+        "clean",
+        "fast",
+        "kind"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "DARK: 어두운. 정답 'dim(어둑한, 흐릿한)'와 동의어입니다. 'bright(밝은)'는 정반대 의미라 가장 헷갈리는 오답이고, 'clean(깨끗한)'과 'fast(빠른)'는 밝기와 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: STRONG",
+      "choices": [
+        "weak",
+        "powerful",
+        "tiny",
+        "slow",
+        "quiet"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "STRONG: 강한, 힘센. 정답 'powerful(강력한, 힘센)'와 동의어입니다. 'weak(약한)'는 정반대 의미라 가장 헷갈리는 오답이고, 'tiny(작은)'와 'slow(느린)'는 힘과 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: HELP",
+      "choices": [
+        "hinder",
+        "assist",
+        "ignore",
+        "blame",
+        "forget"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "HELP: 돕다. 정답 'assist(돕다, 보조하다)'와 동의어입니다. 'hinder(방해하다)'는 정반대 의미라 가장 헷갈리는 오답이고, 'ignore(무시하다)'와 'blame(비난하다)'는 의미가 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: BEGIN",
+      "choices": [
+        "finish",
+        "commence",
+        "pause",
+        "repeat",
+        "cancel"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "BEGIN: 시작하다. 정답 'commence(시작하다, 개시하다)'와 동의어입니다. 'finish(끝내다)'는 정반대 의미라 가장 헷갈리는 오답이고, 'pause(잠시 멈추다)'와 'cancel(취소하다)'는 의미가 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: HONEST",
+      "choices": [
+        "truthful",
+        "dishonest",
+        "lazy",
+        "wealthy",
+        "quiet"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "HONEST: 정직한. 정답 'truthful(진실한, 정직한)'와 동의어입니다. 'dishonest(부정직한)'는 정반대 의미라 가장 헷갈리는 오답이고, 'lazy(게으른)'와 'wealthy(부유한)'는 정직함과 무관합니다."
+    }
+  ]
+}

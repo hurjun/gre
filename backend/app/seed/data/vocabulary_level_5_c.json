@@ -1,0 +1,143 @@
+{
+  "group": "vocabulary",
+  "subgroup": "vocabulary",
+  "level": 5,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: INCISIVE",
+      "choices": [
+        "sharp and penetrating",
+        "vague and rambling",
+        "warm and gentle",
+        "slow and hesitant",
+        "richly decorated"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "INCISIVE: 예리한, 통찰력 있는, 날카로운. 정답 'sharp and penetrating(예리하고 통찰력 있는)'와 동의어. 'vague and rambling(모호하고 장황한)'은 정반대 의미의 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: PARAGON",
+      "choices": [
+        "a brief summary",
+        "a model of excellence",
+        "a minor flaw",
+        "a wandering path",
+        "a heated dispute"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "PARAGON: 모범, 귀감, 완벽한 본보기. 정답 'a model of excellence(탁월함의 본보기)'와 동의어. 발음이 비슷한 'paragraph'를 연상시키는 'a brief summary(짧은 요약)'는 뜻이 다른 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: QUIXOTIC",
+      "choices": [
+        "coldly practical",
+        "extremely rapid",
+        "deeply suspicious",
+        "idealistic and impractical",
+        "openly hostile"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation_ko": "QUIXOTIC: 비현실적으로 이상주의적인, 공상적인. 정답 'idealistic and impractical(이상주의적이고 비현실적인)'와 동의어. 'coldly practical(냉정하게 실용적인)'은 정반대 의미의 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: ASSUAGE",
+      "choices": [
+        "to intensify greatly",
+        "to soothe or relieve",
+        "to question sharply",
+        "to delay deliberately",
+        "to mock openly"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "ASSUAGE: 누그러뜨리다, 완화하다, 달래다. 정답 'to soothe or relieve(달래거나 완화하다)'와 동의어. 'to intensify greatly(크게 심화시키다)'는 정반대 의미의 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: DIDACTIC",
+      "choices": [
+        "intended to instruct",
+        "meant to deceive",
+        "purely decorative",
+        "wholly accidental",
+        "harshly critical"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "DIDACTIC: 교훈적인, 가르치려는, 교육적인. 정답 'intended to instruct(가르치려는 의도의)'와 동의어. 'meant to deceive(속이려는)'는 뜻이 무관한 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: INSULAR",
+      "choices": [
+        "broad-minded and open",
+        "narrow-minded and isolated",
+        "warm and inviting",
+        "vast and expansive",
+        "quick and lively"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "INSULAR: 편협한, 배타적인, 고립된. 정답 'narrow-minded and isolated(편협하고 고립된)'와 동의어. 'broad-minded and open(개방적이고 포용적인)'은 정반대 의미의 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: NEFARIOUS",
+      "choices": [
+        "wicked and villainous",
+        "kind and virtuous",
+        "vague and uncertain",
+        "small and trivial",
+        "calm and composed"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "NEFARIOUS: 극악무도한, 사악한, 악랄한. 정답 'wicked and villainous(사악하고 악랄한)'와 동의어. 'kind and virtuous(친절하고 덕이 있는)'는 정반대 의미의 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: PEDANTIC",
+      "choices": [
+        "broadly imaginative",
+        "carelessly casual",
+        "warmly affectionate",
+        "fussily concerned with minor rules",
+        "boldly adventurous"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation_ko": "PEDANTIC: 현학적인, 세부 규칙에 지나치게 까다로운. 정답 'fussily concerned with minor rules(사소한 규칙에 까다롭게 집착하는)'와 동의어. 'carelessly casual(부주의하게 대충하는)'은 정반대 의미의 오답이다."
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "group": "verbal",
+  "subgroup": "se_tc",
+  "level": 5,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "The defense had hoped the surprise witness would buttress its narrative, but her testimony, riddled with contradictions, served only to _______ a case that had until then seemed nearly airtight.",
+      "choices": [
+        "corroborate",
+        "vitiate",
+        "adjudicate",
+        "vindicate",
+        "reprise"
+      ],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 변호인 측은 깜짝 증인이 자신들의 진술을 뒷받침해 주기를 바랐지만, 모순으로 가득한 그녀의 증언은 그때까지 거의 빈틈없어 보였던 사건 논리를 오히려 훼손했을(vitiate) 뿐이었다.\n해설: 'had hoped ... would buttress(뒷받침하기를 바랐다)'와 'but ... riddled with contradictions(그러나 모순투성이)'의 반전 구조상, 빈칸에는 논리를 '약화·훼손하다'라는 뜻의 vitiate(손상시키다, 무효화하다)가 들어가야 합니다. 가장 헷갈리는 corroborate(입증·뒷받침하다)와 vindicate(정당함을 입증하다)는 'buttress'에 이끌린 정반대 함정으로, 모순된 증언이라는 단서와 충돌합니다. adjudicate(판결하다)와 reprise(반복하다)는 맥락과 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Though the medicine tasted vile and its regimen was onerous, its effects proved so _______ that within a fortnight the patient, long bedridden, was walking unaided.",
+      "choices": [
+        "deleterious",
+        "negligible",
+        "transient",
+        "palliative",
+        "salutary"
+      ],
+      "answer": [4],
+      "explanation_ko": "문장 해석: 약은 맛이 고약하고 복용법도 번거로웠지만, 그 효과가 너무나 이로워서(salutary) 보름 만에 오래 누워만 지내던 환자가 부축 없이 걷게 되었다.\n해설: 'Though(비록 ~이지만)'로 약의 불쾌함과 그 결과(완쾌)를 대비시키므로, 빈칸에는 '몸에 이로운'이라는 뜻의 salutary(유익한, 건강에 좋은)가 옳습니다. 가장 헷갈리는 palliative(증상만 완화하는)는 환자가 실제로 '걷게' 회복되었다는 점에서 부적절합니다. deleterious(해로운)와 negligible(미미한)은 회복이라는 결과와 모순되고, transient(일시적인)도 지속적 회복과 어긋납니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Critics complained that the documentary's emotional climaxes felt _______, each tear and tremor so precisely cued by the swelling score that what purported to be spontaneous grief registered instead as careful stagecraft.",
+      "choices": [
+        "cathartic",
+        "factitious",
+        "mawkish",
+        "understated",
+        "harrowing"
+      ],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 비평가들은 그 다큐멘터리의 감정적 절정이 인위적으로(factitious) 느껴진다고 불평했다. 눈물과 떨림 하나하나가 고조되는 배경음악에 너무나 정확히 맞춰져 있어서, 자발적 슬픔이라 내세운 것이 오히려 치밀한 연출로 보였기 때문이다.\n해설: '자발적 슬픔이라 했지만 치밀한 stagecraft(연출)로 보였다'는 단서가 '꾸며 낸, 인위적인'을 가리키므로 factitious(인위적인, 조작된)가 정답입니다. 가장 헷갈리는 mawkish(지나치게 감상적인)는 감정 과잉을 뜻할 뿐 '진짜가 아니라 꾸며 냈다'는 핵심을 담지 못합니다. understated(절제된), cathartic(정화를 주는), harrowing(참담한)은 모두 방향이 맞지 않습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Burned by a previous partnership that had collapsed amid mutual recrimination, the founder was understandably _______ of ceding even nominal control to the venture's new backers.",
+      "choices": [
+        "covetous",
+        "prodigal",
+        "chary",
+        "heedless",
+        "desirous"
+      ],
+      "answer": [2],
+      "explanation_ko": "문장 해석: 상호 비방 속에 무너진 이전 동업의 쓴맛을 본 그 창업자가, 벤처의 새 투자자들에게 명목상의 통제권조차 넘기기를 꺼린(chary) 것은 충분히 이해할 만했다.\n해설: '이전 동업이 비방 속에 붕괴했다'는 경험이 단서로, 통제권 양도에 '조심스럽고 경계하는' 태도를 뜻하는 chary(조심하는, 꺼리는)가 정답입니다('be chary of ~ing' 구문). 가장 헷갈리는 heedless(부주의한, 개의치 않는)는 정반대이며, covetous(탐내는)와 desirous(원하는)는 통제권을 오히려 원한다는 뜻이라 어긋나고, prodigal(낭비하는)은 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "The lobbyist's gift, ostensibly a token of goodwill, was in truth a stratagem to _______ the wavering legislator into a commitment he would later find impossible to disavow.",
+      "choices": [
+        "coerce",
+        "dissuade",
+        "absolve",
+        "inveigle",
+        "browbeat"
+      ],
+      "answer": [3],
+      "explanation_ko": "문장 해석: 표면상 선의의 표시였던 그 로비스트의 선물은, 사실 흔들리던 의원을 꾀어내(inveigle) 훗날 결코 부인할 수 없을 약속에 묶어 두려는 술책이었다.\n해설: '선물·선의(goodwill)·술책(stratagem)'이라는 단서는 강압이 아니라 환심과 감언으로 유인했음을 보여 주므로, '감언이설로 꾀다'라는 뜻의 inveigle(꾀어내다, 구슬리다)가 정답입니다. 가장 헷갈리는 coerce(강압하다)와 browbeat(윽박지르다)는 '선물로 환심을 산다'는 부드러운 수법과 충돌하는 함정입니다. dissuade(단념시키다)는 방향이 반대이고, absolve(면죄하다)는 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "The argument was seductive in its symmetry, but closer scrutiny revealed it to be _______: each premise, plausible in isolation, depended on an equivocation that collapsed the moment the terms were defined with care.",
+      "choices": [
+        "irrefutable",
+        "abstruse",
+        "tautological",
+        "specious",
+        "cogent"
+      ],
+      "answer": [3],
+      "explanation_ko": "문장 해석: 그 논증은 대칭적 구조 덕분에 매혹적이었지만, 자세히 뜯어보면 그럴듯하지만 허울뿐임이(specious) 드러났다. 따로 떼어 놓으면 그럴듯한 각 전제가, 용어를 엄밀히 정의하는 순간 무너지는 말장난(equivocation)에 기대고 있었기 때문이다.\n해설: '겉보기엔 그럴듯하나 용어를 엄밀히 정의하면 무너진다'는 단서가 '겉만 그럴듯한, 허울뿐인'을 가리키므로 specious(그럴듯하지만 잘못된)가 정답입니다. 가장 헷갈리는 tautological(동어반복의)은 결함이 '순환논리'일 때 쓰는 말이지만, 여기서의 결함은 equivocation(말의 애매한 이중 사용)이므로 어긋납니다. irrefutable(반박 불가한)과 cogent(설득력 있는)는 정반대이고, abstruse(난해한)는 초점이 다릅니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "So meticulously corroborated was each finding that even the report's fiercest detractors were left with no plausible grounds to _______ it, whatever reservations they harbored about its authors' motives.",
+      "choices": [
+        "gainsay",
+        "promulgate",
+        "vindicate",
+        "embellish",
+        "recapitulate"
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 각 조사 결과가 너무나 면밀히 입증되어 있어서, 그 보고서를 가장 격렬히 비판하던 이들조차 저자들의 동기에 어떤 의구심을 품었든 그것을 반박할(gainsay) 그럴듯한 근거를 찾지 못했다.\n해설: '면밀히 입증된 결과'라는 단서로 보아, 비판자들조차 그것을 '부인·반박할' 근거가 없었다는 뜻이므로 gainsay(부인하다, 반박하다)가 정답입니다. promulgate(공표하다), embellish(윤색하다), recapitulate(요약하다)는 맥락과 무관하며, vindicate(정당성을 입증하다)는 비판자가 취할 행동도 아니고 방향도 반대입니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Interviewers who had been warned to expect a taciturn recluse were startled to find the aged composer positively _______, holding forth for hours on subjects that ranged far beyond his music.",
+      "choices": [
+        "laconic",
+        "garrulous",
+        "reticent",
+        "voluble",
+        "querulous",
+        "dyspeptic"
+      ],
+      "answer": [1, 3],
+      "explanation_ko": "문장 해석: 말수 적은 은둔자를 예상하라는 주의를 들었던 인터뷰어들은, 나이 든 그 작곡가가 오히려 더없이 수다스러워(garrulous / voluble) 자기 음악을 훌쩍 넘어선 주제들까지 몇 시간이고 늘어놓는 것을 보고 놀랐다.\n해설: '말수 적은 은둔자를 예상했으나 몇 시간이고 늘어놓아 놀랐다'는 반전이 단서로, '수다스러운, 말이 많은'을 뜻하는 garrulous와 voluble이 동등한 문장을 만드는 정답 쌍입니다. laconic(말이 간결한)과 reticent(말을 아끼는)는 예상에 이끌린 정반대 함정이고, querulous(투덜대는)와 dyspeptic(짜증 잘 내는)은 말의 '양'이 아니라 '성마름'을 뜻해 어긋납니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Where her predecessor's lectures had bristled with jargon, hers were so _______ that even newcomers to the field could follow the intricate proofs without once consulting a glossary.",
+      "choices": [
+        "turgid",
+        "pellucid",
+        "abstruse",
+        "limpid",
+        "prolix",
+        "desultory"
+      ],
+      "answer": [1, 3],
+      "explanation_ko": "문장 해석: 전임자의 강의가 전문용어로 빽빽했던 것과 달리, 그녀의 강의는 너무나 명료해서(pellucid / limpid) 그 분야에 처음 발 들인 사람도 용어집을 한 번 들추지 않고 복잡한 증명을 따라갈 수 있었다.\n해설: '전임자의 jargon(전문용어)과 대비되어 초보자도 따라간다'는 단서로 보아 '아주 명료한, 투명한'을 뜻하는 pellucid와 limpid가 정답 쌍입니다. turgid(과장되고 난삽한), abstruse(난해한), prolix(장황한)는 모두 명료함과 반대이며, desultory(산만한)는 맥락과 무관합니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Colleagues learned to gauge the director's _______ temperament before approaching him, since a mood of expansive generosity could curdle into glowering suspicion within the span of a single meeting.",
+      "choices": [
+        "phlegmatic",
+        "mercurial",
+        "equable",
+        "dyspeptic",
+        "volatile",
+        "stolid"
+      ],
+      "answer": [1, 4],
+      "explanation_ko": "문장 해석: 동료들은 그 이사에게 다가가기 전에 그의 변덕스러운(mercurial / volatile) 기질을 먼저 가늠하는 법을 익혔다. 호탕하게 너그럽던 기분이 회의 한 번 사이에 험악한 의심으로 돌변할 수 있었기 때문이다.\n해설: '너그러운 기분이 한 회의 만에 의심으로 돌변한다'는 단서가 '기분이 급변하는'을 가리키므로 mercurial과 volatile이 동등한 의미의 정답 쌍입니다. phlegmatic(침착한), equable(차분한), stolid(무덤덤한)는 모두 정반대이고, dyspeptic(짜증 잘 내는)은 '의심·험악함'이라는 한 단면에만 끌리는 함정으로 '급변'이라는 핵심을 담지 못합니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Negotiators braced for compromise found their counterpart unexpectedly _______, greeting every concession with fresh demands and treating overtures of goodwill as invitations to attack.",
+      "choices": [
+        "conciliatory",
+        "truculent",
+        "accommodating",
+        "bellicose",
+        "magnanimous",
+        "diffident"
+      ],
+      "answer": [1, 3],
+      "explanation_ko": "문장 해석: 타협을 각오했던 협상가들은 상대방이 뜻밖에 호전적이어서(truculent / bellicose) 모든 양보를 새로운 요구로 되받고 선의의 제안마저 공격의 빌미로 삼는 것을 보았다.\n해설: '양보를 새 요구로 되받고 선의를 공격의 빌미로 삼는다'는 단서가 '싸우려 드는, 호전적인'을 가리키므로 truculent와 bellicose가 정답 쌍입니다. conciliatory(회유적인), accommodating(순응적인), magnanimous(아량 있는)는 '타협을 각오했다'는 기대에 이끌린 정반대 함정이고, diffident(소심한)는 무관합니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "The fame of such viral sensations is notoriously _______: a performer adored by millions one week may find, the next, that the public's attention has decamped entirely to some fresher novelty.",
+      "choices": [
+        "ephemeral",
+        "durable",
+        "meretricious",
+        "evanescent",
+        "indelible",
+        "ubiquitous"
+      ],
+      "answer": [0, 3],
+      "explanation_ko": "문장 해석: 그런 입소문 스타들의 명성은 악명 높을 만큼 덧없어서(ephemeral / evanescent), 이번 주 수백만의 사랑을 받던 연예인이 다음 주면 대중의 관심이 더 새로운 화젯거리로 완전히 옮겨 가 버렸음을 깨닫기 일쑤다.\n해설: '한 주 만에 관심이 다른 데로 옮겨 간다'는 단서가 '수명이 짧은, 금세 사라지는'을 가리키므로 ephemeral과 evanescent가 정답 쌍입니다. durable(오래가는)과 indelible(지워지지 않는)은 정반대이고, meretricious(겉만 번지르르한)는 어조상 끌릴 수 있으나 '지속 기간'이 아니라 '천박함'을 뜻해 어긋나며, ubiquitous(어디에나 있는)는 무관합니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Reviewers who had lionized the author's debut now _______ her sophomore effort, denouncing as self-indulgent the very stylistic flourishes they had once celebrated as daring.",
+      "choices": [
+        "extolled",
+        "castigated",
+        "lampooned",
+        "excoriated",
+        "vindicated",
+        "rued"
+      ],
+      "answer": [1, 3],
+      "explanation_ko": "문장 해석: 그 작가의 데뷔작을 떠받들던 평론가들이 이제는 그녀의 두 번째 작품을 혹독히 비난하며(castigated / excoriated), 한때 대담하다고 칭송했던 바로 그 문체적 기교를 자아도취라며 깎아내렸다.\n해설: '한때 칭송하던 것을 이제 self-indulgent(자아도취)라 비난한다'는 단서가 '맹렬히 질책하다'를 가리키므로 castigated와 excoriated가 정답 쌍입니다. extolled(극찬하다)와 vindicated(정당성을 입증하다)는 'lionized(떠받들다)'에 이끌린 정반대 함정이고, lampooned(풍자하다)는 조롱의 방식이 달라 '단죄'라는 의미와 정확히 겹치지 않으며, rued(후회하다)는 주어가 평론가라는 점에서 어긋납니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "What strikes the reader of these early manifestos is how _______ the movement's ideology still was: its central tenets gestured at rather than argued, its vocabulary borrowed wholesale from the very traditions it would later repudiate.",
+      "choices": [
+        "ossified",
+        "entrenched",
+        "nascent",
+        "inchoate",
+        "hidebound",
+        "doctrinaire"
+      ],
+      "answer": [2, 3],
+      "explanation_ko": "문장 해석: 이 초기 선언문들을 읽는 독자가 놀라는 점은, 그 운동의 이념이 여전히 얼마나 미성숙했는가(nascent / inchoate) 하는 것이다. 핵심 강령은 논증되기보다 그저 암시되었고, 어휘는 훗날 배격하게 될 바로 그 전통에서 통째로 빌려 온 것이었다.\n해설: '강령이 논증되지 못한 채 암시에 그치고 어휘마저 빌려 왔다'는 단서가 이념이 '아직 형성 초기의, 미숙한' 상태임을 가리키므로 nascent(태동기의)와 inchoate(초기의, 미완성의)가 정답 쌍입니다. ossified(굳어 버린), entrenched(굳건히 자리 잡은), hidebound(완고한)는 모두 '확립·경직'을 뜻해 정반대이고, doctrinaire(교조적인)는 'ideology(이념)'라는 단어에 이끌린 함정으로 미성숙함과 어긋납니다."
+    }
+  ]
+}

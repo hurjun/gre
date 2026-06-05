@@ -1,0 +1,262 @@
+{
+  "group": "vocabulary",
+  "subgroup": "vocabulary",
+  "level": 3,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: CAPITULATE",
+      "choices": [
+        "resist",
+        "negotiate",
+        "surrender",
+        "celebrate",
+        "summarize"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation_ko": "CAPITULATE: 항복하다, 굴복하다. 정답 'surrender(항복하다)'와 동의어. 'resist(저항하다)'는 정반대 뜻의 오답. 'negotiate(협상하다)'는 무관한 오답."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: RESCIND",
+      "choices": [
+        "enact",
+        "revoke",
+        "postpone",
+        "ratify",
+        "amend"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "RESCIND: (법·명령 등을) 철회하다, 폐지하다. 정답 'revoke(취소하다, 철회하다)'와 동의어. 'enact(법을 제정하다)'와 'ratify(비준하다)'는 반대 느낌의 오답. 'amend(수정하다)'는 무관한 오답."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: CRYPTIC",
+      "choices": [
+        "obvious",
+        "concise",
+        "enigmatic",
+        "ancient",
+        "hidden"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation_ko": "CRYPTIC: 수수께끼 같은, 알아듣기 어려운. 정답 'enigmatic(불가해한, 수수께끼 같은)'과 동의어. 'hidden(숨겨진)'은 어원(crypt, 숨김)에서 연상되지만 핵심 의미인 '이해하기 어려움'과 달라 오답. 'obvious(명백한)'는 반대말."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: EXTOL",
+      "choices": [
+        "belittle",
+        "glorify",
+        "examine",
+        "endure",
+        "modify"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "EXTOL: 극찬하다, 칭송하다. 정답 'glorify(찬양하다, 추켜세우다)'와 동의어. 'belittle(깎아내리다)'은 정반대 뜻의 오답. 'examine(조사하다)'은 무관한 오답."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: ABATE",
+      "choices": [
+        "intensify",
+        "begin",
+        "subside",
+        "scatter",
+        "conceal"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation_ko": "ABATE: (강도·양 등이) 약해지다, 줄어들다. 정답 'subside(가라앉다, 잦아들다)'와 동의어. 'intensify(심해지다)'는 정반대 뜻의 오답. 'begin(시작하다)'은 무관한 오답."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: LAUD",
+      "choices": [
+        "criticize",
+        "commend",
+        "ignore",
+        "question",
+        "imitate"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "LAUD: 칭찬하다, 찬양하다. 정답 'commend(칭찬하다, 추천하다)'와 동의어. 'criticize(비난하다)'는 정반대 뜻의 오답. 'imitate(모방하다)'는 무관한 오답."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: PUGNACIOUS",
+      "choices": [
+        "peaceable",
+        "talkative",
+        "belligerent",
+        "stubborn",
+        "generous"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation_ko": "PUGNACIOUS: 싸우기 좋아하는, 호전적인. 정답 'belligerent(호전적인, 공격적인)'와 동의어. 'peaceable(온순한, 평화로운)'은 반대말 오답. 'stubborn(완고한)'은 비슷한 부정적 어감 때문에 헷갈리지만 '싸움을 거는' 핵심 의미와 달라 오답."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: CIRCUITOUS",
+      "choices": [
+        "direct",
+        "roundabout",
+        "rapid",
+        "circular",
+        "secret"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "CIRCUITOUS: 빙 둘러 가는, 우회하는. 정답 'roundabout(에두르는, 우회하는)'과 동의어. 'circular(원형의)'는 철자가 비슷해 헷갈리지만 의미가 다른 오답. 'direct(직접의, 곧장 가는)'는 반대말."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: WARY",
+      "choices": [
+        "reckless",
+        "weary",
+        "cautious",
+        "friendly",
+        "confident"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation_ko": "WARY: 조심하는, 경계하는. 정답 'cautious(신중한, 조심스러운)'와 동의어. 'weary(지친)'는 철자가 비슷해 헷갈리지만 의미가 다른 오답. 'reckless(무모한)'는 반대말."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: DEBILITATE",
+      "choices": [
+        "strengthen",
+        "weaken",
+        "discuss",
+        "postpone",
+        "purify"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "DEBILITATE: 쇠약하게 하다, 약화시키다. 정답 'weaken(약하게 만들다)'과 동의어. 'strengthen(강화하다)'은 정반대 뜻의 오답. 'purify(정화하다)'는 무관한 오답."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: FORTITUDE",
+      "choices": [
+        "cowardice",
+        "wealth",
+        "endurance",
+        "weakness",
+        "luck"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation_ko": "FORTITUDE: 불굴의 용기, 꿋꿋한 인내. 정답 'endurance(인내, 참고 견디는 힘)'와 동의어. 'cowardice(비겁함)'와 'weakness(나약함)'는 반대 느낌의 오답. 'wealth(부)'는 무관한 오답."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: ALACRITY",
+      "choices": [
+        "reluctance",
+        "eagerness",
+        "accuracy",
+        "honesty",
+        "fatigue"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "ALACRITY: 민첩함, 선뜻 나서는 열의. 정답 'eagerness(열의, 기꺼이 하려는 태도)'와 동의어. 'reluctance(꺼림, 마지못함)'는 정반대 뜻의 오답. 'accuracy(정확성)'는 무관한 오답."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: RESOLUTE",
+      "choices": [
+        "hesitant",
+        "cheerful",
+        "determined",
+        "careless",
+        "gentle"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation_ko": "RESOLUTE: 단호한, 굳게 결심한. 정답 'determined(단호한, 결연한)'와 동의어. 'hesitant(망설이는)'는 정반대 뜻의 오답. 'cheerful(쾌활한)'은 무관한 오답."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: EMULATE",
+      "choices": [
+        "create",
+        "imitate",
+        "ignore",
+        "criticize",
+        "exceed"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "EMULATE: 모방하다, 본받다. 정답 'imitate(따라 하다, 모방하다)'와 동의어. 'exceed(능가하다)'는 본받아 뛰어넘으려 한다는 연상 때문에 헷갈리지만 '본받아 따라 하다'라는 핵심 의미와 달라 오답. 'create(창조하다)'는 무관한 오답."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: HACKNEYED",
+      "choices": [
+        "original",
+        "complex",
+        "trite",
+        "honest",
+        "rare"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation_ko": "HACKNEYED: 진부한, 상투적인. 정답 'trite(케케묵은, 흔해 빠진)'와 동의어. 'original(독창적인)'은 정반대 뜻의 오답. 'complex(복잡한)'는 무관한 오답."
+    }
+  ]
+}

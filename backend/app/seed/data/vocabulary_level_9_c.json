@@ -1,0 +1,177 @@
+{
+  "group": "vocabulary",
+  "subgroup": "vocabulary",
+  "level": 9,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: LAMBENT",
+      "choices": [
+        "softly glowing or flickering",
+        "harsh and blinding",
+        "completely dark and lightless",
+        "deafeningly loud",
+        "icy cold to the touch"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "LAMBENT: (불꽃·빛이) 부드럽게 일렁이며 빛나는, 가볍게 어른거리는. 정답 'softly glowing or flickering'와 동의어. 'harsh and blinding(눈부시게 강렬한)'은 반대 뉘앙스의 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: FROWARD",
+      "choices": [
+        "obediently compliant",
+        "stubbornly disobedient and contrary",
+        "openly generous",
+        "deeply sorrowful",
+        "leaning physically forward"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "FROWARD: 고집스럽게 거스르는, 순종하지 않는, 비뚤어진. 정답 'stubbornly disobedient and contrary'와 동의어. 'obediently compliant(순종적인)'은 정반대 의미의 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: NOISOME",
+      "choices": [
+        "extremely loud and clamorous",
+        "fresh and fragrant",
+        "foul-smelling and offensive",
+        "soothingly quiet",
+        "brightly colored"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation_ko": "NOISOME: 악취가 나는, 역겹고 해로운. 정답 'foul-smelling and offensive'와 동의어. 'extremely loud and clamorous(아주 시끄러운)'은 noise와의 혼동을 노린 함정으로, 소리가 아니라 냄새·해로움을 뜻해 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: OBLOQUY",
+      "choices": [
+        "widespread public praise",
+        "harsh public condemnation and abuse",
+        "quiet private reflection",
+        "a formal written agreement",
+        "lighthearted banter"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "OBLOQUY: 심한 공개적 비난, 욕설; 그로 인한 불명예. 정답 'harsh public condemnation and abuse'와 동의어. 'widespread public praise(폭넓은 칭찬)'은 정반대 의미의 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: MAWKISH",
+      "choices": [
+        "coldly unemotional",
+        "excessively and falsely sentimental",
+        "sharply sarcastic",
+        "rigorously logical",
+        "boldly courageous"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "MAWKISH: 지나치게 감상적인, 느끼할 만큼 감정이 과잉된. 정답 'excessively and falsely sentimental'와 동의어. 'coldly unemotional(냉정하고 무감정한)'은 정반대 의미의 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: FULSOME",
+      "choices": [
+        "sincere and restrained",
+        "excessive to the point of being distasteful",
+        "blunt and unflattering",
+        "remarkably concise",
+        "physically robust"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "FULSOME: 지나쳐서 도리어 역겨운, 과도하게 아부하는. 정답 'excessive to the point of being distasteful'와 동의어. 'sincere and restrained(진실되고 절제된)'은 반대 뉘앙스의 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: TURBID",
+      "choices": [
+        "crystal clear and transparent",
+        "cloudy and muddy",
+        "calm and perfectly still",
+        "brightly luminous",
+        "pleasantly warm"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "TURBID: (액체가) 혼탁한, 흐린; 혼란스러운. 정답 'cloudy and muddy'와 동의어. 'crystal clear and transparent(투명하게 맑은)'은 정반대 의미의 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: WIZENED",
+      "choices": [
+        "plump and smooth",
+        "shriveled and withered",
+        "tall and imposing",
+        "extremely wise and learned",
+        "brightly polished"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "WIZENED: (나이 들어) 쪼그라들고 주름진, 시든. 정답 'shriveled and withered'와 동의어. 'extremely wise and learned(매우 현명한)'은 wise와의 소리 혼동을 노린 함정으로, 지혜가 아니라 시든 외형을 뜻해 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: REDOLENT",
+      "choices": [
+        "utterly odorless",
+        "fragrant and strongly evocative",
+        "harshly grating",
+        "completely forgotten",
+        "freezing cold"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "REDOLENT: 향기로운; ~을 강하게 연상시키는, 떠올리게 하는. 정답 'fragrant and strongly evocative'와 동의어. 'utterly odorless(전혀 냄새 없는)'은 반대 의미의 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: MACERATE",
+      "choices": [
+        "to harden by drying out",
+        "to soften by soaking in liquid",
+        "to cut into precise shapes",
+        "to set on fire",
+        "to grind into fine powder"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "MACERATE: (액체에 담가) 불려서 연하게 하다. 정답 'to soften by soaking in liquid'와 동의어. 'to harden by drying out(말려서 굳히다)'은 정반대 과정의 오답이다."
+    }
+  ]
+}

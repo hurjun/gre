@@ -1,0 +1,143 @@
+{
+  "group": "vocabulary",
+  "subgroup": "vocabulary",
+  "level": 8,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: PULCHRITUDE",
+      "choices": [
+        "extreme wealth",
+        "moral integrity",
+        "great physical beauty",
+        "sudden decline",
+        "harsh criticism"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation_ko": "PULCHRITUDE: (특히 육체적인) 아름다움, 미모. 정답 'great physical beauty'와 동의어. 'moral integrity(도덕적 청렴)'는 의미가 전혀 무관한 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: INELUCTABLE",
+      "choices": [
+        "easily avoided",
+        "impossible to avoid",
+        "openly hostile",
+        "richly decorated",
+        "barely audible"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "INELUCTABLE: 피할 수 없는, 불가피한. 정답 'impossible to avoid'와 동의어. 'easily avoided(쉽게 피할 수 있는)'는 반대 의미라 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: ARCANE",
+      "choices": [
+        "widely known and obvious",
+        "loudly boastful",
+        "openly rebellious",
+        "mysterious and obscure",
+        "scrupulously neat"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation_ko": "ARCANE: 비밀스러운, 소수만 이해하는, 난해한. 정답 'mysterious and obscure'와 동의어. 'widely known and obvious(널리 알려져 명백한)'는 반대 의미라 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: EVANESCENT",
+      "choices": [
+        "quickly fading away",
+        "lasting forever",
+        "deeply rooted",
+        "harshly critical",
+        "brilliantly luminous"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "EVANESCENT: 순식간에 사라지는, 덧없는. 정답 'quickly fading away'와 동의어. 'lasting forever(영원히 지속되는)'는 반대 의미라 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: DIAPHANOUS",
+      "choices": [
+        "thick and opaque",
+        "rough and coarse",
+        "sheer and translucent",
+        "loud and harsh",
+        "stingy and miserly"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation_ko": "DIAPHANOUS: (천 등이) 비치는, 투명하고 얇은. 정답 'sheer and translucent'와 동의어. 'thick and opaque(두껍고 불투명한)'는 반대 의미라 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: MORIBUND",
+      "choices": [
+        "thriving and flourishing",
+        "at the point of death",
+        "exceedingly wealthy",
+        "easily persuaded",
+        "openly cheerful"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "MORIBUND: 죽어가는, 빈사 상태의, 소멸해 가는. 정답 'at the point of death'와 동의어. 'thriving and flourishing(번창하는)'은 반대 의미라 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: PRODIGAL",
+      "choices": [
+        "carefully thrifty",
+        "quietly reserved",
+        "bitterly resentful",
+        "highly accurate",
+        "wastefully extravagant"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation_ko": "PRODIGAL: 낭비하는, 흥청망청 쓰는. 정답 'wastefully extravagant'와 동의어. 'carefully thrifty(알뜰하게 절약하는)'는 반대 의미라 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: SARDONIC",
+      "choices": [
+        "warmly sincere",
+        "richly fertile",
+        "easily frightened",
+        "grimly mocking",
+        "endlessly patient"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation_ko": "SARDONIC: 냉소적인, 비웃는, 조롱하는. 정답 'grimly mocking'과 동의어. 'warmly sincere(따뜻하고 진실한)'는 반대 의미라 오답이다."
+    }
+  ]
+}

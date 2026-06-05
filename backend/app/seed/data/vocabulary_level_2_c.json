@@ -1,0 +1,262 @@
+{
+  "group": "vocabulary",
+  "subgroup": "vocabulary",
+  "level": 2,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: ALLEVIATE",
+      "choices": [
+        "aggravate",
+        "relieve",
+        "postpone",
+        "conceal",
+        "increase"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "ALLEVIATE: 완화하다, 고통이나 어려움을 덜어 주다. 정답 'relieve(덜어 주다)'와 동의어. 'aggravate(악화시키다)'는 정반대 뜻의 오답. 'postpone(연기하다)'은 무관한 오답."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: AUGMENT",
+      "choices": [
+        "diminish",
+        "enlarge",
+        "ignore",
+        "repair",
+        "predict"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "AUGMENT: 늘리다, 증대시키다. 정답 'enlarge(키우다, 확대하다)'와 동의어. 'diminish(줄이다)'는 반대말 오답. 'repair(수리하다)'는 무관한 오답."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: BOLSTER",
+      "choices": [
+        "undermine",
+        "reinforce",
+        "postpone",
+        "criticize",
+        "confuse"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "BOLSTER: 강화하다, 떠받쳐 지지하다. 정답 'reinforce(보강하다)'와 동의어. 'undermine(약화시키다)'은 정반대 뜻의 오답. 'criticize(비판하다)'는 무관한 오답."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: CLANDESTINE",
+      "choices": [
+        "obvious",
+        "covert",
+        "illegal",
+        "dangerous",
+        "expensive"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "CLANDESTINE: 은밀한, 비밀리에 이루어지는. 정답 'covert(비밀의, 은밀한)'와 동의어. 'illegal(불법의)'은 비밀 활동이 불법일 때가 많다는 연상 때문에 헷갈리지만 '비밀'이라는 핵심 의미와 달라 오답. 'obvious(명백한)'는 반대말."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: COGENT",
+      "choices": [
+        "confusing",
+        "lengthy",
+        "convincing",
+        "honest",
+        "complicated"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation_ko": "COGENT: 설득력 있는, 논리가 탄탄한. 정답 'convincing(납득시키는)'과 동의어. 'confusing(혼란스러운)'은 반대 느낌의 오답. 'lengthy(장황한)'는 무관한 오답."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: CONDONE",
+      "choices": [
+        "condemn",
+        "excuse",
+        "punish",
+        "demand",
+        "exaggerate"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "CONDONE: 용인하다, 잘못을 눈감아 주다. 정답 'excuse(봐주다, 용서하다)'와 동의어. 'condemn(비난하다)'은 철자가 비슷하지만 정반대 뜻의 오답. 'punish(처벌하다)'도 반대 느낌의 오답."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: DEARTH",
+      "choices": [
+        "abundance",
+        "scarcity",
+        "death",
+        "wealth",
+        "depth"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "DEARTH: 부족, 결핍. 정답 'scarcity(부족, 희소)'와 동의어. 'death(죽음)'는 철자가 비슷해 헷갈리지만 의미가 전혀 다른 오답. 'abundance(풍부함)'는 반대말."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: DISPARAGE",
+      "choices": [
+        "praise",
+        "belittle",
+        "scatter",
+        "compare",
+        "ignore"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "DISPARAGE: 깎아내리다, 폄하하다. 정답 'belittle(하찮게 여기다, 비하하다)'와 동의어. 'praise(칭찬하다)'는 정반대 뜻의 오답. 'compare(비교하다)'는 무관한 오답."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: EMBELLISH",
+      "choices": [
+        "simplify",
+        "adorn",
+        "erase",
+        "enlarge",
+        "conceal"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "EMBELLISH: 장식하다, 꾸며서 돋보이게 하다. 정답 'adorn(꾸미다, 장식하다)'과 동의어. 'simplify(단순화하다)'는 반대 느낌의 오답. 'erase(지우다)'는 무관한 오답."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: ERUDITE",
+      "choices": [
+        "ignorant",
+        "scholarly",
+        "polite",
+        "wealthy",
+        "elderly"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "ERUDITE: 박식한, 학식이 깊은. 정답 'scholarly(학구적인, 박학한)'와 동의어. 'ignorant(무지한)'는 정반대 뜻의 오답. 'elderly(나이 든)'는 학식이 많은 사람을 연상시키지만 '박식함'과는 별개라 오답."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: FERVENT",
+      "choices": [
+        "indifferent",
+        "frequent",
+        "passionate",
+        "honest",
+        "brief"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation_ko": "FERVENT: 열렬한, 열정적인. 정답 'passionate(열정적인)'와 동의어. 'frequent(잦은)'는 철자가 비슷해 헷갈리지만 의미가 다른 오답. 'indifferent(무관심한)'는 반대말."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: FRIVOLOUS",
+      "choices": [
+        "serious",
+        "expensive",
+        "trivial",
+        "fragile",
+        "generous"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation_ko": "FRIVOLOUS: 경솔한, 하찮은, 시시한. 정답 'trivial(사소한, 하찮은)'과 동의어. 'serious(진지한)'는 반대말 오답. 'fragile(부서지기 쉬운)'은 무관한 오답."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: MOLLIFY",
+      "choices": [
+        "provoke",
+        "appease",
+        "modify",
+        "demand",
+        "confuse"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "MOLLIFY: 달래다, 누그러뜨리다. 정답 'appease(진정시키다, 달래다)'와 동의어. 'modify(수정하다)'는 철자가 비슷해 헷갈리지만 의미가 다른 오답. 'provoke(자극하다)'는 반대말."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: OPULENT",
+      "choices": [
+        "modest",
+        "luxurious",
+        "transparent",
+        "empty",
+        "ancient"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "OPULENT: 호화로운, 부유한. 정답 'luxurious(사치스러운, 호화로운)'와 동의어. 'modest(검소한, 소박한)'는 반대 느낌의 오답. 'transparent(투명한)'는 무관한 오답."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: SCRUPULOUS",
+      "choices": [
+        "careless",
+        "conscientious",
+        "doubtful",
+        "generous",
+        "anxious"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "SCRUPULOUS: 양심적인, 꼼꼼하고 빈틈없는. 정답 'conscientious(양심적인, 성실한)'와 동의어. 'doubtful(의심스러운)'은 어원(scruple, 의심)에서 연상되지만 의미가 다른 오답. 'careless(부주의한)'는 반대말."
+    }
+  ]
+}

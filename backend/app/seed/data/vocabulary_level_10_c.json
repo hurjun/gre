@@ -1,0 +1,109 @@
+{
+  "group": "vocabulary",
+  "subgroup": "vocabulary",
+  "level": 10,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: FACTITIOUS",
+      "choices": [
+        "artificially contrived and unnatural",
+        "based on solid established fact",
+        "openly and bitterly hostile",
+        "marked by rebellious unrest",
+        "thoroughly authentic and genuine"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "FACTITIOUS: 인위적인, 꾸며낸, 거짓의. 정답 'artificially contrived and unnatural'과 동의어. 'based on solid established fact(사실에 근거한)'는 fact라는 어근 때문에 헷갈리지만 정반대에 가까운 함정 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: GALLIMAUFRY",
+      "choices": [
+        "a confused jumble or medley",
+        "a strict rigid hierarchy",
+        "a solemn ceremonial procession",
+        "a sharp stinging rebuke",
+        "a perfectly uniform arrangement"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "GALLIMAUFRY: 잡탕, 뒤죽박죽 섞인 것. 정답 'a confused jumble or medley'와 동의어. 'a perfectly uniform arrangement(완전히 균일한 배열)'는 정반대 의미라 헷갈리는 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: STENTORIAN",
+      "choices": [
+        "extremely loud and powerful",
+        "barely perceptible to the ear",
+        "smoothly and subtly persuasive",
+        "harshly grating and discordant",
+        "softly soothing and gentle"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "STENTORIAN: (목소리가) 우렁찬, 매우 큰. 정답 'extremely loud and powerful'과 동의어. 'barely perceptible to the ear(거의 들리지 않는)'는 정반대 의미라 헷갈리는 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: STYGIAN",
+      "choices": [
+        "gloomy and infernally dark",
+        "radiantly bright and luminous",
+        "bitingly icy and cold",
+        "vast and seemingly boundless",
+        "calm and untroubled"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "STYGIAN: 어둡고 음산한, 지옥 같은. 정답 'gloomy and infernally dark'와 동의어. 'radiantly bright and luminous(눈부시게 밝은)'는 정반대 의미라 헷갈리는 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: HORTATORY",
+      "choices": [
+        "strongly urging or encouraging",
+        "sternly forbidding and prohibitive",
+        "pertaining to gardens and plants",
+        "expressing deep mournful grief",
+        "marked by hesitant indecision"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "HORTATORY: 권고하는, 강력히 격려·촉구하는. 정답 'strongly urging or encouraging'와 동의어. 'pertaining to gardens and plants(정원·식물에 관한)'는 발음이 비슷한 horticulture(원예)를 연상시키는 함정 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: SEDITIOUS",
+      "choices": [
+        "inciting rebellion against authority",
+        "promoting peace and lawful order",
+        "given to sluggish inactivity",
+        "marked by careful diligent study",
+        "calmly composed and serene"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "SEDITIOUS: 선동적인, 반란을 부추기는. 정답 'inciting rebellion against authority'와 동의어. 'given to sluggish inactivity(무기력하게 가만히 있는)'는 발음이 비슷한 sedentary(앉아 있는, 활동적이지 않은)를 연상시키는 함정 오답이다."
+    }
+  ]
+}

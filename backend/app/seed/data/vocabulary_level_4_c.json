@@ -1,0 +1,177 @@
+{
+  "group": "vocabulary",
+  "subgroup": "vocabulary",
+  "level": 4,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: CASTIGATE",
+      "choices": [
+        "reprimand",
+        "praise",
+        "abandon",
+        "imitate",
+        "postpone"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "CASTIGATE: 혹독하게 질책하다, 호되게 비판하다. 정답 'reprimand(꾸짖다, 질책하다)'와 동의어입니다. 'abandon(버리다)'은 의미가 무관하여 오답입니다. 'praise(칭찬하다)'는 정반대 의미라 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: CHICANERY",
+      "choices": [
+        "deception",
+        "generosity",
+        "clumsiness",
+        "honesty",
+        "boldness"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "CHICANERY: 속임수, 책략, 교묘한 사기. 정답 'deception(기만, 속임)'과 동의어입니다. 'boldness(대담함)'는 의미가 무관하여 오답입니다. 'honesty(정직)'는 정반대 의미라 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: EFFRONTERY",
+      "choices": [
+        "insolence",
+        "modesty",
+        "weariness",
+        "kindness",
+        "caution"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "EFFRONTERY: 뻔뻔함, 염치없는 대담함, 무례. 정답 'insolence(무례함, 오만함)'와 동의어입니다. 'caution(신중함)'은 의미가 무관하여 오답입니다. 'modesty(겸손)'는 정반대 의미라 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: FORTUITOUS",
+      "choices": [
+        "accidental",
+        "deliberate",
+        "fortunate",
+        "frequent",
+        "harmful"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "FORTUITOUS: 우연히 일어나는, 뜻하지 않은. 정답 'accidental(우연한)'과 동의어입니다. 'fortunate(운이 좋은)'는 철자가 비슷해 가장 헷갈리지만, fortuitous의 핵심은 '의도하지 않은 우연'이지 반드시 '행운'을 뜻하지는 않으므로 오답입니다. 'deliberate(의도적인)'는 정반대 의미라 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: IMPECUNIOUS",
+      "choices": [
+        "penniless",
+        "wealthy",
+        "stingy",
+        "careless",
+        "generous"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "IMPECUNIOUS: 돈이 없는, 빈곤한. 정답 'penniless(무일푼의, 가난한)'와 동의어입니다. 'stingy(인색한)'는 돈을 안 쓰려는 성향을 뜻할 뿐 '돈이 없다'는 의미가 아니므로 오답입니다. 'wealthy(부유한)'는 정반대 의미라 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: NONCHALANT",
+      "choices": [
+        "indifferent",
+        "anxious",
+        "energetic",
+        "hostile",
+        "meticulous"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "NONCHALANT: 무관심한, 태연한, 느긋한. 정답 'indifferent(무관심한, 개의치 않는)'와 동의어입니다. 'meticulous(꼼꼼한)'는 의미가 무관하여 오답입니다. 'anxious(불안해하는)'는 정반대 의미라 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: OBVIATE",
+      "choices": [
+        "preclude",
+        "require",
+        "complicate",
+        "endure",
+        "imitate"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "OBVIATE: (문제·필요 등을) 미연에 없애다, 불필요하게 만들다. 정답 'preclude(미리 막다, 못 하게 하다)'와 동의어입니다. 'complicate(복잡하게 만들다)'는 의미가 무관하여 오답입니다. 'require(요구하다, 필요로 하다)'는 정반대 의미라 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: PLETHORA",
+      "choices": [
+        "surplus",
+        "shortage",
+        "variety",
+        "mixture",
+        "balance"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "PLETHORA: 과다, 과잉, 넘쳐남. 정답 'surplus(과잉, 잉여)'와 동의어입니다. 'variety(다양함)'는 양이 아니라 종류의 다채로움을 뜻하므로 오답입니다. 'shortage(부족)'는 정반대 의미라 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: QUOTIDIAN",
+      "choices": [
+        "everyday",
+        "extraordinary",
+        "occasional",
+        "ancient",
+        "secretive"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "QUOTIDIAN: 일상적인, 매일의, 평범한. 정답 'everyday(일상의, 흔한)'와 동의어입니다. 'occasional(가끔의)'은 빈도가 낮음을 뜻하므로 '매일·일상적'이라는 의미와 달라 오답입니다. 'extraordinary(비범한, 특별한)'는 정반대 의미라 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: ANTIPATHY",
+      "choices": [
+        "aversion",
+        "affection",
+        "indifference",
+        "curiosity",
+        "sympathy"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "ANTIPATHY: 반감, 강한 혐오. 정답 'aversion(혐오, 싫음)'과 동의어입니다. 'indifference(무관심)'는 호불호가 없는 상태일 뿐 '강한 싫음'이 아니므로 오답입니다. 'affection(애정)'은 정반대 의미라 오답입니다."
+    }
+  ]
+}

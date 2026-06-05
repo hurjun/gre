@@ -1,0 +1,228 @@
+{
+  "group": "vocabulary",
+  "subgroup": "vocabulary",
+  "level": 6,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: ASPERITY",
+      "choices": [
+        "harshness of tone or manner",
+        "great generosity",
+        "calm gentleness",
+        "lofty aspiration",
+        "abundant wealth"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "ASPERITY: (말투·태도의) 거칠음, 신랄함. 정답 'harshness of tone or manner'와 동의어. 'calm gentleness(차분한 부드러움)'는 반대 의미라 오답이고, 'lofty aspiration(고결한 열망)'은 aspire와 발음이 비슷해 노린 함정이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: EFFICACIOUS",
+      "choices": [
+        "producing the desired effect",
+        "completely useless",
+        "extremely talkative",
+        "easily broken",
+        "morally corrupt"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "EFFICACIOUS: 효과적인, 효험 있는. 정답 'producing the desired effect'와 동의어. 'completely useless(완전히 쓸모없는)'는 반대 의미라 오답이고, 'easily broken(쉽게 부서지는)'은 무관한 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: INDOMITABLE",
+      "choices": [
+        "easily discouraged",
+        "impossible to subdue",
+        "openly dishonest",
+        "richly decorated",
+        "vaguely defined"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "INDOMITABLE: 굴복시킬 수 없는, 불굴의. 정답 'impossible to subdue'와 동의어. 'easily discouraged(쉽게 낙담하는)'는 반대 의미라 오답이고, 'vaguely defined(모호하게 규정된)'은 무관한 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: TORPID",
+      "choices": [
+        "sluggish and inactive",
+        "bursting with energy",
+        "extremely twisted",
+        "openly rebellious",
+        "remarkably honest"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "TORPID: 둔한, 무기력한, 활기 없는. 정답 'sluggish and inactive'와 동의어. 'bursting with energy(활력이 넘치는)'는 반대 의미라 오답이고, 'extremely twisted(심하게 뒤틀린)'은 torpid와 무관한 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: VENAL",
+      "choices": [
+        "open to bribery",
+        "scrupulously honest",
+        "related to the veins",
+        "extremely poisonous",
+        "highly contagious"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "VENAL: 뇌물이 통하는, 매수할 수 있는, 부패한. 정답 'open to bribery'와 동의어. 'scrupulously honest(지극히 정직한)'는 반대 의미라 오답이고, 'related to the veins(정맥과 관련된)'는 venous/vein과 혼동을 노린 함정이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: ABSCOND",
+      "choices": [
+        "to flee secretly to avoid capture",
+        "to arrive openly and announce oneself",
+        "to second a motion",
+        "to absorb completely",
+        "to scold harshly"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "ABSCOND: (붙잡히지 않으려고) 몰래 도주하다. 정답 'to flee secretly to avoid capture'와 동의어. 'to arrive openly and announce oneself(공개적으로 도착해 자신을 알리다)'는 반대 상황이라 오답이고, 'to absorb completely(완전히 흡수하다)'는 ab- 어두가 비슷해 노린 함정이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: QUIESCENT",
+      "choices": [
+        "temporarily inactive or dormant",
+        "constantly in violent motion",
+        "asking many questions",
+        "easily bribed",
+        "overly talkative"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "QUIESCENT: 활동을 멈춘, 정지 상태의, 잠복한. 정답 'temporarily inactive or dormant'와 동의어. 'constantly in violent motion(끊임없이 격렬히 움직이는)'은 반대 의미라 오답이고, 'asking many questions(질문을 많이 하는)'는 question과 철자가 비슷해 노린 함정이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: PERTINACIOUS",
+      "choices": [
+        "stubbornly persistent",
+        "quick to give up",
+        "completely irrelevant",
+        "lavishly generous",
+        "deeply sorrowful"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "PERTINACIOUS: 집요한, 끈질긴, 완강한. 정답 'stubbornly persistent'와 동의어. 'quick to give up(쉽게 포기하는)'은 반대 의미라 오답이고, 'completely irrelevant(전혀 관련 없는)'는 pertinent와 혼동을 노린 함정이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: INCIPIENT",
+      "choices": [
+        "just beginning to develop",
+        "fully matured and complete",
+        "extremely decisive",
+        "overly cautious",
+        "morally upright"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "INCIPIENT: 막 시작되는, 초기의. 정답 'just beginning to develop'와 동의어. 'fully matured and complete(완전히 성숙한)'는 반대 의미라 오답이고, 'extremely decisive(아주 단호한)'는 incisive와 혼동을 노린 함정이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: PALLIATE",
+      "choices": [
+        "to ease without curing",
+        "to make far worse",
+        "to turn pale",
+        "to praise extravagantly",
+        "to flee in secret"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "PALLIATE: (병·고통을 근본적으로 고치지 않고) 완화하다, 누그러뜨리다. 정답 'to ease without curing'와 동의어. 'to make far worse(훨씬 악화시키다)'는 반대 의미라 오답이고, 'to turn pale(창백해지다)'은 pallid와 혼동을 노린 함정이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: TRENCHANT",
+      "choices": [
+        "sharp and incisive",
+        "dull and vague",
+        "deeply entrenched in tradition",
+        "extremely generous",
+        "easily frightened"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "TRENCHANT: (말·표현이) 날카로운, 통렬한, 예리한. 정답 'sharp and incisive'와 동의어. 'dull and vague(둔하고 모호한)'는 반대 의미라 오답이고, 'deeply entrenched in tradition(전통에 깊이 뿌리박힌)'은 trench/entrench와 혼동을 노린 함정이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: CONTRITE",
+      "choices": [
+        "deeply remorseful",
+        "utterly unrepentant",
+        "tightly contracted",
+        "richly abundant",
+        "openly aggressive"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "CONTRITE: 깊이 뉘우치는, 참회하는. 정답 'deeply remorseful'와 동의어. 'utterly unrepentant(전혀 뉘우치지 않는)'는 반대 의미라 오답이고, 'tightly contracted(팽팽히 수축된)'는 contract와 철자가 비슷해 노린 함정이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: PROTEAN",
+      "choices": [
+        "able to change readily, versatile",
+        "rigidly fixed and unchanging",
+        "rich in protein",
+        "extremely wealthy",
+        "harshly critical"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "PROTEAN: 변화무쌍한, 다재다능한, 자유자재로 형태를 바꾸는. 정답 'able to change readily, versatile'와 동의어. 'rigidly fixed and unchanging(고정되어 변하지 않는)'은 반대 의미라 오답이고, 'rich in protein(단백질이 풍부한)'은 protein과 발음이 비슷해 노린 함정이다."
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "group": "verbal",
+  "subgroup": "se_tc",
+  "level": 4,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Colleagues found it nearly impossible to anticipate the director's reactions, for his _______ temperament could swing from effusive praise to icy reproof within the span of a single meeting.",
+      "choices": ["phlegmatic", "mercurial", "magnanimous", "taciturn", "sanguine"],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 동료들은 그 책임자의 반응을 예측하기가 거의 불가능하다고 느꼈는데, 그의 변덕스러운(mercurial) 기질이 한 번의 회의 안에서도 넘치는 칭찬에서 싸늘한 질책으로 휙휙 바뀔 수 있었기 때문이다.\n해설: '예측 불가능하다', '칭찬에서 질책으로 한 회의 안에 오간다'는 단서가 빈칸을 직접 규정하므로 mercurial(변덕스러운, 종잡을 수 없는)이 정답입니다. phlegmatic(침착한, 무덤덤한)은 오히려 감정 기복이 없는 상태라 정반대이고, sanguine(낙관적인)과 magnanimous(아량 있는)는 긍정적 자질일 뿐 감정의 급변과 무관합니다. taciturn(과묵한)은 말수의 문제이지 기분 변화와 관계가 없어 틀렸습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Reviewers accustomed to the dense, jargon-laden prose of academic economics were disarmed by the author's _______ explanations, which rendered even the thorniest models accessible to lay readers.",
+      "choices": ["abstruse", "prolix", "pellucid", "desultory", "bombastic"],
+      "answer": [2],
+      "explanation_ko": "문장 해석: 빽빽하고 전문용어로 가득한 학술 경제학 산문에 익숙했던 평론가들은, 가장 까다로운 모형조차 비전문 독자가 이해할 수 있게 만들어 주는 그 저자의 명료한(pellucid) 설명에 무장 해제되고 말았다.\n해설: '빽빽하고 전문용어로 가득한 산문에 익숙했던' 평론가들이 '비전문가도 이해할 수 있게' 만드는 설명에 놀랐다는 대비 구조이므로, 빈칸은 dense의 반대인 pellucid(아주 명료한, 투명한)가 정답입니다. abstruse(난해한)는 오히려 dense와 같은 방향이라 정반대이고, prolix(장황한)와 bombastic(과장된)도 이해를 어렵게 하는 자질이며, desultory(산만한)는 명료함과 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "The reformers' central charge was not that the city's officials were incompetent but that they were _______: posts, permits, and verdicts alike could be had by anyone willing to pay.",
+      "choices": ["indolent", "querulous", "venal", "parsimonious", "dogmatic"],
+      "answer": [2],
+      "explanation_ko": "문장 해석: 개혁가들의 핵심 비난은 그 시 관료들이 무능하다는 것이 아니라 그들이 매수 가능하다는(venal) 것이었다. 즉 자리든 허가든 판결이든 돈을 낼 의향만 있으면 누구나 손에 넣을 수 있었다.\n해설: 콜론 뒤의 '돈을 내면 무엇이든 살 수 있었다'가 빈칸을 직접 정의하므로 venal(뇌물로 매수할 수 있는, 부패한)이 정답입니다. 'not ~ but ~'(무능이 아니라 부패) 구조도 단서입니다. parsimonious(인색한)는 돈과 관련돼 그럴듯해 보이지만 '돈을 받고 판다'는 뜻이 아니라 '돈을 안 쓴다'는 뜻이라 정반대이고, indolent(게으른)는 앞서 부정된 incompetent 쪽 의미에 가깝습니다. querulous(불평 많은), dogmatic(독단적인)은 문맥과 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "What the staff had dreaded as a punitive audit turned out to be remarkably _______, exposing inefficiencies whose prompt correction soon revitalized the entire department.",
+      "choices": ["onerous", "perfunctory", "deleterious", "salutary", "innocuous"],
+      "answer": [3],
+      "explanation_ko": "문장 해석: 직원들이 징벌적 감사라며 두려워했던 것이, 알고 보니 놀라울 만큼 유익한(salutary) 것으로 드러났다. 그 감사는 비효율을 드러냈고, 그것을 신속히 바로잡자 곧 부서 전체가 활기를 되찾았다.\n해설: '징벌적이라며 두려워했지만(dreaded) ~로 드러났다'는 반전 구조이고, 뒤이어 '부서가 활기를 되찾았다(revitalized)'는 결과가 나오므로 빈칸은 적극적으로 이로운 salutary(유익한, 건전한)가 정답입니다. innocuous(무해한)는 '해롭지 않다'는 소극적 의미일 뿐 '활기를 되찾게 할 만큼 이롭다'는 결과를 설명하지 못하는 매력적 오답입니다. deleterious(해로운)와 onerous(부담스러운)는 부정적이라 반전과 어긋나고, perfunctory(형식적인)는 비효율을 드러낸 실질적 효과와 모순됩니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Critics had warned that the band's fame would prove _______, but four decades and a dozen platinum records later, its hold on the public imagination shows no sign of loosening.",
+      "choices": ["meteoric", "ephemeral", "derivative", "ubiquitous", "polarizing"],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 비평가들은 그 밴드의 명성이 덧없는(ephemeral) 것으로 판명될 것이라고 경고했지만, 40년이 지나고 플래티넘 음반을 열두 장 낸 지금도 대중의 상상력을 사로잡은 그 힘은 느슨해질 기미가 없다.\n해설: 'would prove ___, but 40년 뒤에도 여전히'라는 역접 구조이므로, 빈칸은 '오래가지 못함'을 뜻하는 ephemeral(덧없는, 단명하는)이 정답입니다. meteoric(혜성처럼 급상승하는)은 명성의 속도를 가리킬 뿐 '단명한다'는 뜻을 직접 담지 않아 but 이하의 '오래 지속됨'과 깔끔히 대비되지 않는 매력적 오답입니다. derivative(독창성 없는), ubiquitous(어디에나 있는), polarizing(찬반을 가르는)은 지속 기간과 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Early optimism that the negotiations would yield a swift settlement faded as both sides dug in, and the once-minor dispute hardened into a deadlock that proved utterly _______.",
+      "choices": ["tractable", "transient", "auspicious", "intractable", "nominal"],
+      "answer": [3],
+      "explanation_ko": "문장 해석: 협상이 신속한 타결을 가져오리라던 초기의 낙관은 양측이 입장을 고수하면서 사그라들었고, 한때 사소했던 분쟁은 도무지 풀 수 없는(intractable) 교착 상태로 굳어 버렸다.\n해설: '신속한 타결의 낙관이 사라지고 양측이 버텼다(dug in)'는 흐름이므로, 빈칸은 '다루기 어려운, 해결 불가능한'을 뜻하는 intractable이 정답입니다. tractable(다루기 쉬운)은 정반대이고, transient(일시적인)는 교착이 곧 풀린다는 뜻이라 '굳어 버렸다(hardened)'와 모순됩니다. auspicious(상서로운)는 낙관이 사라진 상황과 어긋나고, nominal(명목상의)은 교착의 심각성과 맞지 않습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Far from the brash self-promoter the tabloids had led audiences to expect, the young laureate proved disarmingly _______, deflecting every question about her own achievements onto her mentors and collaborators.",
+      "choices": ["truculent", "diffident", "supercilious", "garrulous", "mercenary"],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 타블로이드가 관객들에게 기대하게 만든 뻔뻔한 자기 홍보꾼과는 거리가 멀게, 그 젊은 수상자는 의외로 자신을 내세우지 않는(diffident) 모습이어서, 자신의 업적에 관한 질문은 모두 스승과 협력자들에게로 돌렸다.\n해설: 'Far from the brash self-promoter'(뻔뻔한 자기 홍보꾼과는 거리가 먼)와 '공을 남에게 돌렸다'는 단서가 빈칸을 규정하므로, brash의 반대인 diffident(자신감이 없는, 수줍어하는)가 정답입니다. supercilious(거만한)와 truculent(공격적인)는 brash 쪽 의미라 정반대이고, garrulous(수다스러운)는 말이 많다는 뜻이라 '질문을 회피한다'와 어울리지 않으며, mercenary(돈만 밝히는)는 문맥과 무관합니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Heir to one of the largest fortunes in the country, he ran through it within a single decade, his _______ spending becoming the stuff of cautionary tales told in drawing rooms for a generation.",
+      "choices": ["prodigal", "frugal", "profligate", "abstemious", "meticulous", "clandestine"],
+      "answer": [0, 2],
+      "explanation_ko": "문장 해석: 나라에서 손꼽히는 거액의 재산을 물려받은 그는 단 10년 만에 그것을 탕진했고, 그의 흥청망청한(prodigal/profligate) 씀씀이는 한 세대 동안 응접실에서 회자되는 교훈적 일화의 소재가 되었다.\n해설: '10년 만에 재산을 탕진했다(ran through it)'는 결과가 빈칸을 규정하므로, 낭비를 뜻하는 prodigal(돈을 물 쓰듯 하는)과 profligate(방탕하게 낭비하는)가 의미상 동치인 정답 쌍입니다. frugal(검소한)과 abstemious(절제하는)는 서로 동의어이지만 둘 다 '낭비'의 정반대라 함정 쌍이고, meticulous(꼼꼼한)와 clandestine(은밀한)은 씀씀이의 방향과 무관합니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Forecasters had assured the public that the storm would _______ by nightfall, yet its winds only intensified as the system stalled stubbornly over the coast.",
+      "choices": ["escalate", "abate", "coalesce", "subside", "persist", "materialize"],
+      "answer": [1, 3],
+      "explanation_ko": "문장 해석: 기상 예보관들은 그 폭풍이 해 질 무렵이면 잦아들(abate/subside) 것이라고 대중에게 장담했지만, 시스템이 해안에 끈질기게 머물면서 바람은 오히려 거세지기만 했다.\n해설: '~할 것이라 장담했지만(yet) 바람이 거세졌다'는 역접 구조이므로, 빈칸은 intensified(거세지다)의 반대인 abate(약해지다, 누그러지다)와 subside(가라앉다, 잦아들다)가 정답 쌍입니다. escalate(격화되다)와 persist(계속되다)는 오히려 거세지거나 지속된다는 뜻이라 정반대이고, coalesce(합쳐지다)와 materialize(나타나다, 실현되다)는 세기 변화와 무관합니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "The theory was still far too _______ to withstand rigorous scrutiny; its author had sketched the broad contours of the idea but left nearly every underlying mechanism unspecified.",
+      "choices": ["entrenched", "nascent", "inchoate", "established", "esoteric", "untenable"],
+      "answer": [1, 2],
+      "explanation_ko": "문장 해석: 그 이론은 엄밀한 검증을 견디기에는 아직 너무나 초기 단계라(nascent/inchoate), 저자가 발상의 큰 윤곽만 그려 놓았을 뿐 바탕이 되는 거의 모든 메커니즘은 명시하지 않은 채 남겨 두었다.\n해설: '큰 윤곽만 잡았고 세부 메커니즘은 미명시'라는 단서가 빈칸을 규정하므로, 아직 덜 발전된 초기 상태를 뜻하는 nascent(발생 초기의)와 inchoate(이제 막 시작된, 미완성의)가 정답 쌍입니다. entrenched(확고히 자리 잡은)와 established(확립된)는 서로 동의어이지만 둘 다 정반대 의미라 함정 쌍입니다. untenable(옹호할 수 없는)은 '검증을 못 견딘다'와 통하는 듯한 강력한 매력적 오답이지만 '미완성'이라는 뜻은 없어 짝을 이루지 못하고, esoteric(난해한)도 발전 정도와 무관합니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Even reviewers who had openly disliked the production were _______ in their praise of the lead's performance, devoting whole paragraphs to a single climactic scene.",
+      "choices": ["grudging", "tepid", "lavish", "niggardly", "unstinting", "perfunctory"],
+      "answer": [2, 4],
+      "explanation_ko": "문장 해석: 그 작품을 대놓고 싫어했던 평론가들조차 주연의 연기에 대해서는 아낌없이(lavish/unstinting) 찬사를 보내, 단 하나의 절정 장면에 통째로 여러 단락을 할애했다.\n해설: '작품을 싫어한 평론가조차(Even) 한 장면에 여러 단락을 할애했다'는 단서가 칭찬의 풍부함을 보여 주므로, '아낌없는'을 뜻하는 lavish(아낌없이 후한)와 unstinting(인색함 없이 베푸는)이 정답 쌍입니다. grudging(마지못한), tepid(미온적인), niggardly(인색한), perfunctory(형식적인)는 모두 칭찬이 빈약하다는 뜻이라 '여러 단락을 할애했다'와 모순되며, 그중 grudging/tepid는 서로 비슷해 함정이 됩니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "The prosecutor dismantled the alibi point by point, exposing a chain of reasoning that had once seemed airtight to be, on closer inspection, entirely _______.",
+      "choices": ["cogent", "irrefutable", "spurious", "meticulous", "specious", "fortuitous"],
+      "answer": [2, 4],
+      "explanation_ko": "문장 해석: 검사는 그 알리바이를 하나하나 해체하며, 한때 빈틈없어 보였던 추론의 사슬이 자세히 들여다보니 완전히 그럴싸할 뿐 허울뿐인 것임을(spurious/specious) 드러냈다.\n해설: '빈틈없어 보였지만(seemed airtight) 해체되어 ~로 드러났다'는 반전이므로, 빈칸은 '겉보기엔 그럴듯하나 실제로는 거짓인'을 뜻하는 spurious(가짜의, 근거 없는)와 specious(그럴듯하지만 허위인)가 정답 쌍입니다. cogent(설득력 있는)와 irrefutable(반박할 수 없는)은 서로 동의어이지만 둘 다 정반대 의미라 함정 쌍이고, meticulous(꼼꼼한)와 fortuitous(우연한)는 추론의 진위와 무관합니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "The relentless midsummer heat induced a kind of collective _______ in the village; shops shuttered at noon, and even the children abandoned their games for the shade.",
+      "choices": ["exuberance", "torpor", "lethargy", "restlessness", "conviviality", "vigilance"],
+      "answer": [1, 2],
+      "explanation_ko": "문장 해석: 끊임없는 한여름 더위는 마을에 일종의 집단적 무기력(torpor/lethargy)을 불러왔다. 가게들은 정오에 문을 닫았고, 아이들마저 놀이를 그만두고 그늘로 들어갔다.\n해설: '가게는 정오에 닫고 아이들도 놀이를 멈췄다'는 묘사가 활동이 멈춘 나른한 상태를 가리키므로, '무기력, 나른함'을 뜻하는 torpor(무기력, 활동 정지 상태)와 lethargy(나른함, 무기력)가 정답 쌍입니다. exuberance(활기 넘침)와 conviviality(유쾌한 친목)는 정반대로 활기를 뜻하고, restlessness(안절부절못함)는 가만히 못 있는 상태라 더위에 늘어진 모습과 어긋나며, vigilance(경계심)는 문맥과 무관합니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "In an editorial that pulled no punches, the columnist _______ the agency for what she characterized as a pattern of negligence that had ultimately cost dozens of lives.",
+      "choices": ["exonerated", "lauded", "castigated", "vindicated", "excoriated", "placated"],
+      "answer": [2, 4],
+      "explanation_ko": "문장 해석: 조금도 봐주지 않는 사설에서, 그 칼럼니스트는 결국 수십 명의 목숨을 앗아간 직무 태만의 패턴이라고 규정한 것을 두고 그 기관을 맹렬히 질책했다(castigated/excoriated).\n해설: '조금도 봐주지 않는(pulled no punches) 사설에서, 수십 명을 죽게 한 직무 태만'을 다뤘다는 단서가 강한 비난을 가리키므로, '혹독하게 질책하다'를 뜻하는 castigate(호되게 나무라다)와 excoriate(맹비난하다)가 정답 쌍입니다. exonerate(혐의를 벗기다)와 vindicate(정당함을 입증하다)는 서로 동의어이지만 둘 다 면죄·옹호의 뜻이라 정반대 함정 쌍이고, laud(칭송하다)는 칭찬이라 비난과 반대이며, placate(달래다)는 진정시킨다는 뜻이라 'pulled no punches'와 모순됩니다."
+    }
+  ]
+}

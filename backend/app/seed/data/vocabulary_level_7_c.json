@@ -1,0 +1,177 @@
+{
+  "group": "vocabulary",
+  "subgroup": "vocabulary",
+  "level": 7,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: INDEFATIGABLE",
+      "choices": [
+        "incapable of being defeated",
+        "tireless and persistent",
+        "easily worn out",
+        "vague and undefined",
+        "able to be defended"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "INDEFATIGABLE: 지칠 줄 모르는, 끈질긴. 정답 'tireless and persistent(지치지 않고 끈질긴)'와 동의어입니다. 'easily worn out(쉽게 지치는)'은 정반대 의미이고, 'incapable of being defeated(무적의)'는 'indefeatable'을 연상시키는 발음 함정 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: MENDICANT",
+      "choices": [
+        "a habitual liar",
+        "a traveling merchant",
+        "a person who lives by begging",
+        "an aimless wanderer",
+        "a skilled healer"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation_ko": "MENDICANT: 거지, 탁발하는 사람. 정답 'a person who lives by begging(구걸로 살아가는 사람)'과 동의어입니다. 'a habitual liar(상습적 거짓말쟁이)'는 발음이 비슷한 'mendacious(거짓의)'를 연상시키는 함정 오답일 뿐 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: TURGID",
+      "choices": [
+        "swollen or pompously inflated",
+        "clear and concise",
+        "decayed and rotten",
+        "perfectly calm and still",
+        "cheaply showy"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "TURGID: (문체가) 과장된, 부풀어 오른. 정답 'swollen or pompously inflated(부풀고 과장된)'와 동의어입니다. 'clear and concise(명료하고 간결한)'는 정반대 의미라 가장 헷갈리는 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: CALUMNY",
+      "choices": [
+        "a state of deep tranquility",
+        "a false and malicious statement",
+        "lavish public praise",
+        "a sudden catastrophe",
+        "a fully justified rebuke"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "CALUMNY: 비방, 중상모략. 정답 'a false and malicious statement(거짓되고 악의적인 진술)'과 동의어입니다. 'lavish public praise(찬사)'는 정반대 의미이고, 'a sudden catastrophe(갑작스러운 재앙)'는 발음이 비슷한 'calamity(재난)'를 연상시키는 함정 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: INCULCATE",
+      "choices": [
+        "to instill by persistent instruction",
+        "to free from blame",
+        "to cut out or remove",
+        "to accuse falsely",
+        "to bring to an abrupt end"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "INCULCATE: (반복하여) 주입하다, 가르쳐 마음에 새기다. 정답 'to instill by persistent instruction(반복적 가르침으로 주입하다)'과 동의어입니다. 'to free from blame(혐의를 벗기다)'은 발음이 비슷한 'exculpate'을 연상시키는 함정 오답일 뿐 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: TRACTABLE",
+      "choices": [
+        "stubbornly disobedient",
+        "easily managed or controlled",
+        "capable of being traced",
+        "completely transparent",
+        "able to be pulled apart"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "TRACTABLE: 다루기 쉬운, 유순한. 정답 'easily managed or controlled(쉽게 다루어지는)'과 동의어입니다. 'stubbornly disobedient(완강히 반항하는)'는 정반대 의미라 가장 헷갈리는 오답이고, 'capable of being traced(추적 가능한)'는 발음만 비슷한 함정입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: PROPENSITY",
+      "choices": [
+        "a strong dislike or aversion",
+        "a natural inclination or tendency",
+        "a prediction of the future",
+        "nearness in time or place",
+        "a generous donation"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "PROPENSITY: 성향, 경향. 정답 'a natural inclination or tendency(타고난 성향)'와 동의어입니다. 'a strong dislike or aversion(강한 혐오)'은 정반대 의미라 가장 헷갈리는 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: SALACIOUS",
+      "choices": [
+        "having a high salt content",
+        "lustful and indecent",
+        "morally wholesome",
+        "greedy for food",
+        "kind and gracious"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "SALACIOUS: 음란한, 외설적인. 정답 'lustful and indecent(음탕하고 외설적인)'와 동의어입니다. 'morally wholesome(도덕적으로 건전한)'은 정반대 의미이고, 'having a high salt content(짠)'은 발음이 비슷한 함정 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: PHILIPPIC",
+      "choices": [
+        "a tender love poem",
+        "a bitter verbal denunciation",
+        "a formal peace agreement",
+        "a lighthearted anecdote",
+        "a speech of high praise"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "PHILIPPIC: 격렬한 비난 연설, 탄핵 연설. 정답 'a bitter verbal denunciation(신랄한 비난)'과 동의어입니다. 'a speech of high praise(찬사의 연설)'는 정반대 의미라 가장 헷갈리는 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: EXCULPATE",
+      "choices": [
+        "to declare guilty",
+        "to free from blame or guilt",
+        "to express deep regret",
+        "to spit out forcibly",
+        "to remove the central part"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "EXCULPATE: 무죄를 입증하다, 혐의를 벗기다. 정답 'to free from blame or guilt(죄나 혐의를 벗기다)'와 동의어입니다. 'to declare guilty(유죄를 선고하다)'는 정반대 의미라 가장 헷갈리는 오답입니다."
+    }
+  ]
+}
