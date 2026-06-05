@@ -3,16 +3,43 @@
 from app.services import adaptive
 
 
-def test_level_sequence_orders_by_distance_with_lower_preferred():
-    assert adaptive.level_sequence(3) == [3, 2, 4, 1, 5]
+def test_level_sequence_prefers_current_then_easier_then_harder():
+    # current first, then descend to easier, then ascend to harder
+    assert adaptive.level_sequence(3) == [3, 2, 1, 4, 5]
     assert adaptive.level_sequence(1) == [1, 2, 3, 4, 5]
     assert adaptive.level_sequence(5) == [5, 4, 3, 2, 1]
 
 
 def test_level_sequence_respects_custom_bounds():
-    assert adaptive.level_sequence(7, 1, 10) == [7, 6, 8, 5, 9, 4, 10, 3, 2, 1]
+    assert adaptive.level_sequence(7, 1, 10) == [7, 6, 5, 4, 3, 2, 1, 8, 9, 10]
     assert adaptive.level_sequence(1, 1, 10)[0] == 1
     assert max(adaptive.level_sequence(10, 1, 10)) == 10
+
+
+def test_fallback_prefers_easier_question_over_harder(db, make_question):
+    # current level 3 has nothing; only an easier (1) and a harder (5) exist
+    progress = adaptive.get_or_create_progress(db, "se_tc")
+    progress.current_level = 3
+    make_question(level=1, question_text="easier")
+    make_question(level=5, question_text="harder")
+
+    picked = adaptive.pick_next_question(db, "se_tc")
+
+    assert picked.question.level == 1  # never jump up to 5 while an easier one exists
+
+
+def test_incorrect_answer_serves_an_easier_question(db, make_question):
+    # climb to level 3, then miss: the next served question must not be harder
+    progress = adaptive.get_or_create_progress(db, "se_tc")
+    progress.current_level = 3
+    missed = make_question(level=3, answer=(0,), question_text="missed at 3")
+    make_question(level=2, question_text="easier at 2")
+
+    adaptive.grade_answer(db, missed, [1], elapsed_seconds=5)  # wrong -> level 2
+    picked = adaptive.pick_next_question(db, "se_tc")
+
+    assert picked.current_level == 2
+    assert picked.question.level <= 2
 
 
 def test_pick_prefers_current_level(db, make_question):
@@ -104,6 +131,22 @@ def test_incorrect_question_stays_in_rotation(db, make_question):
 
     assert picked.question is not None
     assert picked.question.id == question.id
+
+
+def test_just_answered_question_not_served_again_immediately(db, make_question):
+    a = make_question(level=1, question_text="a")
+    b = make_question(level=1, question_text="b")
+    # excluding the one just seen leaves the other; never repeats back-to-back
+    for _ in range(10):
+        assert adaptive.pick_next_question(db, "se_tc", exclude_id=a.id).question.id == b.id
+
+
+def test_exclude_is_ignored_when_it_is_the_only_question_left(db, make_question):
+    only = make_question(level=1, question_text="only one")
+    # excluding the sole remaining question must still serve it, not stall
+    picked = adaptive.pick_next_question(db, "se_tc", exclude_id=only.id)
+    assert picked.question is not None
+    assert picked.question.id == only.id
 
 
 def test_solved_question_never_served_again(db, make_question):

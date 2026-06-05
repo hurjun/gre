@@ -33,11 +33,17 @@ def get_or_create_progress(db: Session, subgroup: str) -> SubgroupProgress:
 def level_sequence(
     current_level: int, min_level: int = MIN_LEVEL, max_level: int = MAX_LEVEL
 ) -> list[int]:
-    """All levels ordered by distance from the current one (lower wins ties)."""
-    return sorted(
-        range(min_level, max_level + 1),
-        key=lambda level: (abs(level - current_level), level),
-    )
+    """Levels to search for the next question, in priority order.
+
+    The current level comes first, then *easier* levels (descending), and only
+    then *harder* levels (ascending). This guarantees that when the current
+    level is exhausted we fall back to an easier question before a harder one —
+    so a wrong answer (which lowers the level) never leads to a harder question.
+    """
+    current_level = max(min_level, min(max_level, current_level))
+    easier = list(range(current_level, min_level - 1, -1))  # current, current-1, ... min
+    harder = list(range(current_level + 1, max_level + 1))  # current+1, ... max
+    return easier + harder
 
 
 def _solved_ids(db: Session) -> Select:
@@ -66,12 +72,21 @@ class NextQuestion:
     exhausted: bool
 
 
-def pick_next_question(db: Session, subgroup: str) -> NextQuestion:
-    """Pick a random unsolved question, preferring the current level."""
+def pick_next_question(
+    db: Session, subgroup: str, exclude_id: int | None = None
+) -> NextQuestion:
+    """Pick a random unsolved question, preferring the current level.
+
+    ``exclude_id`` (typically the question just answered) is skipped so a missed
+    question never reappears back-to-back — unless it is the only one left at
+    that level, in which case it is served rather than stalling.
+    """
     progress = get_or_create_progress(db, subgroup)
     min_level, max_level = level_bounds(subgroup)
     for level in level_sequence(progress.current_level, min_level, max_level):
         candidate_ids = _unsolved_ids_at_level(db, subgroup, level)
+        if exclude_id is not None and len(candidate_ids) > 1:
+            candidate_ids = [qid for qid in candidate_ids if qid != exclude_id]
         if candidate_ids:
             question = db.get(Question, random.choice(candidate_ids))
             return NextQuestion(

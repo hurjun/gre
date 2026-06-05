@@ -10,13 +10,19 @@ router = APIRouter(prefix="/api/questions", tags=["questions"])
 
 
 @router.get("/next", response_model=NextQuestionOut)
-def get_next_question(subgroup: Subgroup, db: Session = Depends(get_db)) -> NextQuestionOut:
+def get_next_question(
+    subgroup: Subgroup,
+    exclude: int | None = None,
+    db: Session = Depends(get_db),
+) -> NextQuestionOut:
     """Serve a random unsolved question at the subgroup's current level.
 
-    Falls back to the nearest level with unsolved questions; returns
-    `question: null` with `exhausted: true` once the subgroup is fully solved.
+    Falls back to easier levels (then harder) when the current level has no
+    unsolved questions left; returns `question: null` with `exhausted: true`
+    once the subgroup is fully solved. ``exclude`` is the question just
+    answered, so it is not served again immediately when alternatives exist.
     """
-    picked = adaptive.pick_next_question(db, subgroup.value)
+    picked = adaptive.pick_next_question(db, subgroup.value, exclude_id=exclude)
     db.commit()  # persist progress row created on first visit
     return NextQuestionOut(
         question=picked.question,
