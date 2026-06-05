@@ -1,0 +1,187 @@
+{
+  "group": "vocabulary",
+  "subgroup": "vocabulary",
+  "level": 3,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: AMBIVALENT",
+      "choices": ["hostile", "decisive", "conflicted", "indifferent", "verbose"],
+      "answer": [2],
+      "explanation_ko": "AMBIVALENT: 두 가지 상반된 감정을 동시에 갖는, 양가적인. 정답 'conflicted(마음이 엇갈리는, 갈등하는)'와 동의어. 'indifferent(무관심한)'는 감정 자체가 없는 상태를 뜻하므로, 상반된 감정이 공존하는 ambivalent와는 다른 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: AUSTERE",
+      "choices": ["stern", "lavish", "talkative", "ornate", "generous"],
+      "answer": [0],
+      "explanation_ko": "AUSTERE: 엄격한, 근엄한; 꾸밈없이 검소한. 정답 'stern(엄격한, 근엄한)'과 동의어. 'ornate(화려하게 장식된)'는 꾸밈없는 austere와 정반대이므로 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: CANDOR",
+      "choices": ["caution", "frankness", "warmth", "deceit", "brilliance"],
+      "answer": [1],
+      "explanation_ko": "CANDOR: 솔직함, 정직함. 정답 'frankness(솔직함)'와 동의어. 'brilliance(광채, 명석함)'는 candor의 라틴어 어원(빛나다)에서 연상되는 함정일 뿐 의미가 무관한 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: MITIGATE",
+      "choices": ["aggravate", "imitate", "alleviate", "investigate", "regulate"],
+      "answer": [2],
+      "explanation_ko": "MITIGATE: (고통, 심각함 등을) 완화하다, 누그러뜨리다. 정답 'alleviate(완화하다)'와 동의어. 'aggravate(악화시키다)'는 정반대 뜻이고, 'imitate(모방하다)'는 발음만 비슷할 뿐 의미가 무관한 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: PRUDENT",
+      "choices": ["reckless", "judicious", "prudish", "timid", "extravagant"],
+      "answer": [1],
+      "explanation_ko": "PRUDENT: 신중한, 분별 있는. 정답 'judicious(분별 있는, 현명한)'와 동의어. 'prudish(내숭 떠는, 고지식한)'는 철자가 비슷한 함정일 뿐 의미가 다른 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: PLACATE",
+      "choices": ["provoke", "appease", "displace", "criticize", "deceive"],
+      "answer": [1],
+      "explanation_ko": "PLACATE: (화난 사람을) 달래다, 진정시키다. 정답 'appease(달래다, 누그러뜨리다)'와 동의어. 'provoke(화나게 하다, 자극하다)'는 정반대 뜻이므로 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: FRUGAL",
+      "choices": ["wasteful", "fragile", "thrifty", "fertile", "lavish"],
+      "answer": [2],
+      "explanation_ko": "FRUGAL: 절약하는, 검소한. 정답 'thrifty(절약하는)'와 동의어. 'fragile(부서지기 쉬운)'은 발음이 비슷한 함정일 뿐 의미가 무관한 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: SUPERFLUOUS",
+      "choices": ["essential", "superficial", "redundant", "abundant", "fluid"],
+      "answer": [2],
+      "explanation_ko": "SUPERFLUOUS: 필요 이상의, 불필요하게 남아도는. 정답 'redundant(쓸데없이 남아도는, 불필요한)'와 동의어. 'abundant(풍부한)'는 단지 양이 많다는 뜻으로 '불필요함'의 부정적 어감이 없어 동의어가 아닌 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: TENACIOUS",
+      "choices": ["fleeting", "tenuous", "persistent", "spacious", "fragile"],
+      "answer": [2],
+      "explanation_ko": "TENACIOUS: 끈질긴, 집요한. 정답 'persistent(끈질긴)'와 동의어. 'tenuous(미약한, 빈약한)'는 철자가 비슷하지만 오히려 약하다는 뜻이므로 정반대에 가까운 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: METICULOUS",
+      "choices": ["careless", "scrupulous", "ridiculous", "miraculous", "lenient"],
+      "answer": [1],
+      "explanation_ko": "METICULOUS: 꼼꼼한, 세심한. 정답 'scrupulous(꼼꼼한, 세심한)'와 동의어. 'ridiculous(터무니없는)'는 발음만 비슷할 뿐 의미가 무관한 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: PRAGMATIC",
+      "choices": ["idealistic", "dogmatic", "practical", "dramatic", "automatic"],
+      "answer": [2],
+      "explanation_ko": "PRAGMATIC: 실용적인, 현실적인. 정답 'practical(실용적인)'과 동의어. 'dogmatic(독단적인)'은 발음이 비슷한 함정일 뿐 '독선적'이라는 다른 뜻의 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: ZEALOUS",
+      "choices": ["jealous", "apathetic", "fervent", "cautious", "envious"],
+      "answer": [2],
+      "explanation_ko": "ZEALOUS: 열성적인, 열렬한. 정답 'fervent(열렬한)'와 동의어. 'jealous(질투하는)'는 발음이 매우 비슷한 함정일 뿐 의미가 무관한 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: OBSTINATE",
+      "choices": ["compliant", "stubborn", "obscure", "flexible", "abstinent"],
+      "answer": [1],
+      "explanation_ko": "OBSTINATE: 고집 센, 완고한. 정답 'stubborn(고집 센)'과 동의어. 'abstinent(절제하는, 금욕적인)'는 철자가 비슷한 함정일 뿐 의미가 무관한 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: SUCCINCT",
+      "choices": ["verbose", "concise", "distinct", "succulent", "elaborate"],
+      "answer": [1],
+      "explanation_ko": "SUCCINCT: 간결한, 간명한. 정답 'concise(간결한)'와 동의어. 'verbose(장황한)'는 정반대 뜻이고, 'succulent(즙이 많은)'은 발음만 비슷한 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: PARTISAN",
+      "choices": ["impartial", "biased", "objective", "courageous", "communal"],
+      "answer": [1],
+      "explanation_ko": "PARTISAN: 특정 당파나 대의에 치우친, 편파적인. 정답 'biased(편향된)'와 동의어. 'impartial(공정한, 중립적인)'은 정반대 뜻이므로 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: INDIGNANT",
+      "choices": ["delighted", "indigent", "resentful", "indifferent", "ashamed"],
+      "answer": [2],
+      "explanation_ko": "INDIGNANT: 부당함에 분개하는, 분개한. 정답 'resentful(분개하는)'과 동의어. 'indigent(궁핍한, 가난한)'와 'indifferent(무관심한)'는 철자가 비슷한 함정일 뿐 의미가 무관한 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: AMENABLE",
+      "choices": ["stubborn", "cooperative", "memorable", "amiable", "honorable"],
+      "answer": [1],
+      "explanation_ko": "AMENABLE: (제안 등에) 순순히 따르는, 협조적인. 정답 'cooperative(협조적인)'와 동의어. 'amiable(상냥한, 붙임성 있는)'은 철자가 비슷하지만 성격이 친절하다는 다른 뜻의 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: INNOCUOUS",
+      "choices": ["harmful", "harmless", "innate", "obnoxious", "conspicuous"],
+      "answer": [1],
+      "explanation_ko": "INNOCUOUS: 해롭지 않은, 무해한. 정답 'harmless(무해한)'와 동의어. 'innate(타고난, 선천적인)'는 철자가 비슷한 함정일 뿐 의미가 무관한 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: ESOTERIC",
+      "choices": ["commonplace", "exotic", "arcane", "straightforward", "tropical"],
+      "answer": [2],
+      "explanation_ko": "ESOTERIC: 소수만 이해하는, 난해한. 정답 'arcane(난해한, 비밀스러운)'과 동의어. 'exotic(이국적인)'은 발음이 비슷한 함정일 뿐 의미가 무관한 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: COPIOUS",
+      "choices": ["scanty", "abundant", "precious", "spacious", "cautious"],
+      "answer": [1],
+      "explanation_ko": "COPIOUS: 풍부한, 막대한. 정답 'abundant(풍부한)'와 동의어. 'scanty(부족한, 빈약한)'는 정반대 뜻이고, 'precious(귀중한)'는 발음만 비슷한 오답이다."
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "group": "vocabulary",
+  "subgroup": "vocabulary",
+  "level": 2,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: BENEVOLENT",
+      "choices": ["talkative", "wealthy", "charitable", "cautious", "stubborn"],
+      "answer": [2],
+      "explanation_ko": "BENEVOLENT: 자비로운, 친절하고 남을 위하는. 정답 'charitable(자선을 베푸는)'와 동의어. 'wealthy(부유한)'는 자선가가 흔히 부유하다는 연상 때문에 헷갈리지만 부와 친절은 별개이므로 동의어가 아닌 오답."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: DILIGENT",
+      "choices": ["industrious", "intelligent", "punctual", "lazy", "honest"],
+      "answer": [0],
+      "explanation_ko": "DILIGENT: 근면한, 성실하게 열심히 일하는. 정답 'industrious(부지런한)'와 동의어. 'punctual(시간을 잘 지키는)'은 좋은 업무 습관이라 연상되지만 '열심'이라는 핵심 의미와는 달라 오답. 'lazy(게으른)'는 반대말."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: FRUGAL",
+      "choices": ["generous", "fertile", "wealthy", "thrifty", "honest"],
+      "answer": [3],
+      "explanation_ko": "FRUGAL: 검소한, 돈을 아껴 쓰는. 정답 'thrifty(절약하는)'와 동의어. 'fertile(비옥한)'은 철자가 비슷해 헷갈리지만 의미가 전혀 다른 오답. 'generous(후한)'는 오히려 반대 느낌."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: NOVICE",
+      "choices": ["expert", "beginner", "celebrity", "stranger", "rival"],
+      "answer": [1],
+      "explanation_ko": "NOVICE: 초보자, 풋내기. 정답 'beginner(초심자)'와 동의어. 'stranger(낯선 사람)'는 '새로 온 사람'이라는 점에서 헷갈릴 수 있으나 경험 부족이 아니라 친분 없음을 뜻하므로 오답. 'expert(전문가)'는 반대말."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: VERIFY",
+      "choices": ["deny", "complicate", "clarify", "ignore", "confirm"],
+      "answer": [4],
+      "explanation_ko": "VERIFY: 사실인지 확인하다, 입증하다. 정답 'confirm(확인하다)'과 동의어. 'clarify(명료하게 하다)'는 '분명히 한다'는 점에서 헷갈리지만 진위를 검증하는 것이 아니라 이해를 돕는 것이라 오답. 'deny(부인하다)'는 반대말."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: CANDID",
+      "choices": ["secretive", "photogenic", "frank", "polite", "cheerful"],
+      "answer": [2],
+      "explanation_ko": "CANDID: 솔직한, 숨김없이 말하는. 정답 'frank(솔직한)'와 동의어. 'photogenic(사진이 잘 받는)'은 'candid photo(자연스러운 스냅사진)' 표현 때문에 헷갈리는 함정이지만 의미가 무관한 오답. 'secretive(비밀스러운)'는 반대말."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: ELOQUENT",
+      "choices": ["articulate", "silent", "elegant", "honest", "loud"],
+      "answer": [0],
+      "explanation_ko": "ELOQUENT: 말을 유창하고 설득력 있게 잘하는. 정답 'articulate(또박또박 잘 표현하는)'와 동의어. 'elegant(우아한)'는 철자와 어감이 비슷하고 '품격 있는 말투'를 연상시켜 헷갈리지만 말 솜씨가 아니라 우아함을 뜻해 오답. 'silent(말이 없는)'는 반대말."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: LUCID",
+      "choices": ["obscure", "tangled", "lucky", "clear", "concise"],
+      "answer": [3],
+      "explanation_ko": "LUCID: (설명·생각이) 명료한, 이해하기 쉬운. 정답 'clear(명확한)'와 동의어. 'concise(간결한)'는 좋은 글의 특성이라 헷갈리지만 '간결함'은 길이의 문제일 뿐 '분명하고 알기 쉬움'과는 다르므로 오답. 'obscure(모호한)'는 반대말."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: MEAGER",
+      "choices": ["plentiful", "scanty", "average", "generous", "weak"],
+      "answer": [1],
+      "explanation_ko": "MEAGER: (양이) 빈약한, 부족한. 정답 'scanty(부족한, 적은)'와 동의어. 'weak(약한)'은 '빈약하다'는 느낌이 겹쳐 헷갈리지만 힘의 세기가 아니라 양의 적음을 뜻하므로 오답. 'plentiful(풍부한)'은 반대말."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: OBSOLETE",
+      "choices": ["modern", "rare", "broken", "complex", "outdated"],
+      "answer": [4],
+      "explanation_ko": "OBSOLETE: 더 이상 쓰이지 않는, 구식의. 정답 'outdated(시대에 뒤떨어진)'와 동의어. 'broken(고장 난)'은 못 쓰는 물건이라는 점에서 헷갈리지만 고장이 아니라 '구식이라 안 쓰임'을 뜻하므로 오답. 'modern(현대적인)'은 반대말."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: PRUDENT",
+      "choices": ["reckless", "generous", "cautious", "timid", "honest"],
+      "answer": [2],
+      "explanation_ko": "PRUDENT: 신중한, 분별 있는. 정답 'cautious(조심스러운)'와 동의어. 'timid(소심한)'는 조심성과 비슷해 보이지만 두려움 때문에 위축된 상태를 뜻하지 현명한 신중함이 아니라 오답. 'reckless(무모한)'는 반대말."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: RESILIENT",
+      "choices": ["quick to recover", "easily broken", "very flexible", "highly intelligent", "deeply stubborn"],
+      "answer": [0],
+      "explanation_ko": "RESILIENT: 회복력이 강한, 곧 다시 일어서는. 정답 'quick to recover(빨리 회복하는)'와 동의어. 'very flexible(매우 유연한)'은 탄력 있는 재료가 휘어진다는 연상 때문에 헷갈리지만 핵심은 '원상태로 되돌아오는 회복력'이라 오답. 'easily broken(쉽게 부서지는)'은 반대말."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: TRIVIAL",
+      "choices": ["essential", "complicated", "obvious", "insignificant", "rare"],
+      "answer": [3],
+      "explanation_ko": "TRIVIAL: 사소한, 하찮은. 정답 'insignificant(중요하지 않은)'와 동의어. 'obvious(뻔한)'는 'trivial problem(쉬운 문제)' 연상으로 헷갈리지만 '명백함'이 아니라 '중요하지 않음'을 뜻해 오답. 'essential(필수적인)'은 반대말."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: ARDENT",
+      "choices": ["indifferent", "passionate", "difficult", "honest", "stubborn"],
+      "answer": [1],
+      "explanation_ko": "ARDENT: 열렬한, 열정적인. 정답 'passionate(정열적인)'와 동의어. 'stubborn(고집 센)'은 강한 감정이라는 점이 겹쳐 헷갈리지만 완고함은 열정과 다른 개념이라 오답. 'indifferent(무관심한)'는 반대말."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: DETER",
+      "choices": ["encourage", "determine", "delay", "destroy", "discourage"],
+      "answer": [4],
+      "explanation_ko": "DETER: (겁을 주어) 단념시키다, 막다. 정답 'discourage(단념시키다)'와 동의어. 'determine(결정하다)'은 철자가 비슷해 헷갈리는 함정이고 'delay(지연시키다)'도 막는다는 느낌이 있지만 의미가 다른 오답. 'encourage(격려하다)'는 반대말."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: SCRUTINIZE",
+      "choices": ["ignore completely", "criticize harshly", "inspect closely", "destroy utterly", "scatter widely"],
+      "answer": [2],
+      "explanation_ko": "SCRUTINIZE: 면밀히 살펴보다, 정밀 조사하다. 정답 'inspect closely(꼼꼼히 검사하다)'와 동의어. 'criticize harshly(혹독히 비판하다)'는 'scrutiny(엄격한 조사)'와 연관되어 헷갈리지만 비난이 아니라 '자세히 들여다봄'이 핵심이라 오답. 'ignore completely(완전히 무시하다)'는 반대말."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: HOSTILE",
+      "choices": ["antagonistic", "welcoming", "indifferent", "anxious", "generous"],
+      "answer": [0],
+      "explanation_ko": "HOSTILE: 적대적인, 적의를 품은. 정답 'antagonistic(적대적인)'과 동의어. 'indifferent(무관심한)'는 친근하지 않다는 점이 겹쳐 헷갈리지만 무관심은 적의가 없는 상태라 오답. 'welcoming(반기는)'은 반대말."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: ABUNDANT",
+      "choices": ["scarce", "expensive", "necessary", "plentiful", "large"],
+      "answer": [3],
+      "explanation_ko": "ABUNDANT: 풍부한, 많은. 정답 'plentiful(풍부한)'과 동의어. 'large(큰)'는 '많음'과 어감이 겹쳐 헷갈리지만 크기가 아니라 수량의 풍부함을 뜻하므로 오답. 'scarce(부족한)'는 반대말."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: TIMID",
+      "choices": ["bold", "shy", "quiet", "tiny", "clever"],
+      "answer": [1],
+      "explanation_ko": "TIMID: 소심한, 겁이 많은. 정답 'shy(수줍은)'와 동의어. 'quiet(조용한)'는 소심한 사람이 흔히 말이 없어 헷갈리지만 조용함은 성격이 아니라 행동의 한 측면이라 오답. 'bold(대담한)'는 반대말."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: NAIVE",
+      "choices": ["experienced", "selfish", "native", "talented", "unsophisticated"],
+      "answer": [4],
+      "explanation_ko": "NAIVE: 순진한, 세상 물정에 어두운. 정답 'unsophisticated(세련되지 못한, 순진한)'와 동의어. 'native(토박이의)'는 철자가 비슷해 헷갈리는 함정이지만 의미가 무관한 오답. 'experienced(경험 많은)'는 반대말."
+    }
+  ]
+}

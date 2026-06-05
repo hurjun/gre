@@ -1,0 +1,187 @@
+{
+  "group": "vocabulary",
+  "subgroup": "vocabulary",
+  "level": 5,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: LACONIC",
+      "choices": ["lazy and inactive", "terse and concise", "talkative and rambling", "emotionally cold", "easily angered"],
+      "answer": [1],
+      "explanation_ko": "LACONIC: 말수가 적은, 간결한. 정답 'terse and concise(간결한)'와 동의어. 'talkative and rambling(수다스럽고 장황한)'은 정반대 의미이고, 'lazy and inactive(게으른)'는 발음이 비슷해 헷갈리지만 뜻이 무관한 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: PROSAIC",
+      "choices": ["dull and commonplace", "deeply emotional", "highly poetic", "concerning grammar rules", "wealthy and lavish"],
+      "answer": [0],
+      "explanation_ko": "PROSAIC: 평범하고 따분한, 상상력이 없는. 정답 'dull and commonplace(따분하고 흔해빠진)'와 동의어. 'highly poetic(매우 시적인)'은 정반대 의미이고, 산문(prose)을 연상시키는 'concerning grammar rules'는 단어 모양만 비슷할 뿐 뜻이 다른 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: EQUIVOCAL",
+      "choices": ["clearly defined", "ambiguous and open to interpretation", "equal in size", "strongly opposed", "musically vocal"],
+      "answer": [1],
+      "explanation_ko": "EQUIVOCAL: 모호한, 여러 해석이 가능한. 정답 'ambiguous and open to interpretation(모호한)'과 동의어. 'clearly defined(명확한)'는 반대 의미이고, 접두사 equi-를 보고 고르기 쉬운 'equal in size(크기가 같은)'는 뜻이 무관한 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: EPHEMERAL",
+      "choices": ["lasting a very short time", "occurring underground", "extremely large", "permanent and enduring", "relating to fever"],
+      "answer": [0],
+      "explanation_ko": "EPHEMERAL: 수명이 매우 짧은, 덧없는. 정답 'lasting a very short time(아주 잠깐 지속되는)'과 동의어. 'permanent and enduring(영구적인)'은 정반대 의미이고, 'relating to fever(열병에 관한)'는 무관한 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: SYCOPHANT",
+      "choices": ["a person who is mentally ill", "a servile flatterer", "a harsh critic", "a sugar substitute", "a wandering traveler"],
+      "answer": [1],
+      "explanation_ko": "SYCOPHANT: 아첨꾼, 알랑거리는 사람. 정답 'a servile flatterer(비굴한 아첨꾼)'와 동의어. 발음이 'psycho'와 비슷해 고르기 쉬운 'a person who is mentally ill(정신병자)'은 뜻이 전혀 다른 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: GARRULOUS",
+      "choices": ["excessively talkative", "gloomy and sullen", "brave and bold", "harsh-sounding", "stingy with money"],
+      "answer": [0],
+      "explanation_ko": "GARRULOUS: 말이 많은, 수다스러운. 정답 'excessively talkative(지나치게 말이 많은)'와 동의어. 'gloomy and sullen(우울한)'은 의미가 무관한 오답이며, 'harsh-sounding(거슬리는 소리의)'도 관련이 없다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: CAPRICIOUS",
+      "choices": ["unpredictable and fickle", "extremely stubborn", "playfully goatlike", "generous and giving", "very cautious"],
+      "answer": [0],
+      "explanation_ko": "CAPRICIOUS: 변덕스러운, 종잡을 수 없는. 정답 'unpredictable and fickle(변덕스러운)'과 동의어. 어원(라틴어 capra, 염소)을 떠올리게 하는 'playfully goatlike(염소 같은)'는 함정 오답이고, 'extremely stubborn(고집 센)'은 한결같음을 뜻해 오히려 반대에 가깝다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: OBSEQUIOUS",
+      "choices": ["openly rebellious", "excessively fawning and servile", "extremely obese", "darkly obscure", "obstinately silent"],
+      "answer": [1],
+      "explanation_ko": "OBSEQUIOUS: 비굴할 정도로 알랑거리는, 굽실거리는. 정답 'excessively fawning and servile(지나치게 굽실거리는)'와 동의어. 'openly rebellious(노골적으로 반항하는)'는 반대 의미이고, 'extremely obese'나 'darkly obscure'는 단어 첫머리만 비슷할 뿐 뜻이 무관한 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: INSIPID",
+      "choices": ["bland and uninteresting", "insightful and wise", "secretly hidden", "very spicy", "foolish and reckless"],
+      "answer": [0],
+      "explanation_ko": "INSIPID: 맛이 없는, 밍밍하고 흥미롭지 않은. 정답 'bland and uninteresting(밍밍하고 따분한)'과 동의어. 'very spicy(매우 매운)'는 맛의 관점에서 반대이고, 발음이 비슷한 'insightful and wise(통찰력 있는)'는 뜻이 전혀 다른 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: TACITURN",
+      "choices": ["habitually silent and reserved", "openly friendly and warm", "implied without being stated", "quick to take action", "stubbornly persistent"],
+      "answer": [0],
+      "explanation_ko": "TACITURN: 말수가 적은, 과묵한. 정답 'habitually silent and reserved(과묵하고 내성적인)'와 동의어. 어근이 같은 'implied without being stated(암묵적인, tacit)'는 가장 헷갈리는 함정이지만 '암시된'이라는 뜻이라 '과묵한'과 다르며, 'openly friendly and warm'은 반대에 가깝다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: PROFLIGATE",
+      "choices": ["recklessly wasteful and extravagant", "highly profitable", "deeply religious", "thrifty and frugal", "professionally skilled"],
+      "answer": [0],
+      "explanation_ko": "PROFLIGATE: 낭비가 심한, 방탕한. 정답 'recklessly wasteful and extravagant(무분별하게 낭비하는)'와 동의어. 'thrifty and frugal(검소한)'은 정반대 의미이고, 발음이 비슷한 'highly profitable(수익성이 높은)'은 뜻이 무관한 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: PERFIDIOUS",
+      "choices": ["treacherous and disloyal", "perfectly honest", "extremely thorough", "fragrant and sweet", "completely transparent"],
+      "answer": [0],
+      "explanation_ko": "PERFIDIOUS: 배신하는, 신의 없는. 정답 'treacherous and disloyal(배신적이고 불충한)'과 동의어. 'perfectly honest(완전히 정직한)'는 정반대 의미이고, perfume을 연상시키는 'fragrant and sweet(향기로운)'는 뜻이 무관한 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: AUSTERE",
+      "choices": ["severe, stern, and plain", "warm and welcoming", "from the southern region", "luxurious and ornate", "loud and boisterous"],
+      "answer": [0],
+      "explanation_ko": "AUSTERE: 엄격한, 꾸밈없이 간소한. 정답 'severe, stern, and plain(엄격하고 검소한)'과 동의어. 'luxurious and ornate(호화롭고 장식적인)'는 정반대 의미이고, austral을 연상시키는 'from the southern region(남쪽의)'은 뜻이 무관한 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: UBIQUITOUS",
+      "choices": ["present everywhere at once", "extremely rare", "morally corrupt", "highly poisonous", "quietly hidden"],
+      "answer": [0],
+      "explanation_ko": "UBIQUITOUS: 어디에나 있는, 편재하는. 정답 'present everywhere at once(도처에 존재하는)'와 동의어. 'extremely rare(극히 드문)'는 반대 의미이고, 발음이 비슷한 iniquitous를 연상시키는 'morally corrupt(부도덕한)'는 뜻이 다른 함정 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: PARSIMONIOUS",
+      "choices": ["excessively stingy", "harmonious and pleasant", "wordy and repetitive", "generous to a fault", "partial and biased"],
+      "answer": [0],
+      "explanation_ko": "PARSIMONIOUS: 인색한, 지나치게 절약하는. 정답 'excessively stingy(지나치게 인색한)'와 동의어. 'generous to a fault(지나치게 후한)'는 정반대 의미이고, 어미가 비슷한 'harmonious and pleasant(조화로운)'는 뜻이 무관한 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: INTRANSIGENT",
+      "choices": ["refusing to compromise", "constantly in motion", "temporary and passing", "easily persuaded", "internally divided"],
+      "answer": [0],
+      "explanation_ko": "INTRANSIGENT: 비타협적인, 완강한. 정답 'refusing to compromise(타협을 거부하는)'와 동의어. 'easily persuaded(쉽게 설득되는)'는 반대 의미이고, 어근 trans-가 비슷한 'temporary and passing(일시적인, transient)'은 헷갈리지만 뜻이 다른 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: DIFFIDENT",
+      "choices": ["shy and lacking self-confidence", "showing disagreement", "completely indifferent", "boldly assertive", "difficult to understand"],
+      "answer": [0],
+      "explanation_ko": "DIFFIDENT: 자신감이 없는, 수줍어하는. 정답 'shy and lacking self-confidence(수줍고 자신감 없는)'와 동의어. 'boldly assertive(대담하게 주장하는)'는 반대 의미이고, 철자가 비슷한 'completely indifferent(전혀 무관심한)'나 'showing disagreement(이견을 보이는)'는 뜻이 다른 함정 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: TRUCULENT",
+      "choices": ["aggressively defiant and belligerent", "absolutely true and accurate", "tediously slow", "gentle and meek", "remarkably honest"],
+      "answer": [0],
+      "explanation_ko": "TRUCULENT: 공격적이고 호전적인, 사나운. 정답 'aggressively defiant and belligerent(공격적이고 호전적인)'와 동의어. 'gentle and meek(온순한)'은 정반대 의미이고, true와 발음이 비슷한 'absolutely true and accurate(정확한)'는 뜻이 무관한 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: ESOTERIC",
+      "choices": ["understood by only a few specialists", "widely known and popular", "relating to the body", "exotically foreign", "extremely boring"],
+      "answer": [0],
+      "explanation_ko": "ESOTERIC: 소수만 이해하는, 난해하고 전문적인. 정답 'understood by only a few specialists(소수의 전문가만 이해하는)'와 동의어. 'widely known and popular(널리 알려진)'는 반대 의미이고, 발음이 비슷한 'exotically foreign(이국적인)'은 뜻이 다른 함정 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: FASTIDIOUS",
+      "choices": ["meticulous and hard to please", "extremely fast and quick", "careless and sloppy", "fasting or abstaining", "boastful and proud"],
+      "answer": [0],
+      "explanation_ko": "FASTIDIOUS: 까다로운, 꼼꼼한. 정답 'meticulous and hard to please(꼼꼼하고 만족시키기 어려운)'와 동의어. 'careless and sloppy(부주의하고 엉성한)'는 정반대 의미이고, fast가 보여 고르기 쉬운 'extremely fast and quick(매우 빠른)'은 뜻이 무관한 함정 오답이다."
+    }
+  ]
+}

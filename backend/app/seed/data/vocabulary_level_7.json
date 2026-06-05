@@ -1,0 +1,187 @@
+{
+  "group": "vocabulary",
+  "subgroup": "vocabulary",
+  "level": 7,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: PERSPICACIOUS",
+      "choices": ["shrewd", "transparent and clear", "sweaty", "long-winded", "obstinate"],
+      "answer": [0],
+      "explanation_ko": "PERSPICACIOUS: 통찰력이 예리한, 명민한. 정답 'shrewd(빈틈없이 영리한)'와 동의어입니다. 'transparent and clear(투명하게 명료한)'는 발음이 비슷한 'perspicuous'의 뜻으로, 사람의 통찰력이 아니라 글·표현의 명료함을 가리키는 함정 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: OBSTREPEROUS",
+      "choices": ["obscure", "boisterous and unruly", "obstructive", "gloomy", "generous"],
+      "answer": [1],
+      "explanation_ko": "OBSTREPEROUS: 시끄럽고 제멋대로인, 떠들썩하게 다루기 힘든. 정답 'boisterous and unruly(소란스럽고 통제 안 되는)'와 동의어입니다. 'obstructive(방해하는)'는 철자가 비슷하지만 길을 막는다는 뜻일 뿐 소란스러움과는 무관한 함정 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: RECALCITRANT",
+      "choices": ["calculating", "repentant", "obstinately defiant", "easygoing", "reckless"],
+      "answer": [2],
+      "explanation_ko": "RECALCITRANT: 반항적인, 고집스럽게 말을 안 듣는. 정답 'obstinately defiant(완강히 반항하는)'와 동의어입니다. 'easygoing(순한, 고분고분한)'은 정반대 의미라 가장 헷갈리는 오답이고, 'calculating(타산적인)'은 발음만 비슷할 뿐 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: MENDACIOUS",
+      "choices": ["given to begging", "menacing", "generous", "untruthful", "easily repaired"],
+      "answer": [3],
+      "explanation_ko": "MENDACIOUS: 거짓말하는, 허위의. 정답 'untruthful(진실하지 않은)'와 동의어입니다. 'given to begging(구걸하는)'은 발음이 비슷한 'mendicant'의 뜻으로 헷갈리기 쉬운 함정 오답이며, 거짓말과는 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: FULMINATE",
+      "choices": ["to fulfill completely", "to hesitate", "to evaporate", "to flatter", "to denounce vehemently"],
+      "answer": [4],
+      "explanation_ko": "FULMINATE: 맹렬히 비난하다, 격렬히 호통치다. 정답 'to denounce vehemently(격렬히 규탄하다)'와 동의어입니다. 'to fulfill completely(완전히 이행하다)'는 철자가 비슷해 헷갈리는 함정 오답이고, 'to flatter(아첨하다)'는 비난과 정반대입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: TRUCULENT",
+      "choices": ["belligerent", "truthful", "exhausted", "humble", "transparent"],
+      "answer": [0],
+      "explanation_ko": "TRUCULENT: 호전적인, 싸우려 드는. 정답 'belligerent(공격적이고 호전적인)'와 동의어입니다. 'truthful(정직한)'은 앞부분 철자가 비슷해 헷갈리는 함정 오답이고, 'humble(겸손한)'은 호전성과 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: PUSILLANIMOUS",
+      "choices": ["generous in spirit", "timid and cowardly", "in complete agreement", "highly energetic", "overly talkative"],
+      "answer": [1],
+      "explanation_ko": "PUSILLANIMOUS: 겁이 많은, 소심한. 정답 'timid and cowardly(소심하고 비겁한)'와 동의어입니다. 'generous in spirit(도량이 넓은)'은 발음이 비슷한 'magnanimous'의 뜻이자 사실상 반대 의미라 가장 헷갈리는 함정 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: LACONIC",
+      "choices": ["lethargic", "talkative", "terse", "relaxed", "ironic"],
+      "answer": [2],
+      "explanation_ko": "LACONIC: 말수가 적은, 간결한. 정답 'terse(간결한)'와 동의어입니다. 'talkative(수다스러운)'는 정반대 의미라 가장 헷갈리는 오답이고, 'lethargic(무기력한)'은 발음만 비슷할 뿐 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: PERFIDIOUS",
+      "choices": ["perfectly faithful", "extremely thorough", "filled with holes", "treacherous", "lacking energy"],
+      "answer": [3],
+      "explanation_ko": "PERFIDIOUS: 배신하는, 불충한. 정답 'treacherous(배신적인)'와 동의어입니다. 'perfectly faithful(완벽하게 충실한)'은 'perf-' 철자가 비슷하면서 정반대 의미라 가장 헷갈리는 함정 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: OBSEQUIOUS",
+      "choices": ["no longer in use", "stubbornly resistant", "hard to understand", "openly rebellious", "fawning and servile"],
+      "answer": [4],
+      "explanation_ko": "OBSEQUIOUS: 아첨하는, 비굴하게 굽실거리는. 정답 'fawning and servile(알랑거리며 비굴한)'와 동의어입니다. 'openly rebellious(공공연히 반항하는)'는 정반대 의미라 헷갈리는 오답이고, 'no longer in use(쓸모없어진, obsolete)'는 발음만 비슷합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: INTRANSIGENT",
+      "choices": ["refusing to compromise", "lasting only briefly", "easily seen through", "willing to adapt", "constantly moving"],
+      "answer": [0],
+      "explanation_ko": "INTRANSIGENT: 비타협적인, 완고한. 정답 'refusing to compromise(타협을 거부하는)'와 동의어입니다. 'lasting only briefly(잠깐만 지속되는, transient)'와 'constantly moving(끊임없이 이동하는)'은 발음이 비슷한 함정 오답이고, 'willing to adapt(기꺼이 적응하는)'는 정반대입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: PROPITIOUS",
+      "choices": ["privately owned", "favorable and auspicious", "showily extravagant", "openly hostile", "well-proportioned"],
+      "answer": [1],
+      "explanation_ko": "PROPITIOUS: 길조의, 유리한. 정답 'favorable and auspicious(유리하고 상서로운)'와 동의어입니다. 'openly hostile(공공연히 적대적인)'은 정반대 의미라 가장 헷갈리는 오답이고, 'privately owned(사유의, proprietary)'는 발음만 비슷합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: INCHOATE",
+      "choices": ["fully mature", "wildly chaotic", "rudimentary and undeveloped", "incoherent and rambling", "confined in prison"],
+      "answer": [2],
+      "explanation_ko": "INCHOATE: 막 시작된, 아직 완전히 형성되지 않은. 정답 'rudimentary and undeveloped(초보적이고 미발달의)'와 동의어입니다. 'fully mature(완전히 성숙한)'는 정반대 의미라 가장 헷갈리는 오답이고, 'wildly chaotic(극도로 혼란스러운)'은 발음이 비슷하지만 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: SALUBRIOUS",
+      "choices": ["lustful and indecent", "extremely filthy", "loudly celebratory", "promoting good health", "very salty"],
+      "answer": [3],
+      "explanation_ko": "SALUBRIOUS: 건강에 좋은, 쾌적한. 정답 'promoting good health(건강을 증진하는)'와 동의어입니다. 'lustful and indecent(음탕한, salacious)'는 발음이 비슷한 함정 오답이고, 'extremely filthy(몹시 더러운)'는 건강에 좋다는 뜻과 정반대입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: PELLUCID",
+      "choices": ["dim and murky", "sickly pale", "sharply acidic", "densely crowded", "transparently clear"],
+      "answer": [4],
+      "explanation_ko": "PELLUCID: 아주 맑은, 명료한. 정답 'transparently clear(투명하게 맑은)'와 동의어입니다. 'dim and murky(흐릿하고 탁한)'는 정반대 의미라 가장 헷갈리는 오답이고, 'sickly pale(병약하게 창백한)'은 색조와 관련된 무관한 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: REFRACTORY",
+      "choices": ["stubbornly unmanageable", "highly reflective", "pleasantly refreshing", "easily compliant", "delicate and fragile"],
+      "answer": [0],
+      "explanation_ko": "REFRACTORY: 다루기 힘든, 고집 센. 정답 'stubbornly unmanageable(완고하여 통제 불가능한)'와 동의어입니다. 'easily compliant(쉽게 순응하는)'는 정반대 의미라 가장 헷갈리는 오답이고, 'highly reflective(반사가 잘 되는)'는 'refract-' 어감만 비슷할 뿐 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: INVETERATE",
+      "choices": ["lacking a backbone", "deeply habitual and ingrained", "newly begun", "completely inexperienced", "relating to animal medicine"],
+      "answer": [1],
+      "explanation_ko": "INVETERATE: 뿌리 깊은, 상습적인. 정답 'deeply habitual and ingrained(깊이 몸에 밴, 습관이 된)'와 동의어입니다. 'newly begun(이제 막 시작된)'은 오래되고 굳어졌다는 뜻과 정반대라 헷갈리는 오답이고, 'lacking a backbone(척추가 없는, invertebrate)'은 발음만 비슷합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: CAPTIOUS",
+      "choices": ["charming and captivating", "held as a prisoner", "given to petty fault-finding", "generous with praise", "quick and decisive"],
+      "answer": [2],
+      "explanation_ko": "CAPTIOUS: 흠을 잘 잡는, 트집 잡는. 정답 'given to petty fault-finding(사소한 흠을 들추는)'와 동의어입니다. 'charming and captivating(매혹적인)'은 발음이 비슷한 함정 오답이고, 'generous with praise(칭찬에 후한)'는 정반대 태도입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: PERNICIOUS",
+      "choices": ["stubbornly persistent", "extremely precise", "thoroughly beneficial", "highly harmful and destructive", "sharply pungent"],
+      "answer": [3],
+      "explanation_ko": "PERNICIOUS: 해로운, 치명적인. 정답 'highly harmful and destructive(매우 해롭고 파괴적인)'와 동의어입니다. 'thoroughly beneficial(매우 이로운)'은 정반대 의미라 가장 헷갈리는 오답이고, 'stubbornly persistent(끈질긴)'는 발음이 비슷하지만 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: APOCRYPHAL",
+      "choices": ["foretelling disaster", "deliberately hidden", "widely verified as true", "spoken in riddles", "of doubtful authenticity"],
+      "answer": [4],
+      "explanation_ko": "APOCRYPHAL: 출처가 의심스러운, 진위가 불확실한. 정답 'of doubtful authenticity(진위가 의심스러운)'와 동의어입니다. 'widely verified as true(널리 사실로 입증된)'는 정반대 의미라 가장 헷갈리는 오답이고, 'foretelling disaster(재앙을 예언하는, apocalyptic)'는 발음만 비슷합니다."
+    }
+  ]
+}
