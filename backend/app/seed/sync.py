@@ -5,8 +5,11 @@ new questions and writing prompts are inserted, and existing ones have their
 mutable fields refreshed — all **without** touching ``attempts`` or
 ``progress``, so a learner's history survives content updates and additions.
 
-Questions are matched on the natural key ``(subgroup, level, question_text)``
-and writing prompts on ``(task_type, prompt_text)``.
+Questions are matched on the natural key ``(subgroup, level, passage,
+question_text)`` — the passage is part of the key because distinct reading
+questions often share a generic stem (e.g. "The primary purpose of the passage
+is to") and differ only in their passage. Writing prompts are matched on
+``(task_type, prompt_text)``.
 
 Usage (from ``backend/``)::
 
@@ -26,7 +29,7 @@ from .validate import DATA_DIR, validate
 
 def sync_questions(db: Session) -> tuple[int, int]:
     existing = {
-        (q.subgroup, q.level, q.question_text): q
+        (q.subgroup, q.level, q.passage, q.question_text): q
         for q in db.scalars(select(Question))
     }
     inserted = updated = 0
@@ -34,7 +37,7 @@ def sync_questions(db: Session) -> tuple[int, int]:
         bucket = json.loads(path.read_text(encoding="utf-8"))
         group, subgroup, level = bucket["group"], bucket["subgroup"], bucket["level"]
         for record in bucket["questions"]:
-            key = (subgroup, level, record["question_text"])
+            key = (subgroup, level, record.get("passage"), record["question_text"])
             question = existing.get(key)
             if question is None:
                 db.add(
