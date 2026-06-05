@@ -7,6 +7,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from .config import CORS_ORIGINS
 from .database import Base, engine
+from .routers import answers, progress, questions, writing
 
 
 @asynccontextmanager
@@ -28,6 +29,12 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+
+app.include_router(questions.router)
+app.include_router(answers.router)
+app.include_router(progress.router)
+app.include_router(writing.router)
 
 
 @app.get("/api/health", tags=["health"])
