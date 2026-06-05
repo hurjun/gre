@@ -21,8 +21,10 @@ async function request(path, options) {
 }
 
 export const api = {
-  nextQuestion: (subgroup) =>
-    request(`/questions/next?subgroup=${encodeURIComponent(subgroup)}`),
+  nextQuestion: (subgroup, excludeId) => {
+    const exclude = excludeId != null ? `&exclude=${excludeId}` : ''
+    return request(`/questions/next?subgroup=${encodeURIComponent(subgroup)}${exclude}`)
+  },
   submitAnswer: (payload) =>
     request('/answers', { method: 'POST', body: JSON.stringify(payload) }),
   progress: () => request('/progress'),

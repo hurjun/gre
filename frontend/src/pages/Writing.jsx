@@ -66,7 +66,9 @@ function EssayWorkspace({ promptId }) {
   const [saved, setSaved] = useState(false)
 
   const running = !saved
-  const elapsed = useTimer(promptId, running)
+  // Count down from the prompt's suggested time budget.
+  const durationSeconds = prompt ? prompt.suggested_minutes * 60 : null
+  const { elapsed, remaining } = useTimer(promptId, running, durationSeconds)
 
   useEffect(() => {
     api.writingPrompt(promptId).then(setPrompt).catch((err) => setError(err.message))
@@ -99,7 +101,7 @@ function EssayWorkspace({ promptId }) {
           <Link to="/writing" className="back-link">← All prompts</Link>
           <h1 className="quiz__title">{TASK_LABEL[prompt.task_type]}</h1>
         </div>
-        <Timer seconds={elapsed} warnAfter={running ? prompt.suggested_minutes * 60 : null} />
+        <Timer seconds={remaining ?? durationSeconds} warn={running && remaining != null && remaining <= 60} />
       </header>
 
       <blockquote className="passage">{prompt.prompt_text}</blockquote>

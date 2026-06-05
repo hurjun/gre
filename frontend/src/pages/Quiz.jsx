@@ -7,6 +7,8 @@ import Timer from '../components/Timer.jsx'
 import LevelMeter from '../components/LevelMeter.jsx'
 import StateMessage from '../components/StateMessage.jsx'
 
+const QUESTION_SECONDS = 60 // per-question countdown
+
 export default function Quiz() {
   const { subgroup } = useParams()
   const meta = SUBGROUP_BY_KEY[subgroup]
@@ -19,15 +21,16 @@ export default function Quiz() {
 
   const question = data?.question ?? null
   const answering = question != null && result == null
-  const elapsed = useTimer(question?.id ?? loadKey, answering)
+  // 1-minute countdown per question; `elapsed` is recorded with the attempt.
+  const { elapsed, remaining } = useTimer(question?.id ?? loadKey, answering, QUESTION_SECONDS)
 
-  const loadNext = useCallback(() => {
+  const loadNext = useCallback((excludeId) => {
     setData(null)
     setError(null)
     setResult(null)
     setSelected([])
     api
-      .nextQuestion(subgroup)
+      .nextQuestion(subgroup, excludeId)
       .then((next) => {
         setData(next)
         setLoadKey((k) => k + 1)
@@ -92,7 +95,7 @@ export default function Quiz() {
   if (data.exhausted || !question) {
     return (
       <section className="quiz">
-        <QuizHeader meta={meta} level={data.current_level} maxLevel={data.max_level} elapsed={elapsed} running={false} />
+        <QuizHeader meta={meta} level={data.current_level} maxLevel={data.max_level} remaining={remaining} running={false} />
         <StateMessage kind="success" title="🎉 You've solved every question in this section!">
           Come back after adding more questions, or keep practicing another section.
           <div className="state__actions">
@@ -105,7 +108,7 @@ export default function Quiz() {
 
   return (
     <section className="quiz">
-      <QuizHeader meta={meta} level={data.current_level} maxLevel={data.max_level} elapsed={elapsed} running={answering} />
+      <QuizHeader meta={meta} level={data.current_level} maxLevel={data.max_level} remaining={remaining} running={answering} />
 
       <p className="quiz__hint">
         {data.remaining_at_level} unsolved at level {data.current_level} ·{' '}
@@ -147,13 +150,13 @@ export default function Quiz() {
           Submit answer
         </button>
       ) : (
-        <Feedback result={result} onNext={loadNext} />
+        <Feedback result={result} onNext={() => loadNext(question.id)} />
       )}
     </section>
   )
 }
 
-function QuizHeader({ meta, level, maxLevel, elapsed, running }) {
+function QuizHeader({ meta, level, maxLevel, remaining, running }) {
   return (
     <header className="quiz__head">
       <div>
@@ -162,7 +165,7 @@ function QuizHeader({ meta, level, maxLevel, elapsed, running }) {
       </div>
       <div className="quiz__meters">
         <LevelMeter level={level} max={maxLevel} />
-        <Timer seconds={elapsed} warnAfter={running ? 90 : null} />
+        <Timer seconds={remaining} warn={running && remaining <= 10} />
       </div>
     </header>
   )
