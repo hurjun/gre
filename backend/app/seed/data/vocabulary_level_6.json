@@ -8,8 +8,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: OBDURATE",
-      "choices": ["easily persuaded", "dull-witted", "unyielding and stubborn", "extravagant", "sorrowful"],
-      "answer": [2],
+      "choices": [
+        "easily persuaded",
+        "dull-witted",
+        "unyielding and stubborn",
+        "extravagant",
+        "sorrowful"
+      ],
+      "answer": [
+        2
+      ],
       "explanation_ko": "OBDURATE: 고집 센, 완고한. 정답 'unyielding and stubborn'와 동의어. 'easily persuaded(쉽게 설득되는)'는 반대 의미라 오답이고, 'dull-witted(둔한)'는 발음이 비슷한 obtuse와 혼동을 노린 함정이다."
     },
     {
@@ -17,8 +25,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: PERFUNCTORY",
-      "choices": ["thorough and painstaking", "done with minimal care", "always punctual", "openly hostile", "extremely generous"],
-      "answer": [1],
+      "choices": [
+        "thorough and painstaking",
+        "done with minimal care",
+        "always punctual",
+        "openly hostile",
+        "extremely generous"
+      ],
+      "answer": [
+        1
+      ],
       "explanation_ko": "PERFUNCTORY: 형식적인, 건성으로 하는. 정답 'done with minimal care'와 동의어. 'thorough and painstaking(꼼꼼한)'은 반대 의미이고, 'always punctual(시간을 잘 지키는)'은 punctual과 어감이 비슷해 헷갈리지만 의미가 다른 오답이다."
     },
     {
@@ -26,8 +42,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: QUERULOUS",
-      "choices": ["inquisitive", "calm and content", "deceitful", "peevish and complaining", "talkative"],
-      "answer": [3],
+      "choices": [
+        "inquisitive",
+        "calm and content",
+        "deceitful",
+        "peevish and complaining",
+        "talkative"
+      ],
+      "answer": [
+        3
+      ],
       "explanation_ko": "QUERULOUS: 투덜대는, 불평이 많은. 정답 'peevish and complaining'와 동의어. 'inquisitive(꼬치꼬치 캐묻는)'는 query(질문)와 연상되어 헷갈리는 함정이지만 동의어가 아니고, 'calm and content(만족하는)'는 반대 의미다."
     },
     {
@@ -35,26 +59,33 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: SANGUINE",
-      "choices": ["bloodthirsty", "cheerfully optimistic", "gloomy and despondent", "indifferent", "stubborn"],
-      "answer": [1],
+      "choices": [
+        "bloodthirsty",
+        "cheerfully optimistic",
+        "gloomy and despondent",
+        "indifferent",
+        "stubborn"
+      ],
+      "answer": [
+        1
+      ],
       "explanation_ko": "SANGUINE: 낙관적인, 자신감 있는. 정답 'cheerfully optimistic'와 동의어. 'bloodthirsty(피에 굶주린)'는 sanguine의 옛 '혈색 좋은/피의' 의미와 연결되는 함정이고, 'gloomy and despondent(우울한)'는 반대 의미라 오답이다."
     },
     {
       "question_type": "single",
       "select_count": 1,
       "passage": null,
-      "question_text": "Select the word or phrase most nearly equivalent in meaning to: TRUCULENT",
-      "choices": ["exhausted", "trusting and naive", "transparent", "thrifty", "belligerent and aggressive"],
-      "answer": [4],
-      "explanation_ko": "TRUCULENT: 공격적인, 호전적인. 정답 'belligerent and aggressive'와 동의어. 'trusting and naive(잘 믿는)'는 발음이 비슷해 헷갈리는 함정이지만 의미가 무관하고, 'thrifty(검소한)'도 관련 없는 오답이다."
-    },
-    {
-      "question_type": "single",
-      "select_count": 1,
-      "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: MENDACIOUS",
-      "choices": ["beggarly", "generous", "habitually untruthful", "menacing", "able to be repaired"],
-      "answer": [2],
+      "choices": [
+        "beggarly",
+        "generous",
+        "habitually untruthful",
+        "menacing",
+        "able to be repaired"
+      ],
+      "answer": [
+        2
+      ],
       "explanation_ko": "MENDACIOUS: 거짓말하는, 허위의. 정답 'habitually untruthful'와 동의어. 'menacing(위협적인)'은 발음이 비슷한 함정이고, 'able to be repaired(고칠 수 있는)'는 mend(수선하다)와의 혼동을 노린 오답이다."
     },
     {
@@ -62,26 +93,33 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: PERSPICACIOUS",
-      "choices": ["sweating profusely", "transparently clear", "long-lasting", "perceptive and shrewd", "stubbornly persistent"],
-      "answer": [3],
+      "choices": [
+        "sweating profusely",
+        "transparently clear",
+        "long-lasting",
+        "perceptive and shrewd",
+        "stubbornly persistent"
+      ],
+      "answer": [
+        3
+      ],
       "explanation_ko": "PERSPICACIOUS: 통찰력 있는, 명민한. 정답 'perceptive and shrewd'와 동의어. 'transparently clear(명료한)'는 철자가 비슷한 perspicuous(명료한)와 혼동을 노린 가장 강한 함정이고, 'sweating profusely(땀 흘리는)'는 perspire와 헷갈리게 만든 오답이다."
     },
     {
       "question_type": "single",
       "select_count": 1,
       "passage": null,
-      "question_text": "Select the word or phrase most nearly equivalent in meaning to: FASTIDIOUS",
-      "choices": ["fast and energetic", "meticulous and exacting", "tediously dull", "carefree and lax", "openly rebellious"],
-      "answer": [1],
-      "explanation_ko": "FASTIDIOUS: 까다로운, 세심한. 정답 'meticulous and exacting'와 동의어. 'carefree and lax(무사태평한)'는 반대 의미이고, 'fast and energetic(빠른)'은 fast와 글자가 겹쳐 헷갈리는 함정이다."
-    },
-    {
-      "question_type": "single",
-      "select_count": 1,
-      "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: INCHOATE",
-      "choices": ["fully mature", "incoherent", "chaotic", "incremental", "rudimentary and just begun"],
-      "answer": [4],
+      "choices": [
+        "fully mature",
+        "incoherent",
+        "chaotic",
+        "incremental",
+        "rudimentary and just begun"
+      ],
+      "answer": [
+        4
+      ],
       "explanation_ko": "INCHOATE: 초기의, 미완성의, 발달하지 않은. 정답 'rudimentary and just begun'와 동의어. 'fully mature(완전히 성숙한)'는 반대 의미이고, 'incoherent(앞뒤가 안 맞는)'는 발음이 비슷해 헷갈리지만 동의어가 아니다."
     },
     {
@@ -89,8 +127,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: PELLUCID",
-      "choices": ["muddy and opaque", "persuasive", "crystal clear and transparent", "shining brightly", "foul-smelling"],
-      "answer": [2],
+      "choices": [
+        "muddy and opaque",
+        "persuasive",
+        "crystal clear and transparent",
+        "shining brightly",
+        "foul-smelling"
+      ],
+      "answer": [
+        2
+      ],
       "explanation_ko": "PELLUCID: 투명한, 아주 명료한. 정답 'crystal clear and transparent'와 동의어. 'muddy and opaque(불투명한)'는 반대 의미이고, 'shining brightly(밝게 빛나는)'는 lucid(빛/명료)와 연상되어 헷갈리는 함정이다."
     },
     {
@@ -98,26 +144,33 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: RECONDITE",
-      "choices": ["easily understood", "abstruse and obscure", "recently built", "thoroughly examined", "openly hostile"],
-      "answer": [1],
+      "choices": [
+        "easily understood",
+        "abstruse and obscure",
+        "recently built",
+        "thoroughly examined",
+        "openly hostile"
+      ],
+      "answer": [
+        1
+      ],
       "explanation_ko": "RECONDITE: 난해한, 심오한. 정답 'abstruse and obscure'와 동의어. 'easily understood(쉽게 이해되는)'는 반대 의미이고, 'recently built(최근에 지어진)'는 recondition 등과의 혼동을 노린 오답이다."
     },
     {
       "question_type": "single",
       "select_count": 1,
       "passage": null,
-      "question_text": "Select the word or phrase most nearly equivalent in meaning to: OBSEQUIOUS",
-      "choices": ["obstinate", "obscure", "disobedient", "obese", "fawning and servile"],
-      "answer": [4],
-      "explanation_ko": "OBSEQUIOUS: 아첨하는, 알랑거리는. 정답 'fawning and servile'와 동의어. 'disobedient(불복종하는)'는 오히려 반대에 가까운 오답이고, 'obstinate(완고한)'는 앞 글자가 비슷해 헷갈리는 함정이다."
-    },
-    {
-      "question_type": "single",
-      "select_count": 1,
-      "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: MUNIFICENT",
-      "choices": ["magnificent in appearance", "municipal", "extremely generous", "stingy", "heavily fortified"],
-      "answer": [2],
+      "choices": [
+        "magnificent in appearance",
+        "municipal",
+        "extremely generous",
+        "stingy",
+        "heavily fortified"
+      ],
+      "answer": [
+        2
+      ],
       "explanation_ko": "MUNIFICENT: 매우 후한, 아낌없이 베푸는. 정답 'extremely generous'와 동의어. 'magnificent in appearance(웅장한)'는 철자가 비슷한 magnificent와의 혼동을 노린 가장 강한 함정이고, 'stingy(인색한)'는 반대 의미다."
     },
     {
@@ -125,26 +178,33 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: FRACTIOUS",
-      "choices": ["easily broken", "fractional", "cooperative", "unruly and quarrelsome", "fearful"],
-      "answer": [3],
+      "choices": [
+        "easily broken",
+        "fractional",
+        "cooperative",
+        "unruly and quarrelsome",
+        "fearful"
+      ],
+      "answer": [
+        3
+      ],
       "explanation_ko": "FRACTIOUS: 다루기 힘든, 짜증을 잘 내는. 정답 'unruly and quarrelsome'와 동의어. 'easily broken(쉽게 부서지는)'은 fracture(골절)와 연상되는 함정이고, 'cooperative(협조적인)'는 반대 의미다."
     },
     {
       "question_type": "single",
       "select_count": 1,
       "passage": null,
-      "question_text": "Select the word or phrase most nearly equivalent in meaning to: DIFFIDENT",
-      "choices": ["indifferent", "bold and assertive", "different", "diligent", "self-effacing and timid"],
-      "answer": [4],
-      "explanation_ko": "DIFFIDENT: 자신감이 없는, 수줍어하는. 정답 'self-effacing and timid'와 동의어. 'bold and assertive(대담한)'는 반대 의미이고, 'indifferent(무관심한)'는 철자가 비슷해 헷갈리는 함정이다."
-    },
-    {
-      "question_type": "single",
-      "select_count": 1,
-      "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: DESULTORY",
-      "choices": ["insulting", "aimless and haphazard", "deserted", "methodical", "sweet-tasting"],
-      "answer": [1],
+      "choices": [
+        "insulting",
+        "aimless and haphazard",
+        "deserted",
+        "methodical",
+        "sweet-tasting"
+      ],
+      "answer": [
+        1
+      ],
       "explanation_ko": "DESULTORY: 두서없는, 산만한. 정답 'aimless and haphazard'와 동의어. 'methodical(체계적인)'은 반대 의미이고, 'insulting(모욕적인)'은 발음이 비슷해 헷갈리는 함정이다."
     },
     {
@@ -152,8 +212,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: CAPTIOUS",
-      "choices": ["captivating", "easily captured", "generous in praise", "faultfinding and carping", "cautious"],
-      "answer": [3],
+      "choices": [
+        "captivating",
+        "easily captured",
+        "generous in praise",
+        "faultfinding and carping",
+        "cautious"
+      ],
+      "answer": [
+        3
+      ],
       "explanation_ko": "CAPTIOUS: 흠을 잘 잡는, 트집을 잡는. 정답 'faultfinding and carping'와 동의어. 'captivating(매혹적인)'은 capture와 연상되는 함정이고, 'generous in praise(칭찬에 후한)'는 반대 의미다."
     },
     {
@@ -161,8 +229,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: MERCURIAL",
-      "choices": ["merciful", "commercial", "steady and constant", "poisonous", "volatile and changeable in mood"],
-      "answer": [4],
+      "choices": [
+        "merciful",
+        "commercial",
+        "steady and constant",
+        "poisonous",
+        "volatile and changeable in mood"
+      ],
+      "answer": [
+        4
+      ],
       "explanation_ko": "MERCURIAL: 변덕스러운, 기분이 잘 변하는. 정답 'volatile and changeable in mood'와 동의어. 'steady and constant(한결같은)'는 반대 의미이고, 'merciful(자비로운)'은 발음이 비슷해 헷갈리는 함정이다."
     },
     {
@@ -170,8 +246,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: LUGUBRIOUS",
-      "choices": ["lukewarm", "slippery", "mournful and gloomy", "cheerful", "sluggish"],
-      "answer": [2],
+      "choices": [
+        "lukewarm",
+        "slippery",
+        "mournful and gloomy",
+        "cheerful",
+        "sluggish"
+      ],
+      "answer": [
+        2
+      ],
       "explanation_ko": "LUGUBRIOUS: 애처로운, 침울한. 정답 'mournful and gloomy'와 동의어. 'cheerful(쾌활한)'은 반대 의미이고, 'slippery(미끄러운)'는 발음이 비슷한 lubricious와의 혼동을 노린 함정이다."
     },
     {
@@ -179,9 +263,136 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: SALUBRIOUS",
-      "choices": ["salty", "healthful and wholesome", "filthy and unhealthy", "boisterous", "solvable"],
-      "answer": [1],
+      "choices": [
+        "salty",
+        "healthful and wholesome",
+        "filthy and unhealthy",
+        "boisterous",
+        "solvable"
+      ],
+      "answer": [
+        1
+      ],
       "explanation_ko": "SALUBRIOUS: 건강에 좋은, 위생적인. 정답 'healthful and wholesome'와 동의어. 'filthy and unhealthy(불결한)'는 반대 의미이고, 'salty(짠)'는 앞 글자가 비슷해 헷갈리는 함정이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: ASSIDUOUS",
+      "choices": [
+        "acidic and sour",
+        "lazy and negligent",
+        "occurring by chance",
+        "diligent and persevering",
+        "sitting idly"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation_ko": "ASSIDUOUS: 근면한, 끈기 있게 노력하는. 정답 'diligent and persevering'와 동의어. 'sitting idly(빈둥거리는)'는 '앉다(sit)'라는 어원과 연상되지만 의미는 오히려 반대인 함정이고, 'lazy and negligent(게으른)'도 반대 의미라 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: SPECIOUS",
+      "choices": [
+        "seemingly true but actually false",
+        "specific and precise",
+        "genuinely valid and sound",
+        "belonging to a species",
+        "remarkably beautiful"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "SPECIOUS: 그럴듯하지만 거짓된, 허울만 좋은. 정답 'seemingly true but actually false'와 동의어. 'genuinely valid and sound(타당한)'는 반대 의미이고, 'specific and precise(구체적인)'는 spec- 어감 때문에 헷갈리는 함정이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: PHLEGMATIC",
+      "choices": [
+        "practical and pragmatic",
+        "easily excited and passionate",
+        "calm and unemotional",
+        "feverish and inflamed",
+        "diplomatic and tactful"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation_ko": "PHLEGMATIC: 침착한, 좀처럼 흥분하지 않는, 냉담한. 정답 'calm and unemotional'와 동의어. 'easily excited and passionate(쉽게 흥분하는)'는 반대 의미이고, 'practical and pragmatic(실용적인)'은 운율이 비슷한 pragmatic과의 혼동을 노린 함정이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: PROLIX",
+      "choices": [
+        "highly fertile and prolific",
+        "tediously wordy and verbose",
+        "concise and to the point",
+        "prone to mixing",
+        "coming before in time"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "PROLIX: 장황한, 말이나 글이 지루하게 긴. 정답 'tediously wordy and verbose'와 동의어. 'highly fertile and prolific(다산의)'는 철자가 비슷한 prolific과의 혼동을 노린 가장 강한 함정이고, 'concise and to the point(간결한)'는 반대 의미다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: INTREPID",
+      "choices": [
+        "intricate and complex",
+        "fearless and bold",
+        "timid and cowardly",
+        "extremely rapid",
+        "internal and hidden"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "INTREPID: 용맹한, 두려움을 모르는. 정답 'fearless and bold'와 동의어. 'timid and cowardly(겁 많은)'는 반대 의미이고, 'extremely rapid(아주 빠른)'는 발음이 비슷한 rapid와의 혼동을 노린 함정이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: CIRCUMSPECT",
+      "choices": [
+        "cautious and prudent",
+        "circular in shape",
+        "rash and reckless",
+        "widely traveled",
+        "openly suspicious"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "CIRCUMSPECT: 신중한, 조심스러운. 정답 'cautious and prudent'와 동의어. 'rash and reckless(무모한)'는 반대 의미이고, 'openly suspicious(의심하는)'는 -spect(보다) 어미 때문에 suspect와 헷갈리는 함정이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: EBULLIENT",
+      "choices": [
+        "boiling over with anger",
+        "gloomy and listless",
+        "cheerful and full of enthusiasm",
+        "rounded and bulging",
+        "extremely wealthy"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation_ko": "EBULLIENT: 활기 넘치는, 열정으로 들뜬. 정답 'cheerful and full of enthusiasm'와 동의어. 'boiling over with anger(분노로 끓어오르는)'는 '끓다(ebullire)'라는 어원과 연상되지만 감정의 방향이 다른 함정이고, 'gloomy and listless(침울한)'는 반대 의미다."
     }
   ]
 }

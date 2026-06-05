@@ -15,7 +15,9 @@
         "going beyond what is required or expected",
         "self-righteously moralistic"
       ],
-      "answer": [3],
+      "answer": [
+        3
+      ],
       "explanation_ko": "SUPEREROGATORY: 의무 이상으로 행하는, 요구되는 것을 넘어서는. 정답 'going beyond what is required or expected'와 동의어. 'absolutely indispensable(반드시 필요한)'은 오히려 반대 뉘앙스라 오답이고, 'self-righteously moralistic(독선적인)'은 supercilious와의 혼동을 노린 함정이다."
     },
     {
@@ -30,7 +32,9 @@
         "flowing in a smooth, steady stream",
         "resistant to all change"
       ],
-      "answer": [0],
+      "answer": [
+        0
+      ],
       "explanation_ko": "FISSIPAROUS: 분열하기 쉬운, 파벌로 갈라지는 경향이 있는. 정답 'inclined to split into divisive factions'와 동의어. 'producing abundant offspring(다산하는)'은 -parous 어근만 노린 함정으로, 분열이 아니라 번식을 뜻해 오답이다."
     },
     {
@@ -45,7 +49,9 @@
         "extreme leanness of body",
         "obstinate stubbornness"
       ],
-      "answer": [2],
+      "answer": [
+        2
+      ],
       "explanation_ko": "HEBETUDE: 정신적 둔함, 무기력. 정답 'mental dullness and lethargy'와 동의어. 'a customary or habitual practice(습관)'는 habit과 소리가 비슷해 헷갈리지만 의미가 무관한 오답이고, 'youthful energy and vigor(활기)'는 반대 의미라 오답이다."
     },
     {
@@ -60,7 +66,9 @@
         "a loud and bitter complaint",
         "nearness in place or relationship"
       ],
-      "answer": [4],
+      "answer": [
+        4
+      ],
       "explanation_ko": "PROPINQUITY: 가까움, 근접성(장소·시간·혈연). 정답 'nearness in place or relationship'와 동의어. 'conformity to proper conduct(예절 바름)'는 propriety와의 혼동을 노린 함정이고, 'a natural inclination(성향)'은 propensity와 헷갈리게 만든 오답이다."
     },
     {
@@ -75,7 +83,9 @@
         "frugal and thrifty",
         "vague and confusing"
       ],
-      "answer": [1],
+      "answer": [
+        1
+      ],
       "explanation_ko": "FUGACIOUS: 덧없는, 일시적인(금세 사라지는). 정답 'fleeting and short-lived'와 동의어. 'inclined to flee or escape(달아나려는)'는 fug-(도망) 어근을 노린 함정으로 핵심 뜻은 '오래가지 못함'이라 오답이고, 'enduring and permanent(영속적인)'는 반대 의미라 오답이다."
     },
     {
@@ -90,7 +100,9 @@
         "gradual physical decay",
         "a formal farewell speech"
       ],
-      "answer": [2],
+      "answer": [
+        2
+      ],
       "explanation_ko": "DESUETUDE: 사용되지 않는 상태, 폐용. 정답 'a state of disuse or inactivity'와 동의어. 'habitual, repeated use(습관적 사용)'는 정반대 의미라 오답이고, 'gradual physical decay(점진적 부패)'는 쇠퇴라는 인상만 비슷할 뿐 '안 쓰임'의 뜻이 아니라 오답이다."
     },
     {
@@ -105,7 +117,9 @@
         "dazzlingly bright",
         "dim, resembling twilight"
       ],
-      "answer": [4],
+      "answer": [
+        4
+      ],
       "explanation_ko": "CREPUSCULAR: 황혼의, 어스름한. 정답 'dim, resembling twilight'와 동의어. 'worn out with age(노쇠한)'는 decrepit와 소리가 비슷해 노린 함정으로, 밝기가 아니라 노화를 뜻해 오답이고, 'dazzlingly bright(눈부신)'는 반대 의미라 오답이다."
     },
     {
@@ -120,7 +134,9 @@
         "remote and far away",
         "tediously uniform"
       ],
-      "answer": [1],
+      "answer": [
+        1
+      ],
       "explanation_ko": "FARRAGINOUS: 잡다하게 뒤섞인. 정답 'made up of a jumbled mixture'와 동의어. 'relating to farming(농사의)'은 farm과 소리가 비슷해 노린 함정이고, 'tediously uniform(단조롭게 균일한)'은 반대 의미라 오답이다."
     },
     {
@@ -135,7 +151,9 @@
         "a sudden, uncontrollable impulse",
         "a feeling of deep and lasting regret"
       ],
-      "answer": [1],
+      "answer": [
+        1
+      ],
       "explanation_ko": "VELLEITY: 행동으로 옮기지 않는 약한 소망, 미약한 의욕(의지의 가장 낮은 단계). 정답 'a slight wish unaccompanied by any effort to act'와 동의어. 'a fierce and overpowering desire(강렬한 욕망)'와 'a firm and binding resolution(굳은 결심)'은 의지의 강도가 정반대라 오답이고, 'a sudden, uncontrollable impulse(충동)'는 막연한 바람이 아니라 충동이라 오답이다."
     },
     {
@@ -150,7 +168,9 @@
         "sharp-edged and covered in barbs",
         "repeatedly restated or rebroadcast"
       ],
-      "answer": [1],
+      "answer": [
+        1
+      ],
       "explanation_ko": "REBARBATIVE: 불쾌감을 주는, 혐오스러운, 반감을 사는. 정답 'repellent, causing irritation or aversion'와 동의어. 'soothing and pleasantly agreeable(편안하고 기분 좋은)'는 정반대 의미라 오답이고, 'relating to barbers or shaving(이발의)'는 barber와 소리가 비슷한 점을 노린 함정이며, 'sharp-edged and covered in barbs(가시 돋친)'도 barb 어근만 노린 오답이다."
     },
     {
@@ -165,7 +185,9 @@
         "a sudden burst of inspiration",
         "a state of complete fullness"
       ],
-      "answer": [2],
+      "answer": [
+        2
+      ],
       "explanation_ko": "INANITION: 영양 부족으로 인한 탈진, 공허. 정답 'exhaustion from lack of nourishment'와 동의어. 'silly, foolish behavior(어리석음)'는 inane와 어근이 비슷해 노린 함정이고, 'the act of formally beginning(개시)'은 initiation과의 혼동을 노린 오답이다."
     },
     {
@@ -180,7 +202,9 @@
         "harsh and grating",
         "full and resonant in sound"
       ],
-      "answer": [4],
+      "answer": [
+        4
+      ],
       "explanation_ko": "OROTUND: (목소리가) 낭랑하고 우렁찬, 또는 과장된. 정답 'full and resonant in sound'와 동의어. 'round and plump in figure(둥글고 통통한)'는 rotund와 철자가 비슷해 노린 함정으로, 모양이 아니라 음향을 뜻해 오답이다."
     },
     {
@@ -195,7 +219,9 @@
         "sweet and sugary",
         "persistently annoying"
       ],
-      "answer": [1],
+      "answer": [
+        1
+      ],
       "explanation_ko": "NUGATORY: 하찮은, 무가치한, 무효의. 정답 'trifling; of no real value'와 동의어. 'persistently annoying(성가신)'은 nag와 소리가 비슷해 노린 함정이고, 'newly formed and emerging(갓 생겨난)'은 nascent와의 혼동을 노린 오답이다."
     },
     {
@@ -210,7 +236,9 @@
         "a renewed outbreak of something",
         "the enlistment of new members"
       ],
-      "answer": [3],
+      "answer": [
+        3
+      ],
       "explanation_ko": "RECRUDESCENCE: (특히 나쁜 것의) 재발, 재연. 정답 'a renewed outbreak of something'와 동의어. 'extreme rawness or crudeness(날것의 거칢)'는 crud-(raw) 어근만 노린 함정이고, 'the enlistment of new members(신규 모집)'은 recruit와의 혼동을 노린 오답이다."
     },
     {
@@ -225,7 +253,9 @@
         "idle daydreaming",
         "a slippery, lubricating substance"
       ],
-      "answer": [0],
+      "answer": [
+        0
+      ],
       "explanation_ko": "LUCUBRATION: (특히 밤늦게까지 하는) 고된 학습이나 저술. 정답 'laborious study or writing, especially at night'와 동의어. 'a clear and lucid explanation(명료한 설명)'은 luc-(빛·명료) 어근만 노린 함정이고, 'idle daydreaming(한가한 공상)'은 '힘든 노력'과 정반대라 오답이다."
     },
     {
@@ -240,7 +270,9 @@
         "in the act of departing",
         "abundant and lavish"
       ],
-      "answer": [2],
+      "answer": [
+        2
+      ],
       "explanation_ko": "EXIGUOUS: 빈약한, 아주 적은. 정답 'scanty and meager'와 동의어. 'urgently demanding(긴급히 요구되는)'은 exigent와 철자가 비슷해 노린 함정으로, 양이 아니라 긴급함을 뜻해 오답이고, 'abundant and lavish(풍부한)'는 반대 의미라 오답이다."
     },
     {
@@ -255,7 +287,9 @@
         "to mend or patch up",
         "to talk or wander in a rambling, aimless way"
       ],
-      "answer": [4],
+      "answer": [
+        4
+      ],
       "explanation_ko": "MAUNDER: 두서없이 지껄이다, 정처 없이 어슬렁거리다. 정답 'to talk or wander in a rambling, aimless way'와 동의어. 'to roam in search of plunder(약탈하며 돌아다니다)'는 marauder와 소리가 비슷해 노린 함정이지만 약탈의 뜻은 없어 오답이다."
     },
     {
@@ -270,7 +304,9 @@
         "to hold back or suppress",
         "to be stubborn and inflexible"
       ],
-      "answer": [1],
+      "answer": [
+        1
+      ],
       "explanation_ko": "SUBORN: (위증 등) 부정을 저지르도록 사주하다, 매수하다. 정답 'to induce someone to commit perjury'와 동의어. 'to rank or place in a lower position(아래에 두다)'은 subordinate와의 혼동을 노린 함정으로 사주의 뜻이 없어 오답이다."
     },
     {
@@ -285,7 +321,9 @@
         "relating to the sea",
         "carefully measured and exact"
       ],
-      "answer": [1],
+      "answer": [
+        1
+      ],
       "explanation_ko": "MERETRICIOUS: 겉만 번지르르하고 실속 없는, 천박하게 꾸민. 정답 'showily attractive but cheap and insincere'와 동의어. 'highly deserving of reward(상받을 만한)'는 철자가 비슷한 meritorious의 뜻으로 의미가 정반대에 가까워 오답이고, 'genuinely valuable and worthy(진정 가치 있는)'도 반대 의미라 오답이다."
     },
     {
@@ -300,8 +338,129 @@
         "a fervent public prayer",
         "a sharp rebuke"
       ],
-      "answer": [1],
+      "answer": [
+        1
+      ],
       "explanation_ko": "PERORATION: 연설의 결론부, 맺음말. 정답 'the concluding part of a speech'와 동의어. 'the opening of a speech(연설의 서두)'는 위치가 정반대라 오답이고, 'a fervent public prayer(간절한 기도)'는 oration/orison과의 소리 혼동을 노린 함정이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: OBJURGATE",
+      "choices": [
+        "to scold or rebuke harshly",
+        "to abandon or renounce formally",
+        "to soothe and pacify",
+        "to praise extravagantly",
+        "to obstruct or block"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "OBJURGATE: 호되게 꾸짖다, 질책하다. 정답 'to scold or rebuke harshly'와 동의어. 'to abandon or renounce formally'는 발음이 비슷한 abjure(포기하다)와의 혼동을 노린 함정이고, 'to praise extravagantly(극찬하다)'는 정반대라 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: SCIOLISM",
+      "choices": [
+        "a superficial pretense of knowledge",
+        "profound and genuine erudition",
+        "an inflammation of the joints",
+        "the study of social hierarchies",
+        "a tendency toward isolation"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "SCIOLISM: 어설픈 지식, 수박 겉핥기식 지식 행세. 정답 'a superficial pretense of knowledge'와 동의어. 'profound and genuine erudition(깊고 진정한 박식)'은 정반대라 오답이고, 'an inflammation of the joints'는 무관한 의학 용어를 끼워 넣은 함정이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: CACHINNATE",
+      "choices": [
+        "to laugh loudly and convulsively",
+        "to hoard or store away secretly",
+        "to whisper conspiratorially",
+        "to scold relentlessly",
+        "to stutter and stammer"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "CACHINNATE: 크게 깔깔 웃다, 너털웃음을 짓다. 정답 'to laugh loudly and convulsively'와 동의어. 'to hoard or store away secretly'는 철자가 비슷한 cache(저장하다)와의 혼동을 노린 함정이고, 'to whisper conspiratorially(속삭이다)'는 큰 웃음과 반대 뉘앙스라 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: EPIGONE",
+      "choices": [
+        "an undistinguished imitator of a predecessor",
+        "a concise and witty saying",
+        "an inscription upon a tomb",
+        "a founding pioneer of a movement",
+        "a restless wandering nomad"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "EPIGONE: (선구자를 모방하는) 평범한 추종자, 아류. 정답 'an undistinguished imitator of a predecessor'와 동의어. 'a concise and witty saying'은 epigram(경구)과의 발음 혼동을 노린 함정이고, 'a founding pioneer of a movement(창시자)'는 모방자와 반대라 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: SUSURRUS",
+      "choices": [
+        "a soft murmuring or whispering",
+        "a sudden loud outburst",
+        "a nagging feeling of suspicion",
+        "a rhythmic swaying motion",
+        "a state of suspended judgment"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "SUSURRUS: 속삭임, 나직이 웅성거리는 소리. 정답 'a soft murmuring or whispering'와 동의어. 'a sudden loud outburst(갑작스러운 큰 소리)'는 정반대라 오답이고, 'a nagging feeling of suspicion'은 'sus-' 철자만 보고 suspicion과 엮으려는 함정이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: INSPISSATE",
+      "choices": [
+        "to thicken or condense",
+        "to dilute with water",
+        "to inspire or motivate",
+        "to inspect closely",
+        "to insert forcibly"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "INSPISSATE: (액체를) 걸쭉하게 하다, 농축하다. 정답 'to thicken or condense'와 동의어. 'to dilute with water(묽게 하다)'는 정반대라 오답이고, 'to inspire or motivate'는 inspire와의 발음 혼동을 노린 함정이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: ESURIENT",
+      "choices": [
+        "hungry and greedy",
+        "fully satisfied and sated",
+        "smoothly persuasive",
+        "shining with reflected light",
+        "easily exhausted"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "ESURIENT: 굶주린, 탐욕스러운. 정답 'hungry and greedy'와 동의어. 'fully satisfied and sated(배부른)'는 정반대라 오답이고, 'smoothly persuasive'는 무관한 뜻을 끼워 넣은 함정이다."
     }
   ]
 }

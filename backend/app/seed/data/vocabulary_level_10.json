@@ -8,26 +8,33 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: POCOCURANTE",
-      "choices": ["meticulously attentive", "carefree and indifferent", "deeply pious", "violently quarrelsome", "exceedingly frugal"],
-      "answer": [1],
+      "choices": [
+        "meticulously attentive",
+        "carefree and indifferent",
+        "deeply pious",
+        "violently quarrelsome",
+        "exceedingly frugal"
+      ],
+      "answer": [
+        1
+      ],
       "explanation_ko": "POCOCURANTE: 무관심한, 대수롭지 않게 여기는. 정답 'carefree and indifferent'와 동의어. 'meticulously attentive(꼼꼼히 신경 쓰는)'는 정반대 의미라 가장 헷갈리는 오답이다."
     },
     {
       "question_type": "single",
       "select_count": 1,
       "passage": null,
-      "question_text": "Select the word or phrase most nearly equivalent in meaning to: REBARBATIVE",
-      "choices": ["soothingly attractive", "causing aversion or repellent", "barely audible", "endlessly repetitive", "richly ornamented"],
-      "answer": [1],
-      "explanation_ko": "REBARBATIVE: 불쾌감을 주는, 혐오스러운. 정답 'causing aversion or repellent'와 동의어. 'endlessly repetitive(반복적인)'는 어근 'barb/re-'를 보고 반복을 떠올리게 하는 함정이지만 의미가 무관한 오답이다."
-    },
-    {
-      "question_type": "single",
-      "select_count": 1,
-      "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: ELEEMOSYNARY",
-      "choices": ["relating to charity or alms", "concerning the sense of smell", "pertaining to old age", "based on faulty memory", "marked by secrecy"],
-      "answer": [0],
+      "choices": [
+        "relating to charity or alms",
+        "concerning the sense of smell",
+        "pertaining to old age",
+        "based on faulty memory",
+        "marked by secrecy"
+      ],
+      "answer": [
+        0
+      ],
       "explanation_ko": "ELEEMOSYNARY: 자선의, 구호금에 관한. 정답 'relating to charity or alms'와 동의어. 'concerning the sense of smell(후각의)'은 비슷한 라틴어풍 어감 때문에 헷갈리지만 의미가 전혀 다른 오답이다."
     },
     {
@@ -35,8 +42,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: DELIQUESCE",
-      "choices": ["to harden into crystal", "to melt away or dissolve", "to flare up brightly", "to grow silent", "to thicken gradually"],
-      "answer": [1],
+      "choices": [
+        "to harden into crystal",
+        "to melt away or dissolve",
+        "to flare up brightly",
+        "to grow silent",
+        "to thicken gradually"
+      ],
+      "answer": [
+        1
+      ],
       "explanation_ko": "DELIQUESCE: 녹아 없어지다, 액화되다. 정답 'to melt away or dissolve'와 동의어. 'to harden into crystal(결정으로 굳다)'은 정반대 과정이라 가장 헷갈리는 오답이다."
     },
     {
@@ -44,8 +59,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: SESQUIPEDALIAN",
-      "choices": ["walking with a limp", "given to long ponderous words", "occurring every other year", "having six sides", "easily broken"],
-      "answer": [1],
+      "choices": [
+        "walking with a limp",
+        "given to long ponderous words",
+        "occurring every other year",
+        "having six sides",
+        "easily broken"
+      ],
+      "answer": [
+        1
+      ],
       "explanation_ko": "SESQUIPEDALIAN: (단어가) 길고 거창한, 다음절의. 정답 'given to long ponderous words'와 동의어. 'occurring every other year(격년의)'는 접두사 'sesqui-'를 보고 주기를 떠올리게 하는 함정이지만 오답이다."
     },
     {
@@ -53,8 +76,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: MUNDIFY",
-      "choices": ["to make worldly", "to cleanse or purify", "to render commonplace", "to set in order", "to multiply rapidly"],
-      "answer": [1],
+      "choices": [
+        "to make worldly",
+        "to cleanse or purify",
+        "to render commonplace",
+        "to set in order",
+        "to multiply rapidly"
+      ],
+      "answer": [
+        1
+      ],
       "explanation_ko": "MUNDIFY: 깨끗이 하다, 정화하다. 정답 'to cleanse or purify'와 동의어. 'to make worldly(세속적으로 만들다)'는 'mundane(세속의)'을 연상시키는 함정이지만 어원이 달라 오답이다."
     },
     {
@@ -62,26 +93,33 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: GASCONADE",
-      "choices": ["a sudden ambush", "extravagant boasting", "a winding passageway", "a bitter medicine", "a festive procession"],
-      "answer": [1],
+      "choices": [
+        "a sudden ambush",
+        "extravagant boasting",
+        "a winding passageway",
+        "a bitter medicine",
+        "a festive procession"
+      ],
+      "answer": [
+        1
+      ],
       "explanation_ko": "GASCONADE: 허풍, 호언장담. 정답 'extravagant boasting'와 동의어. 'a sudden ambush(매복)'는 군사적 어감 때문에 헷갈리지만 의미가 무관한 오답이다."
     },
     {
       "question_type": "single",
       "select_count": 1,
       "passage": null,
-      "question_text": "Select the word or phrase most nearly equivalent in meaning to: VELLEITY",
-      "choices": ["a faint, ineffectual wish", "swift physical speed", "a thin protective covering", "stubborn determination", "smoothness of texture"],
-      "answer": [0],
-      "explanation_ko": "VELLEITY: 막연한 소망, 실행 의지가 약한 바람. 정답 'a faint, ineffectual wish'와 동의어. 'stubborn determination(완강한 결의)'은 의지의 강도가 정반대라 가장 헷갈리는 오답이다."
-    },
-    {
-      "question_type": "single",
-      "select_count": 1,
-      "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: CRAPULOUS",
-      "choices": ["sick from excessive indulgence", "extremely vulgar", "given to flattery", "covered in scales", "marked by sudden anger"],
-      "answer": [0],
+      "choices": [
+        "sick from excessive indulgence",
+        "extremely vulgar",
+        "given to flattery",
+        "covered in scales",
+        "marked by sudden anger"
+      ],
+      "answer": [
+        0
+      ],
       "explanation_ko": "CRAPULOUS: 폭음·폭식으로 탈이 난, 과음한. 정답 'sick from excessive indulgence'와 동의어. 'extremely vulgar(매우 저속한)'는 발음의 부정적 어감 때문에 헷갈리지만 의미가 다른 오답이다."
     },
     {
@@ -89,8 +127,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: TERGIVERSATE",
-      "choices": ["to equivocate or repeatedly change one's stance", "to flee headlong from physical danger", "to condense a long text", "to multiply or spread rapidly", "to haggle over a price"],
-      "answer": [0],
+      "choices": [
+        "to equivocate or repeatedly change one's stance",
+        "to flee headlong from physical danger",
+        "to condense a long text",
+        "to multiply or spread rapidly",
+        "to haggle over a price"
+      ],
+      "answer": [
+        0
+      ],
       "explanation_ko": "TERGIVERSATE: 말을 이랬다저랬다 바꾸다, 입장을 번복하며 얼버무리다. 정답 'to equivocate or repeatedly change one's stance'와 동의어. 'to flee headlong from physical danger(황급히 달아나다)'는 어원(terga=등, 등을 돌리다)을 떠올리게 하는 함정이지만 영어에서의 핵심 의미가 다른 오답이다."
     },
     {
@@ -98,8 +144,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: OPPUGN",
-      "choices": ["to call into question or oppose", "to clean thoroughly", "to weigh carefully", "to make peace with", "to flatter excessively"],
-      "answer": [0],
+      "choices": [
+        "to call into question or oppose",
+        "to clean thoroughly",
+        "to weigh carefully",
+        "to make peace with",
+        "to flatter excessively"
+      ],
+      "answer": [
+        0
+      ],
       "explanation_ko": "OPPUGN: 반박하다, 이의를 제기하다. 정답 'to call into question or oppose'와 동의어. 'to make peace with(화해하다)'는 정반대 의미라 가장 헷갈리는 오답이다."
     },
     {
@@ -107,8 +161,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: FULIGINOUS",
-      "choices": ["sooty or murky dark", "overly talkative", "richly fertile", "easily ignited", "swollen with pride"],
-      "answer": [0],
+      "choices": [
+        "sooty or murky dark",
+        "overly talkative",
+        "richly fertile",
+        "easily ignited",
+        "swollen with pride"
+      ],
+      "answer": [
+        0
+      ],
       "explanation_ko": "FULIGINOUS: 그을음 같은, 거무칙칙한. 정답 'sooty or murky dark'와 동의어. 'easily ignited(쉽게 불붙는)'는 연기·불의 이미지로 연상되는 함정이지만 의미가 다른 오답이다."
     },
     {
@@ -116,8 +178,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: ULTRACREPIDARIAN",
-      "choices": ["giving opinions beyond one's knowledge", "excessively cautious", "fond of ancient relics", "intolerant of dissent", "prone to wandering"],
-      "answer": [0],
+      "choices": [
+        "giving opinions beyond one's knowledge",
+        "excessively cautious",
+        "fond of ancient relics",
+        "intolerant of dissent",
+        "prone to wandering"
+      ],
+      "answer": [
+        0
+      ],
       "explanation_ko": "ULTRACREPIDARIAN: 자기 분야 밖의 일에 함부로 훈수하는. 정답 'giving opinions beyond one's knowledge'와 동의어. 'intolerant of dissent(반대를 못 견디는)'는 독선적이라는 어감이 겹쳐 헷갈리지만 핵심 의미가 다른 오답이다."
     },
     {
@@ -125,8 +195,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: OBNUBILATE",
-      "choices": ["to make clear", "to darken or obscure", "to wear away", "to bind tightly", "to praise lavishly"],
-      "answer": [1],
+      "choices": [
+        "to make clear",
+        "to darken or obscure",
+        "to wear away",
+        "to bind tightly",
+        "to praise lavishly"
+      ],
+      "answer": [
+        1
+      ],
       "explanation_ko": "OBNUBILATE: 흐리게 하다, 모호하게 만들다. 정답 'to darken or obscure'와 동의어. 'to make clear(분명히 하다)'는 정반대 의미라 가장 헷갈리는 오답이다."
     },
     {
@@ -134,8 +212,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: LONGANIMITY",
-      "choices": ["forbearing patience under provocation", "longevity of life", "extreme generosity", "boundless ambition", "deep sorrow"],
-      "answer": [0],
+      "choices": [
+        "forbearing patience under provocation",
+        "longevity of life",
+        "extreme generosity",
+        "boundless ambition",
+        "deep sorrow"
+      ],
+      "answer": [
+        0
+      ],
       "explanation_ko": "LONGANIMITY: 오래 참음, 인내심. 정답 'forbearing patience under provocation'와 동의어. 'longevity of life(장수)'는 'long-'을 보고 수명을 떠올리게 하는 함정이지만 의미가 다른 오답이다."
     },
     {
@@ -143,8 +229,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: DEHISCENT",
-      "choices": ["bursting open at maturity", "fading in color", "lacking moisture", "given to deceit", "tightly sealed shut"],
-      "answer": [0],
+      "choices": [
+        "bursting open at maturity",
+        "fading in color",
+        "lacking moisture",
+        "given to deceit",
+        "tightly sealed shut"
+      ],
+      "answer": [
+        0
+      ],
       "explanation_ko": "DEHISCENT: (꼬투리·열매가) 익어 터지는, 갈라져 열리는. 정답 'bursting open at maturity'와 동의어. 'tightly sealed shut(꽉 봉해진)'은 정반대 상태라 가장 헷갈리는 오답이다."
     },
     {
@@ -152,8 +246,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: MEPHITIC",
-      "choices": ["foul-smelling and noxious", "faintly luminous", "exceedingly tiny", "relating to medicine", "swift and fleeting"],
-      "answer": [0],
+      "choices": [
+        "foul-smelling and noxious",
+        "faintly luminous",
+        "exceedingly tiny",
+        "relating to medicine",
+        "swift and fleeting"
+      ],
+      "answer": [
+        0
+      ],
       "explanation_ko": "MEPHITIC: 악취가 나는, 유독한. 정답 'foul-smelling and noxious'와 동의어. 'relating to medicine(의학의)'은 'medic-'과 철자가 비슷해 보이는 함정이지만 의미가 무관한 오답이다."
     },
     {
@@ -161,8 +263,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: APODICTIC",
-      "choices": ["clearly demonstrable beyond dispute", "openly apologetic", "physically detached", "free of decoration", "tending to wander off topic"],
-      "answer": [0],
+      "choices": [
+        "clearly demonstrable beyond dispute",
+        "openly apologetic",
+        "physically detached",
+        "free of decoration",
+        "tending to wander off topic"
+      ],
+      "answer": [
+        0
+      ],
       "explanation_ko": "APODICTIC: 명백히 증명되는, 반박 불가능한. 정답 'clearly demonstrable beyond dispute'와 동의어. 'openly apologetic(사과조의)'은 'apo-' 철자 때문에 'apologetic'과 헷갈리게 하는 함정이지만 오답이다."
     },
     {
@@ -170,8 +280,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: THRASONICAL",
-      "choices": ["bragging or boastful", "harshly grating in sound", "given to violent threats", "stingy with money", "sluggish and dull"],
-      "answer": [0],
+      "choices": [
+        "bragging or boastful",
+        "harshly grating in sound",
+        "given to violent threats",
+        "stingy with money",
+        "sluggish and dull"
+      ],
+      "answer": [
+        0
+      ],
       "explanation_ko": "THRASONICAL: 자랑이 심한, 허풍 떠는. 정답 'bragging or boastful'와 동의어. 'harshly grating in sound(귀에 거슬리는)'은 'thrash/sonic' 같은 소리 연상 때문에 헷갈리지만 의미가 다른 오답이다."
     },
     {
@@ -179,9 +297,170 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: NESCIENCE",
-      "choices": ["lack of knowledge or ignorance", "rebirth or renewal", "innate wisdom", "the study of nature", "a state of unconsciousness"],
-      "answer": [0],
+      "choices": [
+        "lack of knowledge or ignorance",
+        "rebirth or renewal",
+        "innate wisdom",
+        "the study of nature",
+        "a state of unconsciousness"
+      ],
+      "answer": [
+        0
+      ],
       "explanation_ko": "NESCIENCE: 무지, 알지 못함. 정답 'lack of knowledge or ignorance'와 동의어. 'the study of nature(자연 연구)'는 'science'와 철자가 겹쳐 보이는 함정이지만 의미가 정반대에 가까운 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: POLTROON",
+      "choices": [
+        "an abject coward",
+        "a fearless champion",
+        "a petty swindler",
+        "a pompous braggart",
+        "a wandering vagrant"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "POLTROON: 비겁한 겁쟁이. 정답 'an abject coward'와 동의어. 'a fearless champion(용맹한 투사)'은 정반대 의미라 가장 헷갈리는 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: MARCESCENT",
+      "choices": [
+        "withering but persisting on the stem",
+        "blossoming abundantly",
+        "marching in tight formation",
+        "marble-like in hardness",
+        "dropping off cleanly when ripe"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "MARCESCENT: 시들어도 떨어지지 않고 붙어 있는. 정답 'withering but persisting on the stem'와 동의어. 'dropping off cleanly when ripe(익으면 깨끗이 떨어지는)'은 시든 잎이 떨어진다는 인상 때문에 헷갈리지만 붙어 있다는 핵심과 정반대인 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: ABSQUATULATE",
+      "choices": [
+        "to depart hastily and stealthily",
+        "to settle down permanently",
+        "to crouch low to the ground",
+        "to absolve of all blame",
+        "to argue at great length"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "ABSQUATULATE: 황급히(슬그머니) 떠나다, 줄행랑치다. 정답 'to depart hastily and stealthily'와 동의어. 'to crouch low to the ground(웅크리다)'는 'squat'을 떠올리게 하는 함정이지만 의미가 다른 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: MUMPSIMUS",
+      "choices": [
+        "stubborn clinging to a mistaken notion",
+        "a contagious childhood illness",
+        "a muttered complaint",
+        "a clever riddle",
+        "a humble apology"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "MUMPSIMUS: 틀렸음이 밝혀졌는데도 고집하는 잘못된 관습(또는 그런 사람). 정답 'stubborn clinging to a mistaken notion'와 동의어. 'a contagious childhood illness(전염성 소아 질환)'는 'mumps(볼거리)'를 연상시키는 함정이지만 의미가 무관한 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: DIVAGATE",
+      "choices": [
+        "to wander off or digress",
+        "to dive beneath the surface",
+        "to divide into parts",
+        "to remain strictly on point",
+        "to vacillate between choices"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "DIVAGATE: (주제에서) 벗어나 헤매다, 여담하다. 정답 'to wander off or digress'와 동의어. 'to remain strictly on point(주제를 벗어나지 않다)'은 정반대 의미라 가장 헷갈리는 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: RECRUDESCE",
+      "choices": [
+        "to break out anew after dormancy",
+        "to heal completely",
+        "to grow coarse and crude",
+        "to recede gradually",
+        "to harden into a crust"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "RECRUDESCE: (질병·분쟁 등이) 잠잠하다가 다시 도지다(재발하다). 정답 'to break out anew after dormancy'와 동의어. 'to heal completely(완전히 낫다)'는 정반대 의미라 가장 헷갈리는 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: PERFERVID",
+      "choices": [
+        "intensely ardent or impassioned",
+        "coldly indifferent",
+        "thoroughly drenched",
+        "openly deceitful",
+        "perfectly transparent"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "PERFERVID: 매우 열렬한, 격정적인. 정답 'intensely ardent or impassioned'와 동의어. 'coldly indifferent(냉담한)'는 정반대 의미라 가장 헷갈리는 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: SUDORIFIC",
+      "choices": [
+        "causing perspiration",
+        "inducing sleep",
+        "relating to the south",
+        "producing a sour taste",
+        "suppressing appetite"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "SUDORIFIC: 땀을 나게 하는, 발한 작용의. 정답 'causing perspiration'와 동의어. 'inducing sleep(잠을 유도하는)'은 발음이 비슷한 'soporific'을 연상시키는 함정이지만 의미가 다른 오답이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: MALEDICENT",
+      "choices": [
+        "given to abusive, slanderous speech",
+        "lavish in flattery",
+        "skilled in healing the sick",
+        "prone to idle laziness",
+        "marked by stony silence"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "MALEDICENT: 욕설·비방을 일삼는, 험담하는. 정답 'given to abusive, slanderous speech'와 동의어. 'lavish in flattery(아첨을 늘어놓는)'는 정반대 어조라 가장 헷갈리는 오답이다."
     }
   ]
 }

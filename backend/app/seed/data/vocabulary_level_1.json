@@ -8,8 +8,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: BRIEF",
-      "choices": ["short", "frequent", "complicated", "ancient", "loud"],
-      "answer": [0],
+      "choices": [
+        "short",
+        "frequent",
+        "complicated",
+        "ancient",
+        "loud"
+      ],
+      "answer": [
+        0
+      ],
       "explanation_ko": "BRIEF: 짧은, 간결한. 정답 'short(짧은)'와 동의어입니다. 'frequent(잦은)'은 시간의 길이가 아니라 빈도를 가리키므로 헷갈리기 쉬운 무관한 오답이고, 'ancient(고대의)'는 의미가 전혀 다릅니다."
     },
     {
@@ -17,8 +25,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: CANDID",
-      "choices": ["secretive", "frank", "fearful", "wealthy", "talkative"],
-      "answer": [1],
+      "choices": [
+        "secretive",
+        "frank",
+        "fearful",
+        "wealthy",
+        "talkative"
+      ],
+      "answer": [
+        1
+      ],
       "explanation_ko": "CANDID: 솔직한, 숨김없는. 정답 'frank(솔직한)'와 동의어입니다. 'talkative(수다스러운)'는 말을 많이 하는 것이지 솔직함과는 다르므로 헷갈리는 오답이고, 'secretive(비밀스러운)'는 정반대 의미입니다."
     },
     {
@@ -26,8 +42,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: HOSTILE",
-      "choices": ["antagonistic", "friendly", "curious", "generous", "weary"],
-      "answer": [0],
+      "choices": [
+        "antagonistic",
+        "friendly",
+        "curious",
+        "generous",
+        "weary"
+      ],
+      "answer": [
+        0
+      ],
       "explanation_ko": "HOSTILE: 적대적인. 정답 'antagonistic(적대적인)'와 동의어입니다. 'friendly(우호적인)'는 정반대 의미라 가장 헷갈리는 오답이며, 'curious(호기심 많은)'는 의미가 무관합니다."
     },
     {
@@ -35,8 +59,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: PRAISE",
-      "choices": ["criticize", "commend", "ignore", "punish", "question"],
-      "answer": [1],
+      "choices": [
+        "criticize",
+        "commend",
+        "ignore",
+        "punish",
+        "question"
+      ],
+      "answer": [
+        1
+      ],
       "explanation_ko": "PRAISE: 칭찬하다. 정답 'commend(칭찬하다, 추천하다)'와 동의어입니다. 'criticize(비판하다)'는 정반대 의미라 가장 헷갈리는 오답이고, 'ignore(무시하다)'는 무관한 오답입니다."
     },
     {
@@ -44,8 +76,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: RELUCTANT",
-      "choices": ["eager", "unwilling", "confused", "exhausted", "honest"],
-      "answer": [1],
+      "choices": [
+        "eager",
+        "unwilling",
+        "confused",
+        "exhausted",
+        "honest"
+      ],
+      "answer": [
+        1
+      ],
       "explanation_ko": "RELUCTANT: 꺼리는, 마지못한. 정답 'unwilling(내키지 않는)'와 동의어입니다. 'eager(열망하는)'는 정반대 의미라 가장 헷갈리는 오답이며, 'exhausted(지친)'는 의미가 무관합니다."
     },
     {
@@ -53,8 +93,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: ABUNDANT",
-      "choices": ["scarce", "plentiful", "expensive", "fragile", "ancient"],
-      "answer": [1],
+      "choices": [
+        "scarce",
+        "plentiful",
+        "expensive",
+        "fragile",
+        "ancient"
+      ],
+      "answer": [
+        1
+      ],
       "explanation_ko": "ABUNDANT: 풍부한, 많은. 정답 'plentiful(풍부한)'와 동의어입니다. 'scarce(부족한)'는 정반대 의미라 가장 헷갈리는 오답이고, 'expensive(비싼)'는 양이 아닌 가격을 가리키는 무관한 오답입니다."
     },
     {
@@ -62,8 +110,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: FRAGILE",
-      "choices": ["sturdy", "delicate", "flexible", "transparent", "heavy"],
-      "answer": [1],
+      "choices": [
+        "sturdy",
+        "delicate",
+        "flexible",
+        "transparent",
+        "heavy"
+      ],
+      "answer": [
+        1
+      ],
       "explanation_ko": "FRAGILE: 깨지기 쉬운, 연약한. 정답 'delicate(연약한, 부서지기 쉬운)'와 동의어입니다. 'flexible(유연한)'은 잘 휘어지는 성질이라 헷갈릴 수 있지만 깨지기 쉬움과는 다른 무관한 오답이고, 'sturdy(튼튼한)'는 정반대 의미입니다."
     },
     {
@@ -71,8 +127,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: WEARY",
-      "choices": ["tired", "angry", "alert", "joyful", "hungry"],
-      "answer": [0],
+      "choices": [
+        "tired",
+        "angry",
+        "alert",
+        "joyful",
+        "hungry"
+      ],
+      "answer": [
+        0
+      ],
       "explanation_ko": "WEARY: 지친, 피곤한. 정답 'tired(피곤한)'와 동의어입니다. 'alert(기민한, 정신이 또렷한)'는 정반대 의미라 가장 헷갈리는 오답이고, 'angry(화난)'는 무관한 감정 상태입니다."
     },
     {
@@ -80,8 +144,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: VACANT",
-      "choices": ["crowded", "empty", "dirty", "modern", "noisy"],
-      "answer": [1],
+      "choices": [
+        "crowded",
+        "empty",
+        "dirty",
+        "modern",
+        "noisy"
+      ],
+      "answer": [
+        1
+      ],
       "explanation_ko": "VACANT: 비어 있는, 빈. 정답 'empty(텅 빈)'와 동의어입니다. 'crowded(붐비는)'는 정반대 의미라 가장 헷갈리는 오답이고, 'dirty(더러운)'는 비어 있음과 무관합니다."
     },
     {
@@ -89,8 +161,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: GENUINE",
-      "choices": ["fake", "authentic", "expensive", "fragile", "common"],
-      "answer": [1],
+      "choices": [
+        "fake",
+        "authentic",
+        "expensive",
+        "fragile",
+        "common"
+      ],
+      "answer": [
+        1
+      ],
       "explanation_ko": "GENUINE: 진짜의, 진실한. 정답 'authentic(진짜의, 진품의)'와 동의어입니다. 'fake(가짜의)'는 정반대 의미라 가장 헷갈리는 오답이고, 'expensive(비싼)'는 진짜라고 해서 항상 비싼 것은 아니므로 무관한 오답입니다."
     },
     {
@@ -98,8 +178,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: RAPID",
-      "choices": ["swift", "steady", "loud", "frequent", "gradual"],
-      "answer": [0],
+      "choices": [
+        "swift",
+        "steady",
+        "loud",
+        "frequent",
+        "gradual"
+      ],
+      "answer": [
+        0
+      ],
       "explanation_ko": "RAPID: 빠른. 정답 'swift(신속한)'와 동의어입니다. 'gradual(점진적인, 느린)'은 정반대 의미라 가장 헷갈리는 오답이고, 'frequent(잦은)'은 속도가 아니라 빈도를 뜻하는 무관한 오답입니다."
     },
     {
@@ -107,8 +195,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: COURTEOUS",
-      "choices": ["rude", "polite", "brave", "wealthy", "clever"],
-      "answer": [1],
+      "choices": [
+        "rude",
+        "polite",
+        "brave",
+        "wealthy",
+        "clever"
+      ],
+      "answer": [
+        1
+      ],
       "explanation_ko": "COURTEOUS: 예의 바른, 정중한. 정답 'polite(공손한)'와 동의어입니다. 'rude(무례한)'는 정반대 의미라 가장 헷갈리는 오답이고, 'clever(영리한)'는 태도가 아닌 지능을 가리키는 무관한 오답입니다."
     },
     {
@@ -116,8 +212,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: SCARCE",
-      "choices": ["plentiful", "rare", "valuable", "hidden", "fresh"],
-      "answer": [1],
+      "choices": [
+        "plentiful",
+        "rare",
+        "valuable",
+        "hidden",
+        "fresh"
+      ],
+      "answer": [
+        1
+      ],
       "explanation_ko": "SCARCE: 부족한, 드문. 정답 'rare(드문)'와 동의어입니다. 'valuable(귀중한)'은 부족한 것이 비싸질 수는 있어도 의미 자체는 다르므로 헷갈리는 오답이고, 'plentiful(풍부한)'은 정반대 의미입니다."
     },
     {
@@ -125,8 +229,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: TIMID",
-      "choices": ["bold", "shy", "honest", "lazy", "cruel"],
-      "answer": [1],
+      "choices": [
+        "bold",
+        "shy",
+        "honest",
+        "lazy",
+        "cruel"
+      ],
+      "answer": [
+        1
+      ],
       "explanation_ko": "TIMID: 소심한, 수줍은. 정답 'shy(수줍은)'와 동의어입니다. 'bold(대담한)'는 정반대 의미라 가장 헷갈리는 오답이고, 'lazy(게으른)'는 성격의 다른 측면이라 무관합니다."
     },
     {
@@ -134,8 +246,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: ARROGANT",
-      "choices": ["humble", "haughty", "generous", "anxious", "honest"],
-      "answer": [1],
+      "choices": [
+        "humble",
+        "haughty",
+        "generous",
+        "anxious",
+        "honest"
+      ],
+      "answer": [
+        1
+      ],
       "explanation_ko": "ARROGANT: 오만한, 거만한. 정답 'haughty(거만한)'와 동의어입니다. 'humble(겸손한)'은 정반대 의미라 가장 헷갈리는 오답이고, 'anxious(불안한)'는 무관한 감정 상태입니다."
     },
     {
@@ -143,8 +263,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: DARING",
-      "choices": ["bold", "cautious", "polite", "weary", "honest"],
-      "answer": [0],
+      "choices": [
+        "bold",
+        "cautious",
+        "polite",
+        "weary",
+        "honest"
+      ],
+      "answer": [
+        0
+      ],
       "explanation_ko": "DARING: 대담한, 용감한. 정답 'bold(대담한)'와 동의어입니다. 'cautious(조심스러운)'는 정반대 의미라 가장 헷갈리는 오답이고, 'polite(공손한)'는 용기와 무관한 태도입니다."
     },
     {
@@ -152,8 +280,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: CALM",
-      "choices": ["frantic", "tranquil", "cheerful", "rigid", "vacant"],
-      "answer": [1],
+      "choices": [
+        "frantic",
+        "tranquil",
+        "cheerful",
+        "rigid",
+        "vacant"
+      ],
+      "answer": [
+        1
+      ],
       "explanation_ko": "CALM: 차분한, 고요한. 정답 'tranquil(평온한)'와 동의어입니다. 'frantic(정신없이 분주한)'은 정반대 의미라 가장 헷갈리는 오답이고, 'cheerful(쾌활한)'은 기분의 다른 측면이라 무관합니다."
     },
     {
@@ -161,8 +297,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: HUMBLE",
-      "choices": ["arrogant", "modest", "wealthy", "clever", "hostile"],
-      "answer": [1],
+      "choices": [
+        "arrogant",
+        "modest",
+        "wealthy",
+        "clever",
+        "hostile"
+      ],
+      "answer": [
+        1
+      ],
       "explanation_ko": "HUMBLE: 겸손한. 정답 'modest(겸손한)'와 동의어입니다. 'arrogant(오만한)'는 정반대 의미라 가장 헷갈리는 오답이고, 'wealthy(부유한)'는 태도가 아닌 재산을 가리키는 무관한 오답입니다."
     },
     {
@@ -170,8 +314,16 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: ENORMOUS",
-      "choices": ["tiny", "huge", "heavy", "ancient", "rare"],
-      "answer": [1],
+      "choices": [
+        "tiny",
+        "huge",
+        "heavy",
+        "ancient",
+        "rare"
+      ],
+      "answer": [
+        1
+      ],
       "explanation_ko": "ENORMOUS: 거대한, 막대한. 정답 'huge(거대한)'와 동의어입니다. 'heavy(무거운)'는 크기가 아니라 무게를 가리키므로 헷갈리는 오답이고, 'tiny(아주 작은)'는 정반대 의미입니다."
     },
     {
@@ -179,9 +331,272 @@
       "select_count": 1,
       "passage": null,
       "question_text": "Select the word or phrase most nearly equivalent in meaning to: ESSENTIAL",
-      "choices": ["optional", "necessary", "expensive", "simple", "temporary"],
-      "answer": [1],
+      "choices": [
+        "optional",
+        "necessary",
+        "expensive",
+        "simple",
+        "temporary"
+      ],
+      "answer": [
+        1
+      ],
       "explanation_ko": "ESSENTIAL: 필수적인, 본질적인. 정답 'necessary(필요한)'와 동의어입니다. 'optional(선택적인)'은 정반대 의미라 가장 헷갈리는 오답이고, 'temporary(일시적인)'는 필요성과 무관한 시간 개념입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: SWIFT",
+      "choices": [
+        "quick",
+        "slow",
+        "heavy",
+        "bright",
+        "quiet"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "SWIFT: 빠른, 신속한. 정답 'quick(빠른)'와 동의어입니다. 'slow(느린)'는 정반대 의미라 가장 헷갈리는 오답이고, 'heavy(무거운)'는 의미가 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: TIDY",
+      "choices": [
+        "messy",
+        "neat",
+        "large",
+        "cheerful",
+        "loud"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "TIDY: 깔끔한, 정돈된. 정답 'neat(깔끔한)'와 동의어입니다. 'messy(지저분한)'는 정반대 의미라 가장 헷갈리는 오답이고, 'large(큰)'는 의미가 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: BRAVE",
+      "choices": [
+        "cowardly",
+        "courageous",
+        "clever",
+        "wealthy",
+        "polite"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "BRAVE: 용감한. 정답 'courageous(용감한)'와 동의어입니다. 'cowardly(겁많은)'는 정반대 의미라 가장 헷갈리는 오답이고, 'clever(영리한)'는 의미가 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: WISE",
+      "choices": [
+        "foolish",
+        "sensible",
+        "wealthy",
+        "ancient",
+        "talkative"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "WISE: 현명한, 슬기로운. 정답 'sensible(분별 있는)'와 동의어입니다. 'foolish(어리석은)'는 정반대 의미라 가장 헷갈리는 오답이고, 'ancient(고대의)'는 의미가 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: STRANGE",
+      "choices": [
+        "familiar",
+        "odd",
+        "pleasant",
+        "distant",
+        "strict"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "STRANGE: 이상한, 낯선. 정답 'odd(이상한)'와 동의어입니다. 'familiar(익숙한)'는 정반대 의미라 가장 헷갈리는 오답이고, 'pleasant(유쾌한)'는 의미가 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: WEALTHY",
+      "choices": [
+        "poor",
+        "rich",
+        "generous",
+        "healthy",
+        "famous"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "WEALTHY: 부유한. 정답 'rich(부유한)'와 동의어입니다. 'generous(너그러운)'는 부유한 사람과 연상되어 헷갈리지만 뜻이 다른 오답이고, 'poor(가난한)'는 정반대 의미입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: QUIET",
+      "choices": [
+        "loud",
+        "silent",
+        "busy",
+        "dark",
+        "sudden"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "QUIET: 조용한. 정답 'silent(조용한)'와 동의어입니다. 'loud(시끄러운)'는 정반대 의미라 가장 헷갈리는 오답이고, 'busy(바쁜)'는 의미가 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: STURDY",
+      "choices": [
+        "flimsy",
+        "robust",
+        "tall",
+        "smooth",
+        "quiet"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "STURDY: 튼튼한, 견고한. 정답 'robust(견고한)'와 동의어입니다. 'flimsy(부실한)'는 정반대 의미라 가장 헷갈리는 오답이고, 'tall(키 큰)'은 의미가 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: GLAD",
+      "choices": [
+        "sad",
+        "pleased",
+        "angry",
+        "tired",
+        "curious"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "GLAD: 기쁜, 반가운. 정답 'pleased(기뻐하는)'와 동의어입니다. 'sad(슬픈)'는 정반대 의미라 가장 헷갈리는 오답이고, 'tired(피곤한)'는 의미가 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: RUDE",
+      "choices": [
+        "polite",
+        "impolite",
+        "shy",
+        "honest",
+        "quiet"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "RUDE: 무례한. 정답 'impolite(무례한)'와 동의어입니다. 'polite(예의 바른)'는 정반대 의미라 가장 헷갈리는 오답이고, 'shy(수줍은)'는 의미가 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: EAGER",
+      "choices": [
+        "unwilling",
+        "keen",
+        "tired",
+        "angry",
+        "careful"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "EAGER: 열망하는, 간절한. 정답 'keen(열의 있는)'와 동의어입니다. 'unwilling(내키지 않는)'은 정반대 의미라 가장 헷갈리는 오답이고, 'careful(조심스러운)'은 의미가 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: FOOLISH",
+      "choices": [
+        "sensible",
+        "silly",
+        "brave",
+        "wealthy",
+        "quiet"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "FOOLISH: 어리석은. 정답 'silly(어리석은)'와 동의어입니다. 'sensible(분별 있는)'은 정반대 의미라 가장 헷갈리는 오답이고, 'brave(용감한)'는 의미가 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: GENTLE",
+      "choices": [
+        "harsh",
+        "mild",
+        "loud",
+        "quick",
+        "clever"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "GENTLE: 온화한, 부드러운. 정답 'mild(온화한)'와 동의어입니다. 'harsh(거친)'는 정반대 의미라 가장 헷갈리는 오답이고, 'quick(빠른)'은 의미가 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: LOYAL",
+      "choices": [
+        "treacherous",
+        "faithful",
+        "wealthy",
+        "clever",
+        "lazy"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "LOYAL: 충실한, 충성스러운. 정답 'faithful(충실한)'와 동의어입니다. 'treacherous(배신하는)'는 정반대 의미라 가장 헷갈리는 오답이고, 'lazy(게으른)'는 의미가 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Select the word or phrase most nearly equivalent in meaning to: STRICT",
+      "choices": [
+        "lenient",
+        "stern",
+        "serious",
+        "cheerful",
+        "lazy"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "STRICT: 엄격한. 정답 'stern(엄격한)'와 동의어입니다. 'serious(진지한)'는 엄격함과 분위기가 비슷해 헷갈리지만 뜻이 다른 오답이고, 'lenient(관대한)'는 정반대 의미입니다."
     }
   ]
 }
