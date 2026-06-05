@@ -1,0 +1,217 @@
+{
+  "group": "verbal",
+  "subgroup": "reading_reasoning",
+  "level": 4,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "For centuries mapmakers filled the unknown interiors of continents with conjecture—mountains imagined, rivers invented, kingdoms borrowed from rumor. The Enlightenment is often credited with banishing such fictions in favor of candid blankness, the empty space that confessed ignorance. Yet the blank was no neutral admission. By erasing the speculative geographies of earlier travelers, mapmakers also erased the indigenous knowledge those travelers had, however imperfectly, recorded. The pristine void flattered the surveyor who would later fill it, presenting territory as though no one had ever known or named it. Honesty about one kind of ignorance, in short, manufactured another.",
+      "question_text": "Which of the following best captures the main point of the passage?",
+      "choices": [
+        "The cartographic blank, though presented as candid, suppressed indigenous knowledge and so produced a new ignorance.",
+        "Enlightenment mapmakers were on the whole less accurate than the medieval mapmakers who preceded them.",
+        "Speculative geographies ought to be restored to modern maps wherever indigenous records happen to survive.",
+        "Enlightenment surveyors deliberately conspired to strip indigenous peoples of their territory.",
+        "Blank spaces on maps were universally regarded by surveyors as humiliating admissions of failure."
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 수 세기 동안 지도 제작자들은 대륙의 알려지지 않은 내륙을 추측으로 채웠다—상상한 산, 만들어 낸 강, 소문에서 빌려 온 왕국들로. 계몽주의는 흔히 이런 허구들을 솔직한 공백(candid blankness), 즉 무지를 고백하는 빈 공간으로 대체해 몰아냈다고 평가받는다. 그러나 그 공백은 중립적인 인정이 아니었다. 이전 여행자들의 추측성 지리를 지움으로써 지도 제작자들은 그 여행자들이 불완전하게나마 기록했던 원주민의 지식(indigenous knowledge)까지 지웠다. 그 깨끗한 공백은 훗날 그것을 채울 측량가(surveyor)를 우쭐하게 했으며, 마치 누구도 알거나 이름 붙인 적 없는 듯 영토를 제시했다. 요컨대 한 종류의 무지에 대한 정직함이 또 다른 무지를 만들어 냈다. 질문: 다음 중 지문의 핵심 논지를 가장 잘 담아낸 것은?\n해설: 지문은 솔직해 보이는 지도 위 '공백'이 원주민의 지식을 지워 새로운 무지를 낳았다는 역설을 말한다. 따라서 (0)이 정답이다. (3)은 측량가가 '의도적으로 공모(conspired)'했다고 하지만 지문은 공백이 그를 '우쭐하게 했다(flattered)'고 했을 뿐 고의적 음모를 말하지 않는다. (4)는 공백이 '굴욕적 실패의 인정'으로 보편적으로 여겨졌다고 하나 지문은 오히려 측량가를 우쭐하게 했다고 하여 반대다. (1) 정확도 비교와 (2) 추측 지리의 복원 권고는 지문에 없는 내용이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Popular science has embraced the image of a forest knit together by fungal threads through which trees share sugars and warnings, a benevolent 'wood-wide web.' Field ecologists urge caution. The underground connections are real enough, but the evidence that they function as cooperative conduits is thin; the same hyphae that might ferry resources to a struggling seedling could as easily siphon them toward the fungus's own ends. To read the network as altruism is to project a moral grammar onto an exchange that may be, at bottom, a marketplace of mutual extortion. The threads bind the forest, but binding is not the same as kindness.",
+      "question_text": "The primary purpose of the passage is to",
+      "choices": [
+        "argue that fungal threads do not in fact physically connect the trees of a forest",
+        "qualify a popular view of fungal networks by stressing that their cooperative function remains unproven",
+        "prove that fungi invariably exploit the trees to which they are connected",
+        "celebrate the discovery that forests share resources through an altruistic web",
+        "trace the history of the metaphor 'wood-wide web' through popular science writing"
+      ],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 대중 과학은 나무들이 균사 실(fungal threads)로 엮여 당분과 경고를 주고받는 '숲속 인터넷(wood-wide web)'이라는 자애로운 이미지를 받아들였다. 현장 생태학자들은 신중하라고 경고한다. 땅속 연결은 분명 실재하지만, 그것이 협력의 통로(cooperative conduit)로 기능한다는 증거는 빈약하다. 곤경에 처한 묘목에 자원을 날라 줄 수도 있는 바로 그 균사(hyphae)가 자원을 균류 자신의 목적 쪽으로 빼돌릴 수도 있기 때문이다. 그 망을 이타심(altruism)으로 읽는 것은, 본질적으로 서로를 갈취하는 시장일 수도 있는 교환에 도덕적 문법을 투사하는 일이다. 실들이 숲을 묶긴 하지만, 묶는 것이 곧 친절은 아니다. 질문: 이 지문의 주된 목적은?\n해설: 지문은 협력의 증거가 아직 입증되지 않았다(unproven)는 점을 강조하며 대중적 통념을 누그러뜨린다. 따라서 (1)이 정답이다. (0)은 연결 자체를 부정하지만 지문은 '연결은 분명 실재한다'고 명시한다. (2)는 균류가 '예외 없이(invariably)' 착취한다고 단정하나 지문은 '~할 수도 있다(could as easily)'며 가능성만 제기한다. (3)은 정반대의 찬양이고, (4)는 비유의 역사 추적이라는 지문에 없는 목적이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "The machine-breakers of the early industrial north have come down to us as reactionaries flailing against an inevitable future. Their own petitions complicate the caricature. They objected not to machinery as such but to its deployment by manufacturers who used it to evade established wage agreements and standards of workmanship. The petitions invoke not a horror of the new but a defense of the old—negotiated rates, apprenticeships, guarantees of quality. Read this way, the breaking of frames was less a tantrum against progress than a bargaining tactic pursued after lawful channels had been closed. The hammer was an argument, made in the only dialect power would still hear.",
+      "question_text": "The author refers to the machine-breakers' petitions primarily in order to",
+      "choices": [
+        "establish that the new machinery was in fact less efficient than the handwork it replaced",
+        "show that the machine-breakers welcomed new technology without any reservation",
+        "complicate the portrayal of the machine-breakers as mere opponents of progress",
+        "argue that the manufacturers' wage agreements had become economically unsustainable",
+        "demonstrate that lawful negotiation had always worked to the workers' advantage"
+      ],
+      "answer": [2],
+      "explanation_ko": "문장 해석: 초기 산업화 시기 북부의 기계 파괴자(machine-breaker)들은 불가피한 미래에 맞서 허우적댄 반동분자로 우리에게 전해져 왔다. 그러나 그들 자신의 청원서(petition)는 이 희화화를 복잡하게 만든다. 그들은 기계 그 자체에 반대한 것이 아니라, 정해진 임금 협약과 작업 기준을 회피하는 데 기계를 쓴 제조업자들의 운용 방식에 반대했다. 청원서는 새것에 대한 공포가 아니라 옛것—협상된 임금률, 도제(apprenticeship) 제도, 품질 보장—의 옹호를 호소한다. 이렇게 읽으면 기계 틀을 부순 일은 진보에 대한 떼쓰기라기보다 합법적 통로가 막힌 뒤에 택한 협상 전술에 가까웠다. 망치는 권력이 그래도 알아들을 유일한 방언으로 제기된 하나의 주장이었다. 질문: 저자가 기계 파괴자들의 청원서를 언급한 주된 이유는?\n해설: 청원서는 그들이 '진보 그 자체에 반대한 단순한 반대자'라는 그림을 복잡하게 만드는 근거로 쓰인다. 따라서 (2)가 정답이다. (0)은 기계가 손작업보다 비효율적이었다는 입증인데 지문의 논점이 아니다. (1)은 기계 파괴자들이 신기술을 '거리낌 없이 환영'했다고 하나 지문은 그들이 기계의 운용 방식에 반대했다고 하여 어긋난다. (3)은 임금 협약이 '지속 불가능'했다는 주장이나 지문은 오히려 노동자들이 그 협약을 옹호했다고 한다. (4)는 합법적 협상이 '항상(always)' 노동자에게 유리했다고 하나 지문은 '합법적 통로가 막혔다'고 하여 반대다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Memory researchers once treated forgetting as the failure of an otherwise faithful recording system, a leak to be plugged. A competing account now casts forgetting as a function in its own right. A mind that retained every detail with equal vividness would struggle to generalize, drowning the recurring pattern in a flood of particulars. By letting incidental specifics decay while preserving their gist, the system distills experience into usable rules. On this view, the person who cannot forget is not blessed with a superior memory but burdened by an unfinished one, stranded among data that more ordinary minds have already refined into knowledge.",
+      "question_text": "According to the passage, the competing account holds that forgetting",
+      "choices": [
+        "is a malfunction that researchers have only recently learned to prevent",
+        "occurs only in minds that are unable to record details faithfully in the first place",
+        "helps the mind generalize by letting incidental details decay while retaining their gist",
+        "erodes the memory of recurring patterns more readily than that of isolated specifics",
+        "is most pronounced among the very people regarded as having exceptional memories"
+      ],
+      "answer": [2],
+      "explanation_ko": "문장 해석: 한때 기억 연구자들은 망각(forgetting)을 본래 충실한 기록 체계의 실패, 곧 막아야 할 새는 구멍으로 취급했다. 그러나 경쟁하는 한 설명은 이제 망각을 그 자체로 하나의 기능으로 본다. 모든 세부를 똑같이 생생하게 보유한 마음은 일반화에 애를 먹을 것이며, 되풀이되는 패턴을 수많은 개별 사항의 홍수 속에 빠뜨릴 것이다. 부수적인 세부(incidental specifics)는 쇠퇴하게 두면서 그 요지(gist)는 보존함으로써, 체계는 경험을 쓸 만한 규칙으로 증류해 낸다. 이 관점에서 잊지 못하는 사람은 더 뛰어난 기억을 타고난 것이 아니라 미완의 기억에 짓눌린 채, 더 평범한 마음들이 이미 지식으로 정제해 낸 데이터 사이에 갇혀 있는 셈이다. 질문: 지문에 따르면 경쟁 설명은 망각이 어떻다고 보는가?\n해설: 경쟁 설명은 부수적 세부는 사라지게 두고 요지(gist)는 남겨 일반화를 돕는 것이 망각의 기능이라고 본다. 따라서 (2)가 정답이다. (3)은 '되풀이되는 패턴'이 개별 세부보다 더 쉽게 침식된다고 하나, 지문은 정반대로 개별 세부가 쇠퇴하고 패턴(요지)은 보존된다고 한다. (0)은 옛 관점(망각=고장)이고, (1)은 '기록 못 하는 마음에서만' 일어난다는 근거 없는 주장이며, (4)는 잊지 못하는 사람을 오히려 짐을 진 미완의 기억으로 묘사한 지문과 어긋난다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "The seventeenth-century coffeehouse is routinely celebrated as the cradle of rational public debate, a level room where rank yielded to argument. The records of these establishments invite a more guarded estimate. Admission, though cheap, was not free, and the clientele skewed toward men with leisure and literacy to spare; the conversations that flourished there presupposed a shared stock of news that only the already-connected possessed. The coffeehouse did widen the circle of debate, but it widened it among those near its center, leaving its circumference much where it had been. Its openness was real but partial—an enlargement of the public that was not yet the public's enlargement.",
+      "question_text": "The passage suggests that the author would most likely agree that the seventeenth-century coffeehouse",
+      "choices": [
+        "was entirely closed to all but the wealthiest members of society",
+        "expanded participation in debate chiefly among those who were already relatively advantaged",
+        "fully realized the ideal of a debate in which social rank yielded to argument",
+        "discouraged rational debate by charging patrons an admission fee",
+        "had no measurable effect on the breadth of public discussion"
+      ],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 17세기 커피하우스는 흔히 신분이 논증에 자리를 양보하는 평평한 방, 곧 이성적 공론(rational public debate)의 요람으로 칭송된다. 그러나 이 업소들의 기록은 더 신중한 평가를 요한다. 입장료는 쌌지만 무료는 아니었고, 손님층은 여가와 문해력에 여유가 있는 남성들로 기울었다. 그곳에서 번성한 대화는 이미 인맥이 닿은 자들만이 가진 공유된 소식 더미를 전제로 했다. 커피하우스는 토론의 원을 넓히긴 했으나 그 중심부 가까이에 있는 이들 사이에서 넓혔을 뿐, 그 둘레(circumference)는 거의 그대로 두었다. 그 개방성은 실재했으나 부분적이었다—아직 '대중의 확장'은 아닌, '대중의 일부 확장'이었다. 질문: 지문으로 볼 때 저자가 17세기 커피하우스에 대해 가장 동의할 법한 것은?\n해설: 지문은 커피하우스가 토론을 넓혔으되 주로 이미 유리한 위치의 사람들 사이에서 넓혔다고 본다. 따라서 (1)이 정답이다. (0)은 '가장 부유한 자들 외엔 전면 폐쇄'라고 과장하나 입장료는 쌌고 여가·문해력 있는 남성층이었지 최부유층만은 아니었다. (2)는 신분이 논증에 양보하는 이상이 '온전히 실현되었다'고 하나 지문은 그 칭송에 신중을 기한다. (3)은 입장료가 토론을 억제했다고 하나 토론은 오히려 번성했고, (4)는 '아무 효과 없음'이라 하나 '원을 넓혔다'와 모순된다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "For most of the twentieth century, forest agencies treated every wildfire as an emergency to be extinguished at once. The policy succeeded on its own terms: the acreage burned each year fell sharply. Its success was its undoing. Decades of suppressed fire allowed deadwood and undergrowth—the very fuel that periodic small blazes had once cleared—to accumulate undisturbed. When fire finally escaped control, it met a landscape primed to burn as it never had before, and the conflagrations grew vast precisely because so many small ones had been prevented. The agencies had not abolished fire; they had merely deferred and concentrated it.",
+      "question_text": "Which of the following best expresses the central irony of the passage?",
+      "choices": [
+        "The suppression policy failed from the very start to reduce the acreage burned each year.",
+        "Forest agencies secretly intended their policy to make future wildfires more severe.",
+        "A policy that successfully prevented small fires thereby set the stage for far more destructive ones.",
+        "Deadwood and undergrowth are the only factors that determine how large a wildfire becomes.",
+        "Wildfires can never be controlled by any form of deliberate human intervention."
+      ],
+      "answer": [2],
+      "explanation_ko": "문장 해석: 20세기 대부분에 걸쳐 산림 당국은 모든 산불을 즉시 꺼야 할 비상사태로 취급했다. 이 정책은 그 자체의 기준에서는 성공했다. 해마다 불탄 면적이 급격히 줄어든 것이다. 그러나 그 성공이 곧 화근이었다. 수십 년간 불을 억눌러 온 결과, 한때 주기적인 작은 불들이 치워 주던 바로 그 연료인 죽은 나무(deadwood)와 덤불(undergrowth)이 손대지 않은 채 쌓였다. 마침내 불이 통제를 벗어났을 때, 그것은 전에 없이 타기 좋게 준비된 풍경을 만났고, 수많은 작은 불을 막았기 '때문에' 바로 그만큼 대화재(conflagration)는 거대해졌다. 당국은 불을 없앤 것이 아니라 그것을 미루고 한데 모았을 뿐이다. 질문: 다음 중 지문의 핵심 아이러니를 가장 잘 표현한 것은?\n해설: 작은 불을 성공적으로 막은 정책이 바로 그 때문에 훨씬 더 파괴적인 큰 불의 토대를 놓았다는 것이 핵심 아이러니다. 따라서 (2)가 정답이다. (0)은 '처음부터 면적 감축에 실패'했다고 하나 지문은 '면적이 급격히 줄었다'고 명시한다. (1)은 당국이 '몰래 의도'했다고 하나 의도가 아니라 예상 못 한 결과다. (3) '유일한 요인'과 (4) '결코 통제 불가'는 모두 지나친 단정으로 지문 논지가 아니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "It is widely assumed that alphabetic writing spread because it captured speech more efficiently than the elaborate sign systems it displaced. A study of scribal archives unsettles this tidy progression. In the regions examined, alphabetic scripts appeared first not among administrators managing complex accounts, for whom the older signs sufficed admirably, but among merchants and laborers at the margins of literate culture, who needed a script quick to learn rather than comprehensive to use. Efficiency of representation, the archives suggest, was beside the point; the alphabet spread because it was cheap to acquire, not because it was superior as a record.",
+      "question_text": "The scribal archives are presented as evidence that primarily undermines which assumption?",
+      "choices": [
+        "that the older sign systems were adequate for the administrators' complex accounts",
+        "that alphabetic writing spread because it represented speech more efficiently than the older systems",
+        "that merchants and laborers stood at the margins of the literate culture",
+        "that an alphabetic script is relatively quick for a beginner to learn",
+        "that scribes maintained archives documenting their writing practices"
+      ],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 알파벳 문자는 그것이 밀어낸 정교한 기호 체계보다 말을 더 효율적으로 담아냈기에 퍼졌다고 흔히 가정된다. 서기들의 기록 보관소(scribal archives)에 대한 한 연구는 이 깔끔한 진보 서사를 흔든다. 조사된 지역들에서 알파벳 문자는, 옛 기호로도 충분히 잘 처리하던 복잡한 회계 관리자들 사이에서가 아니라, 포괄적으로 쓰기보다 빨리 배우는 문자가 필요했던 문해 문화 변두리의 상인과 노동자들 사이에서 먼저 나타났다. 기록의 효율성은 요점이 아니었다고 기록들은 시사한다. 알파벳은 기록 수단으로 우월해서가 아니라 익히기 값쌌기에 퍼진 것이다. 질문: 서기 기록 보관소는 주로 어떤 가정을 허무는 증거로 제시되는가?\n해설: 기록들은 알파벳이 '효율성' 때문이 아니라 '익히기 쉬워서' 퍼졌음을 보여주므로, '효율적 표현 때문에 퍼졌다'는 가정(1)을 무너뜨린다. 따라서 (1)이 정답이다. (0) 옛 기호가 관리자에게 충분했다는 점, (2) 상인·노동자가 변두리에 있었다는 점, (3) 알파벳이 빨리 배워진다는 점, (4) 서기들이 기록을 남겼다는 점은 모두 지문이 사실로 전제하거나 뒷받침하는 내용이지 반박 대상이 아니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "When conservators stripped centuries of grime from the chapel's frescoes, the recovered colors startled viewers long accustomed to a sombre, smoke-darkened scheme. Some critics protested that the cleaning had destroyed the works' brooding gravity. The objection rests on a confusion. The darkness the critics mourned was not the painter's intention but the residue of candle soot and aged varnish—an accident of time mistaken for an achievement of art. To preserve that patina would be to enshrine an alteration the artist never made and would not have recognized. Reverence for age, the conservators reply, must not be permitted to masquerade as fidelity to the work.",
+      "question_text": "The passage is primarily concerned with",
+      "choices": [
+        "describing in detail the technical methods used to remove grime from the frescoes",
+        "rebutting the claim that cleaning the frescoes destroyed a quality the artist had intended",
+        "arguing that the darkened patina ought to be preserved as part of the works' long history",
+        "establishing that the frescoes were more widely admired before they were ever cleaned",
+        "comparing the chapel's frescoes with other surviving works from the same period"
+      ],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 복원가들이 예배당 프레스코에서 수 세기 묵은 때를 벗겨 내자, 어둡고 연기에 그을린 색조에 오래 익숙했던 관람객들은 되살아난 색에 놀랐다. 일부 비평가는 그 세척이 작품의 음울한 장중함(brooding gravity)을 파괴했다고 항의했다. 그 반론은 혼동에 근거한다. 비평가들이 애도한 어둠은 화가의 의도가 아니라 촛불 그을음과 오래된 바니시(varnish)의 잔여물—예술의 성취로 오인된 시간의 우연—이었다. 그 고색(patina)을 보존하는 일은 화가가 결코 가하지 않았고 알아보지도 못했을 변형을 떠받드는 셈이 된다. 복원가들은 응수한다. 오래됨에 대한 경외가 작품에 대한 충실함인 척 가장하도록 허용해서는 안 된다고. 질문: 이 지문이 주로 다루는 것은?\n해설: 지문은 '세척이 화가가 의도한 성질을 파괴했다'는 비판을 반박하는 데 집중한다. 따라서 (1)이 정답이다. (2)는 고색을 보존해야 한다고 하나 지문은 정반대로 그 보존이 우연의 변형을 떠받드는 것이라 본다. (0) 기술적 방법의 상세 서술, (3) 세척 전에 더 사랑받았다는 주장, (4) 동시대 다른 작품과의 비교는 지문의 초점이 아니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "A software firm replaced its private offices with an open floor plan, and in the following quarter the number of features its teams shipped rose by a third. Management concluded that the open layout, by easing spontaneous communication, had made the engineers more productive. The firm now plans to convert its remaining sites to the same design.",
+      "question_text": "Which of the following, if true, most seriously weakens the firm's conclusion?",
+      "choices": [
+        "A few engineers reported that the open layout made it harder to concentrate on the most demanding tasks.",
+        "In the same quarter, the firm adopted a new tool that automated much of the labor previously required to release a feature.",
+        "Most of the firm's competitors have continued to provide their engineers with private offices.",
+        "The open floor plan turned out to be cheaper to maintain than the private offices it replaced.",
+        "Several of the features shipped that quarter were minor refinements rather than wholly new capabilities."
+      ],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 한 소프트웨어 회사가 개인 사무실을 개방형 사무 공간(open floor plan)으로 바꾸자, 다음 분기에 팀들이 출시한 기능(feature)의 수가 3분의 1 늘었다. 경영진은 개방형 배치가 자발적 소통을 쉽게 해 엔지니어들을 더 생산적으로 만들었다고 결론지었다. 회사는 이제 나머지 사업장도 같은 설계로 전환할 계획이다. 질문: 다음 중 사실이라면 회사의 결론을 가장 심각하게 약화하는 것은?\n해설: 결론은 '개방형 배치가 생산성을 높였다'는 인과 주장이다. (1)은 같은 분기에 기능 출시 작업을 자동화한 새 도구를 도입했다는 '다른 원인(alternative cause)'을 제시해, 기능 수 증가가 배치가 아니라 도구 덕일 수 있게 만들어 결론을 약화한다. 따라서 (1)이 정답이다. (0)은 소수의 집중 곤란 호소일 뿐 측정된 증가 자체를 뒤집지 못한다. (4)는 출시된 기능의 성격을 말하나 증가의 원인을 다른 데로 돌리지는 못한다. (2) 경쟁사 관행과 (3) 유지비 절감은 인과 판단과 무관하다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "A historian argues that the spread of a new heavy plough, not a change in climate, drove the medieval expansion of farming onto northern Europe's wet clay soils. The plough could turn the dense, waterlogged earth that lighter implements merely skidded across. As evidence, she notes that the new fields cluster precisely in the clay-soil regions where the older ploughs would have been useless.",
+      "question_text": "Which of the following, if true, most strengthens the historian's argument?",
+      "choices": [
+        "The heavy plough required a team of oxen that only the wealthier villages could afford to keep.",
+        "In regions of light, easily worked soil, farmland expanded no faster after the heavy plough's introduction than before it.",
+        "Climate records indicate that northern Europe grew somewhat warmer during the very decades of the farming expansion.",
+        "The heavy plough was also used in some districts that had already been under cultivation for centuries.",
+        "Lighter ploughs continued to be manufactured for many years after the heavy plough first appeared."
+      ],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 한 역사가는 북유럽의 축축한 점토 토양으로 농경이 확장된 중세의 현상을 기후 변화가 아니라 새로운 무거운 쟁기(heavy plough)의 보급이 이끌었다고 주장한다. 이 쟁기는 가벼운 농기구가 그저 미끄러지기만 하던 빽빽하고 물에 젖은 흙을 갈아엎을 수 있었다. 근거로 그녀는 새 경작지들이 옛 쟁기로는 쓸모없었을 점토 토양 지역에 정확히 몰려 있음을 든다. 질문: 다음 중 사실이라면 역사가의 주장을 가장 강하게 뒷받침하는 것은?\n해설: (1)은 무거운 쟁기가 새 능력을 보탠 점토 지역과 달리, 가벼운 흙 지역에서는 쟁기 도입 전후로 확장 속도가 다르지 않았음을 보여 준다. 이는 확장이 (기후처럼) 모든 토양에 작용했을 일반 요인이 아니라 쟁기의 고유한 능력을 따라갔음을 시사해 인과 주장을 강화한다. 따라서 (1)이 정답이다. (2)는 기후가 따뜻해졌다고 하여 오히려 기후 가설을 살려 약화한다. (0) 비용, (3) 기존 경작지 사용, (4) 가벼운 쟁기의 지속 생산은 주장을 강화하지 못하는 중립적 사실이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "To curb bicycle theft, a university installed high-resolution cameras at every campus bike rack. In the year after installation, the number of bike thefts on campus fell by half. The administration concluded that the cameras had deterred would-be thieves, and it now plans to install identical cameras at the racks throughout the surrounding neighborhood.",
+      "question_text": "Which of the following is an assumption on which the administration's argument depends?",
+      "choices": [
+        "The cameras recorded images clear enough to allow a thief's face to be identified.",
+        "Bicycle theft is the single most common form of property crime committed on the campus.",
+        "The number of bicycles left at the campus racks did not decline substantially over the same year.",
+        "The cameras cost less to install than the combined value of the bicycles they were meant to protect.",
+        "Students whose bicycles were stolen always reported the theft to the local police rather than to the campus."
+      ],
+      "answer": [2],
+      "explanation_ko": "문장 해석: 자전거 절도를 줄이기 위해 한 대학이 캠퍼스의 모든 자전거 거치대에 고해상도 카메라를 설치했다. 설치 이후 1년간 캠퍼스 내 자전거 절도 건수가 절반으로 줄었다. 대학 당국은 카메라가 절도 미수자들을 억제했다고 결론짓고, 이제 인근 동네 거치대들에도 동일한 카메라를 설치할 계획이다. 질문: 다음 중 당국의 논증이 의존하는 가정은?\n해설: 결론은 '카메라가 절도를 억제해 절도가 줄었다'는 인과 주장이다. 만약 같은 기간 거치대에 세워 둔 자전거 수가 크게 줄었다면, 절도 감소는 카메라가 아니라 표적이 줄었기 때문일 수 있다. 따라서 '자전거 수가 크게 줄지 않았다'는 전제가 필요하며, 이를 부정하면 결론이 무너진다(가정의 부정 검증). 그러므로 (2)가 정답이다. (0)은 카메라가 얼굴을 식별할 수 있어야 한다는 것이나, 보이는 카메라는 식별 가능 여부와 무관하게 억제 효과를 낼 수 있어 필수 전제가 아니다. (1) 절도가 가장 흔한 범죄인지, (3) 비용 대비 가치, (4) 신고 경로는 결론의 논리적 전제가 아니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Politician: My opponent complains that our city's roads are deteriorating. But last year the city repaved more miles of road than in any other year in its history. Clearly, then, the roads are in better condition than they have ever been, and my opponent's complaint is therefore baseless.",
+      "question_text": "The reasoning in the politician's argument is most vulnerable to criticism on the grounds that it",
+      "choices": [
+        "relies chiefly on the testimony of an opponent whose motives are open to question",
+        "assumes without warrant that repaving is the only method by which roads can be maintained",
+        "fails to specify precisely how many total miles of road the city actually contains",
+        "treats the fact that more road was repaved than ever before as showing that overall road condition has improved, ignoring how fast the roads were deteriorating",
+        "draws a conclusion about the roads' future condition from evidence concerning only their past"
+      ],
+      "answer": [3],
+      "explanation_ko": "문장 해석: 정치인: 제 상대 후보는 우리 시의 도로가 나빠지고 있다고 불평합니다. 하지만 작년에 시는 역사상 어느 해보다 많은 거리의 도로를 재포장했습니다. 그러니 분명 도로는 그 어느 때보다 좋은 상태이며, 따라서 상대 후보의 불평은 근거가 없습니다. 질문: 이 논증은 어떤 점에서 비판에 가장 취약한가?\n해설: 재포장한 거리의 양이 늘었다는 사실만으로 도로 '전체 상태'가 좋아졌다고 단정한 것이 결함이다. 도로가 재포장 속도보다 더 빨리 노후화되고 있을 수 있기 때문이다. 즉 '수리 활동의 증가'를 '순(純) 상태의 개선'으로 혼동했다. 따라서 (3)이 정답이다. (0)은 상대의 동기를 트집 잡는 인신공격으로 핵심 결함이 아니고, (1) 재포장이 유일한 유지법이라는 가정은 논증이 의존하지 않으며, (2) 총 거리 수치의 부재나 (4) 과거에서 미래를 추론한다는 지적은 이 논증의 실제 비약과 무관하다(결론은 미래가 아니라 현재 상태에 관한 것이다)."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "The metalworking guild enforces strict rules for its apprentices. In particular, no apprentice may attempt etching without first having completed the mandatory safety course. The guild's records show that some apprentices who have already mastered the demanding art of engraving have not yet completed that safety course.",
+      "question_text": "If the statements above are true, which of the following must also be true?",
+      "choices": [
+        "Every apprentice who has completed the safety course has mastered the art of engraving.",
+        "Some apprentices who have mastered engraving are not permitted to attempt etching.",
+        "No apprentice who has mastered engraving has completed the safety course.",
+        "Completing the safety course is by itself sufficient to be permitted to attempt etching.",
+        "Every apprentice has either mastered engraving or completed the safety course."
+      ],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 금속 세공 길드는 도제(apprentice)들에게 엄격한 규칙을 적용한다. 특히, 어떤 도제도 의무 안전 교육을 먼저 이수하지 않고는 에칭(etching)을 시도할 수 없다. 길드 기록에 따르면, 까다로운 조각(engraving) 기술을 이미 익힌 일부 도제들은 아직 그 안전 교육을 이수하지 않았다. 질문: 위 진술이 참이라면 반드시 참인 것은?\n해설: 조각을 익혔지만 안전 교육을 마치지 않은 도제들이 '일부' 있고, 안전 교육 미이수자는 에칭을 시도할 수 없으므로, '조각을 익힌 도제 중 일부는 에칭 시도가 허용되지 않는다'가 반드시 참이다. 따라서 (1)이 정답이다. (2)는 '조각을 익힌 도제 중 누구도 안전 교육을 안 마쳤다'고 하나 지문은 '일부(some)'만 그렇다고 한다. (3) 안전 교육 이수만으로 충분하다는 것은 그것이 '필요조건'일 뿐 충분조건임을 알 수 없으므로 틀렸다. (0)과 (4)는 조각 숙달과 안전 교육 사이에 주어지지 않은 연결을 가정한다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "A bakery recently replaced the imported flour it had long used with flour milled in its own region. Because the local flour sells for a higher price per kilogram, the owner braced for a rise in costs. Surprisingly, after the change the bakery's ingredient cost per loaf actually fell.",
+      "question_text": "Which of the following, if true, best helps to resolve the apparent discrepancy?",
+      "choices": [
+        "Many of the bakery's customers were willing to pay more for bread advertised as made with local flour.",
+        "The bakery continued to import a few specialty grains for some of its higher-priced products.",
+        "The locally milled flour absorbs more water, so each kilogram yields noticeably more dough than the imported flour had.",
+        "The imported flour had to be kept in a climate-controlled warehouse, an expense the local flour did not require.",
+        "The price of the imported flour had been climbing steadily for several years before the bakery switched."
+      ],
+      "answer": [2],
+      "explanation_ko": "문장 해석: 한 빵집이 오랫동안 써 온 수입 밀가루를 자기 지역에서 제분한 밀가루로 최근 교체했다. 지역산 밀가루가 킬로그램당 더 비싸게 팔리기 때문에 주인은 비용 상승을 각오했다. 그런데 놀랍게도 교체 후 빵 한 덩이당 재료비(ingredient cost per loaf)가 오히려 내려갔다. 질문: 다음 중 사실이라면 겉으로 드러난 모순을 가장 잘 해소하는 것은?\n해설: 모순은 '킬로그램당 가격은 더 비싼데 빵 한 덩이당 재료비는 내렸다'는 점이다. (2)처럼 지역산 밀가루가 물을 더 많이 흡수해 킬로그램당 반죽이 더 많이 나온다면, 빵 한 덩이에 드는 밀가루 양이 줄어 단가가 높아도 한 덩이당 비용은 내려갈 수 있어 모순이 해소된다. 따라서 (2)가 정답이다. (0)은 가격을 더 받는다는 '매출' 이야기로 '비용'과 무관하다. (1)은 무관하고, (3)은 보관 비용(간접비)으로 '재료비'는 아니어서 한 덩이당 재료비 하락을 설명하지 못하며, (4) 수입 밀가루의 과거 가격 상승은 교체 후 비용 하락을 설명하지 못한다."
+    }
+  ]
+}

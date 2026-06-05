@@ -1,0 +1,217 @@
+{
+  "group": "verbal",
+  "subgroup": "reading_reasoning",
+  "level": 1,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "The octopus is among the most remarkable problem-solvers in the ocean. In laboratory experiments, octopuses have learned to open screw-top jars to reach the food inside, and some have escaped from their tanks by squeezing through gaps barely wider than their beaks. Unlike vertebrates, an octopus distributes much of its nervous system through its eight arms, so that each arm can taste, touch, and react with a degree of independence. This unusual arrangement allows the animal to explore several objects at once. Researchers studying octopus behavior hope that understanding such a differently organized intelligence may broaden our ideas about what intelligence itself can be.",
+      "question_text": "The primary purpose of the passage is to",
+      "choices": [
+        "describe the octopus's unusual intelligence and bodily organization",
+        "argue that octopuses are more intelligent than all vertebrate animals",
+        "explain how octopuses reproduce in the wild",
+        "warn aquarium owners that octopuses frequently escape from their tanks",
+        "compare the octopus with other marine predators"
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 문어는 바다에서 가장 뛰어난 문제 해결자(problem-solver) 중 하나입니다. 실험실 실험에서 문어는 안에 든 먹이에 닿기 위해 돌려 따는 뚜껑이 달린 병을 여는 법을 배웠고, 어떤 문어는 부리보다 약간 넓은 틈새를 비집고 수조에서 탈출하기도 했습니다. 척추동물과 달리 문어는 신경계의 상당 부분을 여덟 개의 팔에 분산시켜 두어, 각 팔이 어느 정도 독립적으로 맛보고 만지고 반응할 수 있습니다. 이 독특한 구조 덕분에 문어는 여러 물체를 동시에 탐색할 수 있습니다. 문어 행동을 연구하는 학자들은 이렇게 다르게 조직된 지능을 이해하면 지능 그 자체가 무엇일 수 있는지에 대한 우리의 생각이 넓어지기를 바랍니다. 질문: 이 지문의 주된 목적은 무엇인가.\n해설: 지문 전체가 문어의 독특한 지능(intelligence)과 신경계가 팔에 분산된 신체 구조를 묘사하므로 '문어의 독특한 지능과 신체 구조를 설명한다'가 주된 목적입니다. '모든 척추동물보다 더 똑똑하다'는 오답이 헷갈리지만, 지문은 문어가 척추동물과 '다르게(unlike)' 조직되어 있다고 할 뿐 우열을 주장하지 않습니다. 번식이나 다른 포식자와의 비교는 지문에 등장하지 않습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Before the nineteenth century, most towns kept their own local time, setting their clocks by the position of the sun at noon. A clock in one city might differ by many minutes from a clock in a neighboring one. This patchwork caused little trouble until the spread of railways. Trains traveled fast enough that the small differences between towns made printing accurate schedules nearly impossible, and confusion over departure times occasionally led to collisions. To solve the problem, railway companies agreed to divide large regions into broad zones, each keeping a single standard time. Governments later adopted these railway zones as the official time of entire nations.",
+      "question_text": "It can be inferred from the passage that standardized time zones were adopted primarily because",
+      "choices": [
+        "railway travel made differing local times impractical and dangerous",
+        "governments wished to weaken the authority of individual towns",
+        "the clocks of the nineteenth century were too inaccurate to keep local time",
+        "the position of the sun could no longer be measured reliably",
+        "most travelers preferred to set their own clocks by the sun"
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 19세기 이전에는 대부분의 마을이 정오에 태양의 위치를 기준으로 시계를 맞추며 각자의 지역 시간을 썼습니다. 한 도시의 시계는 이웃 도시의 시계와 몇 분씩 차이가 날 수 있었습니다. 이런 뒤죽박죽은 철도가 퍼지기 전까지는 별 문제가 되지 않았습니다. 기차는 충분히 빨라서 마을 간의 작은 시간 차이 때문에 정확한 시간표를 인쇄하기가 거의 불가능했고, 출발 시각에 대한 혼란이 때때로 충돌 사고로 이어지기도 했습니다. 이 문제를 해결하기 위해 철도 회사들은 넓은 지역을 큰 구역으로 나누어 각 구역이 하나의 표준 시간을 쓰도록 합의했습니다. 정부들은 나중에 이 철도 구역을 국가 전체의 공식 시간으로 채택했습니다. 질문: 표준 시간대가 채택된 주된 이유로 추론할 수 있는 것은 무엇인가.\n해설: 지문은 철도(railways)가 빨라서 마을마다 다른 지역 시간(local time) 때문에 시간표 인쇄가 불가능하고 충돌(collisions)까지 일어났다고 설명하므로, '철도 여행이 다른 지역 시간을 비현실적이고 위험하게 만들었기 때문'에 표준 시간대가 채택되었다고 추론할 수 있습니다. '시계가 너무 부정확했다'는 오답은 지문과 다릅니다. 시계는 태양 위치로 맞췄고 문제는 지역 간 차이였지 시계 자체의 부정확성이 아니었습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Each autumn, millions of monarch butterflies in eastern North America travel as far as three thousand miles to spend the winter in a few mountain forests in central Mexico. What makes the journey extraordinary is that no single butterfly completes the round trip. The monarchs that fly south in the fall are several generations removed from those that flew south the previous year. After wintering in Mexico, they begin the return north, but they breed and die along the way, leaving their descendants to continue. How these insects find forests they have never seen remains only partly understood, though scientists believe the butterflies rely on the position of the sun and on an internal sense of time.",
+      "question_text": "According to the passage, the monarchs that fly south each autumn",
+      "choices": [
+        "are several generations removed from the monarchs that flew south the previous year",
+        "complete the round trip to Mexico and back without ever stopping",
+        "are guided entirely by landmarks they have visited in the past",
+        "begin breeding only after they have returned to the northern forests",
+        "travel more slowly than the monarchs that later fly north"
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 매년 가을, 동부 북아메리카의 수백만 마리 모나크나비(monarch butterfly)는 멕시코 중부의 몇몇 산악 숲에서 겨울을 나기 위해 최대 3천 마일을 이동합니다. 이 여정을 놀랍게 만드는 것은 어떤 나비 한 마리도 왕복 전체를 완주하지 못한다는 점입니다. 가을에 남쪽으로 날아가는 모나크나비는 전년도에 남쪽으로 날아간 나비들로부터 여러 세대 떨어져 있습니다. 멕시코에서 겨울을 난 뒤 그들은 북쪽으로 돌아오기 시작하지만, 도중에 번식하고 죽으면서 후손들이 여정을 이어 가도록 남깁니다. 이 곤충들이 한 번도 본 적 없는 숲을 어떻게 찾는지는 아직 부분적으로만 밝혀졌지만, 과학자들은 나비들이 태양의 위치와 내부의 시간 감각에 의존한다고 봅니다. 질문: 지문에 따르면, 매년 가을 남쪽으로 날아가는 모나크나비는 어떠한가.\n해설: 지문은 가을에 남하하는 나비가 전년에 남하한 나비들로부터 'several generations removed(여러 세대 떨어져 있다)'고 직접 명시하므로 첫 번째 선택지가 정답입니다. 나비들이 '한 번도 본 적 없는(never seen)' 숲을 찾는다고 했으므로 '이미 가 본 랜드마크에 전적으로 의존한다'는 오답은 지문과 모순됩니다. 왕복을 쉬지 않고 완주한다는 선택지도 '어떤 나비도 왕복을 완주하지 못한다'는 내용과 정반대입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Beavers are often called ecosystem engineers because they reshape the landscapes they inhabit. By felling trees and building dams across streams, beavers create ponds and wetlands where there had been only flowing water. These new wetlands slow the movement of water, allowing sediment to settle and reducing the force of floods downstream. The ponds also create habitat for fish, frogs, insects, and birds that could not survive in a narrow stream. When a colony of beavers abandons a dam, the pond gradually drains and becomes a rich meadow. In this way, a single family of beavers can transform the variety of life across an entire valley.",
+      "question_text": "The author mentions fish, frogs, insects, and birds primarily in order to",
+      "choices": [
+        "illustrate how beaver ponds support species that a narrow stream could not",
+        "argue that beavers are the most important animals in any valley",
+        "explain what beavers typically eat",
+        "show that beaver dams are dangerous to other animals",
+        "describe the animals that compete with beavers for food"
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 비버는 자신이 사는 풍경을 바꾸어 놓기 때문에 흔히 '생태계 공학자(ecosystem engineer)'라고 불립니다. 나무를 쓰러뜨리고 개울을 가로질러 댐을 지음으로써, 비버는 흐르는 물밖에 없던 곳에 연못과 습지를 만듭니다. 이 새로운 습지는 물의 흐름을 늦춰 퇴적물이 가라앉게 하고 하류의 홍수 위력을 줄입니다. 또한 연못은 좁은 개울에서는 살 수 없는 물고기, 개구리, 곤충, 새의 서식지가 됩니다. 비버 무리가 댐을 떠나면 연못은 서서히 물이 빠져 비옥한 초원이 됩니다. 이런 식으로 비버 한 가족이 골짜기 전체의 생명 다양성을 바꿔 놓을 수 있습니다. 질문: 저자가 물고기, 개구리, 곤충, 새를 언급한 주된 이유는 무엇인가.\n해설: 해당 동물들은 'could not survive in a narrow stream(좁은 개울에서는 살 수 없는)' 종으로 제시되어, 비버 연못이 개울이 지탱하지 못하는 생물들을 어떻게 부양하는지 보여 주기 위해 언급되었습니다. 따라서 첫 번째 선택지가 정답입니다. '비버가 무엇을 먹는지 설명한다'는 오답이 헷갈리지만, 이 동물들은 비버의 먹이가 아니라 비버 연못의 수혜자로 등장합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "According to tradition, tea was first drunk in China thousands of years ago, valued at first as a medicine rather than as a daily beverage. Over the centuries its use spread, and elaborate customs grew up around its preparation. Buddhist monks carried tea to Japan, where it became the heart of a refined ceremony emphasizing simplicity and attention. Much later, European traders brought tea westward, and in Britain it eventually became so popular that whole rituals of dining were arranged around it. Wherever it traveled, tea was rarely adopted unchanged; each culture reshaped how the drink was prepared, served, and understood. The history of tea is thus partly a history of how societies adapt what they borrow.",
+      "question_text": "Which of the following best states the main idea of the passage?",
+      "choices": [
+        "As tea spread across cultures, each society adapted it to its own customs",
+        "Tea was always more valuable as a medicine than as a beverage",
+        "Buddhist monks were responsible for tea's popularity throughout the world",
+        "British dining rituals were the most elaborate ever built around tea",
+        "Tea originally tasted very different from the tea people drink today"
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 전해 내려오는 이야기에 따르면, 차는 수천 년 전 중국에서 처음 마셔졌으며 처음에는 일상 음료가 아니라 약으로 여겨졌습니다. 수 세기에 걸쳐 그 쓰임이 퍼졌고, 차를 준비하는 일을 둘러싼 정교한 관습이 생겨났습니다. 불교 승려들이 차를 일본에 전했고, 그곳에서 차는 소박함과 정성을 강조하는 세련된 의식의 핵심이 되었습니다. 훨씬 나중에 유럽 상인들이 차를 서쪽으로 가져갔고, 영국에서는 차가 매우 인기를 끌어 식사 의례 전체가 차를 중심으로 짜이게 되었습니다. 차는 가는 곳마다 좀처럼 그대로 받아들여지지 않았고, 각 문화는 차를 준비하고 대접하고 이해하는 방식을 새롭게 바꾸었습니다. 따라서 차의 역사는 부분적으로 사회가 빌려 온 것을 어떻게 적응시키는가에 관한 역사이기도 합니다. 질문: 다음 중 지문의 핵심 내용을 가장 잘 진술한 것은 무엇인가.\n해설: 지문은 차가 여러 문화로 퍼지면서 각 사회가 자신의 관습에 맞게 차를 바꾸었다는 점을 반복해 강조하고 마지막 문장에서 이를 요약하므로 첫 번째 선택지가 주제입니다. '약으로서 더 가치 있었다'거나 '승려가 차의 세계적 인기의 원인'이라는 오답들은 지문의 일부 세부 사항(detail)을 전체 주제로 과장한 것입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Some readers assume that a poem can be carried from one language into another with little lost, as though words were simply containers that could be repacked. Anyone who has compared several translations of the same poem knows better. A poem's meaning is bound up not only with what its words denote but with their sound, their rhythm, and the associations they carry in their original tongue. A translator must therefore make constant choices, sacrificing a pleasing sound in one line to preserve an exact sense in another. The best translations are not flawless copies but new works that respond thoughtfully to the original. To dismiss them as mere imitations is to misunderstand the difficult art they represent.",
+      "question_text": "The author's attitude toward skilled literary translations is best described as",
+      "choices": [
+        "appreciation for them as creative works in their own right",
+        "regret that they can never be attempted with any success",
+        "indifference to the differences among various translations",
+        "suspicion that most translators work carelessly",
+        "agreement that they are merely imitations of the original"
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 어떤 독자들은 시가 마치 단어가 다시 담기만 하면 되는 그릇인 양, 한 언어에서 다른 언어로 거의 손실 없이 옮겨질 수 있다고 여깁니다. 같은 시의 여러 번역본을 비교해 본 사람이라면 그렇지 않다는 것을 압니다. 시의 의미는 단어가 가리키는 것뿐 아니라 그 소리, 리듬, 그리고 원래 언어에서 단어가 지니는 연상과도 얽혀 있습니다. 그래서 번역자는 끊임없이 선택을 해야 하며, 정확한 뜻을 살리기 위해 한 행에서 듣기 좋은 소리를 희생하기도 합니다. 가장 훌륭한 번역은 흠 없는 복제가 아니라 원작에 사려 깊게 응답하는 새로운 작품입니다. 그런 번역을 한낱 모방이라고 깎아내리는 것은 번역이 보여 주는 어려운 예술을 오해하는 것입니다. 질문: 능숙한 문학 번역에 대한 저자의 태도를 가장 잘 나타낸 것은 무엇인가.\n해설: 저자는 훌륭한 번역을 '흠 없는 복제가 아니라 새로운 작품(new works)'이라 부르고, 그것을 모방(imitation)이라 깎아내리는 태도를 오해라고 비판하므로, 번역을 그 자체로 창조적 작품으로 인정하는 'appreciation(높이 평가함)'이 저자의 태도입니다. '결코 성공할 수 없다는 아쉬움'이라는 오답은, 저자가 최고의 번역을 칭찬한 것과 정반대됩니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "The shimmering curtains of light known as the aurora, visible in the night skies near the poles, begin with the sun. The sun constantly streams charged particles outward in what scientists call the solar wind. When these particles reach the Earth, most are deflected by the planet's magnetic field, but near the poles some are funneled down into the upper atmosphere. There they collide with atoms of gas, transferring energy that the atoms then release as light. The color of the aurora depends on which gas is struck: oxygen tends to glow green or red, while nitrogen produces shades of blue and purple. Because the solar wind grows stronger when the sun is especially active, auroras are brightest and most frequent during those periods.",
+      "question_text": "According to the passage, the color of an aurora is determined by",
+      "choices": [
+        "which type of gas the charged particles collide with",
+        "the strength of the Earth's magnetic field",
+        "the distance of the aurora from the poles",
+        "the season in which the aurora appears",
+        "the speed at which the solar wind travels"
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 극지방 밤하늘에서 보이는, 너울거리는 빛의 커튼으로 알려진 오로라(aurora)는 태양에서 시작됩니다. 태양은 과학자들이 태양풍(solar wind)이라 부르는 형태로 끊임없이 하전 입자를 바깥으로 내뿜습니다. 이 입자들이 지구에 도달하면 대부분은 지구의 자기장에 의해 방향이 꺾이지만, 극 근처에서는 일부가 상층 대기로 깔때기처럼 빨려 들어갑니다. 그곳에서 입자들은 기체 원자와 충돌하며 에너지를 전달하고, 원자는 그 에너지를 빛으로 방출합니다. 오로라의 색은 어떤 기체와 부딪히느냐에 따라 달라집니다. 산소는 초록색이나 빨간색으로 빛나는 경향이 있고, 질소는 파란색과 보라색 계열을 만듭니다. 태양이 특히 활발할 때 태양풍이 강해지므로, 오로라는 그런 시기에 가장 밝고 자주 나타납니다. 질문: 지문에 따르면, 오로라의 색을 결정하는 것은 무엇인가.\n해설: 지문은 'The color of the aurora depends on which gas is struck(오로라의 색은 어떤 기체와 부딪히느냐에 따라 달라진다)'고 직접 명시하므로 '하전 입자가 충돌하는 기체의 종류'가 정답입니다. '태양풍의 속도(세기)'라는 오답이 헷갈리지만, 지문에서 태양풍의 세기는 오로라의 밝기와 빈도(brightness and frequency)를 좌우할 뿐 색깔과는 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "For a long time, sleep was regarded as a period of simple rest, a time when the brain did little of importance. Research over the past few decades has overturned that picture. While we sleep, the brain appears to sort through the experiences of the day, strengthening the connections that store useful memories and weakening those that are not needed. In several experiments, people who slept after learning a new skill performed it better the next day than those who stayed awake for the same number of hours, even when both groups were equally rested before being tested. Findings like these suggest that a night's sleep is not merely a pause in mental activity but an active stage in the process of learning.",
+      "question_text": "It can be inferred from the passage that, for someone trying to master a new skill, sleeping after practice",
+      "choices": [
+        "can improve later performance of the skill",
+        "is less helpful than continuing to practice while awake",
+        "has no measurable effect on memory",
+        "is useful only if the person was tired beforehand",
+        "weakens the memories formed during practice"
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 오랫동안 잠은 단순한 휴식의 시간, 즉 뇌가 별로 중요한 일을 하지 않는 때로 여겨졌습니다. 지난 수십 년간의 연구는 그 그림을 뒤엎었습니다. 우리가 자는 동안 뇌는 그날의 경험을 분류하면서, 쓸모 있는 기억을 저장하는 연결은 강화하고 필요 없는 연결은 약화시키는 것으로 보입니다. 여러 실험에서, 새로운 기술을 배운 뒤 잠을 잔 사람들은 같은 시간 동안 깨어 있던 사람들보다 다음 날 그 기술을 더 잘 수행했는데, 이는 두 집단이 검사 전에 똑같이 잘 쉰 상태였을 때도 마찬가지였습니다. 이런 발견들은 하룻밤의 잠이 단지 정신 활동의 멈춤이 아니라 학습 과정의 능동적인 단계임을 시사합니다. 질문: 지문으로부터, 새로운 기술을 익히려는 사람이 연습 후에 자는 것에 대해 추론할 수 있는 것은 무엇인가.\n해설: 지문은 새로운 기술을 배운 뒤 잠을 잔 사람들이 깨어 있던 사람들보다 다음 날 더 잘 수행했다고 했으므로, 연습 후 수면이 이후의 기술 수행을 향상시킬 수 있다는 추론이 옳습니다. '깨어서 계속 연습하는 것보다 덜 도움이 된다'는 오답은 지문과 반대이며, '미리 피곤했을 때만 유용하다'는 오답은 두 집단이 똑같이 잘 쉰 상태에서도 효과가 나타났다는 내용과 모순됩니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Last year the town of Maplewood opened its first recycling center, and over the following twelve months the amount of household waste sent to the town's landfill fell by 25 percent. Town officials concluded that the new recycling center was responsible for this decline, and they have announced plans to open a second center next year.",
+      "question_text": "Which of the following, if true, most seriously weakens the officials' conclusion?",
+      "choices": [
+        "During the same year, a large factory in Maplewood closed and many families moved away, sharply reducing the town's population",
+        "The recycling center is located on the eastern edge of Maplewood",
+        "The recycling center accepts glass, paper, and metal but does not accept plastic",
+        "The neighboring town of Eastvale has no recycling center of its own",
+        "The recycling center cost more to build than the officials had originally expected"
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 작년에 Maplewood 마을은 첫 재활용 센터를 열었고, 그 후 12개월 동안 마을 매립지로 보내진 가정 쓰레기의 양이 25퍼센트 줄었습니다. 마을 당국은 새 재활용 센터가 이 감소의 원인이라고 결론짓고 내년에 두 번째 센터를 열 계획을 발표했습니다. 질문: 다음 중 참이라면 당국의 결론을 가장 심각하게 약화시키는 것은 무엇인가.\n해설: 같은 해에 큰 공장이 문을 닫고 많은 가구가 떠나 인구(population)가 급감했다면, 쓰레기 감소는 재활용 센터가 아니라 인구 감소라는 다른 원인(alternative cause) 때문일 수 있으므로 인과 결론이 약화됩니다. '센터가 플라스틱은 받지 않는다'는 오답은 센터의 처리 범위를 말할 뿐, 쓰레기가 줄어든 이유를 다른 데로 돌리지 못해 결론을 흔들지 못합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "This year Northgate Elementary School introduced a daily twenty-minute period of silent reading for all of its students. At the end of the year, students' average scores on a standardized reading test were higher than the previous year's scores. The school's principal claimed that the new silent-reading period was the cause of the improvement.",
+      "question_text": "Which of the following, if true, most strengthens the principal's claim?",
+      "choices": [
+        "At a nearby elementary school that did not introduce silent reading, average reading scores were unchanged from the previous year",
+        "The students at Northgate generally said that they enjoyed the silent-reading period",
+        "Northgate also bought new computers for its library at the start of this year",
+        "The standardized reading test is used in many schools across the country",
+        "Some parents at Northgate read to their children at home every evening"
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 올해 Northgate 초등학교는 모든 학생을 대상으로 매일 20분간 조용히 책을 읽는 시간을 도입했습니다. 학년 말에 학생들의 표준화 읽기 시험 평균 점수는 전년도 점수보다 높았습니다. 교장은 새로운 묵독 시간이 점수 향상의 원인이라고 주장했습니다. 질문: 다음 중 참이라면 교장의 주장을 가장 강화하는 것은 무엇인가.\n해설: 묵독 시간을 도입하지 않은 인근 학교에서는 점수가 그대로였다면, Northgate의 향상이 모든 학교에 공통된 추세가 아니라 묵독 시간 덕분일 가능성이 커지므로 주장이 강화(strengthen)됩니다. 가장 헷갈리는 오답은 'Northgate가 올해 도서관에 새 컴퓨터를 샀다'인데, 이는 점수 향상의 다른 원인을 제시하므로 주장을 오히려 약화시킵니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "The managers of Trillium Clothing plan to close all of the company's physical stores and to sell only through its website. They reason that, because online sales avoid the high cost of renting store space, eliminating the stores will increase the company's overall profits.",
+      "question_text": "The managers' plan depends on which of the following assumptions?",
+      "choices": [
+        "Closing the physical stores will not drive away enough customers to cancel out the savings on rent",
+        "Trillium's website is more attractive than the websites of its competitors",
+        "The rent for Trillium's stores would have continued to rise in coming years",
+        "Most of Trillium's employees would prefer to work from home",
+        "Online shoppers generally spend more money than shoppers in physical stores"
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: Trillium Clothing의 경영진은 회사의 모든 오프라인 매장을 닫고 웹사이트로만 판매할 계획입니다. 그들은 온라인 판매가 매장 임대라는 높은 비용을 피하므로, 매장을 없애면 회사 전체 이익이 늘어날 것이라고 추론합니다. 질문: 경영진의 계획은 다음 중 어느 가정에 의존하는가.\n해설: 매장을 닫아 절약한 임대료보다 매장 폐쇄로 잃는 고객으로 인한 매출 손실이 더 크면 이익이 늘기는커녕 줄어듭니다. 따라서 '매장 폐쇄가 임대료 절약을 상쇄할 만큼 많은 고객을 떠나보내지는 않을 것'이라는 가정(assumption)이 반드시 필요합니다. '온라인 쇼핑객이 매장 쇼핑객보다 더 많이 쓴다'는 오답은 참이면 도움이 되긴 하지만, 이익 증가 결론이 성립하기 위해 반드시 필요한 가정은 아닙니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "A fitness magazine conducted a survey by mailing a questionnaire to its own subscribers. Of those who returned the questionnaire, 85 percent said that they exercise every day. On the basis of these responses, the magazine's editors concluded that the great majority of adults in the country exercise daily.",
+      "question_text": "The editors' reasoning is most vulnerable to criticism on the grounds that it",
+      "choices": [
+        "draws a conclusion about all adults from a group that is likely to be unusually interested in fitness",
+        "assumes that exercising daily is necessary for maintaining good health",
+        "relies on a survey that asked respondents only a single question",
+        "fails to define precisely what counts as exercise",
+        "ignores the possibility that frequent exercise can cause injuries"
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 한 피트니스 잡지가 자사 구독자들에게 설문지를 우편으로 보내 조사를 했습니다. 설문지를 돌려보낸 사람 중 85퍼센트가 매일 운동한다고 답했습니다. 이 응답을 근거로 잡지 편집진은 이 나라 성인 대다수가 매일 운동한다고 결론지었습니다. 질문: 편집진의 추론이 비판받기 가장 쉬운 점은 무엇인가.\n해설: 표본이 '피트니스 잡지 구독자'로, 운동에 유난히 관심이 많을 가능성이 큰 집단이므로 이들로부터 나라 전체 성인을 일반화하는 것은 대표성이 없는 표본(unrepresentative sample)에 근거한 오류입니다. '운동의 정의를 정확히 내리지 않았다'는 오답이 그럴듯해 보이지만, 추론의 핵심 결함은 정의 문제가 아니라 편향된 표본에서 전체로 비약한 데 있습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Lakeside Cafe offers a separate menu at lunchtime. Every single dish on this lunch menu contains vegetables of some kind. Moreover, none of the dishes that contain vegetables are ever prepared with butter. The cafe's popular mushroom risotto is one of the dishes listed on the lunch menu.",
+      "question_text": "If the statements above are true, which of the following must also be true?",
+      "choices": [
+        "The mushroom risotto is not prepared with butter",
+        "The mushroom risotto is the most popular dish on the lunch menu",
+        "Every dish that is prepared with butter contains vegetables",
+        "Some dishes on the lunch menu contain no vegetables",
+        "The cafe's dinner menu also avoids using butter"
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: Lakeside 카페의 점심 메뉴에 있는 모든 요리에는 채소가 들어 있습니다. 채소가 들어 있는 요리 중 어느 것도 버터로 조리되지 않습니다. 버섯 리소토는 카페 점심 메뉴에 있는 요리 중 하나입니다. 질문: 위 진술이 참이라면, 다음 중 반드시 참인 것은 무엇인가.\n해설: 버섯 리소토는 점심 메뉴에 있으므로 채소가 들어 있고, 채소가 든 요리는 버터로 조리되지 않으므로 버섯 리소토는 버터로 조리되지 않는다는 결론이 반드시 참(must be true)입니다. '버터로 조리되는 모든 요리에 채소가 들어 있다'는 오답은 주어진 진술의 방향(채소 있음 → 버터 없음)을 거꾸로 뒤집은 것으로, 논리적으로 보장되지 않습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Last year the Daily Beacon newspaper lowered the price of its print edition, expecting that a cheaper price would attract more buyers. Instead, the number of print copies that the newspaper sold fell sharply compared with the number it had sold the previous year.",
+      "question_text": "Which of the following, if true, best explains the surprising result described above?",
+      "choices": [
+        "In the same year, the Daily Beacon launched a free online edition, and many of its former print readers began reading that instead",
+        "The Daily Beacon has been published in the same city for more than a century",
+        "The price of the print edition was lowered at the very start of the year",
+        "Several reporters at the Daily Beacon won awards for their articles last year",
+        "The cost of printing each copy of the newspaper rose slightly last year"
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 작년에 Daily Beacon 신문은 더 싼 가격이 구매자를 더 많이 끌어들일 것이라 기대하며 인쇄판 가격을 내렸습니다. 그러나 신문이 판매한 인쇄판 부수는 전년도에 판매한 부수에 비해 오히려 크게 줄었습니다. 질문: 다음 중 참이라면 위에 설명된 놀라운 결과를 가장 잘 설명하는 것은 무엇인가.\n해설: 같은 해에 Daily Beacon이 무료 온라인판을 출시했고 기존 인쇄판 독자 상당수가 그쪽으로 옮겨 갔다면, 가격을 내렸는데도 인쇄판 판매가 줄어든 역설(paradox)이 자연스럽게 설명됩니다. '인쇄 비용이 약간 올랐다'는 오답은 신문사의 이윤에는 영향을 줄 수 있어도, 독자들이 인쇄판을 덜 산 이유는 설명하지 못합니다."
+    }
+  ]
+}

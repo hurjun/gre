@@ -1,0 +1,217 @@
+{
+  "group": "verbal",
+  "subgroup": "reading_reasoning",
+  "level": 2,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Lichens, composite organisms formed from a fungus and an alga living together, have long served botanists as natural gauges of air quality. Because lichens draw water and nutrients directly from the atmosphere rather than from soil, they readily take up airborne pollutants as well. Sulfur dioxide, a common product of coal burning, is especially harmful to many lichen species, and in heavily polluted districts the most sensitive forms vanish, leaving only a few hardy crusts behind. By recording which species grow where, surveyors can map gradients of pollution without costly instruments. The method has its limits: lichens respond slowly, so a survey reflects conditions over years rather than days, and a few species tolerate pollutants that kill others. Still, where long-term monitoring is the goal, these unassuming organisms remain remarkably informative.",
+      "question_text": "According to the passage, which of the following is a limitation of using lichens to monitor air quality?",
+      "choices": [
+        "Because they react slowly, a lichen survey reflects conditions over a span of years rather than the present moment",
+        "They absorb pollutants mainly from the soil rather than from the air",
+        "They are more expensive to rely on than mechanical air-quality instruments",
+        "Every lichen species is equally vulnerable to sulfur dioxide",
+        "They cannot survive in any district where pollution is present at all"
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 균류와 조류가 함께 살아가며 이루어진 복합 생물인 지의류(lichen)는 오랫동안 식물학자들에게 대기질을 가늠하는 천연 측정기 역할을 해 왔다. 지의류는 토양이 아니라 대기에서 직접 물과 양분을 흡수하기 때문에, 공기 중의 오염 물질도 쉽게 빨아들인다. 석탄 연소의 흔한 부산물인 이산화황은 많은 지의류 종에게 특히 해로워서, 오염이 심한 지역에서는 가장 민감한 형태들이 사라지고 몇몇 질긴 종류만 남는다. 어떤 종이 어디에 자라는지를 기록함으로써, 조사자들은 값비싼 장비 없이도 오염의 기울기를 지도로 그릴 수 있다. 다만 이 방법에는 한계도 있다. 지의류는 느리게 반응하므로 조사 결과는 며칠이 아니라 수년에 걸친 상태를 반영하며, 일부 종은 다른 종을 죽이는 오염 물질도 견뎌 낸다. 그래도 장기적인 감시가 목적이라면 이 수수한 생물들은 여전히 놀랄 만큼 유용한 정보를 준다. 질문 해석: 지문에 따르면, 지의류로 대기질을 감시하는 것의 한계는 다음 중 무엇인가?\n해설: 지문은 지의류(lichen)가 '느리게 반응하므로(respond slowly) 조사 결과가 며칠이 아니라 수년에 걸친 상태를 반영한다'고 명시하므로, 이를 그대로 옮긴 첫 번째 선택지가 정답입니다. 두 번째 선택지는 지의류가 토양이 아니라 '대기에서 직접' 양분과 오염 물질을 흡수한다는 서술과 정반대입니다. 지의류는 값비싼 장비 없이도(without costly instruments) 쓸 수 있으니 세 번째 선택지도 틀렸고, 모든 종이 똑같이 취약하지는 않다(일부는 오염을 견딤)고 했으므로 네 번째 선택지도 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Before the railroad, each town in the United States kept its own local time, set by the position of the sun overhead at noon. A traveler moving westward might reset a pocket watch dozens of times on a single journey, and the discrepancies, though real, were merely an inconvenience for those who walked or rode. The railroad changed this. Trains running on published timetables could not tolerate a patchwork of local times, and a clock that disagreed with the next station's by even a few minutes invited collisions on shared tracks. In 1883 the railroad companies, acting on their own rather than waiting for legislation, divided the country into a handful of standard time zones. Towns grumbled at surrendering their noon to a distant authority, but within a generation railroad time had quietly become the public's time.",
+      "question_text": "The author indicates that differences among local times posed a danger primarily because",
+      "choices": [
+        "travelers were forced to reset their watches many times on a single journey",
+        "the federal government had failed to pass the necessary legislation",
+        "trains sharing the same tracks could collide when station clocks disagreed by even a few minutes",
+        "the sun's position at noon differed from one town to the next",
+        "towns resented surrendering their local noon to a distant authority"
+      ],
+      "answer": [2],
+      "explanation_ko": "문장 해석: 철도가 등장하기 전, 미국의 각 마을은 정오에 머리 위 태양의 위치로 맞춘 저마다의 지방 시간을 지켰다. 서쪽으로 이동하는 여행자는 한 번의 여정에서 회중시계를 수십 번 다시 맞춰야 했지만, 그 차이는 실재하긴 해도 걷거나 말을 타는 사람들에게는 그저 불편함일 뿐이었다. 철도가 이를 바꿔 놓았다. 공표된 시간표에 따라 달리는 기차는 제각각인 지방 시간의 짜깁기를 용납할 수 없었고, 옆 역의 시계와 단 몇 분이라도 어긋나는 시계는 공유 선로에서 충돌을 불러왔다. 1883년 철도 회사들은 입법을 기다리는 대신 스스로 나서서 나라를 몇 개의 표준 시간대(time zones)로 나누었다. 마을들은 자신들의 정오를 먼 곳의 권위에 넘겨주는 것에 투덜댔지만, 한 세대가 지나기 전에 철도 시간은 어느새 대중의 시간이 되었다. 질문 해석: 저자는 지방 시간의 차이가 위험을 초래한 주된 이유가 무엇이라고 말하는가?\n해설: 지문은 시계가 몇 분만 어긋나도 '공유 선로(shared tracks)에서 충돌(collisions)을 불러왔다'고 명시하므로 세 번째 선택지가 정답입니다. 첫 번째 선택지의 시계 재설정은 걷거나 말 타는 사람에게 '그저 불편함(merely an inconvenience)'이었을 뿐 위험은 아니었습니다. 입법 부재(두 번째)나 마을들의 불만(다섯 번째)은 위험의 원인이 아니라 별개의 사실이며, 정오의 태양 위치 차이(네 번째)는 지방 시간이 생긴 원인일 뿐 위험의 직접적 원인은 아닙니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "A persistent misconception holds that jazz improvisation is the spontaneous invention of music from nothing, a pure outpouring untouched by preparation. In fact, the improvising musician draws on a deep reservoir of learned material: scales, chord progressions, and short melodic figures rehearsed until they can be summoned without conscious thought. What distinguishes the skilled improviser is not the absence of preparation but the ability to recombine familiar elements in response to the moment—to the harmony of the tune, the pulse of the drummer, the phrase a bandmate has just played. Seen this way, improvisation resembles fluent conversation more than magic: a speaker does not invent words on the spot but arranges a known vocabulary into sentences never spoken before.",
+      "question_text": "The author compares improvisation to fluent conversation primarily in order to",
+      "choices": [
+        "argue that jazz musicians prize verbal skill as highly as musical skill",
+        "emphasize that improvisation arranges familiar, practiced material into new combinations rather than creating from nothing",
+        "suggest that ordinary conversation is actually a form of musical performance",
+        "show that skilled improvisation requires no preparation, only spontaneity",
+        "demonstrate that most listeners misunderstand how everyday conversation works"
+      ],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 재즈 즉흥 연주(improvisation)가 아무것도 없는 데서 음악을 즉석에서 만들어 내는, 준비와 무관한 순수한 분출이라는 잘못된 통념이 끈질기게 이어진다. 사실 즉흥 연주자는 깊은 저장고에서 학습된 재료를 끌어온다. 즉 의식적인 생각 없이도 불러올 수 있을 만큼 연습된 음계, 화음 진행, 짧은 선율 조각들이다. 능숙한 즉흥 연주자를 구별 짓는 것은 준비의 부재가 아니라, 그 순간에 — 곡의 화성, 드러머의 박동, 동료가 방금 연주한 악구에 — 응답하여 익숙한 요소들을 재조합하는 능력이다. 이렇게 보면 즉흥 연주는 마법이라기보다 유창한 대화에 가깝다. 화자는 단어를 즉석에서 발명하는 것이 아니라, 알고 있는 어휘를 한 번도 말해진 적 없는 문장으로 배열할 뿐이다. 질문 해석: 저자가 즉흥 연주를 유창한 대화에 비유한 주된 이유는 무엇인가?\n해설: 대화의 비유는 화자가 '단어를 발명하는 것이 아니라 알고 있는 어휘를 새로운 문장으로 배열한다'는 점을 보여 주며, 이는 즉흥 연주가 무에서 창조하는 것이 아니라 익숙한 재료를 재조합(recombine)한다는 주장을 뒷받침합니다. 따라서 두 번째 선택지가 정답입니다. 네 번째 선택지는 지문이 명시적으로 반박하는 통념(준비 없이 순수한 즉흥)이므로 틀렸습니다. 음악가가 언어 능력을 중시한다거나 대화가 음악 공연이라는 식의 진술은 비유의 취지를 벗어난 과장입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "When the system of numerals we now call Arabic reached medieval Europe, it met resistance rather than immediate welcome. Merchants and officials had long reckoned with Roman numerals and the abacus, and the new symbols—especially the strange figure for zero, which seemed to be a sign for nothing—struck many as suspect. Some cities even forbade their use in official accounts, fearing that the unfamiliar digits could be altered more easily than Roman ones, turning a modest sum into a large one with a single stroke. Yet the new system held a decisive advantage: it made written calculation possible, freeing arithmetic from the counting board. Over several centuries the convenience proved irresistible, and the very feature once distrusted—the place-value notation that gave each digit a worth depending on its position—became the foundation of modern computation.",
+      "question_text": "According to the passage, some European cities banned the new numerals because they feared that",
+      "choices": [
+        "the symbol for zero would make written calculation impossible",
+        "merchants would abandon the abacus before mastering the new system",
+        "Roman numerals were better suited to written calculation than the new digits",
+        "the unfamiliar digits could be falsified more easily than Roman numerals",
+        "place-value notation gave every digit the same worth regardless of position"
+      ],
+      "answer": [3],
+      "explanation_ko": "문장 해석: 오늘날 우리가 아라비아 숫자라 부르는 수 체계가 중세 유럽에 이르렀을 때, 그것은 즉각적인 환영이 아니라 저항에 부딪혔다. 상인과 관리들은 오랫동안 로마 숫자와 주판으로 셈해 왔고, 특히 아무것도 아닌 것을 가리키는 기호처럼 보이는 0이라는 낯선 형상을 비롯한 새 기호들은 많은 이들에게 미심쩍게 느껴졌다. 일부 도시는 공식 장부에서의 사용을 금지하기까지 했는데, 낯선 숫자가 로마 숫자보다 더 쉽게 변조되어 한 획으로 적은 금액이 큰 금액으로 둔갑할 수 있다고 우려했기 때문이다. 그러나 새 체계에는 결정적 이점이 있었다. 그것은 필산(written calculation)을 가능하게 하여 산술을 셈판에서 해방시켰다. 여러 세기에 걸쳐 그 편리함은 거부할 수 없는 것이 되었고, 한때 불신받던 바로 그 특징 — 각 숫자가 그 위치에 따라 값을 갖는 자릿값(place-value) 표기법 — 이 근대 계산의 토대가 되었다. 질문 해석: 지문에 따르면, 일부 유럽 도시가 새 숫자를 금지한 이유는 그들이 무엇을 우려했기 때문인가?\n해설: 지문은 도시들이 '낯선 숫자가 로마 숫자보다 더 쉽게 변조될(altered more easily) 수 있다'는 우려 때문에 사용을 금지했다고 명시하므로 네 번째 선택지가 정답입니다. 다섯 번째 선택지는 자릿값(place-value)이 '위치에 따라' 값을 부여한다는 서술과 정반대로 진술하여 틀렸고, 첫 번째 선택지는 0이 오히려 필산을 가능하게 했다는 내용과 어긋납니다. 로마 숫자가 필산에 더 적합했다는 진술도 지문과 반대됩니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Unlike dogs, which were deliberately bred by humans for specific tasks, cats appear to have largely domesticated themselves. The prevailing account begins with the rise of agriculture: as early farmers stored surplus grain, they inadvertently attracted rodents, and the rodents in turn attracted wild cats. Cats that tolerated human presence found an abundant food supply and gradually settled near settlements, while people, content to have a check on the pests, did little to interfere. Over generations the boldest and least fearful cats thrived in this niche, and a tamer population emerged without anyone setting out to create one. This origin may explain a familiar trait: even today the domestic cat retains far more of its wild ancestor's independence than the dog retains of the wolf's.",
+      "question_text": "The passage suggests that the domestic cat's independence is best explained by",
+      "choices": [
+        "the unmanaged process by which cats settled near human settlements without being deliberately bred",
+        "the deliberate efforts of early farmers to breed cats for hunting rodents",
+        "the scarcity of food available to cats that lived near early farms",
+        "the close physical resemblance between domestic cats and domestic dogs",
+        "the tendency of wild cats to avoid human settlements altogether"
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 특정 임무를 위해 인간이 의도적으로 교배한 개와 달리, 고양이는 대체로 스스로를 길들인 것으로 보인다. 가장 널리 받아들여지는 설명은 농업의 등장에서 시작된다. 초기 농부들이 잉여 곡물을 저장하자 본의 아니게 설치류가 모여들었고, 그 설치류가 다시 야생 고양이를 끌어들였다. 인간의 존재를 견디는 고양이들은 풍부한 먹이를 발견하고 점차 정착지 근처에 자리를 잡았으며, 해충을 견제해 주는 것에 만족한 사람들은 거의 간섭하지 않았다. 여러 세대에 걸쳐 가장 대담하고 덜 겁먹는 고양이들이 이 생태적 지위에서 번성했고, 누구도 만들려고 나선 적 없는 더 순한 개체군이 생겨났다. 이러한 기원은 익숙한 특성 하나를 설명해 줄지 모른다. 오늘날에도 집고양이는 개가 늑대의 성질을 간직한 것보다 훨씬 더 많이 야생 조상의 독립성을 간직하고 있다는 것이다. 질문 해석: 지문은 집고양이의 독립성을 무엇으로 가장 잘 설명할 수 있다고 시사하는가?\n해설: 지문은 고양이가 '의도적인 교배 없이 스스로 정착지 근처에 자리 잡는' 관리되지 않은 과정을 통해 길들여졌고, 바로 그 기원이 오늘날의 독립성을 설명한다고 말하므로 첫 번째 선택지가 정답입니다. 두 번째 선택지는 농부들이 의도적으로 교배했다는 것으로, '아무도 만들려고 나서지 않았다'는 서술과 정반대입니다. 먹이는 풍부했으므로(abundant) 세 번째 선택지도 틀렸고, 개와의 유사성이나 인간 회피 경향은 독립성의 원인으로 제시되지 않았습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Translators of poetry face a dilemma that prose translators can often avoid. A poem's meaning is bound up not only with what its words denote but with their sound, their rhythm, and the associations they carry in their original language. A translator who reproduces the literal sense may lose the music; one who preserves the music may have to bend the sense. There is no formula that resolves the tension, and the choices a translator makes inevitably amount to an interpretation of the poem. For this reason some critics argue that a translated poem is best regarded not as a transparent window onto the original but as a new work, related to its source yet answerable in part to standards of its own.",
+      "question_text": "The author suggests that translating poetry is more difficult than translating prose mainly because",
+      "choices": [
+        "prose translators are generally more skilled than translators of poetry",
+        "poems tend to contain many more words whose denotations are unknown",
+        "a poem's effect depends on sound and rhythm, not only on what its words denote",
+        "readers of poetry are far less tolerant of any interpretive choices",
+        "the literal sense of a poem is usually impossible to determine at all"
+      ],
+      "answer": [2],
+      "explanation_ko": "문장 해석: 시를 옮기는 번역가는 산문 번역가가 흔히 피할 수 있는 딜레마에 직면한다. 시의 의미는 그 단어들이 가리키는 바뿐 아니라 그 소리, 리듬, 그리고 원어에서 단어가 지니는 연상과도 얽혀 있다. 문자 그대로의 뜻을 재현하는 번역가는 음악성을 잃을 수 있고, 음악성을 지키는 번역가는 뜻을 비틀어야 할 수 있다. 이 긴장을 해소하는 공식은 없으며, 번역가가 내리는 선택은 필연적으로 그 시에 대한 하나의 해석이 된다. 이런 이유로 일부 비평가들은 번역된 시를 원작을 들여다보는 투명한 창이 아니라, 원천과 관련되어 있으면서도 부분적으로는 그 자체의 기준에 책임을 지는 새로운 작품으로 보는 편이 낫다고 주장한다. 질문 해석: 저자는 시 번역이 산문 번역보다 더 어려운 주된 이유가 무엇이라고 시사하는가?\n해설: 지문은 시의 의미가 '단어가 가리키는 바뿐 아니라 소리와 리듬(sound, rhythm)과도 얽혀 있어', 문자적 의미를 살리면 음악성을 잃고 음악성을 살리면 의미를 비틀어야 하는 딜레마가 생긴다고 설명합니다. 따라서 세 번째 선택지가 정답입니다. 산문 번역가의 실력이 더 낫다거나 시에 뜻 모를 단어가 더 많다는 진술은 지문에 근거가 없습니다. 다섯 번째 선택지는 문자적 의미 자체를 '결정 불가능'하다고 과장하지만, 지문은 문자적 의미를 살릴 수는 있되 그 대신 음악성을 잃는다고 했을 뿐입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Mangrove forests, which grow in the salty shallows where land meets sea in the tropics, were for many years cleared without hesitation to make room for shrimp farms and resorts. More recently their value has come to be appreciated. The dense, arching roots of mangroves slow incoming waves and trap sediment, building up the shoreline and buffering coastal communities against storm surges. The same roots provide sheltered nurseries for fish and crustaceans, many of them species that sustain local fisheries once they reach open water. Because a belt of mangroves can absorb the force of a storm at a fraction of the cost of a sea wall, some coastal governments now protect and replant the forests they once removed, treating them less as wasteland to be reclaimed than as infrastructure to be maintained.",
+      "question_text": "The passage indicates that some coastal governments now value mangrove forests partly because the forests",
+      "choices": [
+        "shield coastal communities from storms at a lower cost than a sea wall",
+        "provide ideal sites for new shrimp farms and seaside resorts",
+        "grow only in regions where local fisheries have already collapsed",
+        "trap sediment that must be cleared away before fishing can resume",
+        "remove the need for any other form of coastal management"
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 열대 지역에서 육지와 바다가 만나는 짠 얕은 물에 자라는 맹그로브 숲(mangrove forests)은 오랫동안 새우 양식장과 리조트를 들이려고 망설임 없이 베어졌다. 그러나 최근 들어 그 가치가 인정받게 되었다. 맹그로브의 빽빽하고 아치를 이루는 뿌리는 밀려오는 파도를 늦추고 퇴적물을 가두어, 해안선을 쌓아 올리고 해안 공동체를 폭풍 해일로부터 완충한다. 같은 뿌리는 물고기와 갑각류에게 보호받는 보육장을 제공하는데, 그중 다수는 외해로 나가면 지역 어업을 지탱하는 종들이다. 맹그로브 띠는 방파제(sea wall) 비용의 일부만으로 폭풍의 힘을 흡수할 수 있기에, 일부 해안 정부는 한때 없애 버린 숲을 이제 보호하고 다시 심으며, 이를 개간할 황무지라기보다 유지해야 할 기반 시설(infrastructure)로 대한다. 질문 해석: 지문은 일부 해안 정부가 이제 맹그로브 숲을 가치 있게 여기는 이유 중 하나가 그 숲이 무엇을 하기 때문이라고 말하는가?\n해설: 지문은 맹그로브 띠가 '방파제(sea wall) 비용의 일부만으로 폭풍의 힘을 흡수'해 해안 공동체를 완충한다고 명시하므로 첫 번째 선택지가 정답입니다. 두 번째 선택지의 새우 양식장과 리조트는 과거에 숲을 '베어 낸' 이유이지 가치 있게 여기는 이유가 아닙니다. 어업이 이미 붕괴한 곳에서만 자란다거나, 퇴적물을 치워야 어업이 재개된다거나, 다른 모든 해안 관리가 필요 없게 만든다는 진술은 지문에 근거가 없습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "A foraging honeybee that discovers a rich patch of flowers does not keep the news to herself. Returning to the hive, she performs a looping movement known as the waggle dance, and the details of this dance encode the location of the food. The direction of the central, waggling run, measured against vertical on the comb, indicates the direction of the patch relative to the sun; the duration of that run indicates how far away the patch lies. Hive mates that follow the dance can then fly more or less directly to the source. What makes the behavior remarkable is its abstraction: the dancer translates a path through space into a symbolic gesture performed in the dark, and her audience translates the gesture back into a flight plan, all without ever seeing the flowers in question.",
+      "question_text": "According to the passage, the duration of the waggle run conveys information about",
+      "choices": [
+        "the direction of the food source relative to the sun",
+        "the distance between the hive and the food source",
+        "the richness of the patch of flowers that was discovered",
+        "the number of hive mates needed to harvest the patch",
+        "the height of the flowers above the ground"
+      ],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 풍성한 꽃밭을 발견한 채집 꿀벌은 그 소식을 혼자만 알고 있지 않는다. 벌집으로 돌아온 벌은 '8자춤(waggle dance)'이라 불리는 고리 모양의 움직임을 추는데, 이 춤의 세부 사항이 먹이의 위치를 부호화한다. 벌집 표면의 수직선을 기준으로 측정된 중앙의 흔드는 직진 구간의 방향은 태양에 대한 꽃밭의 방향을 가리키고, 그 직진 구간의 지속 시간(duration)은 꽃밭이 얼마나 멀리 있는지를 가리킨다. 춤을 따라 한 동료 벌들은 그러면 거의 곧장 먹이원으로 날아갈 수 있다. 이 행동을 놀랍게 만드는 것은 그 추상성이다. 춤추는 벌은 공간을 가로지르는 경로를 어둠 속에서 수행되는 상징적 몸짓으로 번역하고, 그 청중은 그 몸짓을 다시 비행 계획으로 번역하는데, 정작 문제의 꽃은 한 번도 보지 않은 채 그렇게 한다. 질문 해석: 지문에 따르면, 8자춤 직진 구간의 지속 시간은 무엇에 관한 정보를 전달하는가?\n해설: 지문은 직진 구간의 '지속 시간(duration)이 꽃밭이 얼마나 멀리 있는지를 가리킨다'고 명시하므로 두 번째 선택지가 정답입니다. 가장 헷갈리는 첫 번째 선택지(태양에 대한 방향)는 지속 시간이 아니라 직진 구간의 '방향(direction)'이 전달하는 정보이므로, 두 요소를 뒤바꾼 함정입니다. 꽃밭의 풍성함, 필요한 일벌 수, 꽃의 높이는 지문에서 춤이 부호화한다고 언급된 적이 없습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "After the town of Fairview installed bright LED streetlights throughout its downtown last year, the number of nighttime thefts reported downtown fell by twenty-five percent. The town council concludes that the brighter lighting deterred would-be thieves, and it recommends installing the same lights in residential neighborhoods in order to achieve a similar drop in crime there.",
+      "question_text": "Which of the following, if true, most seriously weakens the council's conclusion?",
+      "choices": [
+        "Last year the town also doubled the number of police officers patrolling its downtown at night",
+        "The new LED streetlights use considerably less electricity than the lights they replaced",
+        "Residents who work downtown have welcomed the brighter lighting",
+        "Several neighboring towns have installed similar streetlights in their own downtowns",
+        "The brighter lights made it easier for witnesses to identify suspects at night"
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 페어뷰 마을이 작년에 시내 전역에 밝은 LED 가로등을 설치한 뒤, 시내에서 신고된 야간 절도 건수가 25퍼센트 줄었다. 마을 의회는 더 밝은 조명이 절도범 지망자들을 단념시켰다고 결론짓고, 그곳의 범죄도 비슷하게 줄이기 위해 주거 지역에도 같은 조명을 설치할 것을 권고한다. 질문 해석: 다음 중 참이라면 의회의 결론을 가장 심각하게 약화시키는 것은 무엇인가?\n해설: 의회의 결론은 '밝은 조명이 절도 감소의 원인'이라는 인과 주장입니다. 같은 해에 야간 시내 순찰 경찰관 수를 두 배로 늘렸다면, 조명이 아니라 경찰 증원이라는 대안적 원인(alternative cause)이 절도 감소를 설명할 수 있어 결론이 약화됩니다(weaken). 다섯 번째 선택지는 밝은 빛이 용의자 식별을 쉽게 했다는 것으로 오히려 인과를 강화합니다. 전기 절감, 주민 환영, 이웃 마을 동향은 조명이 범죄를 줄였는지와 직접적 관련이 없습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "A company that makes standing desks claims that its product improves worker productivity. In a recent trial at one office, employees who were given standing desks completed twelve percent more tasks per day than they had completed with ordinary seated desks. The company concludes that switching an entire office over to its standing desks would raise that office's overall productivity.",
+      "question_text": "Which of the following, if true, most strengthens the company's argument?",
+      "choices": [
+        "Standing for long periods causes physical discomfort in some workers",
+        "The employees in the trial were chosen at random and resembled the office's workforce as a whole",
+        "The standing desks cost considerably more than the seated desks they replaced",
+        "Several employees said they preferred the appearance of the new standing desks",
+        "A competing manufacturer also sells standing desks of a similar design"
+      ],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 스탠딩 책상을 만드는 한 회사는 자사 제품이 작업자의 생산성을 높여 준다고 주장한다. 한 사무실에서 진행된 최근 시험에서, 스탠딩 책상을 받은 직원들은 일반 앉는 책상을 쓸 때보다 하루에 12퍼센트 더 많은 작업을 완수했다. 회사는 사무실 전체를 자사 스탠딩 책상으로 바꾸면 그 사무실의 전반적 생산성이 올라갈 것이라고 결론짓는다. 질문 해석: 다음 중 참이라면 회사의 논증을 가장 강화하는 것은 무엇인가?\n해설: 결론은 시험에 참가한 일부 직원의 결과를 '사무실 전체'로 일반화하는 것입니다. 시험 참가자들이 무작위로(at random) 뽑혔고 전체 인력을 대표한다면, 표본에서 나온 생산성 향상을 사무실 전체로 확장하는 추론이 한층 정당해지므로 두 번째 선택지가 정답입니다(strengthen). 첫 번째 선택지는 일부 작업자가 불편을 겪는다는 것으로 오히려 약화 요인입니다. 책상 가격, 외관 선호, 경쟁사 제품 존재는 생산성 향상이라는 결론의 타당성과 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "The Westbrook Public Library plans to increase the number of people who borrow books by extending its hours into the evening. Surveys show that many residents who currently do not use the library work during the day and are unavailable until evening. The library therefore expects that evening hours will attract a substantial number of new borrowers.",
+      "question_text": "The library's argument depends on which of the following assumptions?",
+      "choices": [
+        "At least some residents who are unavailable during the day stay away from the library because of its hours rather than a lack of interest in borrowing books",
+        "The library can afford to remain open in the evening without cutting any of its daytime hours",
+        "Most residents who already use the library would prefer evening hours to daytime hours",
+        "The library's collection is large enough to interest every resident of Westbrook",
+        "Other libraries in the region have already extended their hours into the evening"
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 웨스트브룩 공공 도서관은 운영 시간을 저녁까지 연장하여 책을 빌리는 사람의 수를 늘릴 계획이다. 설문에 따르면, 현재 도서관을 이용하지 않는 주민 중 다수가 낮에 일을 하여 저녁이 되어서야 시간이 난다. 따라서 도서관은 저녁 운영 시간이 상당수의 새로운 대출자를 끌어들일 것으로 기대한다. 질문 해석: 도서관의 논증은 다음 중 어느 가정에 의존하는가?\n해설: 논증은 '낮에 일하느라 이용하지 못하던 주민'이 저녁 개방으로 대출자가 될 것이라고 봅니다. 이 추론이 성립하려면, 그들이 도서관을 이용하지 않는 이유가 시간 때문이지 책을 빌릴 관심 자체가 없어서가 아니어야 합니다. 첫 번째 선택지를 부정하면(즉 관심이 없어서 안 온다면) 저녁 개방으로도 끌어들일 수 없으므로, 이는 논증의 필수 가정(assumption)이며 정답입니다. 두 번째 선택지는 비용 문제로, 결론은 단지 '새 대출자 유치'일 뿐 순증가를 말하지 않으므로 반드시 필요한 가정은 아닙니다. 컬렉션 규모나 타 도서관 동향은 이 논증에 필수적이지 않습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Critics of the proposed new highway claim that it will increase air pollution in the region. But these critics are members of an environmental group that opposes nearly every construction project, regardless of its merits. Their objection to the highway, therefore, should be dismissed without further consideration.",
+      "question_text": "The argument is most vulnerable to criticism on the grounds that it",
+      "choices": [
+        "relies on a sample of critics that is too small to be representative",
+        "assumes that what is true of a group must be true of each of its members",
+        "rejects a claim merely by criticizing the people who make it rather than addressing the claim itself",
+        "treats the failure to disprove a claim as proof that the claim is true",
+        "draws a conclusion about the future solely from evidence about the past"
+      ],
+      "answer": [2],
+      "explanation_ko": "문장 해석: 제안된 새 고속도로를 비판하는 이들은 그것이 그 지역의 대기 오염을 늘릴 것이라고 주장한다. 그러나 이 비판자들은 거의 모든 건설 사업을, 그 장점과 상관없이 반대하는 환경 단체의 구성원들이다. 따라서 고속도로에 대한 그들의 반대는 더 따져 볼 것도 없이 일축되어야 한다. 질문 해석: 이 논증이 비판받기 가장 쉬운 지점은 그것이 무엇을 하기 때문인가?\n해설: 논증은 고속도로가 오염을 늘린다는 '주장' 자체의 근거를 따지지 않고, 그 주장을 하는 '사람들'(반대만 일삼는 환경 단체)을 공격하여 결론을 내립니다. 이는 전형적인 인신공격(ad hominem) 오류이므로 세 번째 선택지가 정답입니다. 두 번째 선택지(집단의 특성을 개개인에 적용)는 본문에 나타나지 않는 다른 오류이고, 표본 크기, 입증 실패의 악용, 과거 근거에서 미래 추론 등도 이 논증의 구조와 맞지 않습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Every member of the Brockton Cycling Club has completed a race of at least one hundred miles. Anyone who has completed a race of at least one hundred miles trains on weekends. Dev recently became a member of the Brockton Cycling Club, although he insists that he dislikes competitive racing.",
+      "question_text": "If the statements above are true, which of the following must also be true?",
+      "choices": [
+        "Dev trains on weekends",
+        "Dev secretly enjoys competitive racing despite what he insists",
+        "Everyone who trains on weekends belongs to the Brockton Cycling Club",
+        "Dev has completed more than one race of at least one hundred miles",
+        "Anyone who trains on weekends has completed a race of at least one hundred miles"
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 브록턴 사이클링 클럽의 모든 회원은 최소 100마일짜리 경주를 완주한 적이 있다. 100마일 이상의 경주를 완주한 사람은 누구나 주말에 훈련한다. 데브는 자신이 경쟁적인 레이싱을 싫어한다고 우기지만 최근 브록턴 사이클링 클럽의 회원이 되었다. 질문 해석: 위 진술들이 모두 참이라면, 다음 중 반드시 참인 것은 무엇인가?\n해설: 데브는 회원이므로 100마일 경주를 완주했고(모든 회원은 완주함), 100마일을 완주한 사람은 누구나 주말에 훈련하므로, 연쇄적으로 '데브는 주말에 훈련한다'가 반드시 참입니다. 따라서 첫 번째 선택지가 정답입니다. '레이싱을 싫어한다'는 진술은 함정으로, 그가 회원인 이상 완주 사실에는 영향을 주지 않습니다. 세 번째와 다섯 번째 선택지는 조건문의 방향을 거꾸로 뒤집은 역명제 오류이고, 네 번째 선택지는 '최소 한 번'만 보장될 뿐 '한 번 이상'이 반드시 참은 아닙니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "The Daily Ledger newspaper recently raised the price of its print edition by thirty percent. Industry analysts expected the higher price to drive away readers and thereby reduce the paper's print revenue. Instead, in the months after the increase, the paper's total revenue from its print edition rose.",
+      "question_text": "Which of the following, if true, best explains the result described above?",
+      "choices": [
+        "Several rival newspapers lowered their print prices during the same period",
+        "The vast majority of the paper's print readers kept buying it even after the price rose",
+        "The paper's online edition lost subscribers after the print price increased",
+        "The cost of printing each copy of the paper rose during the same period",
+        "The paper used its additional revenue to hire several new reporters"
+      ],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 데일리 레저 신문은 최근 인쇄판 가격을 30퍼센트 인상했다. 업계 분석가들은 더 높은 가격이 독자를 떠나보내 신문의 인쇄판 수익을 줄일 것으로 예상했다. 그런데 가격 인상 이후 몇 달 동안, 신문의 인쇄판 총수익은 오히려 늘었다. 질문 해석: 다음 중 참이라면 위에 서술된 결과를 가장 잘 설명하는 것은 무엇인가?\n해설: 역설(paradox)은 가격을 30% 올려 독자가 줄 것으로 예상했는데도 인쇄판 수익이 오히려 늘었다는 점입니다. 수익은 가격 곱하기 판매 부수이므로, 거의 모든 독자가 인상에도 계속 구독했다면(수요가 비탄력적) 가격 인상분이 거의 그대로 수익 증가로 이어져 결과가 설명됩니다. 따라서 두 번째 선택지가 정답입니다. 경쟁지 가격 인하(첫 번째)는 오히려 역설을 심화시키고, 온라인판 구독자 감소(세 번째)는 인쇄판 수익 증가와 무관합니다. 인쇄 비용 상승(네 번째)은 수익이 아닌 이윤에 관한 것이고, 수익의 사용처(다섯 번째)는 증가 원인을 설명하지 못합니다."
+    }
+  ]
+}

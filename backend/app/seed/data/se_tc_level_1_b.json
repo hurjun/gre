@@ -1,0 +1,133 @@
+{
+  "group": "verbal",
+  "subgroup": "se_tc",
+  "level": 1,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "The watchmaker was so _______ that she inspected each tiny gear under a magnifying glass before assembling the timepiece.",
+      "choices": ["careless", "meticulous", "hasty", "indifferent", "clumsy"],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 그 시계공은 너무나 꼼꼼해서(meticulous) 시계를 조립하기 전에 작은 톱니바퀴 하나하나를 돋보기로 들여다보았다.\n해설: 작은 톱니바퀴를 일일이 돋보기로 검사했다는 단서가 있으므로 meticulous(꼼꼼한, 세심한)가 정답입니다. careless(부주의한), hasty(서두르는), clumsy(서툰)는 모두 세심함과 정반대라서 톱니를 일일이 들여다보는 행동과 모순됩니다. indifferent(무관심한)도 일에 정성을 쏟는 모습과 어울리지 않아 틀렸습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "When asked about the company's mistakes, the new CEO was refreshingly _______, openly admitting every error the team had made.",
+      "choices": ["evasive", "candid", "secretive", "hesitant", "deceptive"],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 회사의 실수에 관한 질문을 받았을 때, 그 신임 CEO는 보기 드물게 솔직해서(candid) 팀이 저지른 모든 잘못을 거리낌 없이 인정했다.\n해설: 모든 잘못을 숨김없이 인정했다는 단서가 있으므로 candid(솔직한, 정직한)가 정답입니다. evasive(회피하는), secretive(비밀스러운), deceptive(기만적인)는 모두 '거리낌 없이 인정한다'는 행동과 반대되므로 틀렸습니다. hesitant(주저하는)도 openly(거리낌 없이)라는 단서와 모순됩니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Given how rapidly the technology was improving, the replacement of older machines seemed _______, and few employees were surprised when it finally happened.",
+      "choices": ["avoidable", "optional", "inevitable", "unlikely", "temporary"],
+      "answer": [2],
+      "explanation_ko": "문장 해석: 기술이 얼마나 빠르게 발전하고 있는지를 고려하면 구형 기계의 교체는 불가피해 보였고(inevitable), 실제로 그 일이 일어났을 때 놀란 직원은 거의 없었다.\n해설: 기술이 빠르게 발전해 교체가 일어났을 때 아무도 놀라지 않았다는 단서가 있으므로 inevitable(불가피한, 필연적인)이 정답입니다. avoidable(피할 수 있는)과 unlikely(일어날 것 같지 않은)는 정반대 의미이고, optional(선택적인)과 temporary(일시적인)도 '놀라지 않았다'는 필연성의 단서와 맞지 않아 틀렸습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Although she loved her hometown, Maria was _______ to leave for the city, delaying her departure for weeks.",
+      "choices": ["eager", "reluctant", "determined", "content", "ready"],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 마리아는 고향을 사랑했기 때문에 도시로 떠나기를 꺼려서(reluctant) 출발을 몇 주씩이나 미루었다.\n해설: 고향을 사랑해서 출발을 몇 주나 미루었다는 단서가 있으므로 reluctant(꺼리는, 마지못한)가 정답입니다. eager(간절히 바라는)와 ready(준비된)는 떠나는 것을 미룬다는 행동과 모순됩니다. determined(단단히 결심한)도 출발을 미루는 모습과 어울리지 않고, content(만족한)는 떠나기를 망설인 이유를 설명하지 못해 틀렸습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "The antique vase was so _______ that the museum staff handled it with extreme caution, fearing the slightest bump might shatter it.",
+      "choices": ["sturdy", "durable", "fragile", "heavy", "ordinary"],
+      "answer": [2],
+      "explanation_ko": "문장 해석: 그 골동품 꽃병은 너무나 깨지기 쉬워서(fragile) 박물관 직원들은 아주 살짝만 부딪혀도 산산조각 날까 봐 극도로 조심스럽게 다루었다.\n해설: 살짝만 부딪혀도 깨질까 봐 조심해서 다루었다는 단서가 있으므로 fragile(깨지기 쉬운, 약한)이 정답입니다. sturdy(튼튼한)와 durable(내구성 있는)은 정반대 의미입니다. heavy(무거운)는 조심스럽게 다루는 이유처럼 보일 수 있지만 '산산조각 난다'는 단서와는 맞지 않고, ordinary(평범한)도 극도의 주의를 설명하지 못해 틀렸습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Success made the young athlete increasingly _______, and he began to dismiss the advice of the very coaches who had trained him.",
+      "choices": ["humble", "grateful", "arrogant", "modest", "cautious"],
+      "answer": [2],
+      "explanation_ko": "문장 해석: 성공은 그 젊은 운동선수를 점점 더 거만하게(arrogant) 만들었고, 그는 자신을 훈련시킨 바로 그 코치들의 조언마저 무시하기 시작했다.\n해설: 자신을 가르친 코치의 조언까지 무시하기 시작했다는 단서가 있으므로 arrogant(거만한, 오만한)가 정답입니다. humble(겸손한)과 modest(겸손한)는 정반대 의미라서 조언을 무시하는 태도와 모순됩니다. grateful(감사하는)도 은인의 조언을 무시하는 모습과 어울리지 않고, cautious(신중한)는 거만함과 무관해 틀렸습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Despite the complexity of the subject, the textbook's explanations were remarkably _______, allowing beginners to grasp the concepts with ease.",
+      "choices": ["confusing", "lucid", "technical", "lengthy", "dull"],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 그 주제의 복잡함에도 불구하고, 그 교과서의 설명은 놀랍도록 명료해서(lucid) 초보자도 개념을 쉽게 이해할 수 있었다.\n해설: 복잡한 주제인데도 초보자가 쉽게 이해했다는 단서가 있으므로 lucid(명료한, 이해하기 쉬운)가 정답입니다. confusing(혼란스러운)과 dull(따분한)은 쉽게 이해된다는 결과와 정반대입니다. technical(전문적인)과 lengthy(장황한)는 오히려 초보자가 이해하기 어렵게 만드는 특성이라 단서와 모순되어 틀렸습니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "The detective found the suspect's _______ answers frustrating, as every reply seemed designed to conceal more than it revealed.",
+      "choices": ["cryptic", "straightforward", "enigmatic", "honest", "lengthy", "sincere"],
+      "answer": [0, 2],
+      "explanation_ko": "문장 해석: 형사는 용의자의 알쏭달쏭한(cryptic)/수수께끼 같은(enigmatic) 대답이 답답했는데, 모든 답변이 드러내기보다 감추려고 짜인 듯했기 때문이다.\n해설: 모든 답변이 진실을 드러내기보다 감추려는 듯했다는 단서가 있으므로 cryptic(알쏭달쏭한, 모호한)과 enigmatic(수수께끼 같은)이 정답이며, 두 단어는 '이해하기 힘든 대답'이라는 동일한 의미를 만듭니다. straightforward(솔직 명료한), honest(정직한), sincere(진실한)는 '감춘다'는 단서와 정반대입니다. lengthy(장황한)는 형사를 답답하게 할 수도 있지만 짝을 이루는 동의어가 없고 '감춘다'는 핵심 의미와도 달라 틀렸습니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Thanks to the unusually rainy season, fresh produce was _______ at the market, and prices fell to their lowest in years.",
+      "choices": ["scarce", "plentiful", "expensive", "abundant", "limited", "rare"],
+      "answer": [1, 3],
+      "explanation_ko": "문장 해석: 유난히 비가 많이 온 계절 덕분에 신선한 농산물이 시장에 풍부해서(plentiful)/넘쳐나서(abundant) 가격이 수년 만에 최저로 떨어졌다.\n해설: 가격이 수년 만에 최저로 떨어졌다는 것은 공급이 많았다는 뜻이므로 plentiful(풍부한)과 abundant(많은, 풍부한)가 정답이며, 두 단어는 같은 의미의 문장을 만듭니다. scarce(부족한), limited(제한된), rare(드문)는 공급이 적다는 뜻이라 가격 하락과 모순됩니다. expensive(비싼)는 가격이 최저로 떨어졌다는 단서와 정반대라서 틀렸습니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "As the drought wore on, the town's water reserves began to _______, forcing officials to impose strict rationing.",
+      "choices": ["dwindle", "expand", "diminish", "stabilize", "overflow", "increase"],
+      "answer": [0, 2],
+      "explanation_ko": "문장 해석: 가뭄이 계속되면서 그 마을의 물 저장량이 줄어들기(dwindle)/감소하기(diminish) 시작했고, 당국은 엄격한 배급제를 시행할 수밖에 없었다.\n해설: 가뭄이 이어져 엄격한 배급제까지 시행했다는 것은 물이 점점 줄었다는 뜻이므로 dwindle(점점 줄어들다)과 diminish(감소하다)가 정답이며, 두 단어는 같은 의미를 만듭니다. expand(늘어나다), overflow(넘치다), increase(증가하다)는 정반대 의미이고, stabilize(안정되다)는 배급제를 시행할 이유를 설명하지 못해 틀렸습니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "The principal took a moment to _______ the students for their volunteer work, praising their dedication in front of the whole school.",
+      "choices": ["scold", "commend", "criticize", "laud", "dismiss", "ignore"],
+      "answer": [1, 3],
+      "explanation_ko": "문장 해석: 교장은 잠시 시간을 내어 학생들의 봉사 활동에 대해 칭찬하며(commend)/찬사를 보내며(laud), 전교생 앞에서 그들의 헌신을 치하했다.\n해설: 전교생 앞에서 헌신을 치하했다(praising)는 단서가 있으므로 commend(칭찬하다)와 laud(찬양하다)가 정답이며, 두 단어는 '칭찬하다'라는 같은 의미를 만듭니다. scold(꾸짖다), criticize(비판하다), dismiss(묵살하다), ignore(무시하다)는 모두 칭찬과 정반대라서 틀렸습니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Even when dealing with rude customers, the receptionist remained unfailingly _______, greeting everyone with a warm smile.",
+      "choices": ["hostile", "courteous", "rude", "polite", "indifferent", "abrupt"],
+      "answer": [1, 3],
+      "explanation_ko": "문장 해석: 무례한 손님을 상대할 때조차 그 접수원은 한결같이 정중해서(courteous)/예의 바르게(polite) 모두에게 따뜻한 미소로 인사했다.\n해설: 무례한 손님에게도 한결같이 따뜻한 미소로 인사했다는 단서가 있으므로 courteous(정중한)와 polite(예의 바른)가 정답이며, 두 단어는 같은 의미의 문장을 만듭니다. hostile(적대적인), rude(무례한), abrupt(퉁명스러운)는 따뜻한 미소와 정반대입니다. indifferent(무관심한)도 모두에게 미소로 인사하는 태도와 어울리지 않아 틀렸습니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Engineers added steel beams to _______ the aging bridge, ensuring it could safely carry the increased traffic.",
+      "choices": ["weaken", "bolster", "undermine", "reinforce", "dismantle", "damage"],
+      "answer": [1, 3],
+      "explanation_ko": "문장 해석: 기술자들은 노후한 다리를 보강하기(bolster)/강화하기(reinforce) 위해 강철 보를 추가하여 늘어난 교통량을 안전하게 견딜 수 있도록 했다.\n해설: 강철 보를 더해 늘어난 교통량을 안전하게 견디게 했다는 단서가 있으므로 bolster(보강하다, 강화하다)와 reinforce(강화하다)가 정답이며, 두 단어는 같은 의미를 만듭니다. weaken(약화시키다), undermine(약화시키다), damage(손상시키다)는 정반대 의미이고, dismantle(해체하다)은 다리를 안전하게 만든다는 목적과 모순되어 틀렸습니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "The strange symptoms continued to _______ the doctors, none of whom could explain what was causing the patient's illness.",
+      "choices": ["baffle", "reassure", "perplex", "comfort", "enlighten", "satisfy"],
+      "answer": [0, 2],
+      "explanation_ko": "문장 해석: 그 이상한 증상들은 계속해서 의사들을 당혹스럽게 했고(baffle)/혼란스럽게 했으며(perplex), 그 누구도 환자의 병을 무엇이 일으켰는지 설명하지 못했다.\n해설: 어떤 의사도 원인을 설명하지 못했다는 단서가 있으므로 baffle(당혹스럽게 하다)과 perplex(혼란스럽게 하다)가 정답이며, 두 단어는 '갈피를 못 잡게 하다'라는 같은 의미를 만듭니다. reassure(안심시키다), comfort(위로하다), satisfy(만족시키다)는 당혹감과 반대되는 긍정적 반응이고, enlighten(깨닫게 하다)은 '설명하지 못했다'는 단서와 정반대라서 틀렸습니다."
+    }
+  ]
+}

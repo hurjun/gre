@@ -1,0 +1,133 @@
+{
+  "group": "math",
+  "subgroup": "quant",
+  "level": 2,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "In a parking lot the ratio of cars to trucks is 5 to 2, and there are 21 vehicles in total.\n\nQuantity A: the number of cars\nQuantity B: 14",
+      "choices": ["Quantity A is greater", "Quantity B is greater", "The two quantities are equal", "The relationship cannot be determined from the information given"],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 한 주차장에서 자동차와 트럭의 비율(ratio)은 5 대 2이고, 차량은 총 21대입니다. Quantity A는 자동차의 수, Quantity B는 14이며 두 값을 비교하라는 문제입니다.\n해설: ratio(비율) 5 대 2의 합은 7이고 21을 7로 나누면 한 몫이 3입니다. 자동차는 5몫이므로 5 x 3 = 15대이고, 이는 Quantity B의 14보다 큽니다. 따라서 정답은 'Quantity A is greater'입니다. 트럭 수 2 x 3 = 6을 빼서 자동차를 21 - 6 = 15로 구해도 같으며, 전체를 절반으로 나눠 14 근처라고 어림하면 틀립니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "The average (arithmetic mean) of five test scores is 80.\n\nQuantity A: the sum of the five scores\nQuantity B: 420",
+      "choices": ["Quantity A is greater", "Quantity B is greater", "The two quantities are equal", "The relationship cannot be determined from the information given"],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 다섯 개 시험 점수의 평균(average, 산술평균)이 80입니다. Quantity A는 다섯 점수의 합, Quantity B는 420이며 두 값을 비교하라는 문제입니다.\n해설: average(평균) = 합 / 개수이므로 합 = 평균 x 개수 = 80 x 5 = 400입니다. 400은 Quantity B의 420보다 작으므로 정답은 'Quantity B is greater'입니다. 평균과 개수를 더해 85처럼 엉뚱하게 처리하거나 합을 420으로 어림하지 않도록, 합은 반드시 곱으로 구해야 합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Quantity A: 4^2\nQuantity B: 2^4",
+      "choices": ["Quantity A is greater", "Quantity B is greater", "The two quantities are equal", "The relationship cannot be determined from the information given"],
+      "answer": [2],
+      "explanation_ko": "문장 해석: Quantity A는 4^2, Quantity B는 2^4입니다. 두 값을 비교하라는 문제입니다.\n해설: 4^2 = 4 x 4 = 16이고 2^4 = 2 x 2 x 2 x 2 = 16이므로 두 값이 같습니다. 따라서 정답은 'The two quantities are equal'입니다. 밑(base)이 큰 4^2가 당연히 더 클 것이라 직관적으로 판단하면 틀리며, exponent(지수)를 정확히 펼쳐 계산하면 우연히 같아진다는 점이 핵심입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "A jar contains only red and white marbles. The probability of drawing a red marble at random is 2/5.\n\nQuantity A: the number of white marbles in the jar\nQuantity B: 3",
+      "choices": ["Quantity A is greater", "Quantity B is greater", "The two quantities are equal", "The relationship cannot be determined from the information given"],
+      "answer": [3],
+      "explanation_ko": "문장 해석: 한 병에 빨간 구슬과 흰 구슬만 들어 있습니다. 무작위로(at random) 뽑을 때 빨간 구슬일 확률(probability)은 2/5입니다. Quantity A는 흰 구슬의 수, Quantity B는 3이며 두 값을 비교하라는 문제입니다.\n해설: 빨간 구슬 확률이 2/5이므로 흰 구슬 확률은 3/5이지만, 이는 비율(ratio)일 뿐 실제 개수는 정해지지 않습니다. 전체가 5개면 흰 구슬은 3개, 10개면 6개, 15개면 9개가 되어 Quantity B(3)와 같을 수도, 클 수도 있습니다. 따라서 정답은 'The relationship cannot be determined'입니다. 분자/분모 숫자를 그대로 개수로 보아 3으로 단정하면 안 됩니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "A recipe uses flour and sugar in the ratio 4 to 3. If 12 cups of flour are used, how many cups of sugar are needed?",
+      "choices": ["16", "9", "8", "7", "21"],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 한 요리법에서 밀가루와 설탕을 4 대 3의 비율(ratio)로 사용합니다. 밀가루 12컵을 쓴다면 설탕은 몇 컵이 필요합니까?\n해설: 밀가루가 4몫에 해당하는 12컵이므로 한 몫은 12 / 4 = 3컵입니다. 설탕은 3몫이므로 3 x 3 = 9컵입니다. 따라서 정답은 9입니다. 비율을 거꾸로 적용해 12 x 4/3 = 16으로 계산하는 것이 흔한 오답이며, 밀가루가 더 많은 쪽(4)이므로 설탕은 12보다 적어야 한다는 점으로 검산할 수 있습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "The lengths of the sides of a triangle are in the ratio 3 to 4 to 5, and the perimeter of the triangle is 36. What is the length of the longest side?",
+      "choices": ["9", "12", "15", "18", "5"],
+      "answer": [2],
+      "explanation_ko": "문장 해석: 한 삼각형의 세 변의 길이가 3 대 4 대 5의 비율(ratio)을 이루고, 둘레(perimeter)는 36입니다. 가장 긴 변의 길이는 얼마입니까?\n해설: 비율의 합은 3 + 4 + 5 = 12이고 둘레 36을 12로 나누면 한 몫이 3입니다. 가장 긴 변은 5몫이므로 5 x 3 = 15입니다. 따라서 정답은 15입니다. 둘레를 절반으로 나눠 18로 보거나 중간 변(4몫 = 12)을 가장 긴 변으로 착각하지 않도록 주의해야 합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "The average (arithmetic mean) of 4 numbers is 15. When one of the numbers is removed, the average of the remaining 3 numbers is 12. What is the value of the number that was removed?",
+      "choices": ["12", "16", "18", "24", "27"],
+      "answer": [3],
+      "explanation_ko": "문장 해석: 네 수의 평균(average, 산술평균)이 15입니다. 그중 한 수를 제거했더니 남은 세 수의 평균이 12가 되었습니다. 제거된 수의 값은 얼마입니까?\n해설: 처음 네 수의 합은 4 x 15 = 60이고, 남은 세 수의 합은 3 x 12 = 36입니다. 제거된 수는 두 합의 차이인 60 - 36 = 24입니다. 따라서 정답은 24입니다. 두 평균의 차 15 - 12 = 3이나 그 근처 값으로 답하면 틀리며, 반드시 합(sum)으로 바꿔 계산해야 합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Sarah's average (arithmetic mean) score on 3 tests is 84. What score must she earn on a 4th test so that her average for all 4 tests is 86?",
+      "choices": ["86", "88", "90", "92", "94"],
+      "answer": [3],
+      "explanation_ko": "문장 해석: Sarah의 시험 3개 평균(average, 산술평균)이 84입니다. 4개 전체의 평균이 86이 되려면 네 번째 시험에서 몇 점을 받아야 합니까?\n해설: 처음 세 시험의 합은 3 x 84 = 252이고, 네 시험의 합은 4 x 86 = 344여야 합니다. 따라서 네 번째 점수는 344 - 252 = 92입니다. 따라서 정답은 92입니다. 목표 평균 86을 그대로 답하거나 평균 차이만큼인 88로 어림하면 틀리는데, 평균을 2점 올리려면 4개 전체에 8점을 더 채워야 하므로 84 + 8 = 92가 필요합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "An integer is chosen at random from the integers 1 through 20, inclusive. What is the probability that the integer chosen is a multiple of 5?",
+      "choices": ["1/10", "1/5", "1/4", "3/20", "2/5"],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 1부터 20까지(양 끝 포함)의 정수 중에서 하나를 무작위로(at random) 고릅니다. 고른 수가 5의 배수(multiple)일 확률(probability)은 얼마입니까?\n해설: 1부터 20까지 중 5의 multiple(배수)은 5, 10, 15, 20으로 4개이고 전체는 20개이므로 확률은 4/20 = 1/5입니다. 따라서 정답은 1/5입니다. 배수의 개수를 잘못 세거나 5/20를 약분하지 않아 다른 분수로 답하지 않도록 주의해야 합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "A fair coin is flipped twice. What is the probability of getting heads on both flips?",
+      "choices": ["1/8", "1/4", "1/3", "1/2", "3/4"],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 공정한(fair) 동전을 두 번 던집니다. 두 번 모두 앞면(heads)이 나올 확률(probability)은 얼마입니까?\n해설: 한 번 던질 때 앞면이 나올 확률은 1/2이고, 두 번의 던지기는 서로 독립(independent)이므로 확률을 곱합니다. 따라서 1/2 x 1/2 = 1/4입니다. 따라서 정답은 1/4입니다. 두 확률을 더해 1/2로 계산하는 것이 가장 흔한 실수이며, 동시에 일어나야 하는 사건의 확률은 곱해야 합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "If 3^x = 81, what is the value of 3^(x-1)?",
+      "choices": ["9", "27", "78", "80", "243"],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 3^x = 81일 때, 3^(x-1)의 값은 얼마입니까?\n해설: 3^4 = 81이므로 x = 4입니다. 따라서 3^(x-1) = 3^3 = 27입니다. 따라서 정답은 27입니다. exponent(지수)를 1 줄이는 것은 밑(base)인 3으로 한 번 나누는 것과 같아 81 / 3 = 27로도 구할 수 있습니다. 지수에서 1을 빼는 것을 값에서 1을 빼는 것으로 착각해 80으로 답하면 틀립니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "What is the value of 2^3 * 2^2 ?",
+      "choices": ["16", "20", "32", "36", "64"],
+      "answer": [2],
+      "explanation_ko": "문장 해석: 2^3 * 2^2의 값은 얼마입니까?\n해설: 밑(base)이 같은 거듭제곱끼리 곱할 때는 지수를 더하므로 2^3 x 2^2 = 2^(3+2) = 2^5 = 32입니다. 따라서 정답은 32입니다. 직접 계산해도 8 x 4 = 32로 같습니다. 지수를 곱해 2^6 = 64로 계산하는 것이 가장 흔한 오답이므로, exponent(지수)는 곱셈에서 더한다는 규칙에 주의해야 합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "A right triangle has legs of length 6 and 8. What is the length of the hypotenuse?",
+      "choices": ["10", "12", "14", "48", "100"],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 한 직각삼각형(right triangle)의 두 변(legs, 직각을 낀 변)의 길이가 6과 8입니다. 빗변(hypotenuse)의 길이는 얼마입니까?\n해설: 피타고라스 정리(Pythagorean theorem)에 따라 빗변^2 = 6^2 + 8^2 = 36 + 64 = 100이므로 빗변 = sqrt(100) = 10입니다. 따라서 정답은 10입니다. 제곱근(square root)을 빠뜨려 100으로 답하거나 두 변을 그냥 더해 14로 답하는 것이 흔한 실수입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "A store sells notebooks for $3 each, but if a customer buys 5 or more, the price drops to $1 off each notebook. How much do 6 notebooks cost?",
+      "choices": ["11", "12", "15", "17", "18"],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 한 가게는 공책을 한 권에 3달러에 팔지만, 손님이 5권 이상 사면 공책 한 권당 1달러씩 할인됩니다. 공책 6권의 값은 얼마입니까?\n해설: 6권은 5권 이상이므로 할인이 적용되어 한 권당 3 - 1 = 2달러입니다. 따라서 6 x 2 = 12달러입니다. 따라서 정답은 12입니다. 할인을 적용하지 않고 6 x 3 = 18달러로 계산하거나, 전체에서 1달러만 빼 17달러로 두는 것이 흔한 함정입니다. 할인은 권당 적용된다는 점이 핵심입니다."
+    }
+  ]
+}

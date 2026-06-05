@@ -1,0 +1,133 @@
+{
+  "group": "math",
+  "subgroup": "quant",
+  "level": 3,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "It is given that 2 < x < 8 and 1 < y < 4.\nQuantity A: x - y\nQuantity B: 3",
+      "choices": ["Quantity A is greater", "Quantity B is greater", "The two quantities are equal", "The relationship cannot be determined from the information given"],
+      "answer": [3],
+      "explanation_ko": "문장 해석: 2 < x < 8 이고 1 < y < 4 일 때, Quantity A는 x - y, Quantity B는 3 이다.\n해설: x - y의 가능한 범위를 따져야 한다. x - y가 가장 작아지는 경우는 x가 최소, y가 최대일 때로 2 - 4 = -2 에 가깝고, 가장 커지는 경우는 x가 최대, y가 최소일 때로 8 - 1 = 7 에 가깝다. 따라서 x - y는 3보다 작을 수도, 클 수도 있으므로 대소 관계가 하나로 정해지지 않는다(cannot be determined=결정 불가). 두 변수의 한쪽 끝값만 보고 성급히 비교하는 것이 가장 흔한 실수다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Quantity A: (2^5)(2^3)\nQuantity B: 4^4",
+      "choices": ["Quantity A is greater", "Quantity B is greater", "The two quantities are equal", "The relationship cannot be determined from the information given"],
+      "answer": [2],
+      "explanation_ko": "문장 해석: Quantity A는 (2^5)(2^3), Quantity B는 4^4 이다.\n해설: 밑이 같은 거듭제곱의 곱은 지수를 더한다(exponent rule=지수 법칙). Quantity A = 2^(5+3) = 2^8 = 256 이다. Quantity B = 4^4 = (2^2)^4 = 2^8 = 256 이므로 두 값은 같다. 지수를 곱해서 2^15로 계산하거나 4^4를 2^6으로 착각하는 것이 흔한 오답 원인이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "A square has perimeter 16, and a circle has circumference 16.\nQuantity A: the area of the circle\nQuantity B: the area of the square",
+      "choices": ["Quantity A is greater", "Quantity B is greater", "The two quantities are equal", "The relationship cannot be determined from the information given"],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 정사각형의 둘레가 16이고 원의 둘레(circumference=원주)가 16일 때, Quantity A는 원의 넓이, Quantity B는 정사각형의 넓이이다.\n해설: 정사각형의 한 변은 16/4 = 4 이므로 넓이는 4^2 = 16 이다. 원은 2*pi*r = 16 에서 r = 8/pi 이고, 넓이는 pi*r^2 = pi*(8/pi)^2 = 64/pi ≈ 20.4 이다. 둘레가 같을 때 원이 정사각형보다 넓이가 크므로 Quantity A가 더 크다. 둘레가 같으면 넓이도 같다고 생각하는 것이 가장 흔한 실수다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "A solution is made by mixing 4 liters of a 30% acid solution with 6 liters of a 50% acid solution.\nQuantity A: the percent concentration of acid in the resulting mixture\nQuantity B: 40%",
+      "choices": ["Quantity A is greater", "Quantity B is greater", "The two quantities are equal", "The relationship cannot be determined from the information given"],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 30% 산 용액 4리터와 50% 산 용액 6리터를 섞을 때, Quantity A는 만들어진 혼합물의 산 농도(%), Quantity B는 40%이다.\n해설: 가중평균(weighted average=가중평균)으로 계산한다. 산의 양은 4*0.30 + 6*0.50 = 1.2 + 3.0 = 4.2 리터이고 전체는 10리터이므로 농도는 4.2/10 = 42% 이다. 따라서 Quantity A(42%)가 Quantity B(40%)보다 크다. 두 농도를 단순 평균하여 (30+50)/2 = 40%로 보는 것이 함정인데, 양이 많은 쪽(6리터, 50%)에 더 큰 가중치가 실려 평균이 40%보다 위로 올라간다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "If -3 <= x <= 4 and -5 <= y <= 2, what is the greatest possible value of xy?",
+      "choices": ["8", "15", "-20", "20", "6"],
+      "answer": [1],
+      "explanation_ko": "문장 해석: -3 <= x <= 4 이고 -5 <= y <= 2 일 때, xy의 가능한 최댓값은 얼마인가?\n해설: 곱이 최대가 되는 경우는 끝값(endpoint)들의 조합에서 나온다. (-3)(-5)=15, (4)(2)=8, (-3)(2)=-6, (4)(-5)=-20 이므로 최댓값은 15이다. 두 음수의 곱이 가장 큰 양수가 된다는 점이 핵심이다. 양수 끝값끼리 곱한 8을 답으로 고르는 것이 가장 흔한 실수다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "If 2^(x+3) = 32, what is the value of 2^x?",
+      "choices": ["2", "4", "8", "16", "32"],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 2^(x+3) = 32 일 때, 2^x의 값은 얼마인가?\n해설: 32 = 2^5 이므로 x + 3 = 5, 즉 x = 2 이다. 따라서 2^x = 2^2 = 4 이다. 또는 2^(x+3) = 2^x * 2^3 = 8 * 2^x = 32 에서 2^x = 4 로 바로 구할 수도 있다. x의 값인 2를 답으로 고르는 것이 흔한 실수다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "If 9^x = 27^(x - 1), what is the value of x?",
+      "choices": ["1", "2", "3", "6", "9"],
+      "answer": [2],
+      "explanation_ko": "문장 해석: 9^x = 27^(x - 1) 일 때, x의 값은 얼마인가?\n해설: 밑을 3으로 통일한다. 9 = 3^2, 27 = 3^3 이므로 3^(2x) = 3^(3(x-1)) 이고, 지수를 비교하면 2x = 3(x - 1) = 3x - 3 이다. 정리하면 x = 3 이다. 밑을 같게 맞추지 않고 지수만 단순 비교하는 것이 흔한 오류다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "A circle is inscribed in a square whose side length is 10. What is the area of the region that is inside the square but outside the circle?",
+      "choices": ["100 - 50pi", "100 - 25pi", "100 - 100pi", "25pi", "100 - 10pi"],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 한 변의 길이가 10인 정사각형에 원이 내접(inscribed=내접)해 있다. 정사각형 안쪽이면서 원 바깥쪽인 영역의 넓이는 얼마인가?\n해설: 정사각형의 넓이는 10^2 = 100 이다. 내접원의 지름은 정사각형의 한 변과 같은 10이므로 반지름은 5이고, 원의 넓이는 pi*5^2 = 25pi 이다. 따라서 구하는 영역의 넓이는 100 - 25pi 이다. 반지름을 10으로 잘못 보아 100 - 100pi로 계산하는 것이 흔한 실수다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "The measures of the interior angles of a convex polygon sum to 1080 degrees. How many sides does the polygon have?",
+      "choices": ["6", "7", "8", "9", "10"],
+      "answer": [2],
+      "explanation_ko": "문장 해석: 볼록 다각형(convex polygon)의 내각(interior angle=내각)의 합이 1080도이다. 이 다각형의 변은 몇 개인가?\n해설: n각형의 내각의 합은 (n - 2)*180 이다. (n - 2)*180 = 1080 에서 n - 2 = 6, 따라서 n = 8 이다. 1080을 180으로만 나누어 6을 답으로 고르는 것이 흔한 실수다(빼기 2를 빠뜨림)."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "A committee of 2 people is to be selected from a group of 6 people. How many different committees are possible?",
+      "choices": ["12", "15", "30", "36", "720"],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 6명 중에서 2명으로 구성된 위원회(committee)를 뽑는다. 서로 다른 위원회는 몇 가지 가능한가?\n해설: 순서가 중요하지 않은 선택이므로 조합(combination)을 쓴다. C(6, 2) = (6*5)/(2*1) = 15 이다. 순서를 고려한 순열 6*5 = 30을 답으로 고르는 것이 가장 흔한 실수인데, 위원회는 두 사람의 순서를 구분하지 않으므로 2로 나눠야 한다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "A code consists of two distinct letters (A through Z) followed by one digit (0 through 9). How many different codes are possible?",
+      "choices": ["650", "6500", "6760", "13000", "17576"],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 어떤 코드는 서로 다른(distinct=서로 다른) 두 개의 알파벳(A부터 Z)과 그 뒤의 한 개의 숫자(0부터 9)로 이루어진다. 가능한 코드는 몇 가지인가?\n해설: 첫 글자는 26가지, 둘째 글자는 첫 글자와 달라야 하므로 25가지, 숫자는 10가지이다. 따라서 26*25*10 = 6500 가지이다. 두 글자가 같아도 된다고 보고 26*26*10 = 6760으로 계산하는 것이 흔한 실수다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "On an exam, 20 students scored an average of 75, and a different group of 30 students scored an average of 85. What is the average score of all 50 students?",
+      "choices": ["79", "80", "81", "82", "160"],
+      "answer": [2],
+      "explanation_ko": "문장 해석: 어떤 시험에서 20명의 학생이 평균 75점, 다른 30명의 학생이 평균 85점을 받았다. 50명 전체의 평균 점수는 얼마인가?\n해설: 가중평균(weighted average)이다. 점수의 총합은 20*75 + 30*85 = 1500 + 2550 = 4050 이고, 전체 인원은 50명이므로 평균은 4050/50 = 81 이다. 두 평균을 단순 평균하여 (75+85)/2 = 80으로 보는 것이 함정인데, 인원이 많은 85점 그룹 쪽으로 평균이 치우친다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "A household's monthly budget of $4,000 is divided as follows: Rent 35%, Food 20%, Transportation 15%, Savings 18%, and Other 12%. How many dollars more is allocated to Rent than to Savings?",
+      "choices": ["17", "320", "680", "720", "1400"],
+      "answer": [2],
+      "explanation_ko": "문장 해석: 어떤 가계의 월 예산 $4,000이 임대료(Rent) 35%, 식비 20%, 교통비 15%, 저축(Savings) 18%, 기타 12%로 나뉜다. 임대료에 배정된 금액은 저축보다 몇 달러 더 많은가?\n해설: 비율 차이는 35% - 18% = 17% 이고, 이를 전체 예산에 적용하면 0.17 * 4000 = 680 달러이다. 또는 임대료 1400달러에서 저축 720달러를 빼도 680달러로 같다. 퍼센트 차이 17을 그대로 답(17달러)으로 고르는 것이 흔한 실수로, 반드시 전체 금액에 곱해야 한다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "A company's annual revenue increased from $250,000 in 2020 to $300,000 in 2021. What was the percent increase in revenue?",
+      "choices": ["16.67%", "20%", "25%", "50%", "17%"],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 한 회사의 연간 매출(revenue)이 2020년 $250,000에서 2021년 $300,000으로 증가했다. 매출의 증가율(percent increase)은 얼마인가?\n해설: 증가율은 (변화량)/(원래 값)으로 계산한다. (300,000 - 250,000)/250,000 = 50,000/250,000 = 0.20 = 20% 이다. 분모로 처음 값이 아니라 나중 값 300,000을 써서 16.67%로 계산하는 것이 가장 흔한 실수다."
+    }
+  ]
+}

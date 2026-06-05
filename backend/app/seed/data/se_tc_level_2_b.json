@@ -1,0 +1,133 @@
+{
+  "group": "verbal",
+  "subgroup": "se_tc",
+  "level": 2,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "The new pedestrian bridge was engineered to be exceptionally _______, designed to withstand a century of heavy use without major repairs.",
+      "choices": ["durable", "ornamental", "fragile", "temporary", "obsolete"],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 새 보행자 다리는 대규모 수리 없이 100년간의 혹독한 사용을 견디도록 설계되어, 대단히 내구성 있게(durable) 만들어졌다.\n해설: 빈칸 뒤의 'designed to withstand a century of heavy use without major repairs(대규모 수리 없이 100년의 사용을 견디도록 설계된)'가 직접적인 단서입니다. 따라서 durable(내구성 있는, 오래가는)이 정답입니다. 가장 헷갈리는 fragile(부서지기 쉬운)과 temporary(임시의)는 정반대 의미라서 틀렸고, ornamental(장식용의)은 견고함이 아니라 외형과 관련된 단어라 부적절합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Far from the _______ leader his rivals had portrayed, the mayor proved willing to compromise on nearly every contested issue.",
+      "choices": ["intransigent", "accommodating", "charismatic", "accountable", "popular"],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 시장은 경쟁자들이 묘사했던 완고한(intransigent) 지도자와는 거리가 멀어, 거의 모든 쟁점에서 기꺼이 타협하는 모습을 보였다.\n해설: 'Far from ~(~와는 거리가 먼)' 구문이므로, 빈칸에는 'willing to compromise on nearly every contested issue(거의 모든 쟁점에서 타협하려는)'와 반대되는 단어가 와야 합니다. 정답은 intransigent(완고한, 비타협적인)입니다. accommodating(잘 받아주는, 협조적인)을 넣으면 '타협적인 지도자와 거리가 먼데 타협했다'는 모순이 되어 틀렸고, charismatic(카리스마 있는)은 타협 여부와 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "The biography is refreshingly _______, neither glorifying its subject nor glossing over his numerous failings.",
+      "choices": ["evenhanded", "laudatory", "fictional", "exhaustive", "partisan"],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 그 전기는 주인공을 미화하지도 그의 수많은 결점을 덮지도 않아, 보기 드물게 공정하다(evenhanded).\n해설: 'neither glorifying its subject nor glossing over his numerous failings(미화하지도 결점을 덮지도 않는다)'가 빈칸을 양쪽으로 설명하는 단서입니다. 따라서 어느 한쪽에 치우치지 않는 evenhanded(공정한, 균형 잡힌)가 정답입니다. laudatory(찬양하는)와 partisan(편파적인)은 한쪽으로 치우친다는 뜻이라 단서와 모순되어 틀렸고, exhaustive(철저한, 빠짐없는)는 분량에 관한 단어라 부적절합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Critics dismissed the sequel as utterly _______, complaining that it merely recycled plot points from a dozen earlier films.",
+      "choices": ["derivative", "innovative", "suspenseful", "controversial", "polished"],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 비평가들은 그 속편이 단지 이전 영화 십여 편의 줄거리를 재탕했을 뿐이라고 불평하며, 완전히 독창성이 없다고(derivative) 일축했다.\n해설: 'merely recycled plot points from a dozen earlier films(이전 영화 십여 편의 줄거리를 그저 재탕했다)'가 단서이므로, 빈칸에는 독창성이 없다는 의미가 와야 합니다. 정답은 derivative(독창성 없는, 모방적인)입니다. innovative(혁신적인)는 정반대 의미라 틀렸고, controversial(논란이 많은)은 줄거리 재탕이라는 비판의 근거와 직접 연결되지 않습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Because the witness's account was so _______, shifting key details each time she retold it, the jury found her testimony difficult to credit.",
+      "choices": ["inconsistent", "compelling", "detailed", "succinct", "plausible"],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 그 증인의 진술은 다시 말할 때마다 핵심 세부 사항이 바뀔 만큼 일관성이 없어서(inconsistent), 배심원단은 그녀의 증언을 믿기 어려워했다.\n해설: 'shifting key details each time she retold it(다시 말할 때마다 핵심 세부 사항이 바뀐다)'가 빈칸을 직접 설명하고, 배심원이 믿기 어려워했다는 결과로 이어집니다. 따라서 inconsistent(일관성 없는, 모순되는)가 정답입니다. compelling(설득력 있는)과 plausible(그럴듯한)은 오히려 신뢰를 높이는 단어라 결과와 모순되고, detailed(상세한)는 세부 사항이 '바뀐다'는 단서와 어울리지 않습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "The professor's lectures were so _______ that even students with no background in physics left feeling they had grasped the material.",
+      "choices": ["accessible", "abstruse", "tedious", "disorganized", "protracted"],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 그 교수의 강의는 너무 이해하기 쉬워서(accessible), 물리학 배경 지식이 전혀 없는 학생들조차 내용을 이해했다고 느끼며 강의실을 나섰다.\n해설: 'even students with no background in physics left feeling they had grasped the material(배경 지식이 없는 학생조차 내용을 이해했다고 느꼈다)'가 결과로 제시된 단서입니다. 따라서 강의가 accessible(이해하기 쉬운, 접근성 좋은)했다는 것이 정답입니다. abstruse(난해한)는 정반대 의미라 틀렸고, tedious(지루한)와 disorganized(체계 없는)는 이해도가 높았다는 결과와 어울리지 않습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Once dismissed as a _______ fad, the diagnostic technique has since become indispensable to modern medicine.",
+      "choices": ["transient", "enduring", "revolutionary", "costly", "hazardous"],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 한때 일시적인(transient) 유행으로 치부되던 그 진단 기법은 이후 현대 의학에 없어서는 안 될 것이 되었다.\n해설: 'Once ~, has since become indispensable(한때는 ~였지만 이후 필수적인 것이 되었다)' 구조로, 빈칸에는 현재의 '필수적임'과 대비되는 단어가 필요합니다. 또한 'fad(일시적 유행)'라는 단어와 호응하여 transient(일시적인, 덧없는)가 정답입니다. enduring(오래가는)은 'fad'와 모순되고 대비 구조도 깨뜨려 틀렸으며, revolutionary(혁명적인)는 폄하의 맥락과 어울리지 않습니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "The author's tone throughout the memoir is surprisingly _______, given the wrenching events she recounts.",
+      "choices": ["buoyant", "somber", "upbeat", "bitter", "detached", "formal"],
+      "answer": [0, 2],
+      "explanation_ko": "문장 해석: 그 회고록 전반에 걸친 작가의 어조는 그녀가 이야기하는 가슴 아픈 사건들을 고려하면 놀라울 만큼 밝다(buoyant/upbeat).\n해설: 'surprisingly(놀랍게도)'와 'given the wrenching events(가슴 아픈 사건들을 고려하면)'가 단서로, 비극적 내용과 대비되어 '놀라울' 만한 밝은 어조가 필요합니다. buoyant(쾌활한)와 upbeat(낙관적이고 밝은)가 동등한 의미의 정답 쌍입니다. somber(침울한)와 bitter(씁쓸한)는 비극적 사건에 어울리는 어조라 '놀랍다'는 단서와 모순되어 틀렸고, detached(초연한)와 formal(격식 있는)은 서로 동의어가 아니며 단서와도 무관합니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "The review board praised the report for its _______ analysis, which cut straight to the heart of a notoriously tangled problem.",
+      "choices": ["incisive", "superficial", "penetrating", "convoluted", "verbose", "tentative"],
+      "answer": [0, 2],
+      "explanation_ko": "문장 해석: 심사 위원회는 악명 높게 얽힌 문제의 핵심을 곧장 파고든 그 보고서의 예리한(incisive/penetrating) 분석을 칭찬했다.\n해설: 'cut straight to the heart of a notoriously tangled problem(악명 높게 얽힌 문제의 핵심을 곧장 파고들었다)'가 단서이고 'praised(칭찬했다)'는 긍정적 평가이므로, 분석이 예리했다는 의미가 필요합니다. incisive(예리한, 통찰력 있는)와 penetrating(꿰뚫는, 예리한)이 동등한 의미의 정답 쌍입니다. superficial(피상적인)과 convoluted(복잡하게 뒤얽힌)는 핵심을 파고들었다는 단서와 정반대라 틀렸고, verbose(장황한)는 칭찬의 맥락에 맞지 않습니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "His _______ manner put newcomers at ease and made it difficult for anyone to stay annoyed with him for long.",
+      "choices": ["affable", "abrasive", "genial", "aloof", "devious", "pompous"],
+      "answer": [0, 2],
+      "explanation_ko": "문장 해석: 그의 상냥한(affable/genial) 태도는 새로 온 사람들을 편안하게 해 주었고, 누구든 그에게 오래 짜증을 내기 어렵게 만들었다.\n해설: 'put newcomers at ease(새로 온 사람들을 편안하게 했다)'와 '오래 짜증 내기 어렵게 했다'는 단서로 보아, 빈칸에는 다정한 성격을 뜻하는 단어가 필요합니다. affable(상냥한, 붙임성 있는)과 genial(다정한, 친절한)이 동등한 의미의 정답 쌍입니다. abrasive(거슬리는)와 aloof(쌀쌀맞은)는 정반대 성격이라 틀렸고, devious(교활한)와 pompous(거만한)도 호감 가는 태도와는 거리가 멀어 부적절합니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "The general's decision to retreat, harshly criticized at the time, now seems _______ in light of the enemy's overwhelming numbers.",
+      "choices": ["judicious", "reckless", "prudent", "cowardly", "premature", "arbitrary"],
+      "answer": [0, 2],
+      "explanation_ko": "문장 해석: 당시에는 혹독하게 비판받았던 장군의 후퇴 결정은, 압도적인 적의 수를 고려하면 이제 현명해(judicious/prudent) 보인다.\n해설: 'harshly criticized at the time, now seems ~(당시에는 비판받았지만 지금은 ~해 보인다)'라는 반전 구조와 'in light of the enemy's overwhelming numbers(압도적인 적의 수를 고려하면)'라는 단서로 보아, 그 결정이 현명했다는 긍정적 재평가가 필요합니다. judicious(현명한, 분별 있는)와 prudent(신중한, 사려 깊은)가 동등한 의미의 정답 쌍입니다. reckless(무모한)와 cowardly(비겁한)는 당시의 비판에 해당할 뿐 재평가 내용으로는 모순되어 틀렸습니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Investors grew increasingly _______ as quarterly losses mounted and the firm's debt continued to climb.",
+      "choices": ["apprehensive", "complacent", "uneasy", "jubilant", "indifferent", "resolute"],
+      "answer": [0, 2],
+      "explanation_ko": "문장 해석: 분기 손실이 쌓이고 회사의 부채가 계속 늘어나면서 투자자들은 점점 더 불안해했다(apprehensive/uneasy).\n해설: 'quarterly losses mounted and the firm's debt continued to climb(분기 손실이 쌓이고 부채가 계속 늘었다)'는 악화되는 상황이 단서이므로, 투자자들이 불안을 느꼈다는 의미가 필요합니다. apprehensive(불안해하는, 걱정하는)와 uneasy(불안한, 마음이 편치 않은)가 동등한 의미의 정답 쌍입니다. complacent(자기만족적인)와 indifferent(무관심한)는 악화 상황에 대한 반응으로 부자연스럽고, jubilant(기뻐하는)는 정반대라서 틀렸습니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "The water-damaged handwriting in the diary was so _______ that scholars could make out only a few scattered words.",
+      "choices": ["illegible", "ornate", "unreadable", "archaic", "faint", "cramped"],
+      "answer": [0, 2],
+      "explanation_ko": "문장 해석: 일기장의 물에 손상된 필체는 너무 알아볼 수 없어서(illegible/unreadable), 학자들은 띄엄띄엄 몇 단어만 겨우 알아낼 수 있었다.\n해설: 'scholars could make out only a few scattered words(학자들이 띄엄띄엄 몇 단어만 겨우 알아냈다)'가 결과로 제시된 단서이므로, 글씨를 읽을 수 없었다는 의미가 필요합니다. illegible(읽기 어려운, 판독 불가한)과 unreadable(읽을 수 없는)이 동등한 의미의 정답 쌍입니다. faint(희미한)는 그럴듯해 보이지만 unreadable과 동의어가 아니라 짝을 이루지 못하고, ornate(화려한)나 archaic(고풍스러운)은 가독성과 무관해 틀렸습니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Rather than punish the rebellious province, the emperor adopted a _______ policy, granting amnesty to all who laid down their arms.",
+      "choices": ["merciful", "punitive", "lenient", "ruthless", "ambivalent", "decisive"],
+      "answer": [0, 2],
+      "explanation_ko": "문장 해석: 황제는 반란을 일으킨 속주를 처벌하는 대신, 무기를 내려놓는 모든 이에게 사면을 베푸는 관대한(merciful/lenient) 정책을 채택했다.\n해설: 'Rather than punish(처벌하는 대신)'과 'granting amnesty to all who laid down their arms(무기를 내려놓는 모두에게 사면을 베푼다)'가 단서로, 처벌과 반대되는 관대한 정책이 필요합니다. merciful(자비로운)과 lenient(관대한, 너그러운)가 동등한 의미의 정답 쌍입니다. punitive(징벌적인)와 ruthless(무자비한)는 'Rather than punish'와 정반대라 틀렸고, ambivalent(양면적인)나 decisive(단호한)는 사면이라는 단서와 직접 연결되지 않습니다."
+    }
+  ]
+}

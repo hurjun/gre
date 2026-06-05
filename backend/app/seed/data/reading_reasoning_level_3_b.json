@@ -1,0 +1,217 @@
+{
+  "group": "verbal",
+  "subgroup": "reading_reasoning",
+  "level": 3,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Cuttlefish, along with octopuses and squid, are among the most accomplished masters of camouflage in the animal kingdom, matching the colors of their surroundings within seconds. This talent presents a puzzle, for the eyes of these animals contain only a single type of light-sensitive pigment, which should render them colorblind. How can a creature that cannot perceive color reproduce it so precisely? One proposal points to the peculiar shape of the cuttlefish pupil, which may split incoming light into its component wavelengths in a way that lets the animal infer color from how sharply different hues come into focus. Another notes that the skin itself contains light-sensitive proteins, raising the possibility that a cuttlefish in some sense sees with its skin. Neither explanation is yet confirmed, but both suggest that the animal gathers color information by means quite unlike those of the human eye.",
+      "question_text": "It can be inferred from the passage that the \"puzzle\" referred to is the difficulty of explaining how a cuttlefish can",
+      "choices": [
+        "match the colors of its surroundings despite apparently lacking the ability to perceive color",
+        "change its color more rapidly than other animals are able to",
+        "possess only a single type of light-sensitive pigment in its eyes",
+        "use proteins in its skin rather than its eyes to detect light",
+        "escape predators in environments containing many different colors"
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 갑오징어(cuttlefish)는 문어, 오징어와 함께 동물계에서 가장 뛰어난 위장(camouflage)의 명수에 속하며, 몇 초 만에 주변의 색에 맞춘다. 이 재능은 하나의 수수께끼를 던지는데, 이 동물들의 눈에는 빛에 민감한 색소가 단 한 종류만 들어 있어 색맹이어야 하기 때문이다. 색을 지각하지 못하는 생물이 어떻게 그토록 정밀하게 색을 재현할 수 있을까? 한 가설은 갑오징어 동공의 독특한 모양에 주목하는데, 그것이 들어오는 빛을 구성 파장으로 분리해, 서로 다른 색조가 얼마나 또렷하게 초점이 맞는지로부터 색을 추론하게 해줄지도 모른다고 본다. 다른 가설은 피부 자체에 빛에 민감한 단백질이 들어 있어, 갑오징어가 어떤 의미에서 피부로 본다는 가능성을 제기한다. 어느 설명도 아직 확증되지 않았지만, 둘 다 이 동물이 인간의 눈과는 사뭇 다른 방식으로 색 정보를 얻음을 시사한다. (질문: 지문에서 언급된 '수수께끼'는 갑오징어가 무엇을 할 수 있는지를 설명하는 어려움이라고 추론할 수 있는가?)\n해설: 지문은 갑오징어가 색맹이어야 함에도(단일 색소) 주변 색을 정밀하게 재현한다는 점을 'puzzle(수수께끼)'로 제시하므로, '색을 지각하는 능력이 없어 보임에도 주변 색을 맞춘다'가 정답입니다. '단일 색소만 가진다'는 보기는 수수께끼의 원인 사실일 뿐 수수께끼 자체가 아니며, '피부로 빛을 감지한다'는 것은 수수께끼가 아니라 제안된 해결책 중 하나이므로 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "When coffeehouses first appeared in seventeenth-century London, they were often dismissed by critics as idle resorts where men squandered their hours in gossip. Yet these establishments quickly became something more consequential. For the price of a single cup, a patron could read the latest newssheets, listen to merchants discuss the prices of distant commodities, and join debates on politics and natural philosophy. Particular coffeehouses came to specialize: one near the docks attracted shipowners and underwriters, whose informal arrangements there eventually grew into a great insurance market; another drew men of science who would later help found learned societies. Far from being mere dens of idleness, the coffeehouses functioned as engines of commerce and inquiry, circulating information among people who might otherwise never have crossed paths.",
+      "question_text": "The author mentions the coffeehouse near the docks primarily in order to",
+      "choices": [
+        "show that coffeehouses were more popular among merchants than among men of science",
+        "provide an example of how a coffeehouse gave rise to an enduring commercial institution",
+        "argue that the insurance market could not have developed without the sale of coffee",
+        "explain why critics regarded the coffeehouses as dens of idleness",
+        "contrast the interests of shipowners with those of natural philosophers"
+      ],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 17세기 런던에 커피하우스가 처음 등장했을 때, 비판자들은 흔히 그것을 사람들이 잡담으로 시간을 허비하는 한가한 장소라고 무시했다. 그러나 이 가게들은 곧 더 중대한 무언가가 되었다. 커피 한 잔 값으로 손님은 최신 소식지를 읽고, 상인들이 먼 지역 상품의 가격을 논하는 것을 듣고, 정치와 자연철학 논쟁에 끼어들 수 있었다. 특정 커피하우스는 전문화되었다. 부두 근처의 한 곳은 선주와 보험업자를 끌어들였고, 그곳에서 맺어진 비공식적 합의는 결국 거대한 보험 시장으로 성장했다. 또 다른 곳은 훗날 학회 창설을 돕게 될 과학자들을 모았다. 한가함의 소굴이기는커녕, 커피하우스는 상업과 탐구의 엔진으로 기능하며 그러지 않았다면 결코 마주치지 못했을 사람들 사이에 정보를 순환시켰다. (질문: 저자가 부두 근처 커피하우스를 언급한 주된 이유는?)\n해설: 부두 근처 커피하우스의 비공식적 합의가 '거대한 보험 시장으로 성장했다'는 서술은, 커피하우스가 오래 지속되는 상업 제도(commercial institution)를 낳은 사례를 보여주려는 것이므로 두 번째 보기가 정답입니다. '커피 판매 없이는 보험 시장이 생길 수 없었다'는 보기는 지문이 주장하지 않는 인과적 단정(too strong)이라 오답입니다. 상인과 과학자의 인기 비교 역시 지문의 의도가 아닙니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Lichens, the crusty growths that mottle tree bark and bare stone, are not single organisms but partnerships between a fungus and an alga. Because they draw their nutrients directly from rainwater and the surrounding air rather than from soil, lichens absorb whatever pollutants the atmosphere happens to carry. Many species are exquisitely sensitive to sulfur dioxide, a common product of industrial combustion, and they wither in its presence. Surveys of the lichens growing in a region can therefore serve as a record of its air quality: where pollution-tolerant species predominate and delicate ones are absent, the air has likely been fouled. Because lichens grow slowly and persist for decades, such a survey reveals not a single moment's reading but the cumulative condition of the air over many years.",
+      "question_text": "It can be inferred from the passage that lichens are especially useful as indicators of long-term air quality partly because they",
+      "choices": [
+        "consist of a fungus and an alga living in partnership",
+        "are able to grow on both tree bark and bare stone",
+        "draw their nutrients from the soil rather than from the air",
+        "are long-lived and so accumulate the effects of pollution over many years",
+        "are equally sensitive to every pollutant carried by the atmosphere"
+      ],
+      "answer": [3],
+      "explanation_ko": "문장 해석: 나무 껍질과 맨 바위에 얼룩을 이루며 자라는 딱지 모양의 생물인 지의류(lichen)는 단일 생물이 아니라 균류와 조류의 동반 관계다. 지의류는 토양이 아니라 빗물과 주변 공기에서 직접 양분을 얻기 때문에, 대기가 실어 나르는 오염물질이라면 무엇이든 흡수한다. 많은 종이 산업 연소의 흔한 산물인 이산화황에 극도로 민감해 그것이 있으면 시들어 버린다. 따라서 한 지역에 자라는 지의류 조사는 그곳 공기 질의 기록이 될 수 있다. 오염에 강한 종이 우세하고 연약한 종이 없는 곳이라면 공기가 오염되었을 가능성이 크다. 지의류는 느리게 자라며 수십 년을 버티기 때문에, 그런 조사는 한순간의 측정값이 아니라 여러 해에 걸친 공기의 누적된 상태를 드러낸다. (질문: 지의류가 장기 공기 질의 지표로 특히 유용한 이유의 일부는 무엇이라고 추론할 수 있는가?)\n해설: 지문 마지막 문장은 지의류가 느리게 자라고 수십 년을 살아 '여러 해에 걸친 누적된(cumulative)' 공기 상태를 드러낸다고 하므로, '오래 살아 여러 해에 걸친 오염의 영향을 축적한다'가 정답입니다. '모든 오염물질에 똑같이 민감하다'는 보기는 지문이 이산화황에 특히 민감하다고만 한 것과 어긋나며(too strong), 균류와 조류의 동반 관계라는 사실은 장기 지표 기능과 직접 연결되지 않으므로 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Some art historians have argued that the Dutch painter Johannes Vermeer used a camera obscura, an optical device that projects a scene onto a flat surface, to achieve the startling realism of his interiors. They point to certain features of his paintings, such as the soft halos around bright highlights and the slightly exaggerated foregrounds, that resemble the optical signatures such a device would produce. Skeptics counter that no document of the period records Vermeer owning such an instrument, and that a sufficiently skilled painter could have rendered these effects through patient observation alone. The debate may never be settled, since the surviving evidence is entirely circumstantial. What seems clear, however, is that resolving it would tell us little about the paintings' worth: whether Vermeer traced a projection or trusted his own eye, the discipline and judgment evident in the finished work remain unmistakably his.",
+      "question_text": "The author's main point in the final sentence is that",
+      "choices": [
+        "Vermeer almost certainly did not make use of a camera obscura",
+        "the question of which method Vermeer used has little bearing on the artistic merit of his paintings",
+        "circumstantial evidence can never be sufficient to settle a historical dispute",
+        "skilled painters of Vermeer's time rarely relied on optical devices",
+        "the soft halos in Vermeer's paintings prove that he traced a projection"
+      ],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 일부 미술사가들은 네덜란드 화가 요하네스 페르메이르(Johannes Vermeer)가 장면을 평면에 투영하는 광학 장치인 카메라 옵스쿠라(camera obscura)를 써서 실내화의 놀라운 사실성을 얻었다고 주장해 왔다. 그들은 밝은 하이라이트 주위의 부드러운 후광이나 약간 과장된 전경처럼, 그런 장치가 만들어 낼 광학적 흔적을 닮은 그림의 특징들을 지목한다. 회의론자들은 그 시대의 어떤 문서도 페르메이르가 그런 기구를 소유했다고 기록하지 않으며, 충분히 숙련된 화가라면 인내심 있는 관찰만으로도 이런 효과를 낼 수 있었다고 반박한다. 남은 증거가 전적으로 정황적이기에 이 논쟁은 결코 결판나지 않을지도 모른다. 그러나 분명해 보이는 것은, 그것을 해결한들 그림의 가치에 대해 알려 주는 바가 거의 없다는 점이다. 페르메이르가 투영을 따라 그렸든 자신의 눈을 믿었든, 완성된 작품에 드러난 절제와 판단력은 틀림없이 그의 것이다. (질문: 마지막 문장에서 저자의 핵심 논점은?)\n해설: 마지막 문장은 페르메이르가 어떤 방법을 썼는지가 그림의 가치(worth/merit)에 대해 알려 주는 바가 거의 없다고 말하므로, '어떤 방법을 썼는지의 문제는 작품의 예술적 가치와 거의 무관하다'가 정답입니다. '거의 확실히 카메라 옵스쿠라를 쓰지 않았다'는 보기는 저자가 논쟁의 결판을 짓지 않고 미해결로 둔 것과 어긋나므로 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "A foraging honeybee that has discovered a rich patch of flowers returns to the hive and performs a curious looping run across the vertical surface of the comb, waggling its abdomen as it goes. Decades of patient observation revealed that this so-called waggle dance encodes the location of the food. The angle of the straight portion of the run, measured against vertical, indicates the direction of the flowers relative to the position of the sun, while the duration of the waggling indicates how far away they lie. Remarkably, as the sun moves across the sky over the course of the day, a dancing bee adjusts the angle of its run accordingly, so that the very same patch of flowers comes to be described by a steadily shifting dance.",
+      "question_text": "It can be inferred from the passage that if a single bee performed its dance for the same unchanging patch of flowers once in the early morning and again at midday, the two dances would differ in",
+      "choices": [
+        "the duration of the waggling portion of the run",
+        "the angle of the straight portion of the run relative to vertical",
+        "the surface of the comb on which the dance was performed",
+        "the actual direction in which the flowers lay from the hive",
+        "the way other bees in the hive would interpret them"
+      ],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 꽃이 풍부한 곳을 발견한 일벌은 벌집으로 돌아와, 벌집의 수직면을 가로질러 배를 흔들며 기묘한 고리 모양의 춤을 춘다. 수십 년의 끈질긴 관찰 끝에, 이 이른바 '8자춤(waggle dance)'이 먹이의 위치를 부호화한다는 것이 밝혀졌다. 수직선에 대해 측정한 직선 구간의 각도는 태양의 위치에 대한 꽃의 방향을 나타내고, 배를 흔드는 시간의 길이는 꽃이 얼마나 멀리 있는지를 나타낸다. 놀랍게도, 하루 동안 태양이 하늘을 가로질러 이동함에 따라 춤추는 벌은 자기 춤의 각도를 그에 맞춰 조정하여, 똑같은 꽃밭이 점점 변해 가는 춤으로 묘사되게 된다. (질문: 한 마리 벌이 변하지 않는 같은 꽃밭에 대해 이른 아침에 한 번, 정오에 다시 한 번 춤을 춘다면 두 춤은 무엇에서 다를까?)\n해설: 춤의 각도는 '태양에 대한' 방향을 나타내고, 태양은 하루 동안 이동하므로, 꽃의 실제 방향이 같아도 두 춤의 각도(angle)는 달라집니다. 따라서 두 번째 보기가 정답입니다. '꽃의 실제 방향이 바뀐다'는 보기는 꽃밭은 그대로이고 움직이는 것은 태양이므로 오답이며, 거리가 같으니 배를 흔드는 시간(duration)은 같아 첫 번째 보기도 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Modern concrete tends to crack and crumble after only a few decades of exposure to seawater, and yet Roman harbor structures built two thousand years ago still stand. The durability of Roman marine concrete long puzzled engineers, who assumed that the ancient builders had simply used more material or taken greater care in their work. Recent chemical analysis suggests a subtler explanation. The Romans mixed volcanic ash into their concrete, and when seawater seeped through the hardened mass, it reacted with the ash to form rare interlocking crystals that actually reinforced the structure over time. Where modern concrete is gradually destroyed by the very water that surrounds it, Roman concrete was strengthened by it. The discovery has prompted engineers to study ancient recipes not out of mere antiquarian curiosity but in the hope of designing more durable materials for use today.",
+      "question_text": "The primary purpose of the passage is to",
+      "choices": [
+        "describe how an unexpected chemical property accounts for the durability of Roman marine concrete",
+        "argue that modern builders should abandon their materials in favor of ancient recipes",
+        "explain why the Romans chose to construct their harbors out of volcanic ash",
+        "demonstrate that ancient builders were more skilled than today's engineers",
+        "trace the development of concrete from antiquity to the present day"
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 현대 콘크리트는 바닷물에 노출된 지 불과 수십 년이면 갈라지고 부서지는 경향이 있지만, 이천 년 전에 지어진 로마의 항만 구조물은 여전히 서 있다. 로마 해양 콘크리트의 내구성은 오랫동안 공학자들을 당혹스럽게 했는데, 그들은 고대 건설자들이 단지 재료를 더 많이 썼거나 작업에 더 공을 들였으리라고 가정했다. 최근의 화학 분석은 더 미묘한 설명을 제시한다. 로마인들은 콘크리트에 화산재를 섞었고, 바닷물이 굳은 덩어리 사이로 스며들면 그 화산재와 반응해 시간이 지날수록 오히려 구조를 강화하는 희귀한 맞물림 결정을 형성했다. 현대 콘크리트가 자신을 둘러싼 바로 그 물에 의해 서서히 파괴되는 반면, 로마 콘크리트는 그 물에 의해 강화되었다. 이 발견은 공학자들이 단지 골동품적 호기심이 아니라 오늘날 쓸 더 내구성 있는 재료를 설계하려는 희망에서 고대의 배합법을 연구하도록 자극했다. (질문: 지문의 주된 목적은?)\n해설: 지문은 화산재와 바닷물의 예상치 못한 화학 반응이 로마 해양 콘크리트의 내구성을 설명한다는 점을 중심으로 서술하므로 첫 번째 보기가 정답입니다. '고대 건설자가 현대 공학자보다 더 숙련됐다'는 보기는 지문이 '더 많은 재료나 정성'이라는 가정을 틀렸다고 밝히고 그 원인을 화학에 돌리는 것과 어긋나므로 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "The map projection devised by Gerardus Mercator in 1569 was a triumph of practical navigation. By representing every line of constant compass bearing as a straight line, it allowed a sailor to draw a course with a ruler and then follow that bearing without constantly recalculating. This convenience came at a cost that is easy to overlook. To keep those bearing lines perfectly straight, the projection must progressively stretch the regions near the poles, so that landmasses at high latitudes appear far larger than they really are: on a Mercator map, Greenland looks comparable in size to Africa, though Africa is in fact some fourteen times larger. Generations of schoolchildren, absorbing their sense of the world's geography from such maps, have unconsciously inherited a distorted picture in which the northern continents loom disproportionately large.",
+      "question_text": "The passage suggests that the distortion in the Mercator projection is best understood as",
+      "choices": [
+        "a flaw that rendered the projection useless for the purposes of navigation",
+        "an oversight that Mercator himself never managed to notice",
+        "an unavoidable consequence of the very feature that made the map useful to sailors",
+        "evidence that Greenland and Africa are in fact roughly similar in size",
+        "a deliberate effort to exaggerate the importance of the northern continents"
+      ],
+      "answer": [2],
+      "explanation_ko": "문장 해석: 1569년 게르하르두스 메르카토르(Gerardus Mercator)가 고안한 지도 투영법은 실용적 항해의 개가였다. 일정한 나침반 방위의 모든 선을 직선으로 나타냄으로써, 선원은 자로 항로를 그린 뒤 끊임없이 다시 계산하지 않고도 그 방위를 따라갈 수 있었다. 이 편리함에는 간과하기 쉬운 대가가 따랐다. 그 방위선들을 완벽하게 직선으로 유지하려면 투영법은 극 부근 지역을 점점 더 늘려야 하고, 그 결과 고위도의 땅덩어리가 실제보다 훨씬 크게 보인다. 메르카토르 지도에서 그린란드는 아프리카와 크기가 비슷해 보이지만, 실제로는 아프리카가 약 열네 배 더 크다. 이런 지도에서 세계 지리 감각을 흡수한 여러 세대의 학생들은 북쪽 대륙이 불균형하게 크게 보이는 왜곡된 상을 무의식적으로 물려받았다. (질문: 지문은 메르카토르 투영법의 왜곡을 무엇으로 이해하는 것이 가장 적절하다고 시사하는가?)\n해설: 지문은 방위선을 직선으로 유지하려면(항해에 유용한 바로 그 특징) 극 부근을 늘려야 한다고 설명하므로, 왜곡은 '지도를 선원에게 유용하게 만든 바로 그 특징의 불가피한 결과'입니다. 따라서 세 번째 보기가 정답입니다. '북쪽 대륙의 중요성을 과장하려는 의도적 시도'라는 보기는 지문이 왜곡을 의도가 아니라 기하학적 대가로 설명하므로 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "It is often said that poetry is precisely what gets lost in translation, and the difficulty is real enough: the music of a line, its particular weave of sound and rhythm, rarely survives the passage from one tongue into another. Yet to conclude from this that translation is therefore a futile enterprise is to mistake the nature of the undertaking. A translation is not a transparent pane of glass through which we glimpse an unaltered original; it is a new poem, composed under severe constraints, that stands in conversation with the work that prompted it. The greatest translations have themselves enriched their host languages, introducing forms and cadences that native poets afterward made their own. To dismiss such achievements merely because something was lost is to ignore all that was gained.",
+      "question_text": "The author would most likely agree that a translated poem is best regarded as",
+      "choices": [
+        "a faithful reproduction that fully preserves the sound of the original",
+        "a futile undertaking, since the music of the original cannot be carried over",
+        "an independent creative work shaped by, and in dialogue with, the original",
+        "a transparent medium through which the original may be seen unchanged",
+        "an inevitably inferior version of poems written by native speakers"
+      ],
+      "answer": [2],
+      "explanation_ko": "문장 해석: 시는 바로 번역에서 사라지는 것이라고 흔히 말하며, 그 어려움은 충분히 실재한다. 한 행의 음악, 소리와 리듬의 독특한 짜임은 한 언어에서 다른 언어로 옮겨지는 과정을 좀처럼 살아남지 못한다. 그러나 이로부터 번역이 헛된 일이라고 결론짓는 것은 그 일의 본질을 오해하는 것이다. 번역은 우리가 변형되지 않은 원작을 들여다보는 투명한 유리창이 아니라, 가혹한 제약 아래 지어진 새로운 시이며, 자신을 촉발한 작품과 대화를 나누는 존재다. 가장 위대한 번역들은 그 자체로 받아들이는 언어를 풍요롭게 하여, 원어민 시인들이 훗날 자기 것으로 삼은 형식과 운율을 들여왔다. 무언가가 사라졌다는 이유만으로 그런 성취를 묵살하는 것은 얻어진 모든 것을 무시하는 일이다. (질문: 저자는 번역된 시를 무엇으로 보는 데 가장 동의할 것인가?)\n해설: 저자는 번역을 '투명한 유리창'이 아니라 원작과 대화하는 '새로운 시(new poem)'라고 명시하므로, '원작에 의해 빚어지고 원작과 대화하는 독립적 창작물'이 정답입니다. '투명한 매체'라는 보기는 저자가 명시적으로 부정한 비유이고, '헛된 일'이라는 보기도 저자가 반박하는 입장이므로 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Last year, Tarn Manufacturing introduced an on-site gym for the use of its employees. In the year that followed, the average number of sick days taken per employee fell by twenty percent. The company's health director concluded that the gym had improved the employees' health, and predicted that other firms could expect comparable reductions simply by building gyms of their own.",
+      "question_text": "Which of the following, if true, most seriously weakens the health director's conclusion?",
+      "choices": [
+        "The on-site gym was used regularly by only about a third of the company's employees",
+        "During the same year, the company introduced a stricter policy that financially penalized employees for taking sick days",
+        "Some employees said they preferred to exercise at gyms located closer to their own homes",
+        "Building and equipping the on-site gym required a substantial initial investment",
+        "The decline in sick days was slightly larger among the company's older employees"
+      ],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 작년에 탄 제조사(Tarn Manufacturing)는 직원들이 쓸 수 있는 사내 체육관을 도입했다. 그 후 1년 동안 직원 1인당 평균 병가 일수가 20퍼센트 줄었다. 회사의 보건 책임자는 체육관이 직원들의 건강을 개선했다고 결론짓고, 다른 회사들도 그저 체육관을 지으면 비슷한 감소를 기대할 수 있다고 예측했다. (질문: 다음 중 참이라면 보건 책임자의 결론을 가장 심각하게 약화시키는 것은?)\n해설: 책임자는 병가 감소를 체육관 덕분의 '건강 개선'으로 해석하지만, 같은 해에 병가에 금전적 불이익을 주는 더 엄격한 정책이 도입되었다면 병가 감소가 건강이 아니라 그 정책 때문일 수 있어 인과 주장이 무너집니다. 따라서 두 번째 보기가 정답입니다. '직원의 3분의 1만 규칙적으로 이용했다'는 보기도 다소 약화하지만, 정책이라는 대안 원인은 감소 전체를 설명하고 '병가 감소=건강 개선'이라는 연결까지 끊으므로 더 강력합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "Archaeologists excavating the ruins of an ancient inland town have proposed that its inhabitants traded directly with coastal peoples living hundreds of miles away. As support for this hypothesis of direct trade, they point out that many houses in the town contained ornaments made from a particular kind of seashell that is found only along that distant coast.",
+      "question_text": "Which of the following, if true, most strengthens the archaeologists' hypothesis of direct trade?",
+      "choices": [
+        "The shell ornaments were among the most common artifacts uncovered at the site",
+        "No settlements lay along the route between the inland town and the coast that could have passed the shells along as intermediaries",
+        "Ornaments made from the same kind of shell have been found at other inland sites in the region",
+        "The town was continuously occupied for several centuries before it was abandoned",
+        "The coastal peoples are known to have prized certain goods produced in the interior"
+      ],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 한 고대 내륙 마을의 폐허를 발굴하는 고고학자들은, 그 주민들이 수백 마일 떨어진 해안 사람들과 직접 교역했다고 제안했다. 이 직접 교역 가설의 근거로, 그들은 마을의 많은 집에 그 먼 해안에서만 발견되는 특정 종류의 조개껍데기로 만든 장식품이 있었다는 점을 든다. (질문: 다음 중 참이라면 고고학자들의 직접 교역 가설을 가장 강화하는 것은?)\n해설: 핵심은 '직접(direct)' 교역입니다. 내륙 마을과 해안 사이의 경로에 조개를 중간에서 전달했을 만한 중간 정착지가 없었다면, 조개가 중개인을 거치지 않고 직접 전해졌을 가능성이 커져 가설이 강화됩니다. 따라서 두 번째 보기가 정답입니다. '해안 사람들이 내륙 물건을 귀하게 여겼다'는 보기는 교역의 존재는 시사하지만 그것이 직접 교역인지 간접 교역인지를 구분해 주지 못하므로 더 약합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "To reduce downtown traffic congestion, the city of Halland plans to convert one lane of its busy main avenue into a dedicated bicycle lane. Officials reason that the new lane will encourage many commuters who now drive into the city to switch to cycling, thereby removing enough cars from the avenue to ease the congestion overall.",
+      "question_text": "The officials' plan depends on which of the following assumptions?",
+      "choices": [
+        "Cycling is a healthier means of commuting than driving a car",
+        "The number of cars removed from the avenue will more than make up for the road capacity lost when a driving lane is eliminated",
+        "Most of Halland's downtown commuters currently live within comfortable cycling distance of the city",
+        "A dedicated bicycle lane is less costly to maintain than an ordinary traffic lane",
+        "The main avenue is the single most congested street anywhere in the city"
+      ],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 도심 교통 혼잡을 줄이기 위해, 핼런드(Halland) 시는 번잡한 중심 대로의 한 차선을 자전거 전용 차선으로 바꿀 계획이다. 관리들은 새 차선이 지금 차로 도심에 들어오는 많은 통근자를 자전거로 갈아타도록 유도해, 대로에서 충분히 많은 차를 줄여 전반적으로 혼잡을 완화할 것이라고 추론한다. (질문: 관리들의 계획은 다음 중 어떤 가정에 의존하는가?)\n해설: 차선을 하나 없애면 도로 용량이 줄어드는데, 이 계획은 줄어든 차량 수가 그 잃어버린 용량을 상쇄하고도 남는다고 가정해야만 혼잡이 완화됩니다. 따라서 두 번째 보기가 정답입니다(부정 검증: 차량 감소가 차선 손실을 상쇄하지 못하면 혼잡은 오히려 악화). '대다수 통근자가 자전거 거리 안에 산다'는 보기는 그럴듯하지만, 논증은 이미 '많은' 통근자가 갈아탄다고 전제했을 뿐 '대다수'가 가까이 산다는 것까지 반드시 필요로 하지는 않으므로 정답이 아닙니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "A magazine devoted entirely to home cooking conducted a poll on its website, asking visitors whether they prepare most of their own meals at home. Ninety percent of those who responded said that they did. On the strength of this result, the magazine's editor concluded that the great majority of people in the country cook most of their own meals.",
+      "question_text": "The editor's reasoning is most vulnerable to criticism on the grounds that it",
+      "choices": [
+        "relies on responses from a group of people who are unusually likely to cook at home",
+        "takes for granted that cooking at home is less expensive than dining out",
+        "fails to specify precisely what is to count as a meal",
+        "draws a conclusion about the present from evidence that concerns the past",
+        "overlooks the cost of the ingredients that home cooking requires"
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 오로지 가정 요리만 다루는 한 잡지가 자사 웹사이트에서, 방문자들에게 식사 대부분을 집에서 직접 준비하는지 묻는 설문을 했다. 응답자의 90퍼센트가 그렇다고 답했다. 이 결과를 근거로 잡지 편집자는 이 나라 사람들 대다수가 식사 대부분을 직접 요리한다고 결론지었다. (질문: 편집자의 추론은 어떤 근거에서 비판에 가장 취약한가?)\n해설: 이 추론의 결함은 표본 편향(sampling bias)입니다. 가정 요리 잡지 웹사이트 방문자는 애초에 집에서 요리할 가능성이 유난히 높은 집단이어서, 이들로부터 나라 전체를 일반화할 수 없습니다. 따라서 첫 번째 보기가 정답입니다. '식사'의 정의를 명시하지 않았다는 보기는 사소한 문제로, 표본이 모집단을 대표하지 못한다는 핵심 결함을 짚지 못하므로 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "At the Verral Institute, every researcher who studies marine biology also studies climate science. No researcher who studies climate science receives any funding from the Dalton Foundation. At least some of the Institute's researchers who study marine biology lead their own laboratories, supervising teams of junior scientists.",
+      "question_text": "If the statements above are true, which of the following must also be true?",
+      "choices": [
+        "No researcher at the Verral Institute receives any funding from the Dalton Foundation",
+        "Some researchers who lead their own laboratories do not receive funding from the Dalton Foundation",
+        "Every researcher who studies climate science at the Institute also studies marine biology",
+        "Any researcher who receives Dalton Foundation funding does not lead a laboratory",
+        "All of the researchers at the Verral Institute study climate science"
+      ],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 베랄 연구소(Verral Institute)에서 해양생물학을 연구하는 모든 연구자는 기후과학도 함께 연구한다. 기후과학을 연구하는 연구자는 누구도 댈튼 재단(Dalton Foundation)으로부터 어떤 자금도 받지 않는다. 연구소의 해양생물학 연구자들 가운데 적어도 일부는 자신의 실험실을 이끌며 후배 과학자 팀을 지도한다. (질문: 위 진술들이 참이라면, 다음 중 반드시 참인 것은?)\n해설: 자신의 실험실을 이끄는 어떤 해양생물학자가 존재합니다(전제3). 해양생물학자 → 기후과학자 → 댈튼 자금 안 받음(전제1·2)이므로, 그 실험실 책임자는 댈튼 자금을 받지 않습니다. 따라서 '실험실을 이끄는 연구자 중 일부는 댈튼 자금을 받지 않는다'가 반드시 참입니다(두 번째 보기). '연구소의 누구도 댈튼 자금을 받지 않는다'는 보기는 기후과학자만 배제될 뿐 다른 연구자는 받을 수 있으므로 과도(too strong)하고, '모든 기후과학자가 해양생물학도 한다'는 조건문의 역(converse)을 잘못 주장하므로 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": "In the decade after a regional hospital introduced a sophisticated new screening test for a certain serious disease, the number of people diagnosed with that disease in the surrounding region rose sharply. Yet over the very same decade, the number of people who died from the disease in that region steadily declined.",
+      "question_text": "Which of the following, if true, best helps to explain the apparent discrepancy described above?",
+      "choices": [
+        "The new screening test typically detects the disease at an early stage, when it can usually be treated successfully",
+        "The new screening test is considerably more expensive than the test that it replaced",
+        "The disease in question is somewhat more common in the region than it is elsewhere in the country",
+        "Many residents of the region chose not to undergo the new screening test at all",
+        "The total population of the region grew slightly over the course of the decade"
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 한 지역 병원이 특정 중병에 대한 정교한 새 선별 검사를 도입한 뒤 10년 동안, 그 주변 지역에서 그 병으로 진단받은 사람 수가 급격히 늘었다. 그런데 바로 같은 10년 동안, 그 지역에서 그 병으로 사망한 사람 수는 꾸준히 줄었다. (질문: 다음 중 참이라면 위에서 묘사된 표면적 모순을 가장 잘 설명하는 것은?)\n해설: 진단은 늘었는데 사망은 줄어든 역설은, 새 검사가 병을 '치료 가능한 초기 단계'에서 잡아낸다는 사실로 동시에 설명됩니다. 초기 단계까지 발견하니 진단 건수는 늘고, 일찍 발견해 치료에 성공하니 사망은 줄어듭니다. 따라서 첫 번째 보기가 정답입니다. '많은 주민이 검사를 받지 않았다'는 보기는 진단 급증을 설명하지 못하고, 인구가 약간 늘었다는 보기도 진단 급증과 사망 감소를 동시에 설명하지 못하므로 오답입니다."
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "group": "math",
+  "subgroup": "quant",
+  "level": 5,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "The integer N = 2^4 * 3^3 * 5^2.\nQuantity A: the number of positive divisors of N that are perfect squares\nQuantity B: the number of positive divisors of N that are perfect cubes",
+      "choices": [
+        "Quantity A is greater",
+        "Quantity B is greater",
+        "The two quantities are equal",
+        "The relationship cannot be determined from the information given"
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 정수 N = 2^4 * 3^3 * 5^2이다. Quantity A는 N의 양의 약수 중 완전제곱수(perfect square)인 것의 개수, Quantity B는 N의 양의 약수 중 완전세제곱수(perfect cube)인 것의 개수이다.\n해설: 약수는 2^a*3^b*5^c (0<=a<=4, 0<=b<=3, 0<=c<=2) 형태이다. 완전제곱수이려면 a,b,c가 모두 짝수여야 하므로 a는 {0,2,4}(3가지), b는 {0,2}(2가지), c는 {0,2}(2가지)로 3*2*2=12개. 완전세제곱수이려면 지수가 모두 3의 배수여야 하므로 a는 {0,3}(2가지), b는 {0,3}(2가지), c는 {0}(1가지)로 2*2*1=4개. 따라서 A=12 > B=4로 A가 더 크다. b의 지수를 보고 b={0,3}이 양쪽에 다 쓰여 같다고 착각하기 쉽지만, c(5의 지수)가 최대 2라 세제곱 조건에서는 0만 가능해 개수가 크게 줄어든다는 점이 함정이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "a and b are integers such that a*b = 24 and a > b.\nQuantity A: a\nQuantity B: 8",
+      "choices": [
+        "Quantity A is greater",
+        "Quantity B is greater",
+        "The two quantities are equal",
+        "The relationship cannot be determined from the information given"
+      ],
+      "answer": [3],
+      "explanation_ko": "문장 해석: a와 b는 a*b = 24이고 a > b인 정수이다. Quantity A는 a, Quantity B는 8이다.\n해설: a>b를 만족하는 정수쌍은 양수쌍 (24,1),(12,2),(8,3),(6,4)와 음수쌍 (-1,-24),(-2,-12),(-3,-8),(-4,-6)가 있다. 따라서 a는 24,12,8,6,-1,-2,-3,-4가 될 수 있다. a=24나 12면 A>B, a=6이나 음수면 A<B, a=8이면 A=B로 경우마다 달라지므로 관계를 결정할 수 없다(cannot be determined). 양의 약수만 생각해 a를 큰 값으로 단정하면 함정에 빠진다. 정수(integer)에는 음수도 포함된다는 점이 핵심이다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "In the xy-plane, a triangle has vertices A = (0, 0), B = (6, 0), and C = (6, 8).\nQuantity A: the length of the segment from B to the midpoint of side AC\nQuantity B: 5",
+      "choices": [
+        "Quantity A is greater",
+        "Quantity B is greater",
+        "The two quantities are equal",
+        "The relationship cannot be determined from the information given"
+      ],
+      "answer": [2],
+      "explanation_ko": "문장 해석: xy-평면에서 삼각형의 꼭짓점이 A = (0, 0), B = (6, 0), C = (6, 8)이다. Quantity A는 B에서 변 AC의 중점까지의 선분 길이, Quantity B는 5이다.\n해설: AB=6, BC=8, AC=sqrt(6^2+8^2)=10이고 6-8-10이므로 B에서 직각인 직각삼각형이다. 직각의 꼭짓점에서 빗변(hypotenuse) AC의 중점까지의 거리는 항상 빗변의 절반, 즉 10/2=5이다(빗변의 중점은 외접원 중심). 좌표로 계산해도 중점 (3,4)와 B(6,0)의 거리는 sqrt(9+16)=5. 따라서 두 양은 같다(equal). 중선(median) 길이 공식을 복잡하게 적용하려다 실수하기 쉽지만, 직각삼각형의 빗변 중선 성질을 알면 즉시 5임을 안다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "A large set of measurements is normally distributed with mean 70 and standard deviation 8.\nQuantity A: the percent of the measurements that are less than 54\nQuantity B: 3 percent",
+      "choices": [
+        "Quantity A is greater",
+        "Quantity B is greater",
+        "The two quantities are equal",
+        "The relationship cannot be determined from the information given"
+      ],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 많은 수의 측정값이 평균 70, 표준편차(standard deviation) 8인 정규분포(normally distributed)를 따른다. Quantity A는 54보다 작은 측정값의 백분율, Quantity B는 3퍼센트이다.\n해설: 54 = 70 - 2*8이므로 평균에서 -2 표준편차 지점이다. 정규분포의 68-95-99.7 법칙에 따라 평균 ±2 표준편차 안에 약 95%가 있고 바깥은 5%이며, 좌우 대칭이므로 한쪽 꼬리는 5%/2 = 2.5%이다. 따라서 A=2.5% < B=3%로 B가 더 크다. -2 표준편차를 -1로 착각해 16%로 보거나, 양쪽 꼬리 5%를 한쪽으로 오인하면 함정에 빠진다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "How many integers from 100 to 999 inclusive have three digits that are all different and appear in strictly increasing order from left to right (for example, 248)?",
+      "choices": [
+        "84",
+        "120",
+        "168",
+        "252",
+        "504"
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 100부터 999까지의 정수 중에서 세 자리 숫자가 모두 서로 다르고 왼쪽에서 오른쪽으로 갈수록 엄밀히 증가(strictly increasing)하는 정수(예: 248)는 몇 개인가?\n해설: 숫자가 엄밀히 증가하면 자동으로 서로 다르고, 세 숫자를 고르면 증가하는 배열은 단 한 가지로 결정된다. 0은 가장 작은 자리(맨 앞)에 와야 하지만 맨 앞은 0일 수 없으므로 0을 포함할 수 없다. 따라서 1~9에서 3개를 고르는 조합 C(9,3)=84개이다. 0을 포함해 C(10,3)=120(오답 120)으로 세거나, 순서를 따로 곱해 9*8*7=504(오답)로 세면 틀린다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "A bag contains 5 red marbles and 4 blue marbles. If 3 marbles are drawn at random without replacement, what is the probability that exactly 2 of them are red?",
+      "choices": [
+        "10/21",
+        "5/14",
+        "5/18",
+        "10/27",
+        "20/27"
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 주머니에 빨간 구슬 5개와 파란 구슬 4개가 있다. 3개를 비복원(without replacement)으로 무작위로 뽑을 때, 정확히 2개가 빨간색일 확률은 얼마인가?\n해설: 전체 경우의 수는 C(9,3)=84. 빨강 2개를 5개 중에서 C(5,2)=10가지, 파랑 1개를 4개 중에서 C(4,1)=4가지로 뽑으므로 유리한 경우는 10*4=40. 확률은 40/84 = 10/21이다. 복원 추출처럼 (5/9)^2*(4/9) 식으로 계산하면 20/27 같은 오답이 나오고, 순서를 빠뜨리거나 조합 계산을 잘못하면 5/18 등의 오답이 된다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Five distinct positive integers have an average (arithmetic mean) of 20, a median of 18, and a largest value of 50. What is the greatest possible value of the smallest of the five integers?",
+      "choices": [
+        "6",
+        "7",
+        "9",
+        "13",
+        "16"
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 서로 다른 다섯 개의 양의 정수가 평균(arithmetic mean) 20, 중앙값(median) 18, 최댓값 50을 가진다. 다섯 정수 중 가장 작은 값이 가질 수 있는 최댓값은 얼마인가?\n해설: 다섯 수를 a<b<c<d<e라 하면 합은 20*5=100, 중앙값 c=18, 최댓값 e=50이다. 그러면 a+b+d = 100-18-50 = 32. d는 c=18보다 크고 정수이므로 최소 19이며, a+b를 최대로 하려면 d를 최소인 19로 둔다. 이때 a+b=13이고 a<b<18을 만족하면서 a를 최대로 하려면 a=6, b=7이다(6,7,18,19,50). 따라서 가장 작은 값의 최댓값은 6이다. d를 18로 둘 수 있다고 착각하면 a를 7로 잘못 구하게 된다(오답 7). distinct(서로 다른) 조건과 d>18을 모두 지켜야 한다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "What is the units digit of 7^2026 + 3^2026 ?",
+      "choices": [
+        "8",
+        "0",
+        "2",
+        "4",
+        "6"
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 7^2026 + 3^2026의 일의 자리 숫자(units digit)는 무엇인가?\n해설: 7의 거듭제곱의 일의 자리는 7,9,3,1이 주기 4로 반복된다. 2026을 4로 나눈 나머지는 2이므로 7^2026의 일의 자리는 두 번째 값인 9이다. 3의 거듭제곱의 일의 자리는 3,9,7,1로 역시 주기 4이고 나머지 2이므로 3^2026의 일의 자리는 9이다. 9+9=18이므로 합의 일의 자리는 8이다. 나머지를 0으로 보거나(주기 끝값 1,1로 합 2를 답하는 오답 2) 주기 위치를 잘못 잡으면 틀린다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "A circle is inscribed in a square, and a second, smaller square is inscribed in that circle. What is the ratio of the area of the smaller square to the area of the larger square?",
+      "choices": [
+        "1/2",
+        "1/4",
+        "1/3",
+        "1/sqrt(2)",
+        "2/3"
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 한 정사각형에 원이 내접(inscribed)하고, 그 원에 더 작은 두 번째 정사각형이 내접한다. 작은 정사각형 넓이와 큰 정사각형 넓이의 비는 얼마인가?\n해설: 큰 정사각형의 한 변을 s라 하면 내접원의 지름은 s이다. 작은 정사각형은 이 원에 내접하므로 작은 정사각형의 대각선(diagonal)이 곧 원의 지름 s이다. 대각선이 s인 정사각형의 한 변은 s/sqrt(2)이고 넓이는 s^2/2이다. 따라서 비는 (s^2/2)/s^2 = 1/2이다. 변의 비(1/sqrt(2))를 넓이의 비로 그대로 답하면 오답이 되고, 길이를 한 번 더 반으로 줄여 1/4로 보면 틀린다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Scores on an exam are normally distributed with a mean of 500 and a standard deviation of 100. If 16,000 students took the exam, approximately how many scored between 400 and 700?",
+      "choices": [
+        "13,040",
+        "10,880",
+        "12,160",
+        "13,600",
+        "15,200"
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 시험 점수가 평균 500, 표준편차(standard deviation) 100인 정규분포(normally distributed)를 따른다. 16,000명이 응시했다면, 400점과 700점 사이의 점수를 받은 학생은 대략 몇 명인가?\n해설: 400 = 500 - 100은 평균에서 -1 표준편차, 700 = 500 + 200은 +2 표준편차 지점이다. 68-95-99.7 법칙에서 평균과 -1 표준편차 사이는 약 34%, 평균과 +2 표준편차 사이는 95%/2 = 47.5%이다. 따라서 -1과 +2 사이는 34% + 47.5% = 81.5%이고, 16,000 * 0.815 = 13,040명이다. 양쪽 모두 같은 폭으로 보고 68%나 95%만 적용하면 오답이 나온다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Using nickels (5 cents), dimes (10 cents), and quarters (25 cents), in how many different ways can a total of exactly 50 cents be formed? (Any number of each coin, including zero, may be used.)",
+      "choices": [
+        "10",
+        "8",
+        "11",
+        "12",
+        "6"
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 5센트(nickel), 10센트(dime), 25센트(quarter) 동전을 사용하여 정확히 50센트를 만드는 서로 다른 방법은 몇 가지인가? (각 동전은 0개를 포함해 몇 개든 사용 가능하다.)\n해설: 25센트 동전 개수 q로 나누어 센다. q=0일 때 5n+10d=50 즉 n+2d=10에서 d=0~5로 6가지. q=1일 때 남은 25센트로 n+2d=5에서 d=0,1,2로 3가지. q=2일 때 50센트가 채워져 1가지. 합은 6+3+1=10가지이다. 25센트를 2개까지 쓸 수 있음을 놓치거나 d의 범위를 잘못 세면 8이나 6 같은 오답이 된다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "A committee of 4 people is to be selected from a group of 6 men and 5 women. How many different committees include at least 2 women?",
+      "choices": [
+        "215",
+        "150",
+        "210",
+        "115",
+        "330"
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 남자 6명과 여자 5명으로 이루어진 그룹에서 4명의 위원회를 뽑는다. 여자가 최소 2명(at least 2 women) 포함되는 서로 다른 위원회는 몇 가지인가?\n해설: 여자 수에 따라 직접 센다. 여자 2명: C(5,2)*C(6,2)=10*15=150, 여자 3명: C(5,3)*C(6,1)=10*6=60, 여자 4명: C(5,4)=5. 합은 150+60+5=215가지이다. 또는 전체 C(11,4)=330에서 여자 0명 C(6,4)=15와 여자 1명 5*C(6,3)=100을 빼도 330-15-100=215. 여자 2명 경우(150)만 답하거나 전체(330)를 답하면 함정에 빠진다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "For how many ordered pairs of positive integers (x, y) is x^2 - y^2 = 45 ?",
+      "choices": [
+        "3",
+        "2",
+        "4",
+        "6",
+        "9"
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 양의 정수 순서쌍 (x, y) 중에서 x^2 - y^2 = 45를 만족하는 것은 몇 개인가?\n해설: x^2 - y^2 = (x-y)(x+y) = 45로 인수분해된다. 45는 홀수라 두 인수 모두 홀수이며, x-y < x+y인 양의 인수쌍은 (1,45),(3,15),(5,9)이다. 각각 x=(합)/2, y=(차)/2로 풀면 (23,22),(9,6),(7,2)로 모두 양의 정수이다. 따라서 3쌍이다. (x-y,x+y)를 순서 무시하고 (45,1) 등을 따로 세거나 9 자신을 포함하는 잘못된 인수쌍을 더하면 6 같은 오답이 된다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "A regular hexagon has a side length of 6. What is the area of the hexagon?",
+      "choices": [
+        "54*sqrt(3)",
+        "27*sqrt(3)",
+        "36*sqrt(3)",
+        "108*sqrt(3)",
+        "18*sqrt(3)"
+      ],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 정육각형(regular hexagon)의 한 변의 길이가 6이다. 이 육각형의 넓이는 얼마인가?\n해설: 정육각형은 한 변의 길이가 같은 정삼각형 6개로 나뉜다. 한 변 s인 정삼각형의 넓이는 (sqrt(3)/4)*s^2이므로 정육각형의 넓이는 6*(sqrt(3)/4)*s^2 = (3*sqrt(3)/2)*s^2이다. s=6을 넣으면 (3*sqrt(3)/2)*36 = 54*sqrt(3)이다. 정삼각형을 6개가 아닌 3개로 잘못 보거나 (sqrt(3)/4)*s^2 한 개 값(9*sqrt(3))을 잘못 곱하면 27*sqrt(3) 등의 오답이 나온다."
+    }
+  ]
+}

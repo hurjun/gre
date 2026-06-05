@@ -1,0 +1,133 @@
+{
+  "group": "verbal",
+  "subgroup": "se_tc",
+  "level": 4,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "The ambassador's _______ replies, rarely exceeding a single clause, frustrated reporters who had come expecting the expansive disclosures of her predecessor.",
+      "choices": ["garrulous", "laconic", "voluble", "ornate", "mendacious"],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 한 절(clause)을 넘기는 일이 거의 없던 그 대사의 간결한(laconic) 답변들은, 전임자의 장황한 폭로를 기대하고 온 기자들을 답답하게 만들었다.\n해설: '한 절을 거의 넘기지 않는(rarely exceeding a single clause)'이라는 단서가 말수가 적고 간결하다는 뜻을 요구하므로 laconic(간결한, 말수가 적은)이 정답입니다. garrulous(수다스러운)와 voluble(말이 많은, 유창한)은 서로 동의어로 모두 '말이 많다'는 정반대 뜻이라 한 절도 넘기지 않는다는 묘사와 충돌합니다. ornate(화려하게 꾸민)는 문체의 장식성을, mendacious(거짓된)는 정직성을 다루는 단어로 길이/간결함의 축과 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "The cottage's ramshackle exterior thoroughly _______ the meticulous order within, where every tool hung in its appointed place and not a speck of dust escaped notice.",
+      "choices": ["belied", "presaged", "mirrored", "corroborated", "intimated"],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 그 오두막의 다 쓰러져 가는 듯한(ramshackle) 외관은, 모든 연장이 제자리에 걸려 있고 먼지 한 톨도 그냥 지나치지 않는 내부의 꼼꼼한 질서와 완전히 어긋나는, 즉 그 질서를 가려 버리는(belied) 것이었다.\n해설: 허름한 외관과 안쪽의 꼼꼼한 질서가 서로 모순되므로, '실제와 어긋난 인상을 준다, 가린다'는 뜻의 belied(belie의 과거형)가 정답입니다. mirrored(반영했다)와 corroborated(뒷받침했다)는 외관과 내부가 일치한다는 뜻이 되어 모순 구조를 깨뜨리므로 가장 흔한 함정입니다. presaged(예고했다)와 intimated(넌지시 비쳤다)는 외관이 내부 질서를 미리 암시했다는 뜻이라 '겉과 속이 다르다'는 핵심을 살리지 못합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Once an _______ critic of deregulation, the senator startled longtime allies by sponsoring a bill that swept away decades of hard-won oversight.",
+      "choices": ["tepid", "inveterate", "nominal", "equivocal", "belated"],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 한때 규제 완화를 뿌리 깊게 반대하던(inveterate) 비판자였던 그 상원의원은, 수십 년에 걸쳐 어렵게 확립된 감독 장치를 일거에 없애 버리는 법안을 발의함으로써 오랜 동료들을 깜짝 놀라게 했다.\n해설: 그의 변절이 동료들을 '깜짝 놀라게(startled)' 하려면 그가 원래 확고하고 골수에 박힌 비판자였어야 하므로 inveterate(뿌리 깊은, 상습적인)가 정답입니다. tepid(미온적인)는 어중간한 비판자를 뜻해 변절이 놀랍지 않을 것이므로 반전 구조와 어긋나고, nominal(이름뿐인)도 마찬가지로 강도가 약합니다. equivocal(애매한)과 belated(뒤늦은)는 비판의 확고함과 무관한 속성입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Far from quelling the controversy, the executive's grudging apology only _______ it, as critics seized on her evasive phrasing as proof of further bad faith.",
+      "choices": ["mollified", "inflamed", "defused", "attenuated", "vindicated"],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 그 임원의 마지못한 사과는 논란을 가라앉히기는커녕 오히려 부추겼는데(inflamed), 비판자들이 그녀의 얼버무리는 표현을 또 다른 불성실의 증거로 물고 늘어졌기 때문이다.\n해설: 'Far from quelling(가라앉히기는커녕)'이라는 반전 구문은 빈칸이 quell(진정시키다)의 반대, 즉 '악화시키다'여야 함을 요구하므로 inflamed(부채질했다, 격화시켰다)가 정답입니다. mollified(누그러뜨렸다), defused(진정시켰다), attenuated(약화시켰다)는 모두 quell과 같은 방향이라 'Far from quelling ~ only'의 반전과 정면으로 모순됩니다. vindicated(정당함을 입증했다)는 목적어 it(논란)과 의미가 어울리지 않습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Though the documentary purports to be scrupulously _______, its selective editing and ominous score betray an unmistakable agenda from the opening frame.",
+      "choices": ["dispassionate", "doctrinaire", "polemical", "lurid", "derivative"],
+      "answer": [0],
+      "explanation_ko": "문장 해석: 그 다큐멘터리는 철저히 객관적이고 냉정한(dispassionate) 것인 양 표방하지만, 선별적인 편집과 음산한 배경 음악이 첫 장면부터 분명한 의도를 드러낸다.\n해설: 'purports to be ~(인 척한다)'와 'but ~ betray an agenda(그러나 의도를 드러낸다)'의 대비 구조이므로, 빈칸에는 드러난 편향과 반대되는 '공정한, 냉정한'이 들어가야 하여 dispassionate(객관적인, 감정에 치우치지 않는)가 정답입니다. doctrinaire(독단적인)와 polemical(논쟁적인, 편파적인)은 오히려 다큐멘터리의 실제 모습(숨은 의도)에 해당하므로 '표방하는 바'로는 정반대라 함정입니다. lurid(자극적인), derivative(독창성 없는)는 편향의 유무와 무관한 축입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "The reviewer faulted the symphony not for any technical lapse but for its sheer _______: every phrase was correct, every entrance precise, yet the whole left listeners curiously unmoved.",
+      "choices": ["cacophony", "sterility", "virtuosity", "exuberance", "dissonance"],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 그 평론가는 교향곡을 어떤 기술적 결함 때문이 아니라 그 순전한 무미건조함(sterility) 때문에 비판했다. 모든 악구가 정확하고 모든 도입이 빈틈없었지만, 전체적으로는 청중을 묘하게 무덤덤하게 만들었기 때문이다.\n해설: '모든 게 정확한데도 청중을 감동시키지 못했다(left listeners unmoved)'는 단서는 생명력과 감정이 결여되었다는 뜻을 요구하므로 sterility(메마름, 활기 없음)가 정답입니다. cacophony(불협화음)와 dissonance(불협화)는 소리가 거슬린다는 뜻이라 '모든 악구가 정확했다'와 모순되고, virtuosity(기교, 명연주)와 exuberance(생기, 활력)는 오히려 긍정적 속성이라 비판의 이유가 될 수 없습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Negotiators prized her above all for her _______: she could yield minor points with disarming grace while never once losing sight of her central objective.",
+      "choices": ["obstinacy", "candor", "adroitness", "diffidence", "volubility"],
+      "answer": [2],
+      "explanation_ko": "문장 해석: 협상가들은 무엇보다 그녀의 능란함(adroitness)을 높이 샀다. 그녀는 핵심 목표를 단 한 번도 놓치지 않으면서도 사소한 사안들은 사람의 마음을 누그러뜨리는 우아함으로 양보할 줄 알았기 때문이다.\n해설: '사소한 것은 양보하면서도 핵심 목표는 놓치지 않는다'는 설명은 노련하고 유연한 수완을 가리키므로 adroitness(능란함, 솜씨)가 정답입니다. obstinacy(고집)는 양보(yield)와 정면으로 모순되어 가장 헷갈리는 반대 함정이고, diffidence(자신감 없음)도 능숙한 협상가상과 어긋납니다. candor(솔직함)와 volubility(말 많음)는 양보와 목표 견지를 아우르는 '수완'이라는 핵심 의미를 담지 못합니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Far from being the impartial chronicle it claimed to be, the report struck reviewers as frankly _______, shaped at every turn to flatter the very institutions it purported to audit.",
+      "choices": ["tendentious", "objective", "partisan", "scrupulous", "exhaustive", "perfunctory"],
+      "answer": [0, 2],
+      "explanation_ko": "문장 해석: 그 보고서는 스스로 표방한 공정한 기록과는 거리가 멀게, 검토자들에게 노골적으로 편파적인(tendentious/partisan) 것으로 비쳤으며, 감사한다고 내세운 바로 그 기관들을 매 대목마다 치켜세우도록 짜여 있었다.\n해설: '공정한 기록과 거리가 멀고(Far from impartial)' '특정 기관에 유리하게 짜였다(shaped to flatter)'는 단서가 편향을 가리키므로, 둘 다 '편향된'을 뜻하는 tendentious(편향적인, 특정 입장을 미는)와 partisan(당파적인, 편파적인)이 동의어 정답 쌍입니다. objective(객관적인)와 scrupulous(공정하고 꼼꼼한)는 정반대 의미라 함정이고, exhaustive(철저한)와 perfunctory(형식적인)는 편향의 축이 아니라 철저함의 축에 속해 서로 짝도 이루지 못합니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "The veteran character actor brought such _______ to an otherwise forgettable minor role that audiences recalled it vividly long after the leads had slipped from memory.",
+      "choices": ["tedium", "vitality", "restraint", "verve", "gravitas", "stiffness"],
+      "answer": [1, 3],
+      "explanation_ko": "문장 해석: 그 노련한 성격파 배우는 본래 잊히기 쉬운 단역에 대단한 생기(vitality/verve)를 불어넣어, 관객들은 주연들이 기억에서 사라진 뒤에도 그 단역을 또렷이 기억했다.\n해설: '잊힐 법한 단역인데도 오래도록 생생히 기억되었다'는 결과는 배우가 활력과 열정을 쏟았음을 뜻하므로, '활기, 생동감'을 의미하는 vitality(생기)와 verve(열정, 활력)가 동의어 쌍입니다. tedium(지루함)과 stiffness(경직됨)는 정반대 의미라 기억에 남는다는 결과와 모순되고, restraint(절제)와 gravitas(진중함)는 긍정적이긴 해도 '생기'라는 같은 의미를 만들어 내지 못해 짝이 되지 않습니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Although the merger proposal was initially met with widespread _______, the board's mood shifted markedly once the long-term revenue projections were unveiled.",
+      "choices": ["enthusiasm", "skepticism", "indifference", "misgivings", "derision", "hostility"],
+      "answer": [1, 3],
+      "explanation_ko": "문장 해석: 그 합병 제안은 처음에는 널리 퍼진 회의와 불안(skepticism/misgivings)에 부딪혔지만, 장기 매출 전망이 공개되자 이사회의 분위기가 눈에 띄게 달라졌다.\n해설: 전망 공개 후 분위기가 호전되었다(shifted)는 것은 처음 반응이 부정적, 즉 의심과 우려였음을 뜻하므로 '의구심'을 공유하는 skepticism(회의)과 misgivings(불안한 의구심)가 정답 쌍입니다. enthusiasm(열광)은 정반대이고, derision(조롱)과 hostility(적대감)는 둘 다 부정적이지만 '의심'이 아니라 '경멸·적개심'이라는 다른 결의 단어여서 서로 동의어 쌍을 이루지 못합니다. indifference(무관심)도 의구심과는 다릅니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "The new manager's _______ style, all clipped directives and firmly closed doors, quickly alienated a staff long accustomed to open deliberation and shared decision-making.",
+      "choices": ["autocratic", "consultative", "imperious", "affable", "diffident", "mercurial"],
+      "answer": [0, 2],
+      "explanation_ko": "문장 해석: 짧고 단호한 지시와 굳게 닫힌 문으로 일관한 새 관리자의 고압적인(autocratic/imperious) 방식은, 오랫동안 열린 토론과 공동 의사결정에 익숙했던 직원들을 금세 멀어지게 만들었다.\n해설: '일방적 지시와 닫힌 문(clipped directives and closed doors)'으로 직원들이 소외되었으므로, '독단적이고 군림하는'을 뜻하는 autocratic(독재적인)과 imperious(거만하게 명령하는)가 동의어 정답 쌍입니다. consultative(의견을 구하는)와 affable(상냥한)은 정반대 분위기라 함정이고, diffident(소심한)와 mercurial(변덕스러운)은 소외를 부를 수는 있어도 '고압적'이라는 같은 의미를 만들지 못해 짝이 되지 않습니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Reviewers who had braced themselves for yet another formulaic thriller were instead _______ by the novel's audacious structural daring and its refusal of every genre convention.",
+      "choices": ["gratified", "astonished", "wearied", "dumbfounded", "mollified", "underwhelmed"],
+      "answer": [1, 3],
+      "explanation_ko": "문장 해석: 또 하나의 판에 박힌 스릴러를 각오하고 있던 평론가들은, 오히려 그 소설의 대담한 구조적 모험과 모든 장르 관습의 거부에 깜짝 놀라고 말았다(astonished/dumbfounded).\n해설: '뻔한 작품을 예상했다가(braced for formulaic)' 예상 밖의 대담함을 만난 반전이므로, '크게 놀란'을 뜻하는 astonished(놀란)와 dumbfounded(어안이 벙벙한)가 동의어 정답 쌍입니다. gratified(흡족한)는 긍정적이긴 해도 '놀라움'이라는 핵심 의미가 빠져 단독 함정이고, wearied(지친)와 underwhelmed(시시하게 느낀)는 오히려 뻔한 작품에 대한 반응이라 반전과 어긋나며, mollified(달래진)는 문맥과 무관합니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "The governor's once-_______ popularity has eroded steadily over two terms, as a relentless drip of minor scandals gradually wore away the public's trust.",
+      "choices": ["precarious", "unassailable", "dwindling", "impregnable", "considerable", "modest"],
+      "answer": [1, 3],
+      "explanation_ko": "문장 해석: 한때 누구도 넘볼 수 없던(unassailable/impregnable) 그 주지사의 인기는 두 번의 임기에 걸쳐 꾸준히 깎여 나갔는데, 끊임없이 이어진 사소한 추문들이 대중의 신뢰를 서서히 닳게 했기 때문이다.\n해설: 'once-(한때) ~ 했지만 이제는 잠식되었다(has eroded)'는 구조는 빈칸이 '예전에는 매우 견고했다'는 뜻이어야 함을 요구하므로, '공격·도전할 수 없는'을 뜻하는 unassailable(난공불락의)과 impregnable(견고하여 무너지지 않는)이 동의어 정답 쌍입니다. precarious(불안정한)와 dwindling(줄어드는)은 오히려 지금의 쇠퇴 상태에 해당해 'once'의 과거 상태와 모순되고, considerable(상당한)은 크다는 뜻일 뿐 '난공불락'의 견고함을 담지 못하며 modest(대수롭지 않은)는 정반대입니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Far from the _______ recluse of popular legend, the composer was, by every surviving account, a gregarious host who relished long evenings of conversation and company.",
+      "choices": ["garrulous", "withdrawn", "irascible", "retiring", "mercurial", "candid"],
+      "answer": [1, 3],
+      "explanation_ko": "문장 해석: 대중의 전설 속 내성적이고 은둔하는(withdrawn/retiring) 은자(recluse)와는 거리가 멀게, 그 작곡가는 현존하는 모든 기록에 따르면 긴 저녁의 대화와 사교를 즐기던 붙임성 좋은 주인이었다.\n해설: 'Far from ~(와는 거리가 먼)'이 사교적인 주인(gregarious host)과 대비되므로, 빈칸은 '비사교적·은둔적'을 뜻해야 하여 withdrawn(내향적인, 위축된)과 retiring(낯을 가리는, 물러나 있는)이 동의어 정답 쌍입니다. garrulous(수다스러운)는 오히려 사교성과 통해 recluse(은자)와 어울리지 않고, irascible(성마른), mercurial(변덕스러운), candid(솔직한)는 성격의 다른 측면을 가리킬 뿐 '은둔적'이라는 같은 의미를 만들어 내지 못해 짝이 되지 않습니다."
+    }
+  ]
+}

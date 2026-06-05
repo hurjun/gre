@@ -1,0 +1,241 @@
+{
+  "group": "math",
+  "subgroup": "quant",
+  "level": 4,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Set S consists of the five numbers 1, 3, 5, 7, and 9. Set T consists of the five numbers 2, 4, 6, 8, and 10. Quantity A: the standard deviation of Set S. Quantity B: the standard deviation of Set T.",
+      "choices": [
+        "Quantity A is greater",
+        "Quantity B is greater",
+        "The two quantities are equal",
+        "The relationship cannot be determined from the information given"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation_ko": "문장 해석: 집합 S는 다섯 수 1, 3, 5, 7, 9로 이루어져 있고, 집합 T는 다섯 수 2, 4, 6, 8, 10으로 이루어져 있습니다. Quantity A는 집합 S의 standard deviation(표준편차)이고, Quantity B는 집합 T의 표준편차입니다. 어느 쪽이 더 큰지 비교하세요.\n해설: 집합 T의 각 값은 집합 S의 대응하는 값에 1을 더한 것입니다. 모든 값에 같은 상수를 더하면 분포가 통째로 평행이동할 뿐 평균으로부터의 흩어짐은 변하지 않으므로 standard deviation(표준편차)은 그대로입니다. 실제로 S의 평균은 5, T의 평균은 6이고 각 값의 편차는 -4, -2, 0, 2, 4로 양쪽이 동일하여 표준편차는 둘 다 약 2.83으로 equal(같음)입니다. T의 값들이 더 크니 표준편차도 더 클 것이라고 보는 것이 가장 흔한 함정인데, 표준편차는 값의 크기가 아니라 흩어진 정도만 반영합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Two fair six-sided dice are rolled. Quantity A: the probability that the product of the two numbers rolled is even. Quantity B: the probability that the sum of the two numbers rolled is even.",
+      "choices": [
+        "Quantity A is greater",
+        "Quantity B is greater",
+        "The two quantities are equal",
+        "The relationship cannot be determined from the information given"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "문장 해석: 공정한 육면체 주사위 두 개를 굴립니다. Quantity A는 나온 두 수의 곱(product)이 짝수일 확률이고, Quantity B는 두 수의 합(sum)이 짝수일 확률입니다. 어느 쪽이 더 큰지 비교하세요.\n해설: 곱이 짝수가 되려면 적어도 한 수가 짝수면 됩니다. 여사건인 '둘 다 홀수'의 확률은 (1/2) x (1/2) = 1/4이므로 곱이 짝수일 확률은 1 - 1/4 = 3/4입니다. 반면 합이 짝수가 되려면 두 수가 모두 짝수이거나 모두 홀수여야 하므로 1/4 + 1/4 = 1/2입니다. 따라서 Quantity A(3/4)가 Quantity B(1/2)보다 큽니다. 둘 다 짝수 관련 조건이라 같은 확률일 것이라 단정하기 쉽지만, 곱은 하나만 짝수여도 짝수가 되므로 조건이 훨씬 느슨합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "In the xy-plane, point P has coordinates (-2, -3) and point Q has coordinates (4, 5). Quantity A: the distance between P and Q. Quantity B: 10.",
+      "choices": [
+        "Quantity A is greater",
+        "Quantity B is greater",
+        "The two quantities are equal",
+        "The relationship cannot be determined from the information given"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation_ko": "문장 해석: xy평면에서 점 P의 좌표는 (-2, -3)이고 점 Q의 좌표는 (4, 5)입니다. Quantity A는 P와 Q 사이의 거리(distance)이고, Quantity B는 10입니다. 어느 쪽이 더 큰지 비교하세요.\n해설: 거리 공식에 따라 sqrt((4-(-2))^2 + (5-(-3))^2) = sqrt(6^2 + 8^2) = sqrt(36 + 64) = sqrt(100) = 10입니다. 따라서 Quantity A는 정확히 10이어서 두 양은 equal(같음)입니다. 음수 좌표의 뺄셈에서 부호를 잘못 처리해 (4-2)나 (5-3)으로 계산하면 sqrt(4+4)=sqrt(8) 같은 잘못된 값이 나오므로, 좌표 차이를 정확히 구하는 것이 핵심입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "In the xy-plane, the point (x, y) lies on the circle x^2 + y^2 = 25, and x > 0. Quantity A: x. Quantity B: 4.",
+      "choices": [
+        "Quantity A is greater",
+        "Quantity B is greater",
+        "The two quantities are equal",
+        "The relationship cannot be determined from the information given"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation_ko": "문장 해석: xy평면에서 점 (x, y)가 원 x^2 + y^2 = 25 위에 있고 x > 0입니다. Quantity A는 x이고, Quantity B는 4입니다. 어느 쪽이 더 큰지 비교하세요.\n해설: 이 원은 반지름이 5이므로 x > 0인 점의 x좌표는 0 < x <= 5 범위에서 가능합니다. 예를 들어 (3, 4)이면 x = 3으로 Quantity B가 크고, (5, 0)이면 x = 5로 Quantity A가 크며, (4, 3)이면 x = 4로 두 양이 같습니다. 경우에 따라 대소가 모두 달라지므로 관계를 determine(확정)할 수 없습니다. x = 4를 보고 흔히 떠올리는 정수 직각삼각형 (3,4,5)에만 갇혀 한 가지 경우로 단정하는 것이 함정입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "A box contains 4 green chips, 3 yellow chips, and 2 red chips. If 2 chips are drawn at random without replacement, what is the probability that the two chips are the same color?",
+      "choices": [
+        "1/6",
+        "5/18",
+        "29/81",
+        "1/3",
+        "2/9"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "문장 해석: 한 상자에 초록색 칩 4개, 노란색 칩 3개, 빨간색 칩 2개가 들어 있습니다. 비복원으로(without replacement) 무작위로 칩 2개를 뽑을 때, 두 칩이 같은 색일 확률은 얼마입니까?\n해설: 전체 9개에서 2개를 뽑는 경우의 수는 C(9,2) = 36입니다. 같은 색 쌍은 초록 C(4,2) = 6, 노랑 C(3,2) = 3, 빨강 C(2,2) = 1로 모두 6 + 3 + 1 = 10가지입니다. 따라서 확률은 10/36 = 5/18입니다. 복원 추출로 착각해 (4/9)^2 + (3/9)^2 + (2/9)^2 = 29/81을 고르거나, 초록 쌍 6/36 = 1/6만 세는 것이 흔한 실수입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "How many odd three-digit integers can be formed using the digits 1, 2, 3, 4, and 5 if no digit is repeated within an integer?",
+      "choices": [
+        "24",
+        "36",
+        "48",
+        "60",
+        "12"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "문장 해석: 숫자 1, 2, 3, 4, 5를 사용하되 한 정수 안에서 같은 숫자를 반복하지 않을 때, 만들 수 있는 홀수(odd)인 세 자리 정수는 몇 개입니까?\n해설: 홀수가 되려면 일의 자리가 홀수 숫자 {1, 3, 5} 중 하나여야 하므로 3가지입니다. 그다음 백의 자리는 남은 4개 중 하나, 십의 자리는 다시 남은 3개 중 하나이므로 3 x 4 x 3 = 36개입니다. 홀수 제한을 무시하고 5 x 4 x 3 = 60을 고르는 것이 가장 흔한 함정입니다. 자리 선택 순서를 일의 자리부터 제약 조건을 먼저 처리하는 것이 핵심입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "A reader will select 4 books to take on a trip from a shelf containing 6 different novels and 4 different biographies. How many different selections include at least 2 biographies?",
+      "choices": [
+        "90",
+        "105",
+        "115",
+        "185",
+        "195"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation_ko": "문장 해석: 한 독자가 서로 다른 소설 6권과 서로 다른 전기 4권이 꽂힌 책꽂이에서 여행에 가져갈 책 4권을 고릅니다. 전기를 적어도 2권(at least 2 biographies) 포함하는 서로 다른 선택은 몇 가지입니까?\n해설: 전기 권수로 경우를 나눕니다. 전기 2권: C(4,2) x C(6,2) = 6 x 15 = 90. 전기 3권: C(4,3) x C(6,1) = 4 x 6 = 24. 전기 4권: C(4,4) x C(6,0) = 1 x 1 = 1. 합하면 90 + 24 + 1 = 115가지입니다. 'at least 2(최소 2권)'를 'exactly 2(정확히 2권)'로 잘못 읽어 90을 고르거나, 'at least 1'의 결과 195(= 210 - 15)와 혼동하는 것이 대표적 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "In the xy-plane, the endpoints of a diameter of a circle are (1, 2) and (7, 2). What is the area of the circle?",
+      "choices": [
+        "6pi",
+        "9pi",
+        "12pi",
+        "18pi",
+        "36pi"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "문장 해석: xy평면에서 어떤 원의 지름(diameter)의 양 끝점이 (1, 2)와 (7, 2)입니다. 이 원의 넓이(area)는 얼마입니까?\n해설: 두 점은 y좌표가 같으므로 지름의 길이는 x좌표 차이 7 - 1 = 6입니다. 따라서 반지름은 6 / 2 = 3이고 넓이는 pi x r^2 = pi x 9 = 9pi입니다. 지름 6을 그대로 반지름으로 착각해 pi x 36 = 36pi를 고르는 것이 가장 흔한 실수이니, 넓이 공식에는 반지름(지름의 절반)을 넣어야 한다는 점을 기억해야 합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "For how many integer values of x is x^2 - 8x + 12 < 0?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "7"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation_ko": "문장 해석: x^2 - 8x + 12 < 0을 만족하는 정수(integer) x의 값은 몇 개입니까?\n해설: 좌변을 인수분해하면 (x - 2)(x - 6) < 0이므로 두 근 2와 6 사이, 즉 2 < x < 6에서만 부등식이 성립합니다. 이 구간의 정수는 3, 4, 5로 3개입니다. 부등호가 < 0(엄격한 부등호)이라 경계값 2와 6은 포함되지 않습니다. 경계를 포함시켜 {2, 3, 4, 5, 6}으로 보고 5를 고르는 것이 가장 흔한 함정입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "An empty tank can be filled by pipe A in 4 hours and by pipe B in 6 hours. A drain pipe C, when open, can empty the full tank in 12 hours. If all three pipes are open at the same time, how many hours will it take to fill the empty tank?",
+      "choices": [
+        "2",
+        "2.4",
+        "3",
+        "4",
+        "6"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation_ko": "문장 해석: 빈 탱크를 파이프 A는 4시간에, 파이프 B는 6시간에 채울 수 있습니다. 배수 파이프 C는 열려 있으면 가득 찬 탱크를 12시간에 비웁니다. 세 파이프를 동시에 모두 열면 빈 탱크를 채우는 데 몇 시간이 걸립니까?\n해설: 시간당 작업률(rate)을 더하되 배수 파이프는 빼야 합니다. 1/4 + 1/6 - 1/12을 통분하면 3/12 + 2/12 - 1/12 = 4/12 = 1/3(시간당)입니다. 따라서 탱크 전체(1)를 채우는 시간은 1 / (1/3) = 3시간입니다. 배수 파이프를 빼지 않고 더하면 1/(6/12) = 2가 나오고, 배수를 아예 무시하면 1/(5/12) = 2.4가 나오므로 부호 처리가 핵심입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "A cyclist rode a distance of 240 miles. If the cyclist had ridden 20 miles per hour faster, the trip would have taken 1 hour less. What was the cyclist's actual speed, in miles per hour?",
+      "choices": [
+        "40",
+        "48",
+        "50",
+        "60",
+        "80"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation_ko": "문장 해석: 한 자전거 운전자가 240마일의 거리를 달렸습니다. 만약 시속 20마일을 더 빠르게 달렸다면 이동 시간이 1시간 덜 걸렸을 것입니다. 이 운전자의 실제 속력은 시속 몇 마일이었습니까?\n해설: 실제 속력을 v라 하면 걸린 시간은 240/v이고, 20 빠른 속력에서의 시간은 240/(v+20)입니다. 시간 차가 1시간이므로 240/v - 240/(v+20) = 1입니다. 양변에 v(v+20)을 곱하면 240(v+20) - 240v = v(v+20), 즉 4800 = v^2 + 20v가 되어 v^2 + 20v - 4800 = 0입니다. 인수분해하면 (v - 60)(v + 80) = 0이므로 양수 해 v = 60입니다. 더 빠른 속력 80(= v + 20)을 답으로 혼동하지 않도록 '실제 속력'을 묻는 것에 유의해야 합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "What is the standard deviation of the data set consisting of the eight values 2, 2, 2, 2, 8, 8, 8, and 8?",
+      "choices": [
+        "3",
+        "4",
+        "6",
+        "9",
+        "12"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation_ko": "문장 해석: 여덟 개의 값 2, 2, 2, 2, 8, 8, 8, 8로 이루어진 자료 집합(data set)의 standard deviation(표준편차)은 얼마입니까?\n해설: 평균은 (2 x 4 + 8 x 4) / 8 = 40 / 8 = 5입니다. 각 값의 평균으로부터의 편차는 모두 +3 또는 -3이므로 편차의 제곱은 모두 9입니다. variance(분산)은 (9 x 8) / 8 = 9이고, 표준편차는 그 제곱근인 sqrt(9) = 3입니다. 분산 9를 그대로 표준편차로 착각해 9를 고르거나, range(범위)인 8 - 2 = 6을 표준편차로 혼동하는 것이 흔한 실수입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "A fair coin is tossed 4 times. What is the probability of getting at least one tail?",
+      "choices": [
+        "1/16",
+        "1/4",
+        "1/2",
+        "11/16",
+        "15/16"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation_ko": "문장 해석: 공정한 동전을 4번 던집니다. 적어도 한 번(at least one) 뒷면(tail)이 나올 확률은 얼마입니까?\n해설: 'at least one tail(뒷면 최소 1번)'의 여사건은 '뒷면이 한 번도 안 나옴', 즉 4번 모두 앞면인 경우입니다. 그 확률은 (1/2)^4 = 1/16이므로 구하는 확률은 1 - 1/16 = 15/16입니다. 여사건 1/16 자체를 답으로 고르거나, 'at least one'을 'exactly one(정확히 한 번)'으로 잘못 읽어 C(4,1)/16 = 1/4를 고르는 것이 대표적 오답입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "In the xy-plane, a particle moves from the point (0, 0) to the point (4, 3) by a sequence of unit moves, each of which is either one unit to the right or one unit up. How many different shortest paths are possible?",
+      "choices": [
+        "7",
+        "12",
+        "21",
+        "24",
+        "35"
+      ],
+      "answer": [
+        4
+      ],
+      "explanation_ko": "문장 해석: xy평면에서 한 입자가 점 (0, 0)에서 점 (4, 3)까지 이동하는데, 각 이동은 오른쪽으로 한 칸 또는 위로 한 칸뿐입니다. 가능한 서로 다른 최단 경로(shortest path)는 몇 가지입니까?\n해설: 최단 경로는 오른쪽 이동 4번(R)과 위쪽 이동 3번(U), 총 7번의 이동을 순서대로 배열하는 것과 같습니다. 7개의 자리 중 R이 들어갈 4자리(또는 U가 들어갈 3자리)를 고르는 경우의 수이므로 C(7, 3) = 35가지입니다. 좌표를 단순히 더한 4 + 3 = 7이나 곱한 4 x 3 = 12를 답으로 고르는 것이 흔한 실수입니다. 이는 같은 글자(R끼리, U끼리)가 구별되지 않는 반복 순열 7! / (4! x 3!) = 35로도 같은 결과를 줍니다."
+    }
+  ]
+}

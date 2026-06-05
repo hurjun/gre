@@ -1,0 +1,133 @@
+{
+  "group": "verbal",
+  "subgroup": "se_tc",
+  "level": 5,
+  "questions": [
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Far from being the iconoclast his admirers imagined, the composer proved on closer inspection thoroughly _______, his every supposed innovation traceable to conventions his predecessors had already exhausted.",
+      "choices": ["mercurial", "derivative", "fastidious", "iconoclastic", "intransigent"],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 그의 숭배자들이 상상했던 인습 타파자와는 거리가 멀게, 그 작곡가는 면밀히 들여다보니 철저히 모방적(derivative)인 인물로 드러났는데, 그가 혁신이라 여겨졌던 모든 것은 선배들이 이미 다 써먹은 관습으로 거슬러 올라갈 수 있었다.\n해설: 'Far from being the iconoclast(인습 타파자와는 거리가 멀게)'라는 도입과 '선배들이 이미 소진한 관습으로 거슬러 올라간다'는 단서가 빈칸이 '독창적이지 않은'을 뜻해야 함을 알려 줍니다. 따라서 derivative(모방적인, 독창성 없는)가 정답입니다. 가장 헷갈리는 iconoclastic(인습 타파적인)은 문장 첫머리의 단어를 그대로 반복하게 만드는 함정이지만 'Far from being'이 그 의미를 부정하므로 정반대라 틀립니다. mercurial(변덕스러운), fastidious(까다로운), intransigent(비타협적인)은 단서와 무관합니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "The memoir's candor is more apparent than real: beneath its show of unsparing self-criticism lies a subtle _______, every confessed failing chosen to flatter rather than to indict.",
+      "choices": ["compunction", "asceticism", "vainglory", "candor", "diffidence"],
+      "answer": [2],
+      "explanation_ko": "문장 해석: 그 회고록의 솔직함은 실제라기보다 겉보기일 뿐이다. 가차 없는 자기비판이라는 외양 아래에는 은밀한 허영(vainglory)이 도사리고 있어, 고백된 모든 결점은 단죄하기보다 돋보이게 하려고 선택된 것이다.\n해설: '고백된 결점이 단죄가 아니라 자기를 돋보이게(flatter) 하려 선택됐다'는 후반부가 단서로, 자기비판의 외양 아래 실제로는 자기 과시가 있다는 것이므로 vainglory(허영, 자만)가 정답입니다. 가장 헷갈리는 candor(솔직함)는 문장 첫머리에 등장하지만 'more apparent than real(실제가 아닌 겉보기)'이라 부정되므로 틀립니다. compunction(양심의 가책)은 고백 맥락에 끌리지만 의미가 반대이고, diffidence(자신 없음)도 과시와 반대입니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Critics who fault the treaty for its vagueness mistake design for defect: its drafters, aware that any _______ would have doomed ratification, deliberately cultivated ambiguities capacious enough to accommodate antagonistic interpretations.",
+      "choices": ["equivocation", "exactitude", "prolixity", "obfuscation", "latitude"],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 그 조약을 모호하다고 비난하는 비평가들은 의도를 결함으로 오인한다. 기초자들은 어떠한 정밀함(exactitude)도 비준을 망쳐 버렸으리라는 것을 알았기에, 적대적인 해석들마저 수용할 만큼 넓은 모호함을 일부러 길러 냈다.\n해설: 기초자들이 '모호함을 일부러 길렀다'면, 비준을 망쳤을 그 무엇은 모호함의 반대인 '정밀함'이어야 합니다. 따라서 exactitude(정확함, 정밀함)가 정답입니다. 가장 헷갈리는 obfuscation(일부러 모호하게 만들기)과 equivocation(모호한 표현)은 오히려 기초자들이 추구한 바이므로 '비준을 망쳤을 것'이라는 자리에 들어가면 논리가 뒤집힙니다. prolixity(장황함), latitude(재량의 폭)도 단서와 호응하지 않습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Although ostensibly a _______ of the regime, the novelist so larded his satire with affectionate detail that censors, and not a few readers, took his lampoons for homage.",
+      "choices": ["panegyrist", "scourge", "votary", "apologist", "sycophant"],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 표면상으로는 그 정권의 통렬한 비판자(scourge)였지만, 그 소설가는 자신의 풍자에 애정 어린 묘사를 어찌나 많이 버무려 넣었던지 검열관들은 물론 적지 않은 독자들까지 그의 풍자를 찬사로 받아들였다.\n해설: 'satire(풍자)'와 'lampoons(풍자적 조롱)'라는 단어가 빈칸의 인물이 본래 정권을 '공격하는' 쪽임을 알려 주므로, scourge(혹독한 비판자, 천벌)가 정답입니다. 나머지 panegyrist(찬양가), votary(열렬한 추종자), apologist(옹호자), sycophant(아첨꾼)은 모두 '찬양/지지'를 뜻해, 작품이 결국 찬사처럼 읽혔다는 점에는 끌리지만 'ostensibly(표면상으로는)' 풍자가였다는 설정과 모순되어 틀립니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "The biographer's refusal to adjudicate among competing accounts, far from betokening scholarly humility, bespeaks a kind of intellectual _______ that mistakes the suspension of judgment for its exercise.",
+      "choices": ["rigor", "partisanship", "pusillanimity", "dogmatism", "perspicacity"],
+      "answer": [2],
+      "explanation_ko": "문장 해석: 상충하는 여러 설명 사이에서 판정 내리기를 거부하는 그 전기 작가의 태도는, 학자적 겸손을 나타내기는커녕 판단의 유보를 판단의 행사로 착각하는 일종의 지적 소심함(pusillanimity)을 드러낸다.\n해설: 'far from betokening scholarly humility(겸손을 나타내기는커녕)'라는 반전이 빈칸에 부정적 평가가 와야 함을 알려 주고, '판단 유보를 판단 행사로 착각한다'는 것은 결단을 회피하는 비겁함을 뜻하므로 pusillanimity(소심함, 우유부단)가 정답입니다. 가장 헷갈리는 partisanship(당파성)과 dogmatism(독단)은 정반대의 악덕, 즉 '지나치게 한쪽에 치우침'을 가리키는데, 작가는 어느 편도 들지 않으므로 맞지 않습니다. rigor(엄밀함)와 perspicacity(통찰력)는 긍정적 자질이라 'far from humility' 뒤 부정적 자리와 어긋납니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "Once dismissed as a mere _______, the herbalist's folk remedy has lately been vindicated by clinical trials, to the chagrin of physicians who had staked their authority on its inefficacy.",
+      "choices": ["palliative", "nostrum", "specific", "prophylactic", "regimen"],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 한때 한낱 엉터리 약(nostrum)으로 일축되었던 그 약초상의 민간요법은, 그 무효함에 자신들의 권위를 걸었던 의사들을 당혹스럽게 하면서 최근 임상시험으로 그 효능이 입증되었다.\n해설: 'dismissed as a mere(한낱 ~로 일축되다)'라는 경멸적 표현과 의사들이 '그 무효함(inefficacy)에 권위를 걸었다'는 단서가, 빈칸에 '효과 없는 가짜 약'이라는 폄하의 말이 와야 함을 보여 주므로 nostrum(엉터리 만병통치약)이 정답입니다. palliative(일시적 완화제), specific(특효약), prophylactic(예방약), regimen(요법)은 모두 실제 의학 용어이지만 경멸적 함의가 없어 'mere ___'로 일축되는 자리에 어울리지 않습니다."
+    },
+    {
+      "question_type": "single",
+      "select_count": 1,
+      "passage": null,
+      "question_text": "The senator's reputation for _______ was hard-won and, his detractors conceded, largely deserved; yet it rested less on any principled consistency than on a chameleon's gift for seeming to hold whatever view his audience already cherished.",
+      "choices": ["mendacity", "rectitude", "volatility", "demagoguery", "obstinacy"],
+      "answer": [1],
+      "explanation_ko": "문장 해석: 그 상원의원이 얻은 청렴(rectitude)이라는 평판은 힘겹게 얻은 것이었고 그의 비방자들조차 대체로 합당하다고 인정했지만, 그 평판은 어떤 원칙에 입각한 일관성보다는 청중이 이미 소중히 여기는 견해라면 무엇이든 지지하는 척하는 카멜레온 같은 재주에 기대고 있었다.\n해설: 'hard-won(힘겹게 얻은)'이고 비방자들조차 'deserved(합당하다)'고 인정하는 평판이므로 빈칸에는 긍정적 미덕이 와야 하며, 청렴/정직에 관한 평판이 사실은 영합에 기댔다는 아이러니를 이루는 rectitude(청렴, 정직)가 정답입니다. mendacity(거짓말), demagoguery(선동)는 부정적 어휘라 '합당하다고 인정받는 평판'과 모순됩니다. volatility(변덕)와 obstinacy(완고함)는 카멜레온 묘사에 끌리지만, 그 자체로는 칭송받을 평판이 아니어서 'deserved'와 어울리지 않습니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Reviewers found the director's much-touted reinvention of the franchise disappointingly _______, a faithful retread that mistook fidelity to the original for imagination.",
+      "choices": ["imitative", "iconoclastic", "unoriginal", "inventive", "convoluted", "lavish"],
+      "answer": [0, 2],
+      "explanation_ko": "문장 해석: 평론가들은 그 감독이 대대적으로 선전한 시리즈 재창조가 실망스러울 만큼 독창성 없는(imitative/unoriginal) 작품, 즉 원작에 대한 충실함을 상상력으로 착각한 충실한 답습에 불과하다고 보았다.\n해설: 'a faithful retread(충실한 답습)'이자 '충실함을 상상력으로 착각했다'는 단서가 빈칸이 '독창적이지 않은'을 뜻함을 알려 주므로, 동의어인 imitative(모방적인)와 unoriginal(독창성 없는)이 정답입니다. iconoclastic(인습 타파적인)과 inventive(독창적인)도 서로 동의어 쌍을 이루지만 의미가 정반대라 함정이며, convoluted(복잡한), lavish(호화로운)는 단서와 무관합니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Her colleagues admired the _______ with which she dispatched even the most tedious administrative chores, never betraying the slightest flag in enthusiasm.",
+      "choices": ["reluctance", "gusto", "lassitude", "zest", "precision", "equanimity"],
+      "answer": [1, 3],
+      "explanation_ko": "문장 해석: 동료들은 그녀가 가장 지루한 행정 잡무조차 처리해 내는 열의(gusto/zest)에 감탄했는데, 그녀는 열정이 조금이라도 수그러드는 기색을 결코 내비치지 않았다.\n해설: 'never betraying the slightest flag in enthusiasm(열정이 수그러드는 기색을 전혀 보이지 않았다)'가 빈칸이 '열의, 열정'을 뜻함을 알려 주므로 동의어인 gusto(열의)와 zest(열정)가 정답입니다. reluctance(꺼림), lassitude(나른함)는 정반대이고, precision(정확함)과 equanimity(평정)는 잡무 처리 맥락에 그럴듯해 보이지만 '열정'이라는 단서와는 동의어가 아니어서 둘 중 어느 것도 짝을 이루지 못해 틀립니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Far from quelling the controversy, the committee's evasive report only _______ it, supplying both factions with fresh grievances.",
+      "choices": ["mollified", "exacerbated", "defused", "aggravated", "prolonged", "eclipsed"],
+      "answer": [1, 3],
+      "explanation_ko": "문장 해석: 논란을 잠재우기는커녕, 그 위원회의 얼버무리는 보고서는 양 진영에 새로운 불만거리를 제공하며 논란을 오히려 악화시켰을(exacerbated/aggravated) 뿐이다.\n해설: 'Far from quelling(잠재우기는커녕)'과 '양 진영에 새 불만을 제공했다'는 단서가 빈칸이 '악화시키다'를 뜻함을 보여 주므로 동의어인 exacerbated와 aggravated가 정답입니다. mollified(누그러뜨리다)와 defused(진정시키다)는 정반대 동의어 쌍이라 함정이며, prolonged(연장하다)는 그럴듯하지만 '길게 끌다'일 뿐 '악화시키다'와 동의어가 아니고 짝이 없어 틀립니다. eclipsed(가리다)는 무관합니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "The prose style of his late novels grew increasingly _______, clauses nesting within clauses until the original thought all but vanished beneath its own elaboration.",
+      "choices": ["limpid", "labyrinthine", "spare", "involved", "mannered", "ponderous"],
+      "answer": [1, 3],
+      "explanation_ko": "문장 해석: 그의 후기 소설들의 문체는 점점 더 미궁처럼 복잡해져(labyrinthine/involved), 절 안에 절이 겹겹이 들어앉다가 마침내 본래의 생각이 그 자체의 부연 아래 거의 사라져 버릴 지경이었다.\n해설: '절 안에 절이 겹겹이 들어앉아 본래 생각이 부연 아래 사라졌다'는 묘사가 빈칸이 '복잡하게 뒤얽힌'을 뜻함을 알려 주므로 동의어인 labyrinthine(미궁 같은)과 involved(복잡한)가 정답입니다. limpid(맑고 명료한)와 spare(간결한)는 정반대라 함정이고, mannered(꾸민 듯한)와 ponderous(묵직하고 답답한)는 문체 비판으로 그럴듯하나 '복잡함'과는 동의어가 아니어서 짝을 이루지 못합니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Although the startup's founder was lionized in the press as a visionary, insiders described a manager so _______ that no decision, however trivial, could be made without his approval.",
+      "choices": ["diffident", "imperious", "permissive", "peremptory", "mercurial", "genial"],
+      "answer": [1, 3],
+      "explanation_ko": "문장 해석: 그 스타트업 창업자는 언론에서 선각자로 떠받들어졌지만, 내부자들은 그를 아무리 사소한 결정도 자신의 승인 없이는 내려질 수 없을 만큼 군림하려 드는(imperious/peremptory) 관리자로 묘사했다.\n해설: '아무리 사소한 결정도 그의 승인 없이는 안 된다'는 단서가 빈칸이 '고압적이고 지배하려 드는'을 뜻함을 알려 주므로 동의어인 imperious(거만하게 군림하는)와 peremptory(위압적이고 단호한)가 정답입니다. diffident(자신 없는), permissive(관대한), genial(상냥한)은 반대 방향이고, mercurial(변덕스러운)은 부정적 묘사라는 점에 끌리지만 '지배적'이라는 의미와는 동의어가 아니라 짝이 없습니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "The diplomat's memoir is disappointingly _______: page after page of bland generality, with never an indiscreet detail to repay the reader's patience.",
+      "choices": ["scandalous", "anodyne", "trenchant", "innocuous", "candid", "abstruse"],
+      "answer": [1, 3],
+      "explanation_ko": "문장 해석: 그 외교관의 회고록은 실망스러울 만큼 무난하기만 하다(anodyne/innocuous). 독자의 인내에 보답할 만한 경솔한 세부 하나 없이, 무미건조한 일반론만 쪽마다 이어진다.\n해설: 'bland generality(무미건조한 일반론)'와 '경솔한 세부가 하나도 없다'는 단서가 빈칸이 '자극 없고 무난한'을 뜻함을 알려 주므로 동의어인 anodyne(자극 없는, 무난한)과 innocuous(해될 것 없는, 무난한)가 정답입니다. scandalous(충격적인), trenchant(예리한), candid(거리낌 없이 솔직한)는 모두 반대 방향이라 함정이며, abstruse(난해한)는 단서와 무관합니다."
+    },
+    {
+      "question_type": "multi",
+      "select_count": 2,
+      "passage": null,
+      "question_text": "Once _______ as the inevitable medium of the future, the technology now seems a curio, its grand promises undone by a rival no one had thought to take seriously.",
+      "choices": ["derided", "vaunted", "lamented", "heralded", "scrutinized", "eclipsed"],
+      "answer": [1, 3],
+      "explanation_ko": "문장 해석: 한때 미래의 필연적 매체로 떠들썩하게 칭송받던(vaunted/heralded) 그 기술은, 아무도 진지하게 여기지 않던 경쟁자에게 그 거창한 약속이 무너지면서 이제는 골동품처럼 보인다.\n해설: 'the inevitable medium of the future(미래의 필연적 매체)'로 소개되었다는 점이 빈칸이 '대대적으로 칭송/선전되다'를 뜻함을 알려 주므로 동의어인 vaunted(떠벌려 칭송된)와 heralded(대대적으로 알려진)가 정답입니다. derided(조롱당한)는 정반대이고, eclipsed(가려진)는 'undone by a rival'에 끌리지만 'as the inevitable medium' 자리에는 어울리지 않으며 짝도 없습니다. lamented(애도된), scrutinized(면밀히 검토된)도 단서와 호응하지 않습니다."
+    }
+  ]
+}
