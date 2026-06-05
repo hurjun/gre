@@ -21,6 +21,7 @@ def get_next_question(subgroup: Subgroup, db: Session = Depends(get_db)) -> Next
     return NextQuestionOut(
         question=picked.question,
         current_level=picked.current_level,
+        max_level=picked.max_level,
         remaining_at_level=picked.remaining_at_level,
         exhausted=picked.exhausted,
     )

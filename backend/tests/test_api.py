@@ -75,13 +75,15 @@ def test_progress_reports_all_subgroups(client, make_question):
     body = client.get("/api/progress").json()
     by_subgroup = {entry["subgroup"]: entry for entry in body["subgroups"]}
 
-    assert set(by_subgroup) == {"se_tc", "reading_reasoning", "quant"}
+    assert set(by_subgroup) == {"se_tc", "reading_reasoning", "quant", "vocabulary"}
     assert by_subgroup["quant"] == {
         "subgroup": "quant",
         "current_level": 2,
+        "max_level": 5,
         "solved": 1,
         "total": 1,
     }
+    assert by_subgroup["vocabulary"]["max_level"] == 10
 
 
 def _add_prompt(db) -> WritingPrompt:

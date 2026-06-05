@@ -28,6 +28,7 @@ class QuestionOut(BaseModel):
 class NextQuestionOut(BaseModel):
     question: QuestionOut | None
     current_level: int
+    max_level: int
     remaining_at_level: int
     exhausted: bool
 
@@ -49,6 +50,7 @@ class AnswerOut(BaseModel):
 class SubgroupProgressOut(BaseModel):
     subgroup: Subgroup
     current_level: int
+    max_level: int
     solved: int
     total: int
 

@@ -16,23 +16,26 @@ from dataclasses import dataclass
 from sqlalchemy import Select, func, select
 from sqlalchemy.orm import Session
 
-from ..config import MAX_LEVEL, MIN_LEVEL
+from ..config import MAX_LEVEL, MIN_LEVEL, level_bounds
 from ..models import Attempt, Question, SubgroupProgress
 
 
 def get_or_create_progress(db: Session, subgroup: str) -> SubgroupProgress:
     progress = db.get(SubgroupProgress, subgroup)
     if progress is None:
-        progress = SubgroupProgress(subgroup=subgroup, current_level=MIN_LEVEL)
+        min_level, _ = level_bounds(subgroup)
+        progress = SubgroupProgress(subgroup=subgroup, current_level=min_level)
         db.add(progress)
         db.flush()
     return progress
 
 
-def level_sequence(current_level: int) -> list[int]:
+def level_sequence(
+    current_level: int, min_level: int = MIN_LEVEL, max_level: int = MAX_LEVEL
+) -> list[int]:
     """All levels ordered by distance from the current one (lower wins ties)."""
     return sorted(
-        range(MIN_LEVEL, MAX_LEVEL + 1),
+        range(min_level, max_level + 1),
         key=lambda level: (abs(level - current_level), level),
     )
 
@@ -58,6 +61,7 @@ def _unsolved_ids_at_level(db: Session, subgroup: str, level: int) -> list[int]:
 class NextQuestion:
     question: Question | None
     current_level: int
+    max_level: int
     remaining_at_level: int
     exhausted: bool
 
@@ -65,19 +69,22 @@ class NextQuestion:
 def pick_next_question(db: Session, subgroup: str) -> NextQuestion:
     """Pick a random unsolved question, preferring the current level."""
     progress = get_or_create_progress(db, subgroup)
-    for level in level_sequence(progress.current_level):
+    min_level, max_level = level_bounds(subgroup)
+    for level in level_sequence(progress.current_level, min_level, max_level):
         candidate_ids = _unsolved_ids_at_level(db, subgroup, level)
         if candidate_ids:
             question = db.get(Question, random.choice(candidate_ids))
             return NextQuestion(
                 question=question,
                 current_level=progress.current_level,
+                max_level=max_level,
                 remaining_at_level=len(candidate_ids),
                 exhausted=False,
             )
     return NextQuestion(
         question=None,
         current_level=progress.current_level,
+        max_level=max_level,
         remaining_at_level=0,
         exhausted=True,
     )
@@ -99,11 +106,12 @@ def grade_answer(
     correct = sorted(selected) == sorted(question.answer)
 
     progress = get_or_create_progress(db, question.subgroup)
+    min_level, max_level = level_bounds(question.subgroup)
     previous_level = progress.current_level
     if correct:
-        progress.current_level = min(MAX_LEVEL, previous_level + 1)
+        progress.current_level = min(max_level, previous_level + 1)
     else:
-        progress.current_level = max(MIN_LEVEL, previous_level - 1)
+        progress.current_level = max(min_level, previous_level - 1)
 
     db.add(
         Attempt(

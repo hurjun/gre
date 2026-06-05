@@ -9,6 +9,12 @@ def test_level_sequence_orders_by_distance_with_lower_preferred():
     assert adaptive.level_sequence(5) == [5, 4, 3, 2, 1]
 
 
+def test_level_sequence_respects_custom_bounds():
+    assert adaptive.level_sequence(7, 1, 10) == [7, 6, 8, 5, 9, 4, 10, 3, 2, 1]
+    assert adaptive.level_sequence(1, 1, 10)[0] == 1
+    assert max(adaptive.level_sequence(10, 1, 10)) == 10
+
+
 def test_pick_prefers_current_level(db, make_question):
     make_question(level=1, question_text="level one")
     make_question(level=2, question_text="level two")
@@ -119,6 +125,35 @@ def test_progress_is_per_subgroup(db, make_question):
 
     assert adaptive.get_or_create_progress(db, "se_tc").current_level == 2
     assert adaptive.get_or_create_progress(db, "quant").current_level == 1
+
+
+def test_vocabulary_uses_ten_level_ladder(db, make_question):
+    # vocabulary climbs to 10, not 5
+    progress = adaptive.get_or_create_progress(db, "vocabulary")
+    progress.current_level = 5
+    question = make_question(subgroup="vocabulary", group="vocabulary", level=6)
+
+    graded = adaptive.grade_answer(db, question, list(question.answer), elapsed_seconds=5)
+
+    assert graded.new_level == 6  # would have capped at 5 under the old bounds
+
+
+def test_vocabulary_caps_at_ten(db, make_question):
+    progress = adaptive.get_or_create_progress(db, "vocabulary")
+    progress.current_level = 10
+    question = make_question(subgroup="vocabulary", group="vocabulary", level=10)
+
+    graded = adaptive.grade_answer(db, question, list(question.answer), elapsed_seconds=5)
+
+    assert graded.new_level == 10
+
+
+def test_pick_reports_max_level_per_subgroup(db, make_question):
+    make_question(subgroup="vocabulary", group="vocabulary", level=1)
+    make_question(subgroup="se_tc", level=1)
+
+    assert adaptive.pick_next_question(db, "vocabulary").max_level == 10
+    assert adaptive.pick_next_question(db, "se_tc").max_level == 5
 
 
 def test_subgroup_stats_counts_distinct_solved(db, make_question):

@@ -9,6 +9,7 @@ import json
 import sys
 from pathlib import Path
 
+from ..config import level_bounds
 from ..models import Group, QuestionType, Subgroup, TaskType
 
 DATA_DIR = Path(__file__).parent / "data"
@@ -66,10 +67,16 @@ def validate() -> list[str]:
             continue
         if bucket.get("group") not in VALID_GROUPS:
             errors.append(f"{path.name}: unknown group {bucket.get('group')!r}")
-        if bucket.get("subgroup") not in VALID_SUBGROUPS:
-            errors.append(f"{path.name}: unknown subgroup {bucket.get('subgroup')!r}")
-        if bucket.get("level") not in {1, 2, 3, 4, 5}:
-            errors.append(f"{path.name}: level {bucket.get('level')!r} out of range")
+        subgroup = bucket.get("subgroup")
+        if subgroup not in VALID_SUBGROUPS:
+            errors.append(f"{path.name}: unknown subgroup {subgroup!r}")
+        else:
+            low, high = level_bounds(subgroup)
+            if bucket.get("level") not in range(low, high + 1):
+                errors.append(
+                    f"{path.name}: level {bucket.get('level')!r} out of range "
+                    f"[{low}, {high}] for subgroup {subgroup!r}"
+                )
         questions = bucket.get("questions", [])
         if not questions:
             errors.append(f"{path.name}: no questions")
