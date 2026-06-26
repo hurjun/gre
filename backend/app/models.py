@@ -17,7 +17,9 @@ class Group(str, enum.Enum):
 
 class Subgroup(str, enum.Enum):
     SE_TC = "se_tc"  # Sentence Equivalence + Text Completion
-    READING_REASONING = "reading_reasoning"  # Reading Comprehension + Critical Reasoning
+    READING_REASONING = (
+        "reading_reasoning"  # Reading Comprehension + Critical Reasoning
+    )
     QUANT = "quant"  # Quantitative Reasoning
     VOCABULARY = "vocabulary"  # GRE Word Test (levels 1-10)
 

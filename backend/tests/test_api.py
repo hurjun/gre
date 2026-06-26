@@ -43,7 +43,9 @@ def test_submit_out_of_range_choice_returns_422(client, make_question):
 
 
 def test_wrong_answer_returns_korean_explanation_and_level(client, make_question):
-    question = make_question(level=1, answer=(0,), explanation_ko="정답은 첫 번째입니다.")
+    question = make_question(
+        level=1, answer=(0,), explanation_ko="정답은 첫 번째입니다."
+    )
 
     body = client.post(
         "/api/answers",

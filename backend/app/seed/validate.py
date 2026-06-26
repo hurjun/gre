@@ -86,14 +86,18 @@ def validate() -> list[str]:
     prompts_path = DATA_DIR / "writing_prompts.json"
     if prompts_path.exists():
         try:
-            prompts = json.loads(prompts_path.read_text(encoding="utf-8")).get("prompts", [])
+            prompts = json.loads(prompts_path.read_text(encoding="utf-8")).get(
+                "prompts", []
+            )
         except (json.JSONDecodeError, UnicodeDecodeError) as exc:
             errors.append(f"{prompts_path.name}: invalid JSON ({exc})")
             prompts = []
         for index, record in enumerate(prompts):
             source = f"{prompts_path.name}#{index}"
             if record.get("task_type") not in VALID_TASKTYPES:
-                errors.append(f"{source}: unknown task_type {record.get('task_type')!r}")
+                errors.append(
+                    f"{source}: unknown task_type {record.get('task_type')!r}"
+                )
             if not str(record.get("prompt_text", "")).strip():
                 errors.append(f"{source}: empty prompt_text")
             if not str(record.get("model_answer", "")).strip():
