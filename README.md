@@ -103,6 +103,37 @@ once it has *any* correct attempt, computed with a `NOT IN (SELECT question_id
 FROM attempts WHERE correct)` subquery. This keeps the read model honest even if
 attempts are added out of band.
 
+### Does it converge? (evaluation)
+
+The up-one / down-one rule is intentionally simple — a classic **staircase**
+method, not a psychometric (IRT) model. To check that it actually homes in on a
+learner's level rather than wandering, the repo ships a database-free simulation
+([`backend/app/services/simulation.py`](backend/app/services/simulation.py))
+that drives a *synthetic learner* of known latent ability through the exact same
+rule. The learner answers a question of difficulty `level` correctly with
+logistic probability `1 / (1 + e^-(ability - level))`, so it is a coin-flip when
+`ability == level`.
+
+Running `make sim` (`python -m app.services.simulation`) reports the level the
+ladder settles on, averaged over a 2000-step run (seeded, reproducible) on the
+1–5 ladder:
+
+| true ability | settled level | abs. error |
+| ------------ | ------------- | ---------- |
+| 2.0          | 2.26          | 0.26       |
+| 2.5          | 2.60          | 0.10       |
+| 3.0          | 3.06          | 0.06       |
+| 3.5          | 3.43          | 0.07       |
+| 4.0          | 3.85          | 0.15       |
+
+Inside the range the ladder recovers the learner's ability to well under half a
+level; the error grows toward the **floor and ceiling** (e.g. ~0.6 at ability
+1.0 or 5.0) because a bounded staircase cannot represent an ability outside the
+levels it offers. This is the expected, honest behaviour of a simple up-down
+rule, and the simulation is unit-tested in
+[`tests/test_simulation.py`](backend/tests/test_simulation.py). A psychometric
+ability estimator (IRT/Elo) is on the [roadmap](#roadmap).
+
 ## Architecture
 
 ```mermaid
@@ -136,8 +167,8 @@ rules can be unit-tested without a web server or a database server.
 | Frontend | React 18 + Vite, React Router   | SPA, fetch-based API client, no UI framework     |
 | Backend  | FastAPI, Pydantic v2            | Typed request/response models, auto OpenAPI docs |
 | ORM      | SQLAlchemy 2.0 (typed mappings) | `Mapped[...]` models, JSON columns for choices   |
-| Database | MySQL 8.4                       | Runs locally via Docker Compose                  |
-| Tooling  | pytest, GitHub Actions          | Logic + API tests, CI on every push/PR           |
+| Database | MySQL 8.4 (or SQLite)           | MySQL via Docker Compose; SQLite for a no-setup run |
+| Tooling  | pytest + coverage, ruff, mypy   | Tests, lint/format, and type checks — all gated in CI |
 
 ## Project structure
 
@@ -145,56 +176,79 @@ rules can be unit-tested without a web server or a database server.
 gre/
 ├── backend/
 │   ├── app/
-│   │   ├── main.py              # app entry, CORS, router registration
-│   │   ├── config.py            # env-driven settings + per-section level bounds
-│   │   ├── database.py          # SQLAlchemy engine/session + Base
-│   │   ├── models.py            # ORM models
-│   │   ├── schemas.py           # Pydantic schemas (answer key hidden)
-│   │   ├── routers/             # questions · answers · progress · writing
-│   │   ├── services/adaptive.py # selection + leveling policy
-│   │   └── seed/                # JSON question bank + validate/seed scripts
-│   ├── tests/                   # pytest suite (SQLite, no server needed)
+│   │   ├── main.py                # app entry, CORS, router registration
+│   │   ├── config.py              # env-driven settings + per-section level bounds
+│   │   ├── database.py            # SQLAlchemy engine/session + Base
+│   │   ├── models.py              # ORM models
+│   │   ├── schemas.py             # Pydantic schemas (answer key hidden)
+│   │   ├── routers/               # questions · answers · progress · writing
+│   │   ├── services/
+│   │   │   ├── adaptive.py        # selection + leveling policy
+│   │   │   └── simulation.py      # offline convergence harness
+│   │   └── seed/                  # JSON question bank + validate/seed scripts
+│   ├── tests/                     # pytest suite (SQLite, no server needed)
+│   ├── pyproject.toml             # ruff + mypy + coverage config
+│   ├── .env.example               # sample environment settings
 │   └── requirements*.txt
 ├── frontend/
 │   └── src/
-│       ├── pages/               # Home · Quiz · Writing
-│       ├── components/          # Timer · LevelMeter · StateMessage
+│       ├── pages/                 # Home · Quiz · Writing
+│       ├── components/            # Timer · LevelMeter · StateMessage
 │       ├── hooks/useTimer.js
-│       └── api.js               # API client
+│       └── api.js                 # API client
 ├── .github/workflows/ci.yml
-└── docker-compose.yml           # local MySQL
+├── Makefile                       # setup · test · lint · typecheck · run
+└── docker-compose.yml             # local MySQL
 ```
 
 ## Getting started
 
-**Prerequisites:** Python 3.13+, Node.js 20+, and Docker (for MySQL).
+**Prerequisites:** Python 3.13+ and Node.js 20+. Docker is optional — it is only
+needed for the MySQL setup; the quickstart below uses SQLite and needs nothing
+else.
 
-### 1. Start the database
+### Quickstart (no Docker, SQLite)
 
-```bash
-docker compose up -d
-```
-
-### 2. Run the backend
+To clone, seed, and run the API with zero external services:
 
 ```bash
 cd backend
+cp .env.example .env                          # then set GRE_DATABASE_URL=sqlite:///./gre.db
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements-dev.txt
-python -m app.seed.seed          # load the question bank, Word Test, and prompts
-uvicorn app.main:app --reload    # http://localhost:8000  (docs at /docs)
+python -m app.seed.seed                        # load the question bank, Word Test, and prompts
+uvicorn app.main:app --reload                  # http://localhost:8000  (docs at /docs)
 ```
 
-### 3. Run the frontend
+A `Makefile` wraps the common tasks: `make setup`, `make seed`, `make backend`,
+`make frontend`, `make test`, and `make check` (lint + type-check + validate +
+tests). Run `make help` for the full list.
+
+### Full setup with MySQL
+
+```bash
+docker compose up -d              # starts MySQL 8.4 with the default .env URL
+cd backend
+python -m venv .venv && source .venv/bin/activate
+pip install -r requirements-dev.txt
+python -m app.seed.seed
+uvicorn app.main:app --reload     # http://localhost:8000  (docs at /docs)
+```
+
+> The credentials in `docker-compose.yml` (`gre` / `gre`) are throwaway
+> local-development defaults, not secrets.
+
+### Run the frontend
 
 ```bash
 cd frontend
 npm install
-npm run dev                      # http://localhost:5173
+npm run dev                       # http://localhost:5173
 ```
 
-Open <http://localhost:5173> and start studying. The backend connection string
-can be overridden with the `GRE_DATABASE_URL` environment variable.
+Open <http://localhost:5173> and start studying. All backend settings are read
+from the environment (see `backend/.env.example`); `GRE_DATABASE_URL` selects the
+database and `GRE_CORS_ORIGINS` the allowed front-end origins.
 
 ## API reference
 
@@ -234,15 +288,22 @@ bounds, Korean explanations present) before it can be seeded or merged.
 
 ```bash
 cd backend
-python -m pytest                 # unit + API tests
+pytest --cov=app                 # unit + API tests with coverage
+ruff check app tests             # lint + import order
+ruff format --check app tests    # formatting
+mypy                             # static type check (app package)
 python -m app.seed.validate      # validate the content bank
 ```
 
-The test suite runs against in-memory SQLite via a FastAPI dependency override,
-so the full API and the adaptive logic are exercised without a running server or
-MySQL. [GitHub Actions](.github/workflows/ci.yml) runs the backend tests (with
-seed-data validation) and the production frontend build on every push and pull
-request.
+The test suite (76 tests) runs against in-memory SQLite via a FastAPI dependency
+override, so the full API, the adaptive logic, and the convergence simulation
+are exercised without a running server or MySQL. The core selection/leveling
+engine (`services/adaptive.py`) is at 100% line coverage.
+
+[GitHub Actions](.github/workflows/ci.yml) gates every push and pull request on
+the full backend pipeline — **ruff** (lint + format), **mypy** (types),
+**seed-data validation**, and **pytest** with a coverage floor — plus the
+production frontend build.
 
 ## Engineering notes
 
@@ -273,5 +334,5 @@ A few decisions worth calling out:
 
 ---
 
-<sub>Built by Jun Heo as a full-stack engineering project. All question content
-is original and intended for study practice.</sub>
+<sub>Built by Heojun Hur as a full-stack engineering project. All question
+content is original and intended for study practice.</sub>
