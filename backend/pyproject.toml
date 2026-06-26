@@ -1,0 +1,32 @@
+# Tooling configuration for the backend (ruff, mypy, coverage).
+# Test discovery/options live in pytest.ini; CI and the Makefile add coverage.
+
+[tool.ruff]
+line-length = 88
+target-version = "py313"
+
+[tool.ruff.lint]
+# Default lint rules (pyflakes + pycodestyle) plus import sorting (I),
+# pyupgrade (UP), and flake8-bugbear (B).
+extend-select = ["I", "UP", "B"]
+# UP042 would rewrite `class X(str, Enum)` to `enum.StrEnum`, which changes the
+# `str()` representation of the domain enums; the explicit pattern is intentional.
+ignore = ["UP042"]
+
+[tool.ruff.lint.flake8-bugbear]
+# FastAPI's dependency markers are evaluated once at startup, not per call, so
+# they are safe as argument defaults despite B008.
+extend-immutable-calls = ["fastapi.Depends"]
+
+[tool.mypy]
+python_version = "3.13"
+files = ["app"]
+ignore_missing_imports = true
+warn_redundant_casts = true
+warn_unused_ignores = true
+
+[tool.coverage.run]
+source = ["app"]
+
+[tool.coverage.report]
+show_missing = true

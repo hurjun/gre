@@ -22,10 +22,16 @@ jobs:
           cache-dependency-path: backend/requirements-dev.txt
       - name: Install dependencies
         run: pip install -r requirements-dev.txt
+      - name: Lint (ruff)
+        run: ruff check app tests
+      - name: Format check (ruff)
+        run: ruff format --check app tests
+      - name: Type check (mypy)
+        run: mypy
       - name: Validate seed data
         run: python -m app.seed.validate
-      - name: Run tests
-        run: python -m pytest
+      - name: Run tests with coverage
+        run: pytest --cov=app --cov-report=term-missing --cov-fail-under=75
 
   frontend:
     name: Frontend (build)

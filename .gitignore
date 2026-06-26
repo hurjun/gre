@@ -9,7 +9,16 @@ __pycache__/
 venv/
 .pytest_cache/
 .mypy_cache/
+.ruff_cache/
 *.egg-info/
+
+# Coverage
+.coverage
+coverage.xml
+htmlcov/
+
+# Local SQLite databases
+*.db
 
 # Node
 node_modules/
@@ -19,6 +28,7 @@ dist/
 # Environment
 .env
 .env.*
+!.env.example
 
 # Editor / OS
 .vscode/
