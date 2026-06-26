@@ -1,3 +1,5 @@
+"""HTTP routes for writing prompts and self-graded essays."""
+
 from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy import func, select
 from sqlalchemy.orm import Session
@@ -58,7 +60,9 @@ def submit_essay(payload: EssayIn, db: Session = Depends(get_db)) -> Essay:
 
 
 @router.get("/essays", response_model=list[EssayOut])
-def list_essays(prompt_id: int | None = None, db: Session = Depends(get_db)) -> list[Essay]:
+def list_essays(
+    prompt_id: int | None = None, db: Session = Depends(get_db)
+) -> list[Essay]:
     """Essay history, optionally filtered to one prompt."""
     query = select(Essay).order_by(Essay.created_at.desc())
     if prompt_id is not None:

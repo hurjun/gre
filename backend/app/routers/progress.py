@@ -1,3 +1,5 @@
+"""HTTP routes reporting per-subgroup level and solved/total counts."""
+
 from fastapi import APIRouter, Depends
 from sqlalchemy.orm import Session
 

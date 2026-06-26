@@ -41,23 +41,25 @@ def level_sequence(
     so a wrong answer (which lowers the level) never leads to a harder question.
     """
     current_level = max(min_level, min(max_level, current_level))
-    easier = list(range(current_level, min_level - 1, -1))  # current, current-1, ... min
+    easier = list(
+        range(current_level, min_level - 1, -1)
+    )  # current, current-1, ... min
     harder = list(range(current_level + 1, max_level + 1))  # current+1, ... max
     return easier + harder
 
 
-def _solved_ids(db: Session) -> Select:
+def _solved_ids() -> Select:
+    """Subquery of question ids that have at least one correct attempt."""
     return select(Attempt.question_id).where(Attempt.correct.is_(True))
 
 
 def _unsolved_ids_at_level(db: Session, subgroup: str, level: int) -> list[int]:
     return list(
         db.scalars(
-            select(Question.id)
-            .where(
+            select(Question.id).where(
                 Question.subgroup == subgroup,
                 Question.level == level,
-                Question.id.not_in(_solved_ids(db)),
+                Question.id.not_in(_solved_ids()),
             )
         )
     )

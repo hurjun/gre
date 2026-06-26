@@ -1,3 +1,5 @@
+"""HTTP routes for grading answer submissions."""
+
 from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy.orm import Session
 
@@ -17,9 +19,13 @@ def submit_answer(payload: AnswerIn, db: Session = Depends(get_db)) -> AnswerOut
         raise HTTPException(status_code=404, detail="Question not found")
 
     if any(i < 0 or i >= len(question.choices) for i in payload.selected):
-        raise HTTPException(status_code=422, detail="Selected choice index out of range")
+        raise HTTPException(
+            status_code=422, detail="Selected choice index out of range"
+        )
 
-    graded = adaptive.grade_answer(db, question, payload.selected, payload.elapsed_seconds)
+    graded = adaptive.grade_answer(
+        db, question, payload.selected, payload.elapsed_seconds
+    )
     return AnswerOut(
         correct=graded.correct,
         correct_answer=graded.correct_answer,

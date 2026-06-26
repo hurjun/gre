@@ -88,23 +88,26 @@ def sync_writing_prompts(db: Session) -> tuple[int, int]:
     for record in json.loads(path.read_text(encoding="utf-8"))["prompts"]:
         key = (record["task_type"], record["prompt_text"])
         prompt = existing.get(key)
+        new_minutes = record.get("suggested_minutes", 30)
         if prompt is None:
             db.add(
                 WritingPrompt(
                     task_type=record["task_type"],
                     prompt_text=record["prompt_text"],
                     model_answer=record["model_answer"],
-                    suggested_minutes=record.get("suggested_minutes", 30),
+                    suggested_minutes=new_minutes,
                 )
             )
             inserted += 1
-        elif (
-            prompt.model_answer != record["model_answer"]
-            or prompt.suggested_minutes != record.get("suggested_minutes", 30)
-        ):
-            prompt.model_answer = record["model_answer"]
-            prompt.suggested_minutes = record.get("suggested_minutes", 30)
-            updated += 1
+        else:
+            changed = (
+                prompt.model_answer != record["model_answer"]
+                or prompt.suggested_minutes != new_minutes
+            )
+            if changed:
+                prompt.model_answer = record["model_answer"]
+                prompt.suggested_minutes = new_minutes
+                updated += 1
     return inserted, updated
 
 
