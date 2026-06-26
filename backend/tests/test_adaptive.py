@@ -1,5 +1,6 @@
 """Unit tests for the adaptive leveling service."""
 
+from app.models import Attempt
 from app.services import adaptive
 
 
@@ -79,7 +80,9 @@ def test_pick_exhausted_when_all_solved(db, make_question):
 def test_correct_answer_levels_up(db, make_question):
     question = make_question(level=1)
 
-    graded = adaptive.grade_answer(db, question, list(question.answer), elapsed_seconds=5)
+    graded = adaptive.grade_answer(
+        db, question, list(question.answer), elapsed_seconds=5
+    )
 
     assert graded.correct
     assert graded.previous_level == 1
@@ -91,7 +94,9 @@ def test_level_caps_at_max(db, make_question):
     progress.current_level = 5
     question = make_question(level=5)
 
-    graded = adaptive.grade_answer(db, question, list(question.answer), elapsed_seconds=5)
+    graded = adaptive.grade_answer(
+        db, question, list(question.answer), elapsed_seconds=5
+    )
 
     assert graded.correct
     assert graded.new_level == 5
@@ -138,7 +143,10 @@ def test_just_answered_question_not_served_again_immediately(db, make_question):
     b = make_question(level=1, question_text="b")
     # excluding the one just seen leaves the other; never repeats back-to-back
     for _ in range(10):
-        assert adaptive.pick_next_question(db, "se_tc", exclude_id=a.id).question.id == b.id
+        assert (
+            adaptive.pick_next_question(db, "se_tc", exclude_id=a.id).question.id
+            == b.id
+        )
 
 
 def test_exclude_is_ignored_when_it_is_the_only_question_left(db, make_question):
@@ -176,7 +184,9 @@ def test_vocabulary_uses_ten_level_ladder(db, make_question):
     progress.current_level = 5
     question = make_question(subgroup="vocabulary", group="vocabulary", level=6)
 
-    graded = adaptive.grade_answer(db, question, list(question.answer), elapsed_seconds=5)
+    graded = adaptive.grade_answer(
+        db, question, list(question.answer), elapsed_seconds=5
+    )
 
     assert graded.new_level == 6  # would have capped at 5 under the old bounds
 
@@ -186,7 +196,9 @@ def test_vocabulary_caps_at_ten(db, make_question):
     progress.current_level = 10
     question = make_question(subgroup="vocabulary", group="vocabulary", level=10)
 
-    graded = adaptive.grade_answer(db, question, list(question.answer), elapsed_seconds=5)
+    graded = adaptive.grade_answer(
+        db, question, list(question.answer), elapsed_seconds=5
+    )
 
     assert graded.new_level == 10
 
@@ -209,3 +221,80 @@ def test_subgroup_stats_counts_distinct_solved(db, make_question):
     solved, total = adaptive.subgroup_stats(db, "se_tc")
 
     assert (solved, total) == (1, 2)
+
+
+# --- edge cases -------------------------------------------------------------
+
+
+def test_level_sequence_clamps_out_of_range_current():
+    # a current level outside the bounds is clamped before the sequence is built
+    assert adaptive.level_sequence(0) == [1, 2, 3, 4, 5]
+    assert adaptive.level_sequence(99) == [5, 4, 3, 2, 1]
+    assert adaptive.level_sequence(-3, 1, 10)[0] == 1
+
+
+def test_level_sequence_with_single_level_bounds():
+    assert adaptive.level_sequence(1, 1, 1) == [1]
+
+
+def test_level_sequence_visits_every_level_exactly_once():
+    for current in range(1, 11):
+        seq = adaptive.level_sequence(current, 1, 10)
+        assert sorted(seq) == list(range(1, 11))  # a permutation, no gaps or repeats
+
+
+def test_get_or_create_progress_starts_at_min_and_is_idempotent(db):
+    first = adaptive.get_or_create_progress(db, "se_tc")
+    assert first.current_level == 1
+    again = adaptive.get_or_create_progress(db, "se_tc")
+    assert again is first  # same row reused, never duplicated
+
+
+def test_new_vocabulary_progress_starts_at_its_own_min(db):
+    assert adaptive.get_or_create_progress(db, "vocabulary").current_level == 1
+
+
+def test_exclude_id_not_among_candidates_is_a_no_op(db, make_question):
+    only = make_question(level=1, question_text="only")
+    picked = adaptive.pick_next_question(db, "se_tc", exclude_id=99999)
+    assert picked.question.id == only.id
+
+
+def test_pick_ignores_other_subgroups_at_the_same_level(db, make_question):
+    make_question(subgroup="quant", group="math", level=1, question_text="quant q")
+    picked = adaptive.pick_next_question(db, "se_tc")
+    assert picked.question is None
+    assert picked.exhausted
+
+
+def test_vocabulary_fallback_prefers_nearer_easier_level(db, make_question):
+    progress = adaptive.get_or_create_progress(db, "vocabulary")
+    progress.current_level = 6
+    make_question(
+        subgroup="vocabulary", group="vocabulary", level=4, question_text="near"
+    )
+    make_question(
+        subgroup="vocabulary", group="vocabulary", level=9, question_text="far"
+    )
+    picked = adaptive.pick_next_question(db, "vocabulary")
+    assert picked.question.level == 4  # distance-2 easier beats distance-3 harder
+
+
+def test_subgroup_stats_with_no_attempts(db, make_question):
+    make_question(level=1)
+    make_question(level=2)
+    assert adaptive.subgroup_stats(db, "se_tc") == (0, 2)
+
+
+def test_subgroup_stats_unknown_subgroup_is_zero(db):
+    assert adaptive.subgroup_stats(db, "quant") == (0, 0)
+
+
+def test_grade_answer_records_attempt_details(db, make_question):
+    question = make_question(level=2, answer=(1,))
+    adaptive.grade_answer(db, question, [1], elapsed_seconds=37)
+    attempt = db.query(Attempt).one()
+    assert attempt.question_id == question.id
+    assert attempt.selected == [1]
+    assert attempt.correct is True
+    assert attempt.elapsed_seconds == 37

@@ -5,7 +5,7 @@ verifying that sync inserts content, refreshes changed fields, is idempotent,
 and never disturbs a learner's attempts.
 """
 
-from app.models import Attempt, Question
+from app.models import Attempt, Question, WritingPrompt
 from app.seed import sync
 from app.services import adaptive
 
@@ -62,3 +62,32 @@ def test_sync_preserves_attempts(db):
     # the attempt and its question survive a re-sync, and the question keeps its id
     assert db.query(Attempt).count() == 1
     assert db.get(Question, question.id) is not None
+
+
+def test_sync_writing_prompts_inserts_then_is_idempotent(db):
+    inserted, updated = sync.sync_writing_prompts(db)
+    db.commit()
+    assert inserted > 0
+    assert updated == 0
+    assert db.query(WritingPrompt).count() == inserted
+
+    again_inserted, again_updated = sync.sync_writing_prompts(db)
+    db.commit()
+    assert (again_inserted, again_updated) == (0, 0)
+
+
+def test_sync_writing_prompts_refreshes_a_changed_model_answer(db):
+    sync.sync_writing_prompts(db)
+    db.commit()
+    victim = db.query(WritingPrompt).first()
+    original_text = victim.prompt_text
+    victim.model_answer = "stale"
+    db.commit()
+
+    inserted, updated = sync.sync_writing_prompts(db)
+    db.commit()
+
+    assert inserted == 0
+    assert updated == 1
+    refreshed = db.query(WritingPrompt).filter_by(prompt_text=original_text).one()
+    assert refreshed.model_answer != "stale"
