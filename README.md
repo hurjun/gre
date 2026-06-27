@@ -17,8 +17,31 @@ bank into a personalized study loop.
 
 ---
 
+## Demo
+
+The study dashboard tracks an independent adaptive level for each section. Below,
+the levels and progress shown were produced by answering questions through the
+real API — Sentence Equivalence and Quant have climbed to level 5/5, Reading to
+4/5, and the Word Test to 9/10.
+
+![GRE Study dashboard with per-section difficulty meters](docs/dashboard.png)
+
+The adaptive question view serves one unsolved question at the section's current
+level, with a per-question timer and a level meter. Submitting a correct answer
+steps the level up (and retires the question); a miss steps it back down and
+reveals a worked explanation in Korean.
+
+![Adaptive Sentence Equivalence question at level 5](docs/adaptive-question.png)
+
+> Screenshots are real renders of the running app (React frontend + FastAPI
+> backend on a local SQLite database), captured with headless Chromium. See
+> [`scripts/screenshot.mjs`](scripts/screenshot.mjs) for the capture script.
+
+---
+
 ## Contents
 
+- [Demo](#demo)
 - [Why I built this](#why-i-built-this)
 - [Features](#features)
 - [The adaptive algorithm](#the-adaptive-algorithm)
